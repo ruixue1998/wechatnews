@@ -23,12 +23,12 @@ jobs:
 
       - name: Fetch latest article
         id: fetch
+        # 直接使用 python shell 来运行下面的代码块，更稳定
+        shell: python
         env:
           # ↓↓↓ 确保这里是你自己的 __biz 值 ↓↓↓
           BIZ: 'MjM5MjAyNDUyMA=='
-        # 使用 python -u 来运行，确保日志实时输出
         run: |
-          python -u -c "
           import os
           import requests
           import json
@@ -38,39 +38,35 @@ jobs:
           url = f'https://weread.111965.xyz/api/v1/feeds/articles/{biz}?recent=1'
 
           try:
-            # 设置60秒超时
+            print(f"正在请求 URL: {url}")
             response = requests.get(url, timeout=60)
-            # 如果状态码不是 200-299，则抛出异常
+            # 如果 HTTP 状态码不是 2xx，则会在此处抛出异常
             response.raise_for_status()
+            
+            # 尝试解析 JSON
             data = response.json()
 
             if data and 'items' in data and data['items']:
               latest_article = data['items'][0]
               title = latest_article.get('title', 'No Title')
               link = latest_article.get('url', 'No URL')
-              print(f\"公众号: {data.get('title', 'Unknown')}\")
-              print(f'最新文章标题: {title}')
-              print(f'最新文章链接: {link}')
-              # 将输出写入 GITHUB_OUTPUT
+              print(f"公众号: {data.get('title', 'Unknown')}")
+              print(f"最新文章标题: {title}")
+              print(f"最新文章链接: {link}")
               with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
                   print(f'article_title={title}', file=f)
                   print(f'article_link={link}', file=f)
             else:
-              print('未能获取到文章，API返回数据为空或格式不符。')
+              print('未能获取到文章，API 返回数据为空或格式不符。')
+              sys.exit(1)
 
           except requests.exceptions.RequestException as e:
             print(f'网络或HTTP请求错误: {e}', file=sys.stderr)
             sys.exit(1)
+          except json.JSONDecodeError as e:
+            print(f'JSON解析错误: {e}', file=sys.stderr)
+            print(f'收到的非JSON内容: {response.text}', file=sys.stderr)
+            sys.exit(1)
           except Exception as e:
             print(f'发生未知错误: {e}', file=sys.stderr)
             sys.exit(1)
-          "
----
-
-### **后续步骤**
-
-1.  用上面的代码**完整替换** `wechatnews.yml` 的内容。
-2.  **保存并提交** (Commit changes)。
-3.  回到 **“Actions”** 标签页，**手动运行一次**。
-
-如果这次还是失败，请像刚才一样，把日志里 **`网络或HTTP请求错误:`** 或 **`发生未知错误:`** 后面的那段英文告诉我。但我相信，多试几次总会有一次成功的！
