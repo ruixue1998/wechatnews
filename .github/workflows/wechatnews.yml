@@ -1,9 +1,8 @@
-# 工作流的名称，将显示在 Actions 标签页
 name: wechatnews
 
 on:
-  # 定时触发：每天 UTC 时间 0 点 0 分（即北京时间早上 8 点）
   schedule:
+    # 每天北京时间早上 8 点运行
     - cron: '0 0 * * *'
   # 允许手动触发
   workflow_dispatch:
@@ -24,8 +23,11 @@ jobs:
 
       - name: Fetch latest article
         id: fetch
+        # --- 这是关键的修正 ---
+        shell: python
+        # ---------------------
         env:
-          # ↓↓↓ 把这里的值换成您在第一步中获取的 __biz 值 ↓↓↓
+          # ↓↓↓ 确保这里是你自己的 __biz 值 ↓↓↓
           BIZ: 'MjM5MjAyNDUyMA=='
         run: |
           import os
