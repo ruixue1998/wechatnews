@@ -30,6 +30,7 @@ def call_ai_for_html_translation(html_content_snippet):
     Calls an AI API to translate the text content within a snippet of HTML <p> tags.
     """
     API_URL = "https://genai-api.thisisray.workers.dev/api/v1/completion"
+    # 从环境变量安全地读取密钥
     AUTH_TOKEN = os.getenv('AI_AUTH_TOKEN')
     if not AUTH_TOKEN:
         print("错误: 环境变量 AI_AUTH_TOKEN 未设置！请在 GitHub Secrets 中配置。")
@@ -66,6 +67,7 @@ def call_ai_for_interactive_translation(html_content_snippet):
     调用 AI API，将 HTML 片段中的中文翻译成英文，并嵌入可双击切换的结构。
     """
     API_URL = "https://genai-api.thisisray.workers.dev/api/v1/completion"
+    # 从环境变量安全地读取密钥
     AUTH_TOKEN = os.getenv('AI_AUTH_TOKEN')
     if not AUTH_TOKEN:
         print("错误: 环境变量 AI_AUTH_TOKEN 未设置！请在 GitHub Secrets 中配置。")
@@ -158,7 +160,9 @@ def get_full_page_and_save(url, output_filename):
     Full workflow: Fetch, clean, match content, translate, and inject interactivity.
     """
     headers = { 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1' }
+
     full_save_path = output_filename
+
     print(f"正在尝试从 URL 获取内容: {url}")
     try:
         response = requests.get(url, headers=headers, timeout=10)
@@ -171,6 +175,24 @@ def get_full_page_and_save(url, output_filename):
         # 1. Standard Cleanup
         print("正在移除 JavaScript, 样式和指定元素...")
         for s in soup(['script', 'style']): s.decompose()
+
+        # 【核心修复】处理 <noscript> 标签并清理延迟加载占位符
+        # 步骤 A: 解开所有 <noscript> 标签，将其中的内容释放到文档中
+        print("正在处理 <noscript> 标签，将其内容释放出来...")
+        noscript_tags = soup.find_all('noscript')
+        unwrapped_count = len(noscript_tags)
+        for tag in noscript_tags:
+            tag.unwrap()  # unwrap()会移除标签，但保留其所有子元素
+        print(f"处理完成。共解开了 {unwrapped_count} 个 <noscript> 标签。")
+
+        # 步骤 B: 移除现在已经多余的、隐藏的延迟加载图片占位符
+        print("正在移除多余的延迟加载占位图片...")
+        lazy_placeholders = soup.find_all('img', attrs={'data-cfsrc': True})
+        decomposed_count = len(lazy_placeholders)
+        for img in lazy_placeholders:
+            img.decompose()
+        print(f"移除了 {decomposed_count} 个延迟加载占位图片。")
+        
         for tag in soup.find_all(True):
             for attr in list(tag.attrs):
                 if attr.lower().startswith('on'): del tag[attr]
@@ -182,63 +204,34 @@ def get_full_page_and_save(url, output_filename):
             if element: element.decompose()
         for h1_tag in soup.find_all('h1'): h1_tag.decompose()
         print("清理完成。")
-        
-        # 1.5. 修复 CDN 懒加载图片的步骤
-        print("正在检查并修复 CDN 懒加载（lazy-loaded）的图片...")
-        for noscript_tag in soup.find_all('noscript'):
-            noscript_tag.decompose()
-        lazy_images = soup.find_all('img', attrs={'data-cfsrc': True})
-        if lazy_images:
-            print(f"找到 {len(lazy_images)} 个懒加载图片，正在进行修复...")
-            for img in lazy_images:
-                real_src = img['data-cfsrc']
-                img['src'] = real_src
-                if 'style' in img.attrs:
-                    del img['style']
-                del img['data-cfsrc']
-            print("所有懒加载图片修复完成。")
-        else:
-            print("未在本页面找到 CDN 懒加载的图片。")
 
         # 2. Content Matching and Marking
         print("正在使用内容匹配逻辑为 p 和 h3 标签添加标志...")
-        
-        # 【核心修改】使用可靠的类名来定位主要内容容器
-        print("正在定位主要文章内容容器 (div.entry-content)...")
-        main_content_area = soup.find(class_='entry-content clearfix')
-
-        if not main_content_area:
-            print("致命错误：无法在页面中定位到 class='entry-content clearfix' 的主要内容容器。脚本无法继续处理。")
-            print("\n--- 获取到的原始 HTML Head 部分 (供调试) ---\n")
-            print(soup.head)
-            print("\n--- 脚本终止 ---\n")
-            sys.exit(1)
-        
-        print("成功定位到主要内容容器。现在将在此容器内进行内容匹配。")
-
-        p_list = main_content_area.find_all('p')
-        h3_list = list(main_content_area.find_all('h3'))
-        pair_counter = 0
-        for p_tag in p_list:
-            p_text = p_tag.get_text(strip=True)
-            if not p_text or len(p_text) < 4: continue
-            for h3_tag in h3_list:
-                h3_text = h3_tag.get_text(strip=True)
-                if p_text.lower() in h3_text.lower():
-                    pair_counter += 1
-                    common_class_name = 'h3-p-pair'
-                    unique_identifier = f'pair-{pair_counter}'
-                    for tag in [p_tag, h3_tag]:
-                        if 'class' not in tag.attrs: tag['class'] = []
-                        tag['class'].append(common_class_name)
-                        tag['data-pair-id'] = unique_identifier
-                    h3_list.remove(h3_tag)
-                    break
-        print(f"内容匹配完成，共成功标记了 {pair_counter} 对 p/h3 元素。")
+        main_content_area = soup.find('h3').parent if soup.find('h3') else soup.body
+        if main_content_area:
+            p_list = main_content_area.find_all('p')
+            h3_list = list(main_content_area.find_all('h3'))
+            pair_counter = 0
+            for p_tag in p_list:
+                p_text = p_tag.get_text(strip=True)
+                if not p_text or len(p_text) < 4: continue
+                for h3_tag in h3_list:
+                    h3_text = h3_tag.get_text(strip=True)
+                    if p_text.lower() in h3_text.lower():
+                        pair_counter += 1
+                        common_class_name = 'h3-p-pair'
+                        unique_identifier = f'pair-{pair_counter}'
+                        for tag in [p_tag, h3_tag]:
+                            if 'class' not in tag.attrs: tag['class'] = []
+                            tag['class'].append(common_class_name)
+                            tag['data-pair-id'] = unique_identifier
+                        h3_list.remove(h3_tag)
+                        break
+            print(f"内容匹配完成，共成功标记了 {pair_counter} 对 p/h3 元素。")
 
         # 3. AI Translation Workflow
         print("\n--- 开始 AI 翻译流程 ---")
-        original_p_tags_to_translate = main_content_area.find_all('p', class_='h3-p-pair')
+        original_p_tags_to_translate = soup.find_all('p', class_='h3-p-pair')
         if original_p_tags_to_translate:
             snippet_container = soup.new_tag('div')
             for p_tag in original_p_tags_to_translate:
@@ -263,7 +256,7 @@ def get_full_page_and_save(url, output_filename):
         # 4. Apply Custom Styles to Paired <p> Tags
         print("正在为匹配的 p 标签应用自定义样式...")
         style_string = "line-height: 1.3rem; margin-bottom: 1.2rem; font-family: PingFangSC-Regular,'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: .875rem; color: #121212; letter-spacing: .01875rem; text-align: justify;"
-        styled_p_tags = main_content_area.find_all('p', class_='h3-p-pair')
+        styled_p_tags = soup.find_all('p', class_='h3-p-pair')
         for p_tag in styled_p_tags:
             p_tag['style'] = style_string
         if styled_p_tags:
@@ -273,7 +266,7 @@ def get_full_page_and_save(url, output_filename):
 
         # 5. Remove/Modify Styles from Parent and Great-Grandparent Elements
         print("正在为匹配的p标签，移除父元素样式并修改曾祖父元素的样式...")
-        p_tags_for_style_change = main_content_area.find_all('p', class_='h3-p-pair')
+        p_tags_for_style_change = soup.find_all('p', class_='h3-p-pair')
         removed_parent_styles = 0
         modified_ggparent_styles = 0
         for p_tag in p_tags_for_style_change:
@@ -290,7 +283,7 @@ def get_full_page_and_save(url, output_filename):
         
         # 6. Modify Style of Parent's Sibling
         print("正在修改匹配p标签父元素的同级元素的样式...")
-        p_tags_for_sibling_check = main_content_area.find_all('p', class_='h3-p-pair')
+        p_tags_for_sibling_check = soup.find_all('p', class_='h3-p-pair')
         modified_sibling_styles = 0
         for p_tag in p_tags_for_sibling_check:
             parent = p_tag.find_parent()
@@ -349,7 +342,7 @@ def get_full_page_and_save(url, output_filename):
         
         # 8. 为匹配的p标签的祖父标签添加样式
         print("正在为匹配的p标签的祖父标签添加负外边距...")
-        p_tags_for_grandparent_style = main_content_area.find_all('p', class_='h3-p-pair')
+        p_tags_for_grandparent_style = soup.find_all('p', class_='h3-p-pair')
         modified_grandparent_count = 0
         processed_grandparents = set()
         for p_tag in p_tags_for_grandparent_style:
@@ -363,7 +356,7 @@ def get_full_page_and_save(url, output_filename):
 
         # 9. Insert HR dividers
         print("正在为匹配的p标签的曾祖父元素后插入分割线...")
-        p_tags_for_hr = main_content_area.find_all('p', class_='h3-p-pair')
+        p_tags_for_hr = soup.find_all('p', class_='h3-p-pair')
         processed_ggparents = set()
         hr_count = 0
         for p_tag in p_tags_for_hr:
@@ -378,21 +371,21 @@ def get_full_page_and_save(url, output_filename):
 
         # 10. Apply Main Content Padding
         print("正在为主要内容区域添加内边距...")
-        # 既然前面已经找到了 main_content_area，这里可以直接使用
-        if main_content_area:
-            main_content_area['style'] = 'padding: 0 2rem;'
+        entry_content_tag = soup.find(class_='entry-content clearfix')
+        if entry_content_tag:
+            entry_content_tag['style'] = 'padding: 0 2rem;'
             print("成功为 'entry-content clearfix' 标签添加了 padding 样式。")
         else:
             print("警告: 未找到 'entry-content clearfix' 标签，跳过 padding 样式添加。")
 
         # 11. Process and Style Tags (Font Shrinking, Margins)
         print("正在处理并缩小指定 <p> 和 <li> 标签的字体并添加外边距...")
-        processed_count = process_and_style_tags(main_content_area) # 在正确的容器内处理
+        processed_count = process_and_style_tags(soup)
         print(f"字体和外边距处理完成。共为 {processed_count} 个符合条件的标签添加了样式。")
 
         # 12. 为前两个 <section> 之间的内容添加交互式翻译
         print("\n--- 开始对主要内容进行交互式翻译 ---")
-        sections = main_content_area.find_all('section')
+        sections = soup.find_all('section')
         tags_for_interactive_translation = []
         if len(sections) >= 2:
             print("定位到前两个 <section> 标签，正在提取之间的 p 和 li 标签...")
@@ -409,6 +402,7 @@ def get_full_page_and_save(url, output_filename):
                 snippet_div = soup.new_tag('div')
                 for tag in tags_for_interactive_translation:
                     snippet_div.append(copy.copy(tag))
+
                 interactive_html = call_ai_for_interactive_translation(str(snippet_div))
                 
                 if interactive_html:
@@ -444,9 +438,14 @@ def get_full_page_and_save(url, output_filename):
 if __name__ == '__main__':
     ifanr_feed_url = "https://www.ifanr.com/feed"
     target_url = get_latest_morning_post_link(ifanr_feed_url)
+
     if target_url:
         print(f"获取到的最新文章 URL 为: {target_url}")
+        
+        # 定义输出文件名，这将是仓库根目录下的文件
         output_file = "DailyNews.html"
+        
+        # 调用主处理流程，传递 URL 和输出文件名
         get_full_page_and_save(target_url, output_file)
     else:
         print("由于未能从 RSS feed 获取到有效的文章链接，脚本将退出。")
