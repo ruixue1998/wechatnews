@@ -860,7 +860,10 @@
 </html>
 <!-- t:0.2922, h:'2025-09-04T01:42:44+00:00 0', H:'i-ifanrcom-1000' -->
 <script>
-window.onload = function() {
-  setTimeout(() => location.reload(true), 100);
+window.onload = function () {
+  if (!window.location.hash.includes("reloaded")) {
+    window.location.hash = "reloaded";
+    window.location.reload(true);
+  }
 };
 </script>
