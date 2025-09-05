@@ -79,7 +79,7 @@ You will receive an HTML snippet containing <p> and <li> tags with Chinese text.
 Your task is to perform the following transformation for EACH tag:
 1.  Translate the Chinese text content into English, ensuring that any nested HTML tags (like <strong>, <em>, <a>) are preserved in their correct positions within the translated text.
 2.  Wrap the original Chinese content (including its nested tags) in a span: `<span class="lang-zh" style="display:none;">...</span>`.
-3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1rem;">...</span>`. Note the added letter-spacing for better readability.
+3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;">...</span>`. Note the added letter-spacing for better readability.
 4.  Place BOTH of these spans inside the original parent tag (e.g., <p> or <li>).
 5.  Add an `ondblclick="toggleLang(this)"` attribute to the parent tag (<p> or <li>) to enable language switching on double-click.
 6.  You MUST preserve all original attributes of the parent tag (like class, style, etc.) and merge them with the new `ondblclick` attribute.
@@ -89,7 +89,7 @@ Example Input:
 <p style="font-size: 80%;">这是一段<strong>非常重要</strong>的文本。</p>
 
 Example Output:
-<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
+<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
 """
     payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-2.5-flash" }
     headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
@@ -154,7 +154,7 @@ def process_and_style_tags(soup):
         if not (tag.has_attr('style') and 'font-size' in tag['style']):
             style_parts.append('font-size: 80%;')
         if not (tag.has_attr('style') and 'letter-spacing' in tag['style']):
-            style_parts.append('letter-spacing: .001rem; font-size: .875rem;line-height: 1rem;')
+            style_parts.append('letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;')
         if not (tag.has_attr('style') and 'line-height' in tag['style']):
             style_parts.append('line-height: 1.6rem;')
 
@@ -430,7 +430,7 @@ def get_full_page_and_save(url, output_filename):
                 # 移除可能存在的旧 line-height
                 style_parts = [s for s in style_parts if not s.lower().startswith('line-height')]
                 # 添加我们想要的 line-height
-                style_parts.append('line-height: 1rem')
+                style_parts.append('line-height: 1.375rem')
                 p_tag['style'] = '; '.join(style_parts)
 
         # 12. 【新顺序】Process and Style Tags (Font Shrinking, Margins)
