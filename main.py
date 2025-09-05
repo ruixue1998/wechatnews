@@ -298,6 +298,7 @@ def get_full_page_and_save(url, output_filename):
 
         # 7. Inject JavaScript for Interactivity
         print("正在注入点击滚动和双击翻译功能的 JavaScript...")
+        # 【核心修改】更新 toggleLang 函数以提高其稳健性
         js_code = """
         document.addEventListener('DOMContentLoaded', function() {
             const pairedElements = document.querySelectorAll('.h3-p-pair');
@@ -320,16 +321,34 @@ def get_full_page_and_save(url, output_filename):
                 });
             });
         });
+        
+        // 【已更新的函数】
+        // 这个新版本更稳健，它只查找和切换直接子元素中的语言span，
+        // 从而避免了内部嵌套标签（如<strong>）造成的干扰。
         function toggleLang(element) {
-            const spanEn = element.querySelector('.lang-en');
-            const spanZh = element.querySelector('.lang-zh');
-            if (!spanEn || !spanZh) return;
-            if (spanEn.style.display === 'none') {
-                spanEn.style.display = 'inline';
-                spanZh.style.display = 'none';
+            let spanEn = null;
+            let spanZh = null;
+
+            // 遍历被双击元素的直接子节点，以精确找到语言span
+            for (const child of element.children) {
+                if (child.classList.contains('lang-en')) {
+                    spanEn = child;
+                } else if (child.classList.contains('lang-zh')) {
+                    spanZh = child;
+                }
+            }
+
+            // 如果两个span都找到了，就切换它们的显示状态
+            if (spanEn && spanZh) {
+                if (spanEn.style.display === 'none') {
+                    spanEn.style.display = 'inline';
+                    spanZh.style.display = 'none';
+                } else {
+                    spanEn.style.display = 'none';
+                    spanZh.style.display = 'inline';
+                }
             } else {
-                spanEn.style.display = 'none';
-                spanZh.style.display = 'inline';
+                console.warn('Could not find both .lang-en and .lang-zh direct child spans for toggling.', element);
             }
         }
         """
@@ -383,45 +402,69 @@ def get_full_page_and_save(url, output_filename):
         processed_count = process_and_style_tags(soup)
         print(f"字体和外边距处理完成。共为 {processed_count} 个符合条件的标签添加了样式。")
 
-        # 12. 为前两个 <section> 之间的内容添加交互式翻译
-        print("\n--- 开始对主要内容进行交互式翻译 ---")
+        # 12. 为每个 <section> 之后的内容添加交互式翻译
+        print("\n--- 开始对主要内容进行逐段交互式翻译 ---")
         sections = soup.find_all('section')
-        tags_for_interactive_translation = []
-        if len(sections) >= 2:
-            print("定位到前两个 <section> 标签，正在提取之间的 p 和 li 标签...")
-            current_element = sections[0].find_next_sibling()
-            while current_element and current_element != sections[1]:
-                if current_element.name in ['p', 'li']:
-                    tags_for_interactive_translation.append(current_element)
-                if hasattr(current_element, 'find_all'):
-                    tags_for_interactive_translation.extend(current_element.find_all(['p', 'li']))
-                current_element = current_element.find_next_sibling()
-            
-            if tags_for_interactive_translation:
-                print(f"成功提取了 {len(tags_for_interactive_translation)} 个 p/li 标签用于交互式翻译。")
-                snippet_div = soup.new_tag('div')
-                for tag in tags_for_interactive_translation:
-                    snippet_div.append(copy.copy(tag))
-
-                interactive_html = call_ai_for_interactive_translation(str(snippet_div))
+        
+        if sections:
+            print(f"找到 {len(sections)} 个 <section> 标签，将逐一处理其后的内容。")
+            # 遍历每一个 section
+            for i, current_section in enumerate(sections):
+                print(f"\n--- 正在处理 Section {i+1}/{len(sections)} 的后续内容 ---")
                 
-                if interactive_html:
-                    interactive_soup = BeautifulSoup(interactive_html, 'html.parser')
-                    translated_tags = interactive_soup.find_all(['p', 'li'])
-                    if len(tags_for_interactive_translation) == len(translated_tags):
-                        print("标签数量匹配。正在将交互式翻译内容替换回原文件...")
-                        for original_tag, translated_tag in zip(tags_for_interactive_translation, translated_tags):
-                            original_tag.replace_with(translated_tag)
-                        print("交互式内容替换成功！")
+                tags_for_interactive_translation = []
+                
+                # 定义此段的结束边界：是下一个 section，或者是文档末尾
+                end_boundary = sections[i + 1] if (i + 1) < len(sections) else None
+                
+                # 从当前 section 的下一个兄弟节点开始遍历
+                current_element = current_section.find_next_sibling()
+                
+                while current_element and current_element != end_boundary:
+                    # 仅处理标签节点 (Tag)，忽略字符串节点 (NavigableString)
+                    if hasattr(current_element, 'name') and current_element.name:
+                        # 如果元素本身是 p 或 li，直接添加
+                        if current_element.name in ['p', 'li']:
+                            tags_for_interactive_translation.append(current_element)
+                        # 同时，在该元素内部递归查找所有的 p 或 li 并添加
+                        if hasattr(current_element, 'find_all'):
+                            tags_for_interactive_translation.extend(current_element.find_all(['p', 'li']))
+                    
+                    current_element = current_element.find_next_sibling()
+
+                # 使用字典来去重，同时保持标签的原始顺序
+                unique_tags = list(dict.fromkeys(tags_for_interactive_translation))
+
+                if unique_tags:
+                    print(f"成功提取了 {len(unique_tags)} 个 p/li 标签用于本段的交互式翻译。")
+                    
+                    # 创建一个临时的 div 来容纳要翻译的标签片段
+                    snippet_div = soup.new_tag('div')
+                    for tag in unique_tags:
+                        snippet_div.append(copy.copy(tag)) # 使用 copy 防止修改原始 soup
+
+                    # 调用 AI 进行翻译
+                    interactive_html = call_ai_for_interactive_translation(str(snippet_div))
+                    
+                    if interactive_html:
+                        interactive_soup = BeautifulSoup(interactive_html, 'html.parser')
+                        translated_tags = interactive_soup.find_all(['p', 'li'])
+                        
+                        if len(unique_tags) == len(translated_tags):
+                            print(f"标签数量匹配 ({len(translated_tags)})。正在将交互式翻译内容替换回原文件...")
+                            for original_tag, translated_tag in zip(unique_tags, translated_tags):
+                                original_tag.replace_with(translated_tag)
+                            print("本段交互式内容替换成功！")
+                        else:
+                            print(f"警告：AI 返回的 p/li 标签数量 ({len(translated_tags)}) 与发送的数量 ({len(unique_tags)}) 不符。已跳过本段替换。")
                     else:
-                        print(f"警告：AI 返回的 p/li 标签数量 ({len(translated_tags)}) 与发送的数量 ({len(tags_for_interactive_translation)}) 不符。已跳过替换。")
+                        print("AI 交互式翻译失败，将跳过本段的替换步骤。")
                 else:
-                    print("AI 交互式翻译失败，将跳过替换步骤。")
-            else:
-                print("在前两个 <section> 之间未找到需要翻译的 p 或 li 标签。")
+                    print(f"在 Section {i+1} 之后未找到需要翻译的 p 或 li 标签。")
         else:
-            print("警告: 页面中未找到至少两个 <section> 标签，跳过交互式翻译步骤。")
-        print("--- 交互式翻译流程结束 ---\n")
+            print("警告: 页面中未找到任何 <section> 标签，跳过交互式翻译步骤。")
+        print("--- 所有段落的交互式翻译流程结束 ---\n")
+
 
         # 13. Save Final HTML
         cleaned_html = soup.prettify()
