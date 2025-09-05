@@ -42,7 +42,7 @@ def call_ai_for_html_translation(html_content_snippet):
     Crucially, you MUST preserve the original HTML structure and ALL attributes (like class, data-pair-id, style, etc.) of every tag exactly as they were.
     Do not add any new tags, attributes, or explanations. Only return the modified HTML snippet.
     """
-    payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-1.5-flash" }
+    payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-2.5-flash" }
     headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
     
     try:
@@ -91,7 +91,7 @@ Example Input:
 Example Output:
 <p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
 """
-    payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-1.5-flash" }
+    payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-2.5-flash" }
     headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
     
     try:
