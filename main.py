@@ -79,7 +79,7 @@ You will receive an HTML snippet containing <p> and <li> tags with Chinese text.
 Your task is to perform the following transformation for EACH tag:
 1.  Translate the Chinese text content into English, ensuring that any nested HTML tags (like <strong>, <em>, <a>) are preserved in their correct positions within the translated text.
 2.  Wrap the original Chinese content (including its nested tags) in a span: `<span class="lang-zh" style="display:none;">...</span>`.
-3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline; letter-spacing: .001rem;">...</span>`. Note the added letter-spacing for better readability.
+3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;">...</span>`. Note the added letter-spacing for better readability.
 4.  Place BOTH of these spans inside the original parent tag (e.g., <p> or <li>).
 5.  Add an `ondblclick="toggleLang(this)"` attribute to the parent tag (<p> or <li>) to enable language switching on double-click.
 6.  You MUST preserve all original attributes of the parent tag (like class, style, etc.) and merge them with the new `ondblclick` attribute.
