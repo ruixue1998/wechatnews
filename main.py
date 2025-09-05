@@ -361,10 +361,23 @@ def get_full_page_and_save(url, output_filename):
                     ggparent.insert_after(hr_tag)
                     processed_ggparents.add((ggparent.name, ggparent.sourceline))
 
-        print("正在为主要内容区域添加内边距...")
-        entry_content_tag = soup.find(class_='entry-content clearfix')
-        if entry_content_tag:
-            entry_content_tag['style'] = 'padding: 0 2rem;line-height: 1.375rem;'
+# --- 推荐的修改方案 ---
+print("正在为主要内容区域添加内边距，并修正段落行高...")
+entry_content_tag = soup.find(class_='entry-content clearfix')
+if entry_content_tag:
+    # 1. 在父容器上设置 padding，这是正确的
+    entry_content_tag['style'] = 'padding: 0 2rem;'
+    
+    # 2. 遍历容器内所有的 p 标签，直接设置它们的 line-height
+    # 这样会生成行内样式，其优先级高于外部CSS文件中的样式
+    for p_tag in entry_content_tag.find_all('p'):
+        # 简单地附加或设置样式
+        if p_tag.get('style'):
+            # 如果已有style，就在后面追加，避免覆盖
+            p_tag['style'] += ' line-height: 1.375rem;'
+        else:
+            # 如果没有style，就直接设置
+            p_tag['style'] = 'line-height: 1.375rem;'
 
         # 11. 【全新翻译逻辑】为页面所有主要内容提供交互式翻译
         print("\n--- 开始对主要内容进行全面的交互式翻译 ---")
