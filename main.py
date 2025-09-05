@@ -79,7 +79,7 @@ You will receive an HTML snippet containing <p> and <li> tags with Chinese text.
 Your task is to perform the following transformation for EACH tag:
 1.  Translate the Chinese text content into English, ensuring that any nested HTML tags (like <strong>, <em>, <a>) are preserved in their correct positions within the translated text.
 2.  Wrap the original Chinese content (including its nested tags) in a span: `<span class="lang-zh" style="display:none;">...</span>`.
-3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline;">...</span>`.
+3.  Wrap the newly translated English content (including its preserved nested tags) in another span: `<span class="lang-en" style="display:inline; letter-spacing: .001rem;">...</span>`. Note the added letter-spacing for better readability.
 4.  Place BOTH of these spans inside the original parent tag (e.g., <p> or <li>).
 5.  Add an `ondblclick="toggleLang(this)"` attribute to the parent tag (<p> or <li>) to enable language switching on double-click.
 6.  You MUST preserve all original attributes of the parent tag (like class, style, etc.) and merge them with the new `ondblclick` attribute.
@@ -89,7 +89,7 @@ Example Input:
 <p style="font-size: 80%;">这是一段<strong>非常重要</strong>的文本。</p>
 
 Example Output:
-<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
+<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
 """
     payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-1.5-flash" }
     headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
@@ -110,7 +110,7 @@ Example Output:
              print("服务器响应:", e.response.text)
         return None
 
-# --- 样式处理函数 ---
+# --- 样式处理函数 (已优化) ---
 def process_and_style_tags(soup):
     """
     Wraps text in <span>, shrinks font size, and adds margins with advanced exclusion rules.
@@ -149,21 +149,28 @@ def process_and_style_tags(soup):
                 content.replace_with(span_tag)
                 span_tag.string = content
                 
+        # 【优化】应用更美观的样式，包含 letter-spacing
         style_parts = []
         if not (tag.has_attr('style') and 'font-size' in tag['style']):
-            style_parts.append('font-size: 80%;letter-spacing: 0rem;    line-height: 1.5rem;')
+            style_parts.append('font-size: 80%;')
+        if not (tag.has_attr('style') and 'letter-spacing' in tag['style']):
+            style_parts.append('letter-spacing: .001rem;')
+        if not (tag.has_attr('style') and 'line-height' in tag['style']):
+            style_parts.append('line-height: 1.6rem;')
+
         if tag.name == 'p' and not (tag.has_attr('style') and 'margin-bottom' in tag['style']):
              style_parts.append('margin-bottom: 5%;')
+
         if style_parts:
             final_style = ' '.join(style_parts)
             if tag.has_attr('style'):
-                tag['style'] += ' ' + final_style
+                tag['style'] = final_style + tag['style'] # Prepend to prioritize
             else:
                 tag['style'] = final_style
             count += 1
     return count
 
-# --- 主处理函数 ---
+# --- 主处理函数 (翻译逻辑已优化) ---
 def get_full_page_and_save(url, output_filename):
     """
     Full workflow: Fetch, clean, match content, translate, and inject interactivity.
@@ -207,7 +214,7 @@ def get_full_page_and_save(url, output_filename):
 
         # 2. Content Matching and Marking
         print("正在使用内容匹配逻辑为 p 和 h3 标签添加标志...")
-        main_content_area = soup.find('h3').parent if soup.find('h3') else soup.body
+        main_content_area = soup.find('div', class_='entry-content') or soup.body
         if main_content_area:
             p_list = main_content_area.find_all('p')
             h3_list = list(main_content_area.find_all('h3'))
@@ -225,7 +232,8 @@ def get_full_page_and_save(url, output_filename):
                             if 'class' not in tag.attrs: tag['class'] = []
                             tag['class'].append(common_class_name)
                             tag['data-pair-id'] = unique_identifier
-                        h3_list.remove(h3_tag)
+                        # Do not remove h3_tag from list to allow multiple matches if necessary
+                        # h3_list.remove(h3_tag)
                         break
             print(f"内容匹配完成，共成功标记了 {pair_counter} 对 p/h3 元素。")
 
@@ -358,54 +366,50 @@ def get_full_page_and_save(url, output_filename):
         if entry_content_tag:
             entry_content_tag['style'] = 'padding: 0 2rem;'
 
-        # 11. 【新顺序】为每个 <h3> 之后的内容添加交互式翻译
-        print("\n--- 开始对主要内容进行逐段交互式翻译 (基于 H3 分隔) ---")
-        all_h3s = soup.find_all('h3')
-        headings = [h3 for h3 in all_h3s if 'h3-p-pair' not in h3.get('class', [])]
+        # 11. 【全新翻译逻辑】为页面所有主要内容提供交互式翻译
+        print("\n--- 开始对主要内容进行全面的交互式翻译 ---")
+        content_area = soup.find('div', class_='entry-content') or soup.body
+        tags_for_translation = content_area.find_all(['p', 'li'], recursive=True)
         
-        if headings:
-            print(f"找到 {len(headings)} 个 H3 标题，将逐一处理其后的内容。")
-            for i, current_h3 in enumerate(headings):
-                print(f"\n--- 正在处理 H3 '{current_h3.get_text(strip=True)}' 的后续内容 ---")
-                tags_for_translation = []
-                end_boundary = headings[i + 1] if (i + 1) < len(headings) else None
+        # 过滤掉已经处理过的配对 P 标签和没有文本的标签
+        unique_tags = []
+        for tag in tags_for_translation:
+            if 'h3-p-pair' in tag.get('class', []):
+                continue
+            if not tag.get_text(strip=True):
+                continue
+            unique_tags.append(tag)
+
+        if unique_tags:
+            print(f"提取了 {len(unique_tags)} 个 p/li 标签用于交互式翻译。")
+            
+            # 分批处理以避免请求体过大
+            batch_size = 20 
+            for i in range(0, len(unique_tags), batch_size):
+                batch_tags = unique_tags[i:i+batch_size]
+                print(f"\n--- 正在处理批次 {i//batch_size + 1} (共 {len(batch_tags)} 个标签) ---")
                 
-                current_element = current_h3.find_next_sibling()
-                while current_element and current_element != end_boundary:
-                    if hasattr(current_element, 'name') and current_element.name:
-                        if current_element.name in ['p', 'li']:
-                            tags_for_translation.append(current_element)
-                        if hasattr(current_element, 'find_all'):
-                            tags_for_translation.extend(current_element.find_all(['p', 'li']))
-                    current_element = current_element.find_next_sibling()
+                snippet_div = soup.new_tag('div')
+                for tag in batch_tags:
+                    snippet_div.append(copy.copy(tag))
 
-                unique_tags = list(dict.fromkeys(tags_for_translation))
-
-                if unique_tags:
-                    print(f"成功提取了 {len(unique_tags)} 个 p/li 标签用于本段的交互式翻译。")
-                    snippet_div = soup.new_tag('div')
-                    for tag in unique_tags:
-                        snippet_div.append(copy.copy(tag))
-
-                    interactive_html = call_ai_for_interactive_translation(str(snippet_div))
+                interactive_html = call_ai_for_interactive_translation(str(snippet_div))
+                
+                if interactive_html:
+                    interactive_soup = BeautifulSoup(interactive_html, 'html.parser')
+                    translated_tags = interactive_soup.find_all(['p', 'li'])
                     
-                    if interactive_html:
-                        interactive_soup = BeautifulSoup(interactive_html, 'html.parser')
-                        translated_tags = interactive_soup.find_all(['p', 'li'])
-                        
-                        if len(unique_tags) == len(translated_tags):
-                            print(f"标签数量匹配。正在将交互式翻译内容替换回原文件...")
-                            for original_tag, translated_tag in zip(unique_tags, translated_tags):
-                                original_tag.replace_with(translated_tag)
-                            print("本段交互式内容替换成功！")
-                        else:
-                            print(f"警告：AI 返回的 p/li 标签数量 ({len(translated_tags)}) 与发送的数量 ({len(unique_tags)}) 不符。已跳过本段替换。")
+                    if len(batch_tags) == len(translated_tags):
+                        print(f"标签数量匹配。正在将交互式翻译内容替换回原文件...")
+                        for original_tag, translated_tag in zip(batch_tags, translated_tags):
+                            original_tag.replace_with(translated_tag)
+                        print("本批次交互式内容替换成功！")
                     else:
-                        print("AI 交互式翻译失败，将跳过本段的替换步骤。")
+                        print(f"警告：AI 返回的 p/li 标签数量 ({len(translated_tags)}) 与发送的数量 ({len(batch_tags)}) 不符。已跳过本批次替换。")
                 else:
-                    print(f"在 H3 '{current_h3.get_text(strip=True)}' 之后未找到需要翻译的 p 或 li 标签。")
+                    print("AI 交互式翻译失败，将跳过本批次的替换步骤。")
         else:
-            print("警告: 页面中未找到符合条件的 H3 标签，跳过交互式翻译步骤。")
+            print("在主要内容区域未找到需要翻译的 p 或 li 标签。")
         print("--- 所有段落的交互式翻译流程结束 ---\n")
 
         # 12. 【新顺序】Process and Style Tags (Font Shrinking, Margins)
