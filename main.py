@@ -360,25 +360,7 @@ def get_full_page_and_save(url, output_filename):
                     hr_tag = soup.new_tag('hr', style="width:20%;")
                     ggparent.insert_after(hr_tag)
                     processed_ggparents.add((ggparent.name, ggparent.sourceline))
-
-# --- 推荐的修改方案 ---
-print("正在为主要内容区域添加内边距，并修正段落行高...")
-entry_content_tag = soup.find(class_='entry-content clearfix')
-if entry_content_tag:
-    # 1. 在父容器上设置 padding，这是正确的
-    entry_content_tag['style'] = 'padding: 0 2rem;line-height: 1rem;'
-    
-    # 2. 遍历容器内所有的 p 标签，直接设置它们的 line-height
-    # 这样会生成行内样式，其优先级高于外部CSS文件中的样式
-    for p_tag in entry_content_tag.find_all('p'):
-        # 简单地附加或设置样式
-        if p_tag.get('style'):
-            # 如果已有style，就在后面追加，避免覆盖
-            p_tag['style'] += ' line-height: 1rem;'
-        else:
-            # 如果没有style，就直接设置
-            p_tag['style'] = 'line-height: 1rem;'
-
+        
         # 11. 【全新翻译逻辑】为页面所有主要内容提供交互式翻译
         print("\n--- 开始对主要内容进行全面的交互式翻译 ---")
         content_area = soup.find('div', class_='entry-content') or soup.body
@@ -425,6 +407,32 @@ if entry_content_tag:
             print("在主要内容区域未找到需要翻译的 p 或 li 标签。")
         print("--- 所有段落的交互式翻译流程结束 ---\n")
 
+        # 【这是修正后的核心代码】
+        print("正在为主要内容区域添加内边距，并修正段落行高...")
+        entry_content_tag = soup.find(class_='entry-content clearfix')
+        if entry_content_tag:
+            # 1. 在父容器上设置 padding
+            original_style = entry_content_tag.get('style', '')
+            if 'padding:' not in original_style:
+                # 确保只添加 padding，保留可能存在的其他样式
+                 entry_content_tag['style'] = f'padding: 0 2rem; {original_style}'.strip()
+            
+            # 2. 遍历容器内所有的 p 标签，直接设置它们的 line-height
+            # 这将生成行内样式，其优先级高于外部CSS文件中的样式
+            for p_tag in entry_content_tag.find_all('p'):
+                # 跳过我们已经手动设置过样式的配对标签
+                if 'h3-p-pair' in p_tag.get('class', []):
+                    continue
+
+                original_p_style = p_tag.get('style', '')
+                # 为了避免重复添加，并处理已有样式，我们先解析再重组
+                style_parts = [s.strip() for s in original_p_style.split(';') if s.strip()]
+                # 移除可能存在的旧 line-height
+                style_parts = [s for s in style_parts if not s.lower().startswith('line-height')]
+                # 添加我们想要的 line-height
+                style_parts.append('line-height: 1rem')
+                p_tag['style'] = '; '.join(style_parts)
+
         # 12. 【新顺序】Process and Style Tags (Font Shrinking, Margins)
         print("正在处理并缩小未被翻译的 <p> 和 <li> 标签的字体并添加外边距...")
         processed_count = process_and_style_tags(soup)
@@ -435,6 +443,8 @@ if entry_content_tag:
         with open(full_save_path, 'w', encoding='utf-8') as f:
             f.write(cleaned_html)
         print(f"成功！已将最终的网页内容保存到文件: '{full_save_path}'")
+        
+    # 【这是关键】except 块必须紧跟在 try 块后面
     except Exception as e:
         print(f"错误：在处理过程中发生未知错误: {e}")
         import traceback
