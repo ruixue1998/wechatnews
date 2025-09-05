@@ -89,7 +89,7 @@ Example Input:
 <p style="font-size: 80%;">这是一段<strong>非常重要</strong>的文本。</p>
 
 Example Output:
-<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
+<p style="font-size: 80%;" ondblclick="toggleLang(this)"><span class="lang-en" style="display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;">This is a piece of <strong>very important</strong> text.</span><span class="lang-zh" style="display:none;">这是一段<strong>非常重要</strong>的文本。</span></p>
 """
     payload = { "input": html_content_snippet, "system": system_prompt, "temperature": 0.3, "model": "gemini-1.5-flash" }
     headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
@@ -154,7 +154,7 @@ def process_and_style_tags(soup):
         if not (tag.has_attr('style') and 'font-size' in tag['style']):
             style_parts.append('font-size: 80%;')
         if not (tag.has_attr('style') and 'letter-spacing' in tag['style']):
-            style_parts.append('letter-spacing: .001rem;')
+            style_parts.append('letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;')
         if not (tag.has_attr('style') and 'line-height' in tag['style']):
             style_parts.append('line-height: 1.6rem;')
 
