@@ -364,7 +364,7 @@ def get_full_page_and_save(url, output_filename):
         print("正在为主要内容区域添加内边距...")
         entry_content_tag = soup.find(class_='entry-content clearfix')
         if entry_content_tag:
-            entry_content_tag['style'] = 'padding: 0 2rem;'
+            entry_content_tag['style'] = 'padding: 0 2rem;line-height: 1.375rem;'
 
         # 11. 【全新翻译逻辑】为页面所有主要内容提供交互式翻译
         print("\n--- 开始对主要内容进行全面的交互式翻译 ---")
