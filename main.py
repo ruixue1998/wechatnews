@@ -374,10 +374,10 @@ if entry_content_tag:
         # 简单地附加或设置样式
         if p_tag.get('style'):
             # 如果已有style，就在后面追加，避免覆盖
-            p_tag['style'] += ' line-height: 1.375rem;'
+            p_tag['style'] += ' line-height: 1rem;'
         else:
             # 如果没有style，就直接设置
-            p_tag['style'] = 'line-height: 1.375rem;'
+            p_tag['style'] = 'line-height: 1rem;'
 
         # 11. 【全新翻译逻辑】为页面所有主要内容提供交互式翻译
         print("\n--- 开始对主要内容进行全面的交互式翻译 ---")
