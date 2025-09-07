@@ -1,0 +1,51 @@
+# GitHub Actions 工作流程的名称
+name: Update RSS Feed Daily
+
+# 工作流程的触发条件
+on:
+  # 1. 定时触发：设置为每天 UTC 时间 3 点 0 分运行
+  #    (对应北京时间上午 11 点)
+  schedule:
+    - cron: '0 3 * * *'  # <--- 修改的就是这一行
+
+  # 2. 手动触发：允许您在 GitHub Actions 页面手动点击运行此流程，方便测试
+  workflow_dispatch:
+
+# 定义一个或多个作业（job）
+jobs:
+  build-and-commit:
+    # 指定运行此作业的虚拟机环境
+    runs-on: ubuntu-latest
+
+    # 作业包含的一系列步骤（step）
+    steps:
+      # 第 1 步：检出（Checkout）你的仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 第 2 步：设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 第 3 步：安装 Python 依赖库
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 lxml
+
+      # 第 4 步：运行你的 Python 脚本来生成 RSS 文件
+      - name: Run script to generate RSS
+        run: python generate_rss.py # 确保这是你的脚本文件名
+
+      # 第 5 步：自动提交生成的 ifanr_zaobao_rss.xml 文件
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # 提交信息
+          commit_message: 'CI: Auto-update RSS feed'
+          # 要提交的文件
+          file_pattern: 'ifanr_zaobao_rss.xml' # 确保这是你的脚本输出文件名
+          # 要提交到的分支
+          branch: main
