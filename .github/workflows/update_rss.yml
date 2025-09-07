@@ -46,6 +46,6 @@ jobs:
           # 提交信息
           commit_message: 'CI: Auto-update RSS feed'
           # 要提交的文件
-          file_pattern: 'ifanr_zaobao_rss.xml' # 确保这是你的脚本输出文件名
+          file_pattern: 'DailyNews.xml' # 确保这是你的脚本输出文件名
           # 要提交到的分支
           branch: main
