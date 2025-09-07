@@ -117,8 +117,8 @@ def create_rss_en_only(html_filepath, output_filepath):
 if __name__ == "__main__":
     # 定义输入和输出文件名
     # 将你的HTML文件命名为 "ifanr_zaobao.html"
-    input_html_file = "ifanr_zaobao.html" 
-    output_rss_file = "ifanr_zaobao_rss.xml"
+    input_html_file = "DailyNews.html" 
+    output_rss_file = "DailyNews.xml"
     
     # 执行转换
     create_rss_en_only(input_html_file, output_rss_file)
