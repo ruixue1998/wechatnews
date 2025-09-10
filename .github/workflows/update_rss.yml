@@ -6,7 +6,7 @@ on:
   # 1. 定时触发：设置为每天 UTC 时间 3 点 0 分运行
   #    (对应北京时间上午 11 点)
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * *'  # <--- 修改的就是这一行
 
   # 2. 手动触发：允许您在 GitHub Actions 页面手动点击运行此流程，方便测试
   workflow_dispatch:
@@ -35,32 +35,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 【新增】第 4 步：运行第一个脚本，获取 HTML 内容并保存为 DailyNews.html
-      # 这一步是生成 RSS 文件的前提
-      - name: Fetch and process latest news HTML
-        # 【重要】为这个需要调用 AI API 的脚本注入 Secret
-        env:
-          AI_AUTH_TOKEN: ${{ secrets.AI_AUTH_TOKEN }}
-        # 假设您的第一个脚本文件名为 get_full_page_and_save.py
-        # 请根据您的实际文件名修改
-        run: python get_full_page_and_save.py 
+      # 第 4 步：运行你的 Python 脚本来生成 RSS 文件
+      - name: Run script to generate RSS
+        run: python generate_rss.py # 确保这是你的脚本文件名
 
-      # 第 5 步：运行第二个脚本，根据 HTML 生成 RSS 文件
-      - name: Generate RSS feed from HTML
-        # 【重要】为这个需要调用 AI API 的脚本也注入 Secret
-        env:
-          AI_AUTH_TOKEN: ${{ secrets.AI_AUTH_TOKEN }}
-        # 运行您的 RSS 生成脚本
-        run: python generate_rss.py
-
-      # 第 6 步：自动提交生成的 DailyNews.xml 文件
+      # 第 5 步：自动提交生成的 ifanr_zaobao_rss.xml 文件
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           # 提交信息
           commit_message: 'CI: Auto-update RSS feed'
-          # 要提交的文件，现在包括 HTML 和 XML 两个文件
-          # 这样可以方便调试，并且如果需要，也可以部署 HTML 文件
-          file_pattern: 'DailyNews.html DailyNews.xml'
+          # 要提交的文件
+          file_pattern: 'DailyNews.xml' # 确保这是你的脚本输出文件名
           # 要提交到的分支
           branch: main
