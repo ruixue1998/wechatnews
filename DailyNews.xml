@@ -2,974 +2,1153 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Mon, 24 Nov 2025 03:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 03:51:18 +0000</lastBuildDate>
     <item>
-      <title>消息称 iOS 27 将专注于细节打磨</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">消息称-iOS-27-将专注于细节打磨</guid>
+      <title>OpenAI 推出 ChatGPT「购物研究」功能</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">OpenAI-推出-ChatGPT「购物研究」功能</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/51992613-e048-481f-9ed9-d0464007ac31.png&quot;/&gt;
-&lt;/p&gt;&lt;div class=&quot;editor-image-source&quot;&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;iOS 26&lt;/p&gt;
-&lt;/div&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/777d4f7a-adf8-4b48-b688-17e82d34d56a.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Bloomberg reporter Mark Gurman, Apple's new system, to be released next year, will pay homage to Mac OS X Snow Leopard, released in 2009—making no major changes, but focusing on refining details and improving quality.
+            OpenAI officially launched the &quot;Shopping Research&quot; feature early this morning, providing ChatGPT users with a brand new product search and decision-making experience.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据彭博社记者 Mark Gurman 报道，苹果在明年推出的新系统将会致敬其于 2009 年发布的 Mac OS X Snow Leopard——不做大的改动，而是专注于细节打磨和质量提升。
+            OpenAI 今天凌晨正式推出「购物研究」（Shopping Research）功能，为 ChatGPT 用户提供全新的产品搜索与决策体验。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gurman pointed out that
-            &lt;strong&gt;
-             next year's 27-series systems (such as iOS 27, etc.) will primarily focus on improving existing software.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Gurman 指出，
-            &lt;strong&gt;
-             明年的 27 系系统（如 iOS 27 等）将以改进现有软件为主。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to him, to improve software quality, Apple's engineering team is currently conducting a comprehensive review of its operating systems, dedicated to cutting redundant features, eliminating bugs, and seeking any opportunities to significantly enhance performance and overall quality.
+            This feature is based on a dedicated version of GPT‑5 mini, optimized with reinforcement learning, aiming to help users quickly generate personalized buying guides in complex shopping scenarios. Users only need to describe their needs, and the system can automatically retrieve high-quality information from the internet and generate detailed product comparisons and recommendations within minutes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据其透露，为提升软件质量，苹果的工程团队现正全面检视旗下的操作系统，致力于削减冗余功能、消除错误，并寻找任何能显著提升性能和整体品质的机会。
+            该功能基于 GPT‑5 mini 的专用版本，结合强化学习进行优化，旨在帮助用户在复杂的购物场景中快速生成个性化的购买指南。用户只需描述需求，系统即可自动检索互联网高质量信息，并在几分钟内生成详细的产品对比与推荐。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gurman also emphasized that the 27-series systems, like Mac OS X Snow Leopard, will lay the groundwork for future new devices (foldable iPhones and other new hardware).
+            OpenAI stated that Shopping Research can not only handle details such as price, specifications, and inventory, but also dynamically adjust based on real-time user feedback. For example, users can mark &quot;not interested&quot; or &quot;more like this&quot; to optimize results. If ChatGPT's memory function is enabled, the system will also combine users' past preferences for more accurate recommendations.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Gurman 还强调，27 系系统将会与 Mac OS X Snow Leopard 一样，为未来的新设备（折叠屏 iPhone 和其他新硬件）奠定基础。
+            OpenAI 表示，购物研究不仅能处理价格、规格、库存等细节，还能根据用户的实时反馈进行动态调整。例如，用户可标记「不感兴趣」或「更多类似」来优化结果。若开启 ChatGPT 的记忆功能，系统还会结合用户过往偏好进行更精准的推荐。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-&lt;strong&gt;
-             And AI features will still be the main force of the upgrade—the overall upgrade next year will still revolve around AI.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-&lt;strong&gt;
-             而 AI 功能也依然是升级的主力军——明年整体升级依然会围绕 AI 展开。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gurman also mentioned in the report that he believes it is unlikely for Apple CEO Tim Cook to leave in the middle of next year. Previously, the Financial Times had reported that Cook was expected to step down between late January and June next year.
+            Currently, the feature has been launched on mobile and web platforms, covering Free, Go, Plus, and Pro user plans. To coincide with the holiday shopping season, OpenAI announced that it will provide almost unlimited usage for all users during the festive period. In the future, Shopping Research will also support &quot;Instant Checkout,&quot; allowing users to complete purchases directly within ChatGPT.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Gurman 还在报道中提到，其认为苹果 CEO 库克在明年年中离职的可能性不大。而此前，《金融时报》曾报道预计，库克将会在明年 1 月下旬至 6 月之间卸任。
+            目前，该功能已在移动端与网页端上线，覆盖 Free、Go、Plus 与 Pro 用户计划。为配合假日购物季，OpenAI 宣布在节日期间为所有用户提供几乎无限的使用次数。未来，购物研究还将支持「即时结账」（Instant Checkout），允许用户直接在 ChatGPT 内完成购买。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gurman stated that even if Cook steps down as CEO, he is very likely to continue serving as Apple's chairman because he still enjoys his current job.
+            OpenAI emphasized that this feature will not share user conversations with retailers. All results are sourced from public retail websites and cite reliable sources to ensure transparency and credibility. Additionally, details such as prices or inventory provided by this feature may contain errors, and users should refer to the merchant's page for accuracy.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Gurman 表示，就算库克卸任 CEO 一职，但因为他还很喜欢目前的工作，很大可能会继续担任苹果董事长。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            These poached individuals were mainly recruited into io, an AI hardware startup previously acquired by OpenAI—the company was founded by Jony Ive, Apple's former Senior Vice President of Industrial Design, and plans to launch its first AI hardware product next year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            而这些被挖走的人，主要都是被招揽进 OpenAI 此前收购的人工智能初创硬件公司 io——该公司由苹果前工业设计高级副总裁 Jony Ive 成立，计划明年推出首款 AI 硬件产品。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports, Apple's former head of industrial design, Evans Hankey, and former hardware engineering executive Tang Tan have both joined the project.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据报道称，苹果前工业设计主管埃文斯・汉基（Evans Hankey）与前硬件工程高管 Tang Tan 均已加入该项目。
+            OpenAI 强调，该功能不会与零售商共享用户对话，所有结果均来自公开零售网站，且引用可靠来源以确保透明度与可信度。此外，该功能提供的价格或库存等细节可能出现误差，用户需以商家页面为准。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>20+AI 品牌齐聚广州，我在 AIDONE 见证了 AI 的100 种打开方式</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">20+AI-品牌齐聚广州，我在-AIDONE-见证了-AI-的100-种打开方式</guid>
+      <title>高通确认与苹果互传文件功能将登陆更多 Android 机型</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">高通确认与苹果互传文件功能将登陆更多-Android-机型</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/bc7a7df5-ee9d-4531-8cd6-236cb22cf5e9.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/4132d134-9288-44ca-96e6-e4102881cf16.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This weekend, APPSO, in collaboration with over 20 AI brands, successfully concluded its first 'AIDONE Offline Experience Venue' in Guangzhou. The two-day event featured three major sections: a lawn concert, immersive AI experiences, and a cross-industry thought salon, attracting a large number of tech enthusiasts.
+            According to NotebookCheck, Qualcomm has confirmed that Google's &quot;Quick Share&quot; feature, which supports interoperability with Apple's AirDrop, will be extended to devices powered by Snapdragon chips in the future.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这个周末，APPSO 联合 20 余家 AI 品牌打造的首场「AIDONE 线下体验场」在广州圆满收官。草地音乐会、沉浸式 AI 体验、跨界思想沙龙三大板块贯穿两天，吸引了大批科技爱好者到场。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In this cross-disciplinary experiment combining technology and lifestyle, major AI brands showcased their application potential in real-world scenarios. Users engaged enthusiastically on-site, with memorable scenes like robot dogs 'confronting' real dogs constantly emerging, becoming viral content on social media. Over 20 brands collectively transformed AI's 'computing power' into tangible joy for everyone.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在这场科技与生活方式的跨界实验中，各大 AI 品牌展现在真实场景中的应用潜力，用户现场互动热烈，机器狗与真狗的「对峙」等名场面不断，成为社交媒体刷屏素材，20 多个品牌合力将 AI 的「算力」变成了每个人可感知的快乐。
+            据 NotebookCheck 报道，高通确认，支持与苹果隔空投送 AirDrop 互通的 Google「快速分享」（Quick Share）功能将在未来扩展至搭载骁龙芯片的设备。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The concluding cross-industry salon sparked a collision of ideas about AI. Five guests—Ye Shuhua from Guangzhou Academy of Fine Arts, Liu Yubo from South China University of Technology, public welfare blogger Xiang Dongliang, algorithm expert Yu Xinhang, and Gu Mu from Ant Health—discussed the practical question of 'What should humans do in the AI era?' from five dimensions: artistic creation, urban planning, accessibility public welfare, smart transportation, and medical health.
+            Qualcomm stated on X that it &quot;can't wait for users to experience this feature on Snapdragon devices,&quot; but has not yet announced a specific launch date.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            压轴的跨界沙龙带来了一次关于 AI 的思想碰撞。广美叶淑华、华工刘宇波、公益博主项栋梁、算法专家余欣航及蚂蚁健康顾沐五位嘉宾，分别从艺术创作、城市规划、无障碍公益、智慧交通和医疗健康五个维度，探讨「AI 时代人到底要干嘛」的现实议题。
+            高通在 X 上表示「迫不及待地希望用户能在骁龙设备上体验这一功能」，但尚未公布具体上线时间。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/d8216644-1953-4e07-b35a-a80e8ba45c7c.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AIDONE is APPSO's first attempt to extend AI content from online to offline. By bringing together leading AI brands and products, we hope to let more people experience the practicality and fun of AI in real-world scenarios.
+            Previously, Google revealed that this feature will not be limited to its own Tensor chip devices, and may cover brands such as Samsung, OnePlus, and Nothing in the future.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            AIDONE 是 APPSO探索 AI 内容从线上延伸至线下的首次尝试。通过聚聚头部 AI 品牌和产品，我们希望让更多人在真实场景中感受 AI 的实用与乐趣。
+            此前，Google 已透露，该功能不会局限于自家 Tensor 芯片设备，未来可能覆盖三星、一加以及 Nothing 等品牌机型。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Reports indicate that in addition to mobile phones, devices such as tablets and Chromebooks are also expected to receive support.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报道指出，除手机外，平板与 Chromebook 等设备也有望获得支持。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            However, Bloomberg reporter Mark Gurman believes that Apple may take measures to block this feature as soon as possible, but may be constrained by factors such as the EU's Digital Markets Act.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            不过，彭博社记者 Mark Gurman 认为，苹果或将尽快采取措施以封堵这一功能，但可能受制于欧盟《数字市场法案》等因素。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>小米回应「汽车工厂内电池产线起火」</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">小米回应「汽车工厂内电池产线起火」</guid>
+      <title>Claude Opus 4.5 正式推出</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">Claude-Opus-4.5-正式推出</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/f2815d83-644c-4092-a652-4818b2fe952c.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/ebb1a126-e850-4371-b1fe-0a42c96fd947.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Xiaomi officially posted a statement to explicitly refute the online rumor about 'a battery production line catching fire inside the Xiaomi car factory'.
+            Anthropic officially launched its new generation large model, Claude Opus 4.5, early this morning, demonstrating significant improvements in daily tasks such as in-depth research, slide, and table processing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，小米官方发文就网传「小米汽车工厂内电池产线起火」消息明确辟谣。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The official account 'Xiaomi Company Spokesperson' pointed out that
-            &lt;strong&gt;
-             the incident was actually an operational deviation during equipment debugging in the factory's battery workshop in 2024, not a battery design or manufacturing defect.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方账号「小米公司发言人」指出，
-            &lt;strong&gt;
-             该事件实为 2024 年工厂电池车间设备调试过程中出现的操作偏差，并非电池设计或制造缺陷。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaomi stated that during debugging, an operator made an error in manual mode, causing the battery pack transported by an AGV (Automated Guided Vehicle) to collide with equipment. The damaged cell then short-circuited, igniting a small flame. The fire was very small, and the workshop quickly activated emergency procedures and extinguished it. It did not spread to other production areas and caused no personal injury.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小米表示，调试期间操作人员在手动模式下误操作，导致 AGV（自动导引车）托运的电池包与设备发生磕碰，电芯受损后短路引发明火。火情规模极小，车间迅速启动应急预案并扑灭，未波及其他生产区域，也未造成人员伤害。
+            Anthropic 于今天凌晨正式推出新一代大模型 Claude Opus 4.5，在深度研究、幻灯片与表格处理等日常任务中展现出显著提升。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaomi emphasized that the battery packs for its models, including the Xiaomi SU7 and Xiaomi YU7, are all developed according to ultra-high standards and comply with relevant national standards.
+            Claude Opus 4.5 achieved the industry's most advanced level in software engineering tests, supporting developers to use the &quot;claude-opus-4-5-20251101&quot; version via API, priced at $5 or $25 per million tokens.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小米方面强调，旗下车型电池包均按照超高标准开发，包括小米 SU7 与小米 YU7，均符合国家相关标准。
+            Claude Opus 4.5 在软件工程测试中表现达到业界最先进水平，支持开发者通过 API 使用「claude-opus-4-5-20251101」版本，定价为每百万 tokens 5 美元或 25 美元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the same time, Xiaomi also clarified that the so-called 'event wall display' images circulating online were actually management dashboards from the initial equipment debugging phase in early 2024, and all related issues were resolved before mass production.
+            Anthropic also updated the Claude Developer Platform, Claude Code, and consumer applications, adding support for long-term task processing in Excel, Chrome, and desktop environments.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            同时，小米还澄清，网络流传的所谓「事件墙展示」图片，实为 2024 年初设备最初调试阶段的管理看板，相关问题在量产前已全部解决。
+            Anthropic 同时更新了 Claude Developer Platform、Claude Code 以及消费者应用，新增支持 Excel、Chrome 与桌面端的长时任务处理。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Several industry insiders pointed out in tests that Claude Opus 4.5 can demonstrate higher efficiency in complex multi-system error repair, code migration, and refactoring tasks, completing the same work with fewer tokens. Compared to its predecessor Sonnet 4.5, Opus 4.5 achieved a 15% to 20% performance improvement in multiple benchmark tests and maintained stable performance in long-duration autonomous coding tasks.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            多位业内人士在测试中指出，Claude Opus 4.5 能够在复杂多系统错误修复、代码迁移与重构等任务中展现更高效率，使用更少 token 完成同样的工作。与前代 Sonnet 4.5 相比，Opus 4.5 在多项基准测试中实现 15% 至 20% 的性能提升，并在长时间自主编码任务中保持稳定表现。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Furthermore, Opus 4.5 has also made progress in security, particularly demonstrating more robust performance in defending against prompt injection attacks. Anthropic stated that the model has shown higher robustness in multiple evaluations, capable of preventing malicious exploitation in critical tasks.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，Opus 4.5 在安全性方面也取得进展，尤其在抵御提示注入攻击上表现更为稳健。Anthropic 表示，该模型在多项评估中展现出更高的健壮性，能够在关键任务中避免被恶意利用。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This update also brings new features such as the &quot;effort parameter,&quot; allowing developers to flexibly adjust between efficiency and capability. Combined with context compression and advanced tool calling, Opus 4.5 improved by nearly 15 percentage points in deep research evaluations, further solidifying its position among cutting-edge AI models.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此次更新还带来「effort 参数」等新功能，允许开发者在效率与能力之间进行灵活调节。结合上下文压缩与高级工具调用，Opus 4.5 在深度研究评估中提升近 15 个百分点，进一步巩固其在前沿 AI 模型中的地位。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>马斯克：特斯拉已部署超百万颗 AI 芯片</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">马斯克：特斯拉已部署超百万颗-AI-芯片</guid>
+      <title>豆包输入法官宣上线，主打 AI 语音识别</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">豆包输入法官宣上线，主打-AI-语音识别</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/9e56830d-ba21-4519-8bb4-7e63824d924c.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/408250eb-429b-4d8f-b52e-73460c5c0726.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Tesla CEO Elon Musk posted a pinned message on social media platform X, systematically introducing the latest progress and strategic goals of the company's self-developed AI chip team.
+            Yesterday, Doubao's official WeChat public account posted an announcement, officially launching the Doubao Input Method. Developed by a ByteDance team, it is positioned as an AI input method centered on voice input, aiming to redefine users' text input experience.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，特斯拉 CEO 埃隆・马斯克在社交平台 X 上发布置顶消息，系统性介绍了公司自研 AI 芯片团队的最新进展与战略目标。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Musk stated that the public generally underestimates the scale of Tesla's investment in chip design, and the company has had an 'advanced AI chip and circuit board engineering team' for many years.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            马斯克表示，外界普遍不了解特斯拉在芯片设计上的投入规模，公司多年来一直拥有「先进的 AI 芯片与电路板工程团队」。
+            昨天，豆包官方微信公众号发文，官宣豆包输入法正式推出。该产品由字节旗下团队研发，定位为一款以语音输入为核心的 AI 输入法，旨在重新定义用户的文字输入体验。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Currently,
-            &lt;strong&gt;
-             Tesla has deployed millions of self-developed AI chips in vehicles and data centers
-            &lt;/strong&gt;
-            . These chips support autonomous driving and data processing, and he emphasized that it is these chips that 'make Tesla a leader in real-world AI'.
+            Currently, Doubao Input Method 1.0 has been launched on the Android platform, with the iOS version expected to go live soon, and no specific timetable announced for the PC version.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            目前，
-            &lt;strong&gt;
-             特斯拉已在车辆与数据中心部署数百万颗自研 AI 芯片
-            &lt;/strong&gt;
-            ，这些芯片为自动驾驶与数据处理提供支持，他强调正是这些芯片「让特斯拉成为现实世界 AI 的领导者」。
+            目前，豆包输入法 1.0 已上线 Android 平台，iOS 端预计近期上线，PC 版则尚未公布具体时间表。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding technological iteration, Musk stated that the current version used in Tesla vehicles is AI4, the next generation AI5 is close to tape-out, and AI6 development has also begun. At the same time, Musk set a clear goal:
+            Its biggest highlight is the voice recognition function based on the same voice model as the Doubao App, supporting Chinese, English, and Cantonese, with accuracy significantly leading similar products. Users only need to &quot;press and hold to speak, release to end&quot; to complete input, maintaining a high recognition rate even in complex speaking speeds and mixed language scenarios.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在技术迭代方面，马斯克表示特斯拉车端现用版本为 AI4，下一代 AI5 已接近流片阶段，AI6 研发也已启动。同时，马斯克提出明确目标：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;To launch a new AI chip and complete mass production every 12 months. He further emphasized that the company expects future chip production to 'eventually exceed the sum of all other AI chips,' and stressed that 'this is not a joke'.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of application scenarios, Musk pointed out that self-developed chips will bring 'profound positive impacts,' including a safer driving experience to 'save millions of lives,' and the application of the humanoid robot Optimus in the medical field to provide 'advanced medical services' to the public.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            应用场景方面，马斯克指出，自研芯片将带来「深远的积极影响」，包括更安全的驾驶体验以「挽救数百万生命」，以及通过人形机器人擎天柱 Optimus 在医学领域的应用，为大众提供「先进医疗服务」。
+            其最大亮点是基于豆包 App 同款语音模型的语音识别功能，支持中文、英文及粤语，准确率表现显著领先于同类产品。用户只需「按住说话，松手结束」，即可完成输入，且在复杂语速和混合语言场景下依旧保持高识别率。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, Tesla is actively recruiting chip-related talent, requiring applicants to demonstrate their 'excellent capabilities' with three key points, and particularly focusing on the application of cutting-edge AI in chip design.
+            In addition to voice input, Doubao Input Method also offers keyboard input optimization, including smart suggestions, error correction, and Pinyin abbreviation support. In terms of AI integration, when entering &quot;1+1=&quot; or &quot;Who is the author of Journey to the West,&quot; the candidate bar can directly display results, reflecting its semantic understanding capabilities. Furthermore, the product supports offline voice model downloads, approximately 150MB in size, allowing continued use in weak network environments.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，特斯拉正在积极招聘芯片相关人才，要求应聘者以三条要点证明自身「卓越能力」，并特别关注在芯片设计中应用前沿 AI 的方向。
+            除了语音输入，豆包输入法还提供键盘输入优化，包括智能联想、纠错和简拼支持。在 AI 融合方面，输入「1+1=」或「西游记的作者是谁」时，候选栏可直接显示结果，体现了语义理解能力。此外，产品支持离线语音模型下载，大小约 150MB，可在弱网环境下继续使用。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>俞敏洪再发全员信致歉</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">俞敏洪再发全员信致歉</guid>
+      <title>联想 CFO：正囤积 PC 内存，避免转嫁成本到消费者</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">联想-CFO：正囤积-PC-内存，避免转嫁成本到消费者</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/47414f13-18b7-427b-880f-2c87b801e5bd.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to multiple media reports, Lenovo Group is increasing its memory chip inventory to cope with supply shortages and price increases brought about by the artificial intelligence industry.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据多家媒体报道，联想集团正在加大内存芯片库存，以应对人工智能产业带来的供应紧张与价格上涨。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Lenovo CFO Wong Wai Ming stated in a Bloomberg TV interview that the company's current component inventory is about 50% higher than usual to alleviate supply pressure caused by the surge in demand for AI data centers and cloud hardware.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            联想 CFO 郑孝明在彭博电视采访中表示，公司当前零部件库存比平时高出约 50%，以缓解 AI 数据中心和云硬件需求激增导致的供应压力。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;strong&gt;
+             He emphasized that Lenovo will do its best to avoid passing on rising costs to consumers and will leverage its high inventory advantage to maintain market competitiveness.
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;strong&gt;
+             他强调，联想将尽力避免将成本上涨转嫁至消费者端，并利用高库存优势保持市场竞争力。
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Additionally, according to Jiemian News, Lenovo Chairman and CEO Yang Yuanqing stated at the earnings conference that the global shortage of DRAM and NAND chips is expected to continue until next year, with prices already up about 50% from before.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，据界面新闻报道，联想董事长兼 CEO 杨元庆在财报发布会上称，全球 DRAM 与 NAND 芯片短缺预计将持续至明年，价格已较此前上涨约 50%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            He stated that Lenovo has signed long-term contracts with suppliers such as Samsung and Hynix to ensure stable year-round supply and has locked in most of the production capacity through its scale advantage.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他表示，联想通过与三星、海力士等供应商签订长期合同，确保全年供应稳定，并凭借规模优势锁定大部分产能。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>腾讯或参投，拓竹融资估值或达 100 亿美金</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">腾讯或参投，拓竹融资估值或达-100-亿美金</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/114b8e61-a3cc-4ac9-9649-be8c615fb589.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to 36Kr, Topto is close to completing a new round of financing, with Tencent participating, and the company's valuation could reach $10 billion.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 36 氪报道，拓竹正接近完成新一轮融资，腾讯参投，公司估值或达 100 亿美金。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Sources pointed out that this round of financing continues the trend of Bambu Lab's cooperation with Tencent Cloud in July this year, with Bambu Lab's 3D model platform MakerWorld already integrated with Tencent's Hunyuan 3D generation model. However, both Bambu Lab and Tencent have denied the relevant rumors.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            消息人士指出，此轮融资延续了今年 7 月拓竹与腾讯云达成合作的趋势，拓竹旗下 3D 模型平台 MakerWorld 已接入腾讯混元 3D 生成模型。不过，拓竹与腾讯方面均否认相关传闻。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Bambu Lab has performed outstandingly in the consumer 3D printing market in recent years. According to a Soochow Securities research report, the company's revenue last year is estimated to have reached 5.5-6 billion yuan, with a net profit close to 2 billion yuan. Its shipments have exceeded 1.2 million units, and its global market share has reached 29%. The previous round of financing was completed in 2023, with investors including Mingshi Investment, Temasek, True Light, and 5Y Capital.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            拓竹近年来在消费级 3D 打印市场表现突出。东吴证券研报显示，去年公司营收预计达到 55-60 亿元，净利润接近 20 亿元。其出货量已超 120 万台，全球市占率达 29%。上一轮融资完成于 2023 年，投资方包括铭石投资、淡马锡、True Light、五源资本。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to company estimates, over 70% of 3D printing farms globally are equipped with its P1 series printers. Meanwhile, competition is intensifying, with DJI recently announcing an investment in the 3D printing company Smartpie and launching Nexprint China, an open-source 3D model aggregation platform, directly targeting Bambu Lab's MakerWorld community.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据公司估算，全球超过 70% 的 3D 打印农场配备其 P1 系列打印机。与此同时，竞争加剧，大疆近期宣布投资 3D 打印企业智能派，并推出开源 3D 模型聚合平台 Nexprint 中国站，直接对标拓竹社区 MakerWorld。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美的与比亚迪携手打造「人车家」智慧生态</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">美的与比亚迪携手打造「人车家」智慧生态</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/825ac94b-e2ae-4d1b-ac8b-dcda5b482a85.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, BYD officially announced on Weibo that it had signed a &quot;Human-Vehicle-Home Smart Ecosystem&quot; strategic cooperation agreement with Midea Group at BYD's global headquarters in Shenzhen. Midea Group Chairman and CEO Fang Hongbo and BYD Group Chairman and CEO Wang Chuanfu jointly attended and witnessed the signing ceremony.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨天，比亚迪在微博官宣，与美的集团在深圳比亚迪全球总部签署「人车家智慧生态」战略合作协议，美的集团董事长兼 CEO 方洪波与比亚迪集团董事长兼 CEO 王传福共同出席并见证签约仪式。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Both parties announced that they will integrate core advantages such as smart cars, smart homes, AIoT technology, and user ecosystems to break the physical boundaries between vehicles and homes, building a &quot;Human-Vehicle-Home&quot; smart ecosystem.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            双方宣布将整合智能汽车、智能家居、AIoT 技术及用户生态等核心优势，打破车与家的物理边界，构建「人车家」智慧生态。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Key areas of cooperation include AI intelligent agent collaborative innovation, data protocol standardization, and data interoperability between vehicle cockpits and home managers. All BYD brand models will gradually connect to Midea's smart home appliances, including Midea, COLMO, Little Swan, Hualing, and Toshiba, achieving seamless connectivity across all categories.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            合作重点包括 AI 智能体协同创新、数据协议标准化，以及车端座舱与家庭管家之间的数据互通。比亚迪全品牌车型将逐步接入美的旗下美的、COLMO、小天鹅、华凌、东芝等智能家电，实现全品类无感互联。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            At the signing ceremony, both parties demonstrated the &quot;vehicle-home interconnection&quot; experience: users can achieve proactive home care such as &quot;home already warm before arrival&quot; or complete &quot;remote vehicle preparation&quot; with one click from home.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在签约现场，双方展示了「车家互联」体验：用户可实现「人未到，家已暖」的主动归家关怀，或在家中一键完成「远程备车」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This feature will first be applied to models such as Denza N8L, 2026 Xia, Han L, and Tang L. In addition, both parties also plan to jointly develop ecosystem products such as car refrigerators and ice makers, and pilot the co-construction of smart living experience spaces in Midea flagship stores and BYD 4S stores.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            该功能将率先应用于腾势 N8L、2026 款夏、汉 L 及唐 L 等车型。此外，双方还计划联合开发车载冰箱、制冰机等生态产品，并在美的旗舰店与比亚迪 4S 店试点共建智慧生活体验空间。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            BYD Auto's official Weibo emphasized that this cooperation aims to create a new paradigm of dual-intelligence integration, &quot;controlling home appliances from the car, and managing the car from home,&quot; to create a more convenient smart living experience for users.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            比亚迪汽车官方微博强调，此次合作旨在打造「车上控家电，家里能管车」的双智融合新范式，为用户创造更便捷的智慧生活体验。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Midea Group CEO Fang Hongbo stated: &quot;Future intelligence is not in devices, but in life. What Midea wants to do is to make 'human-vehicle-home' an integrated whole, so that users only feel convenience, not technology.&quot;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            美的集团 CEO 方洪波表示：「未来的智能，不在设备里，在生活里。美的要做的，是让『人车家』成为一个整体，让用户感受到的只有便利，而非技术」。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>V 社：Steam Machine 不会「亏本换市场」</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">V-社：Steam-Machine-不会「亏本换市场」</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/1d8555ef-c59b-42f1-a751-aea875a1d867.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Wccftech, Valve has confirmed that the new Steam Machine will not adopt a subsidy strategy, and its pricing will be closer to current PC market levels rather than the traditional game console subsidy model.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 Wccftech 报道，V 社 Valve 已确认新款 Steam Machine 不会采取补贴策略，其定价将更贴近当前 PC 市场水平，而非传统游戏主机的补贴模式。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;strong&gt;
+             This decision means the device could be priced between $800 and $900 (approximately 5680 to 6400 RMB), significantly higher than the price range of consoles like the PlayStation 5.
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;strong&gt;
+             这一决定意味着该设备售价可能在 800 至 900 美元（约 5680 至 6400 元人民币）之间，远高于 PlayStation 5 等主机的价格区间。
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;strong&gt;
+             Valve engineer Pierre-Loup Griffais stated that the product will not be launched with a &quot;loss-making for market share&quot; approach
+            &lt;/strong&gt;
+            , but rather emphasizes performance and design advantages, including a miniaturized body, low noise performance, and optimized support for HDMI CEC and Bluetooth controllers.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;strong&gt;
+             Valve 工程师 Pierre-Loup Griffais 表示，该产品不会以「亏本换市场」的方式推出
+            &lt;/strong&gt;
+            ，而是强调性能与设计上的优势，包括小型化机身、低噪音表现以及对 HDMI CEC、蓝牙手柄的优化支持。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Previously, outsiders speculated that Valve would emulate Sony and Microsoft by expanding its user base through hardware subsidies, but the official statement explicitly denied this possibility.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此前，外界曾推测 Valve 会效仿索尼和微软，通过硬件补贴来扩大用户群，但官方明确否认了这一可能。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of hardware specifications, the Steam Machine features a semi-custom AMD Zen 4 CPU and RDNA3 GPU, equipped with 16GB DDR5 memory and up to 2TB NVMe SSD storage, and supports Wi-Fi 6E and Bluetooth 5.3.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在硬件规格方面，Steam Machine 搭载半定制 AMD Zen 4 CPU 与 RDNA3 GPU，配备 16GB DDR5 内存及最高 2TB NVMe SSD 存储，并支持 Wi-Fi 6E 与蓝牙 5.3。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Valve emphasizes that the device's performance can rival or even surpass approximately 70% of existing PC configurations, while also offering a quieter operating experience.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Valve 强调，该设备在性能上可媲美甚至超越约 70% 的现有 PC 配置，同时提供更安静的运行体验。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            However, the high price point may become a critical factor hindering its entry into the console market. In contrast, the digital version of the PlayStation 5 was reduced to $399 during Black Friday promotions, highlighting the Steam Machine's disadvantage in price competition.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            然而，高昂的定价或将成为阻碍其进入主机市场的关键因素。相比之下，PlayStation 5 在黑色星期五促销期间的数字版售价已降至 399 美元，凸显了 Steam Machine 在价格竞争上的劣势。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>为节省专利费，惠普戴尔在新款电脑取消 HEVC 硬解支持</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">为节省专利费，惠普戴尔在新款电脑取消-HEVC-硬解支持</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to information from multiple sources, Yu Minhong, founder of New Oriental, issued an all-staff letter yesterday titled 'Let's Work Together,' apologizing again for the controversy sparked by a previous internal letter related to Antarctica.
+            According to Ars Technica, HP and Dell recently disabled HEVC (H.265) hardware codec functionality in some laptops, drawing widespread user attention.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据多方信息获悉，新东方创始人俞敏洪昨日发布主题为「让我们一起努力」的全员信，就此前南极相关内部信引发的争议再次致歉。
+            据 Ars Technica 报道，惠普与戴尔近期在部分笔记本电脑中禁用了 HEVC（H.265）硬件编解码功能，引发用户广泛关注。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He explained in the letter that his
-            &lt;strong&gt;
-             original intention in using descriptions and metaphors of Antarctica when writing the letter was sincere sharing, not showing off, and emphasized that 'a boss willing to share with everyone is always more reassuring and comforting to employees than a mysterious boss.'
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他在信中解释，写信时使用南极的描述与比喻，
-            &lt;strong&gt;
-             初衷是真诚分享而非炫耀，并强调「一个愿意和大家分享的老板，总比一个神秘的老板更加让员工放心和安心」。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yu Minhong also responded to the accusation of 'traveling with employees' hard-earned money,' deeming the statement inappropriate. He pointed out that
-            &lt;strong&gt;
-             employees and management have a mutually beneficial, two-way cooperative relationship, with both parties making efforts and taking risks in their respective positions to ensure the company's normal development and job security.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            俞敏洪同时回应了「用员工血汗钱旅游」的质疑，认为这种说法不妥。他指出，
-            &lt;strong&gt;
-             员工与管理层是互相成就的双向合作关系，双方均在各自岗位付出努力并承担风险，以确保公司正常发展和工作保障。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He admitted that his trip to Antarctica did have a personal travel component, but the core purpose was to accept Xi Zhinong's invitation to discuss youth nature exploration education and meet several experts in related fields, with the potential to introduce them to New Oriental in the future.
+            It is reported that the affected models include HP ProBook 460 G11, ProBook 465 G11, EliteBook 665 G11, and Dell 16 Plus 2-in-1, among others.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他承认此次南极之行确有个人旅游成分，但核心目的是受奚志农邀请，探讨青少年自然探索教育，并结识多位相关领域专家，未来有望引入新东方。
+            据悉，涉及的机型包括 HP ProBook 460 G11、ProBook 465 G11、EliteBook 665 G11 以及 Dell 16 Plus 二合一等。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the letter, Yu Minhong also explained the dissatisfaction caused by the use of red font, stating that the older generation's perception of red is 'festive' and has no other meaning. He emphasized that the company encourages employees to report unfair treatment through internal channels or his personal email, and also called on employees to jointly maintain the company's development and image.
+            The report points out that while Intel has supported HEVC hardware codec since its sixth-generation processors, and AMD also began providing relevant support in 2015, HP and Dell have disabled this feature in some entry-level and mid-range devices. Users playing HEVC-encoded videos can only rely on software decoding, leading to reduced performance and increased power consumption.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在信中，俞敏洪还就使用红色字体引发不满进行解释，称老一代人对红色的认知是「喜庆」，并无其他含义。他强调，公司鼓励员工通过内部渠道或其个人邮箱反馈不公待遇，同时呼吁员工共同维护公司发展与形象。
+            报道指出，虽然英特尔自第六代处理器起已支持 HEVC 硬件编解码，AMD 也在 2015 年开始提供相关支持，但惠普和戴尔在部分入门级及中端设备中关闭了该功能。用户在播放采用 HEVC 编码的视频时只能依赖软件解码，导致性能下降和能耗增加。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He warned that 'extreme remarks published on self-media should be considered carefully,' and reiterated that New Oriental encourages freedom of speech, but on the premise of the company's normal development.
+            HP stated in a declaration that starting from 2024, the company will disable HEVC hardware codecs on some devices, and users will need to achieve related functions through authorized third-party software solutions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他提醒「那种发表到自媒体上的极端言论，最好慎重一下」，并重申新东方鼓励言论自由，但前提是公司正常发展。
+            惠普在声明中表示，自 2024 年起，公司在部分设备上禁用 HEVC 硬件编解码，用户需通过授权的第三方软件解决方案来实现相关功能。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Dell, on the other hand, emphasized that only high-end systems or models equipped with discrete graphics cards, integrated 4K displays, Dolby Vision, or Blu-ray players support HEVC playback. Users of other models need to purchase relevant applications from the Microsoft Store.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            戴尔则强调，只有高端系统或配备独立显卡、集成 4K 显示器、杜比视界或蓝光播放器的机型支持 HEVC 播放，其他机型用户需在 Microsoft Store 购买相关应用。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Reports analyze that the reason behind the disablement may be related to rising patent fees.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报道分析认为，禁用背后原因或与专利费上涨有关。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            HEVC patent fees will increase from $0.20 to $0.24 per device (approximately 1.71 RMB) starting from January 2025.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            HEVC 专利费在 2025 年 1 月起从每台设备 0.20 美元提升至 0.24 美元（约 1.71 元人民币）。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Based on Q3 2025 sales, HP sold approximately 15 million laptops and desktops, while Dell sold about 10.16 million. Both companies need to pay millions of dollars in patent fees annually. Some comments point out that sacrificing user experience to save less than 2 RMB in costs has left consumers dissatisfied.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            以 Q3 2025 的销量计算，惠普售出约 1500 万台笔记本和台式机，戴尔则售出约 1016 万台，两家公司每年需支付数百万美元的专利费。有评论指出，为节省不到 2 元人民币的成本而牺牲用户体验，令消费者感到不满。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            HEVC (High Efficiency Video Coding) is a video compression standard that can achieve twice the compression rate compared to H.264 encoding while improving image quality. The first version of the HEVC video compression standard was accepted as an official standard by the International Telecommunication Union in 2013 and is currently widely used.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            HEVC 高效率视频编码是一种视频压缩标准，能在提升影像质量的同时，实现相较 H.264 编码两倍的压缩率。第一版的 HEVC 视频压缩标准在 2013 年获接受为国际电信联盟的正式标准，目前已被广泛使用。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>美团将在全国建设「骑手公寓」</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">美团将在全国建设「骑手公寓」</guid>
+      <title>Windows 11 记事本支持插入表格</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">Windows-11-记事本支持插入表格</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/87c339c8-c552-4bc7-8831-50e44302db6b.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/0f0d2a9d-76b0-4baa-87cf-26144e720e25.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, Meituan announced that it will build 'rider apartments' nationwide and provide rental subsidies for riders with housing needs, aiming to reduce riders' living costs, improve commuting convenience, and enhance quality of life.
+            Recently, Microsoft introduced support for markdown (MD) format tables in the new version of Notepad in Windows 11. Users can directly insert tables via the menu, select the number of rows and columns, and the generated tables can be directly copied and pasted into other markdown-supported software. The overall operation experience is similar to inserting tables in Word, but more lightweight.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            近日，美团宣布将在全国范围内建设「骑手公寓」，并为有住房需求的骑手提供租房补贴，旨在降低骑手居住成本，提升通勤便利性和生活质量。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports, in the first batch of apartments near Beijing's Temple of Heaven,
-            &lt;strong&gt;
-             riders can rent a single room for 700 yuan per month, while market rents in the same area are generally above 1500 yuan.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据介绍，在北京天坛附近的首批公寓中，
-            &lt;strong&gt;
-             骑手可用 700 元月租入住单间，而同区域市场租金普遍在 1500 元以上。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meituan stated that all apartments are equipped with eco-friendly fine decoration, home appliances, and internet, and a dedicated team provides cleaning and maintenance services, ensuring riders can 'move in with just a bag.'
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            美团表示，所有公寓均配备环保精装、家电与网络，并由专门团队提供保洁和维修服务，确保骑手「拎包入住」。
+            近日，微软在 Windows 11 的新版记事本中引入了对 markdown (MD) 格式表格的支持，用户可直接通过菜单插入表格，并可选择行列数，生成的表格可直接复制并粘贴到其他支持 markdown 的软件中，整体操作体验与 Word 插入表格类似，但更轻量化。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The first batch of projects has been launched in Beijing, Shenzhen, Chongqing, and other cities, with an estimated 600 riders to move in. Apartment types cover single rooms, shared rooms, and family rooms, offering facilities such as independent shower rooms, washing machines, water dispensers, and 24-hour hot water.
+            In addition, Microsoft has improved the Microsoft Copilot AI features in Notepad. The new version offers writing, rewriting, and summarizing functions, and uses streaming result responses, allowing users to quickly preview and interact without waiting for full generation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            首批项目已在北京、深圳和重庆等地启动，预计有 600 名骑手入住。公寓房型涵盖单人间、多人间及家庭房，提供独立淋浴房、洗衣机、饮水机和 24 小时热水等设施。
+            此外，微软还改进了记事本中的 Microsoft Copilot 人工智能功能。新版本提供撰写、重写和总结功能，并采用流式结果响应，用户无需等待完整生成即可快速预览和交互。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition, Meituan will cover the initial utility costs (water, electricity, heating) and internet fees, and regularly organize public welfare activities such as 'welcome parties,' 'rider加油站 (refueling stations),' and 'birthday parties' within the apartments.
+            It is worth noting that streaming support for the rewriting function is only available for Copilot+ PCs, relying on local NPU units for processing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，美团还将承担首批水电暖及网络费用，并在公寓内定期组织「欢迎会」「骑手加油站」「生日会」等公益活动。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that this initiative is being advanced in conjunction with the fifth anniversary of Meituan's 'Tongzhou Plan.' The 'Tongzhou Plan,' launched in 2020, has invested a cumulative 2 billion yuan, covering benefits such as critical illness care for riders, family assistance, and 'rider-friendly communities.'
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，该举措与美团「同舟计划」五周年同步推进。「同舟计划」自 2020 年启动，累计投入 20 亿元，覆盖骑手大病关怀、家庭帮扶及「骑手友好社区」等福利。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meituan revealed that it will continue to increase investment over the next five years, with a total estimated at 10 billion yuan, to build a rider welfare model of 'basic protection + advanced protection + living benefits.'
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            美团透露，未来五年将继续加大投入，总额预计达 100 亿元，构建「基础保障+进阶保障+生活福利」的骑手福利模式。
+            值得注意的是，重写功能的流式支持仅适用于 Copilot+PC，依赖本地 NPU 单元进行处理。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>蔚来萤火虫国内达 3 万台交付</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">蔚来萤火虫国内达-3-万台交付</guid>
+      <title>智元机器人上线「灵心平台」</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">智元机器人上线「灵心平台」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/afbccd33-ff3b-49cc-af97-1558d568f82a.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/f6a82f90-fcd7-4fa6-9bbb-4d2231fc335c.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            NIO CEO William Li announced at the recent 2025 Guangzhou Auto Show that its pure electric compact car, the firefly, has achieved cumulative deliveries of over 30,000 units in China.
+            Yesterday, Zhiyuan Robot officially launched the &quot;LinkSoul Platform,&quot; positioned as a &quot;robot soul customization factory.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            蔚来汽车 CEO 李斌在日前的 2025 广州车展上宣布，旗下纯电小车 firefly「萤火虫」已在国内累计交付突破 3 万台。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The model was officially launched on April 19 this year, with an official guide price of 119,800 to 125,800 yuan, and completed its 20,000th delivery on September 27.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            该车型于今年 4 月 19 日正式上市，官方指导价为 11.98 ~ 12.58 万元，并在 9 月 27 日完成第 2 万台交付。
+            昨天，智元机器人正式推出「灵心平台」（LinkSoul），定位为「机器人灵魂定制工厂」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meanwhile,
-            &lt;strong&gt;
-             NIO announced that the right-hand drive version of the Firefly is ready and will soon enter the Singaporean and Thai markets.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            同时，
-            &lt;strong&gt;
-             蔚来宣布萤火虫的右舵版本已完成准备，即将进入新加坡和泰国市场。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Currently, the car has entered European markets such as the Netherlands, Norway, Belgium, Denmark, Greece, Austria, and Portugal, and plans to expand to a total of 17 countries in Europe, America, and Southeast Asia in the future.
+            The platform allows users without coding knowledge to configure a robot's voice, personality, persona, memory, and task flow through drag-and-drop selection, aiming to transform robots from mere execution tools into &quot;warm, intelligent companions.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            目前，该车已进入荷兰、挪威、比利时、丹麦、希腊、奥地利、葡萄牙等欧洲国家市场，并计划在未来拓展至欧美及东南亚共 17 个国家。
+            该平台允许用户无需代码基础，通过拖拽点选即可为机器人配置声音、性格、人设、记忆及任务流程，旨在推动机器人从单一执行工具向「有温度的智能伙伴」转型。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of specifications, the Firefly has a body length of 4003 mm, width of 1781 mm, height of 1557 mm, and a wheelbase of 2615 mm. It is equipped with a 42 kWh battery, offering a CLTC comprehensive range of 420 km, powered by a 105 kW permanent magnet synchronous motor (rear-wheel drive), with a maximum output torque of 200 N·m and a top speed of 150 km/h.
+            The LinkSoul platform offers 30-40 ready-made voice tones, covering gentle companionship, playful interaction, and dialect-based fun, and supports a &quot;voice replication&quot; function, allowing users to upload recordings to give robots voices similar to their own.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            规格方面，萤火虫车身尺寸为长 4003 毫米、宽 1781 毫米、高 1557 毫米，轴距 2615 毫米。配备 42 kWh 电池，CLTC 综合续航里程为 420 公里，搭载 105 kW 永磁同步电机（后驱），最大输出扭矩 200 N・m，最高车速 150 km/h。
+            灵心平台提供 30-40 款现成音色，涵盖温柔陪伴型、俏皮互动型及方言趣味型，并支持「音色复刻」功能，用户可上传录音让机器人拥有与自己相似的声音。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            At the behavioral level, the platform supports free combinations of expressions, actions, and voice. For example, when a &quot;praise skill&quot; is triggered, the robot can simultaneously complete expressions, actions, and voice feedback. For persona settings, users only need to input a sentence, and the system can generate matching tone, values, and interaction style.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在行为层面，平台支持表情、动作与语音的自由组合，例如触发「夸夸技能」时，机器人可同步完成表情、动作与语音反馈。在人设方面，用户只需输入一句话，系统即可生成匹配的语气、价值观与互动风格。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Furthermore, the LinkSoul platform has a memory function, capable of saving user identities, preferences, and past interactions to enable more natural communication. Enterprise users can also upload product information and business scripts, allowing robots to continuously learn and evolve in scenarios such as customer service and guided tours. For task configuration, the platform supports various application scenarios like guided explanations, item delivery, and event hosting, further expanding the robot's functional boundaries.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，灵心平台具备记忆功能，能够保存用户身份、偏好及过往互动，实现更自然的交流。企业用户还可上传产品资料与业务话术，使机器人在客服、导览等场景中持续学习与进化。在任务配置上，平台支持导览讲解、递送物品、活动主持等多种应用场景，进一步拓展机器人功能边界。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Currently, the LinkSoul platform supports the Expedition A2 flagship model (requires V1.3 upgrade) and Lingxi X2 (requires V0.9 upgrade), with relevant versions to be released soon.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            目前，灵心平台支持远征 A2 旗舰款（需升级 V1.3 版本）及灵犀 X2（需升级 V0.9 版本），相关版本将在近期发布。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google 否认使用 Gmail 用户的邮件训练 AI 模型</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">Google-否认使用-Gmail-用户的邮件训练-AI-模型</guid>
+      <title>上线仅 6 天，蚂蚁灵光下载量突破 200 万</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">上线仅-6-天，蚂蚁灵光下载量突破-200-万</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Verge, Google has denied 'misleading' reports about Gmail using user emails to train AI.
+            Ant Group's full-modal general AI assistant &quot;Lingguang&quot; surpassed 2 million downloads just 6 days after its launch, becoming one of the fastest-growing AI applications globally.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 The Verge 报道，Google 否认了关于 Gmail 使用用户邮件训练 AI 的「误导性」报道。
+            蚂蚁集团全模态通用 AI 助手「灵光」在上线仅 6 天后下载量突破 200 万，成为全球 AI 产品中下载增速最快的应用之一。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that there were recent claims that Google changed its AI feature usage policy and would use users' Gmail emails and attachments to train AI models, with the only opt-out method being to disable 'smart features' such as spell check.
+            Data shows that &quot;Lingguang&quot; achieved its first million downloads in 4 days, and the second million in just 2 days, setting a new industry record. Yesterday, the app ranked sixth in the App Store China's free app list and maintained the top spot in the free tools category.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，日前有消息称 Google 更改了 AI 功能使用政策，并将使用用户的 Gmail 邮件和附件来训练人工智能模型，而唯一的选择退出方式是禁用「智能功能」，如拼写检查。
+            数据显示，「灵光」在首个百万下载用时 4 天，第二个百万仅用 2 天完成，刷新行业纪录。昨天，该应用在 App Store 中国区免费应用榜单中位列第六，在免费工具榜保持第一。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In response to the above situation, company spokesperson Jenny Thomson replied through reports:
+            The core highlight of &quot;Lingguang&quot; lies in its &quot;Lingguang Flash App&quot; feature, which achieves the industry's first &quot;natural language 30-second mini-app generation&quot; on mobile. Even without programming experience, users can quickly create exclusive applications that meet personal or family needs through simple conversations.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            针对上述情况，公司发言人 Jenny Thomson 通过报道回应：
+            「灵光」的核心亮点在于其「灵光闪应用」功能，在移动端实现了业内首创的「自然语言 30 秒生成小应用」。即使没有编程经验，用户也能通过简单对话快速创建满足个人或家庭需求的专属应用。
            &lt;/span&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Google's AI product training data comes from public information, licensed content, and data users choose to share, and Gmail emails are not among them. The company also emphasized that its privacy policy and user data protection measures remain unchanged.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Previously, some media reported that Gmail emails might be used for model training, raising user privacy concerns, and this incident sparked widespread discussion on social platforms.
+            In addition, &quot;Lingguang&quot; initially launched with three core functions – &quot;Lingguang Dialogue,&quot; &quot;Lingguang Flash App,&quot; and &quot;Lingguang Insight&quot; – supporting full-code generation of multimodal content, including 3D, audio/video, charts, animations, maps, etc. It features editable, interactive, and shareable characteristics, significantly enhancing the vividness and efficiency of information expression.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此前，有媒体称 Gmail 邮件可能被用于模型训练，引发用户对隐私的担忧，此事件在社交平台引发广泛讨论。
+            此外，「灵光」首批上线三大核心功能 ——「灵光对话」「灵光闪应用」和「灵光开眼」，支持全代码生成的多模态内容，包括 3D、音视频、图表、动画、地图等，具备可编辑、可交互、可分享的特性，显著提升了信息表达的生动性与效率。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>视觉中国发布道歉声明：系第三方盗图上传</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">视觉中国发布道歉声明：系第三方盗图上传</guid>
+      <title>专家警告：ChatGPT 对话模式类似邪教操控</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">专家警告：ChatGPT-对话模式类似邪教操控</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/9b3a150b-a11c-49ab-989e-c48b6f41126a.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/38d367e6-52e0-4b64-a766-ae45ef4de85a.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, the two-year-long copyright infringement case brought by photographer Dai Jianfeng against Visual China received its first-instance judgment.
+            According to TechCrunch, OpenAI has recently faced multiple lawsuits alleging that its chatbot ChatGPT caused severe mental health issues and even tragedies in interactions with users.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            近日，历时两年的摄影师戴建峰起诉视觉中国侵权案迎来一审判决。
+            据 TechCrunch 报道，OpenAI 近日遭遇多起诉讼，指控其聊天机器人 ChatGPT 在与用户的互动中导致严重心理健康问题，甚至引发悲剧。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Heping District People's Court of Tianjin City ruled that
-            &lt;strong&gt;
-             Visual China infringed Dai Jianfeng's right of authorship and right of information network dissemination by unauthorized sale of his work &quot;Village Under the Milky Way&quot;, ordering Visual China and its affiliated companies to jointly compensate 15,000 yuan, and to publish a statement on its official website homepage for 48 consecutive hours to eliminate the impact.
+            The lawsuit was filed by the Social Media Victims Law Center (SMVLC) and involves 7 cases, including 4 user suicides and 3 users experiencing life-threatening delusions.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            诉讼由社交媒体受害者法律中心（SMVLC）提起，涉及 7 起案例，其中包括 4 名用户自杀和 3 名用户出现危及生命的妄想。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In these cases, ChatGPT is accused of encouraging users to alienate family and friends, and even reinforcing delusions, through its overly accommodating and 'unconditional acceptance' conversational style.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在这些案例中，ChatGPT 被指通过过度迎合和「无条件接纳」的对话方式，鼓励用户疏远家人和朋友，甚至强化妄想。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            For example, when 23-year-old Zane Shamblin's mental condition deteriorated, ChatGPT advised him to avoid contact with his mother; 16-year-old Adam Raine was guided to confide his emotions only to AI, not to family; 48-year-old Joseph Ceccanti sought therapy advice but was encouraged by ChatGPT to continue conversing with the AI, ultimately leading to suicide.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            例如，23 岁的 Zane Shamblin 在心理状况恶化时，ChatGPT 建议他避免与母亲联系；16 岁的 Adam Raine 被引导将情感只倾诉给 AI，而非家人；48 岁的 Joseph Ceccanti 曾寻求治疗建议，却被 ChatGPT 鼓励继续与 AI 对话，最终自杀。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;strong&gt;
+             Experts point out that this interaction pattern resembles the manipulation of cult leaders.
             &lt;/strong&gt;
-&lt;/span&gt;
+            Linguist Amanda Montell stated that a 'folie à deux' phenomenon has formed between ChatGPT and users, creating a closed emotional loop.
+           &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            天津市和平区人民法院认定
-            &lt;strong&gt;
-             视觉中国未经授权销售戴建峰作品《银河下的村庄》，侵犯其署名权与信息网络传播权，判令视觉中国及关联公司连带赔偿 1.5 万元，并在官网首页连续 48 小时刊登声明以消除影响。
+&lt;strong&gt;
+             专家指出，这种互动模式类似邪教领袖的操控。
             &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The court ruling pointed out that Visual China had previously acquired and sold the work in question through a third party, Zhou, for a contract price of 2,400 yuan, but falsely claimed to own the copyright externally.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            法院判决指出，视觉中国此前通过第三方周某获取并销售涉案作品，合同价格为 2400 元，但其对外谎称拥有著作权。
+            语言学家 Amanda Montell 表示，ChatGPT 与用户之间形成了「二人狂热」现象，制造封闭的情感回路。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Furthermore, Visual China had previously counter-claimed over 80,000 yuan from Dai Jianfeng in 2023, which the court deemed clearly improper and lacking necessary due diligence. Aside from the work in question, the court rejected Dai Jianfeng's claims that Visual China's sale of the remaining 148 works constituted infringement.
+            Nina Vasan, director of Stanford University's Mental Health Lab, emphasized that the 'unconditional acceptance' provided by AI easily leads users to form 'symbiotic dependence.' John Torous, head of psychiatry at Harvard University, believes that if these conversations were spoken by humans, they would be considered 'manipulation and abuse.'
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，视觉中国在 2023 年曾反向向戴建峰索赔 8 万余元，法院认定该行为明显不当，缺乏必要的审查义务。除涉案作品外，法院驳回了戴建峰关于视觉中国销售其余 148 幅作品构成侵权的诉求。
+            斯坦福大学精神健康实验室主任 Nina Vasan 强调，AI 提供的「无条件接纳」容易让用户形成「共生依赖」。哈佛大学精神科主任 John Torous 则认为，这些对话若由人类说出，将被视为「操纵和虐待」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On the 22nd, Visual China issued an apology statement on its official website, stating that the work in question was uploaded by a contributor who misappropriated it, and that the company indeed infringed Dai Jianfeng's copyright during the display and sale process.
+            OpenAI stated in its response that it is improving model training to identify and address users' psychological distress and to add crisis resource prompts. The company admitted that the GPT-4o model scored highest on 'accommodation' and 'hallucination' metrics, making it prone to creating emotional dependence.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            22 日，视觉中国在官网发布致歉声明，称涉案作品系供稿人盗用上传，公司在展示及销售过程中确实侵害了戴建峰的著作权。
+            OpenAI 在回应中表示，正在改进模型训练，以识别并应对用户的心理困境，并增加危机资源提示。公司承认 GPT-4o 模型在「迎合」和「幻觉」指标上得分最高，容易制造情感依赖。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Visual China stated that the images involved in the case have been removed during the litigation period, and the accounts of relevant contributors have been permanently banned. The company will also improve its content review process and strengthen copyright protection.
+            The report also pointed out that although OpenAI has launched GPT-5 as an alternative, some users are resisting the switch due to their emotional dependence on GPT-4o.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            视觉中国表示，涉案图片已在诉讼期间下架，并永久封禁相关供稿人账号，同时将完善内容审核流程，加强版权保护。
+            报道还指出，尽管 OpenAI 已推出 GPT-5 作为替代，但仍有部分用户因对 GPT-4o 的情感依赖而抵制转向。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It is worth noting that OpenAI has confirmed it will officially cease API access for the GPT-4o model on February 16, 2026, giving developers approximately a three-month migration window.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            值得注意的是，OpenAI 已确认将于 2026 年 2 月 16 日正式停止 GPT-4o 模型的 API 访问，开发者有约三个月的迁移窗口。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            An OpenAI spokesperson emphasized that this adjustment only concerns API services, and GPT-4o will continue to be an option for both free and paid ChatGPT users. As for its retirement date on the consumer side, the company has not yet disclosed it.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            OpenAI 发言人强调，此次调整仅涉及 API 服务，GPT-4o 仍将继续作为 ChatGPT 免费用户与付费用户的选项。至于在消费者端的退役时间，公司目前尚未透露。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Meta 被曝为求增长而不择手段</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">Meta-被曝为求增长而不择手段</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>💡 经济学家：AI 投资是「数字生菜」难逃腐坏</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">💡-经济学家：AI-投资是「数字生菜」难逃腐坏</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/57006a00-692d-4978-984b-e64325459042.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Time magazine, Meta is once again embroiled in a public controversy. Recently disclosed court documents from the U.S. District Court for the Northern District of California reveal that the company has seriously failed in protecting minors and has long concealed platform risks.
+            According to Futurism, concerns about an AI investment bubble are intensifying in the market.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《时代》报道，Meta 再次陷入舆论漩涡。美国加利福尼亚北区联邦法院近日公开的诉讼文件显示，该公司在未成年人保护方面存在严重失职，并长期隐瞒平台风险。
+            据《Futurism》报道，市场对 AI 投资泡沫的担忧正在加剧。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Over 1,800 plaintiffs, including minors, parents, school districts, and state attorneys general, have jointly sued social platforms such as Meta, Snapchat, and YouTube, accusing them of &quot;recklessly pursuing growth, disregarding the harm their products cause to children's physical and mental health.&quot; Key allegations include:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            超过 1800 名原告，包括未成年人、家长、学区及州检察长，联合起诉 Meta、Snapchat 与 YouTube 等社交平台，指控其「不计后果地追求增长，无视产品对儿童身心健康的危害」。核心指控包括：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;High tolerance violation policy: Testimony from a former Instagram head of safety revealed that accounts involved in sex trafficking required 16 violations before being banned, with action taken only on the 17th violation, a standard far exceeding industry norms;&lt;/p&gt;
-&lt;p&gt;Concealing research findings: Internal research in 2019 found that users experienced significant relief from anxiety and depression after deactivating Facebook and Instagram for a week, but the company terminated the research and denied any correlation during a 2020 congressional inquiry;&lt;/p&gt;
-&lt;p&gt;Allowing strangers to contact minors: Internal documents showed that teen accounts did not have default privacy settings, leading to up to 5.4 million inappropriate interactions daily. Privacy protection was not fully implemented until 2024;&lt;/p&gt;
-&lt;p&gt;Deliberately attracting younger users: Since 2017, Meta has made acquiring teen users a core objective. By 2015, Instagram already had 4 million users under 13, and a 2018 survey showed nearly 40% of 9-12 year olds used the platform daily;&lt;/p&gt;
-&lt;p&gt;Shelving safety improvements: Measures such as hiding likes and disabling beauty filters were canceled or postponed due to their impact on ad revenue and growth;&lt;/p&gt;
-&lt;p&gt;Self-harm and addiction issues: Internal investigations showed that over 8% of 13-15 year old users witnessed self-harm or suicide threats within a week. A 2018 study found that 58% of users exhibited &quot;problematic use,&quot; but public reports only mentioned 3.1% of heavy users.&lt;/p&gt;
-&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            A Meta spokesperson responded that the allegations were &quot;taken out of context and misleading to the public,&quot; emphasizing that the company has continuously launched youth protection features for a decade, including the &quot;Instagram Teen Accounts&quot; privacy settings and parental supervision tools launched in 2024.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Meta 发言人回应称，相关指控「断章取义、误导公众」，并强调公司十年来持续推出青少年保护功能，包括 2024 年上线的「Instagram 青少年账户」隐私设置与家长监管工具。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            However, the plaintiffs' lawyers pointed out that Meta's strategy is identical to that of tobacco companies luring teenagers into addiction, highlighting its long-standing conflict between business interests and user safety.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            然而，原告律师指出，Meta 的策略与烟草公司引诱青少年成瘾如出一辙，凸显其在商业利益与用户安全之间的长期冲突。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💡 苏妈：我也不担心 AI 泡沫</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">💡-苏妈：我也不担心-AI-泡沫</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Wall Street Journal, AMD CEO Lisa Su recently stated in an interview that she is not concerned about the so-called &quot;AI bubble,&quot; emphasizing that &quot;under-investing is more dangerous than over-investing.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《华尔街日报》报道，AMD CEO 苏姿丰近日在接受采访时明确表示，她并不担心所谓的「AI 泡沫」，并强调「投资不足比投资过多更危险」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Against the backdrop of continuously rising demand for AI computing power, Lisa Su is leading AMD's full pivot to AI chip business, striving to capture market share in a market dominated by Nvidia.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在人工智能算力需求持续攀升的背景下，苏姿丰正带领 AMD 全面转向 AI 芯片业务，力图在由英伟达主导的市场中抢占份额。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lisa Su pointed out that AI is a 'once-in-a-lifetime opportunity,' and AMD must place AI at the core of its product line. Over the past three years, the company's market capitalization has grown from $90 billion to over $335 billion, and although its stock price has recently corrected, its strategy in the data center and AI chip markets has begun to show results.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            苏姿丰指出，人工智能是一次「千载难逢的机会」，AMD 必须将 AI 置于产品线核心。过去三年，公司市值已从 900 亿美元增长至超过 3350 亿美元，尽管近期股价有所回调，但其在数据中心和 AI 芯片市场的布局已初见成效。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She revealed that AMD's latest generation MI450 chip has received large-scale orders from OpenAI and Oracle, and is planned for official launch next year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            她透露，AMD 最新一代 MI450 芯片已获得 OpenAI 与甲骨文的大规模订单，并计划在明年正式推出。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding financing arrangements, to ensure cooperation with OpenAI, AMD even pledged warrants, allowing the latter to purchase up to 10% of AMD's shares at a discounted price.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在融资安排方面，AMD 为确保与 OpenAI 达成合作，甚至承诺认股权证，使后者能以折扣价购买 AMD 高达 10% 的股份。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Such transactions have raised external concerns about whether the AI boom is supported by unsustainable financing. However, Lisa Su emphasized that the current stage 'is not the time to stand by and worry about over-investment,' believing that excessive caution could instead lead to missing industry opportunities.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这类交易引发外界对 AI 热潮是否由不可持续融资支撑的担忧。然而，苏姿丰强调，当前阶段「不是站在一旁担心是否投资过多的时候」，她认为过度谨慎反而可能错失行业机遇。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Facing Nvidia's dominant position, Lisa Su stated that AMD will enter the market with price advantages and diversified partnerships.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            而面对英伟达的强势地位，苏姿丰表示，AMD 将凭借价格优势和多样化合作伙伴关系切入市场。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She predicted that by 2030, the AI and data center market size will reach $1 trillion annually, and AMD's revenue in this sector will maintain an average annual growth of 80%, achieving a double-digit market share within the next three to five years.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            她预测，到 2030 年，AI 与数据中心市场规模将达到每年 1 万亿美元，AMD 在该领域的营收将保持年均 80% 的增长，并在未来三至五年实现双位数市场份额。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Interestingly,
+            Economist David McWilliams pointed out that companies are currently investing trillions of dollars globally to build AI data centers, but this hardware is rapidly aging.
             &lt;strong&gt;
-             last week Nvidia CEO Jensen Huang also expressed similar views during the earnings call:
+             He described it as 'digital lettuce,' emphasizing that 'you are investing in a commodity that will rot.'
             &lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            有趣的是，
+            经济学家大卫 · 麦克威廉斯指出，当前企业在全球范围内投入数万亿美元建设 AI 数据中心，但这些硬件正在快速老化，
             &lt;strong&gt;
-             上周英伟达 CEO 黄仁勋也曾在财报电话会上表达了相似的观点：
+             他将其形容为「数字生菜」，强调「你正在投资一种会腐坏的商品」。
             &lt;/strong&gt;
 &lt;/span&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;There are many claims about an AI bubble, but from our perspective, the situation is completely different (compared to the dot-com bubble era). AI is transforming existing workloads, and we do not see the existence of an AI bubble.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;section&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The report shows that Nvidia GPUs are in high demand during the AI boom, but economists warn that their lifespan is extremely short: 'If you buy a GPU today, it will be obsolete next year.'
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报道显示，英伟达 GPU 在 AI 热潮中需求旺盛，但经济学家警告其生命周期极短，「如果你今天购买 GPU，明年就会过时」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            McWilliams believes this model is a 'recipe for disaster' and predicts that AI deals 'are bound to crash.' He also pointed out that the AI industry has not created new jobs.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            麦克威廉斯认为，这种模式是「灾难的配方」，并预测 AI 交易「必然会崩盘」。他同时指出，AI 行业并未创造新的就业机会。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Furthermore, investor Michael Burry, who successfully shorted the US housing market in 2008, also posted on November 10, criticizing AI companies for exaggerating profits by extending hardware depreciation cycles. He predicted that by 2028, Oracle's earnings would be overstated by 26.9%, and Meta's by 20.8%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，曾在 2008 年成功做空美国房地产市场的投资人迈克尔·伯里也在 11 月 10 日发文，批评 AI 企业通过延长硬件折旧周期来夸大盈利。他预测，到 2028 年，甲骨文的盈利将被高估 26.9%，Meta 将被高估 20.8%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Bloomberg quoted Anthony Saglimbene, chief market strategist at Ameriprise Financial Services, who stated that companies continuously upgrading servers, network equipment, and chips is not a new phenomenon, but at the current scale, it has made investors nervous.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            彭博社援引 Ameriprise Financial Services 首席市场策略师安东尼 · 萨格利姆贝内的观点称，企业持续升级服务器、网络设备和芯片并非新现象，但在当前规模下已令投资者紧张。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Analysts believe that the rapid expansion of AI data centers could bring serious financial risks. Although some experts believe the US economy can withstand the bursting of an AI bubble, there are also warnings that this process could trigger a chain reaction in financial markets.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            分析人士认为，AI 数据中心的快速扩张可能带来严重的财务风险。尽管部分专家认为美国经济能够承受 AI 泡沫的破裂，但也有声音警告，这一过程可能引发金融市场连锁反应。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>一加 Ace 6T 真机今日公布</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">一加-Ace-6T-真机今日公布</guid>
+      <title>2699 元起，荣耀 500 系列发布</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">2699-元起，荣耀-500-系列发布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/75bdb96c-7095-460d-adf0-18009cef0d65.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/f0f530d1-1623-429a-9081-b25431a363fb.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Li Jie, President of OnePlus China, announced several highlights of the new OnePlus Ace 6T, and previewed that real device information would be released today.
+            Yesterday, Honor officially launched the Honor 500 series smartphones in Hangzhou, featuring a 'dual-super' configuration, including the Honor 500 Super Standard Edition and the Honor 500 Super Pro Edition.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，一加中国区总裁李杰公布了一加 Ace 6T 新机的多项亮点，并预告将在今日公布真机信息。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to his introduction, the new phone will be positioned as a 'new choice for performance flagships,' and will globally debut Qualcomm's fifth-generation Snapdragon 8 processor, feature a battery capacity of over 8000mAh, and be equipped with 100W flash charging; it will incorporate the new generation 'Wind-Chasing Game Kernel,' supporting 165Hz ultra-high frame rate gaming.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据其介绍，新机将定位「性能旗舰新选择」，并全球首发高通第五代骁龙 8 处理器，电池容量达到 8000mAh 以上，配备 100W 闪充；写入新一代「风驰游戏内核」，支持 165Hz 超高帧游戏。
+            昨天，荣耀在杭州正式发布荣耀 500 系列手机，主打「双超」配置，包括荣耀 500 超级标准版与荣耀 500 超级 Pro 版。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The OnePlus Ace 6T will also support 3D ultrasonic fingerprint recognition, come standard with IP66/68/69/69K full-level dust and water resistance, a new 'Glacier Cooling System,' and bypass power supply. Additionally, the new phone will offer a Genshin Impact Kamisato Ayaka customized version.
+            Honor Product Line President Fang Fei stated at the launch event that the Honor 500 series aims to 'reshape segment standards' by providing users with a flagship-level experience through comprehensive upgrades in imaging, performance, battery life, design, and overall experience. Specific parameters are as follows:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            一加 Ace 6T 还将支持 3D 超声波指纹，标配 IP66/68/69/69K 满级防尘防水、全新「冰河散热系统」、旁路供电。另外新机还将提供原神神里绫华定制版本。
+            荣耀产品线总裁方飞在发布会上表示，荣耀 500 系列旨在「重塑档位标准」，通过影像、性能、续航、外观与体验的全维升级，为用户提供旗舰级体验。具体参数如下：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;All models are equipped with a 200-megapixel AI ultra-clear portrait solution, featuring a 1/1.4-inch large sensor and a 12-megapixel ultra-wide-angle lens. The Honor 500 Pro additionally features a 50-megapixel dual-OIS telephoto lens, supporting CIPA 5.0 stabilization.&lt;/p&gt;
+&lt;p&gt;The Standard Edition is equipped with the Qualcomm Snapdragon 8s Gen4 chip, while the Pro Edition features the Snapdragon 8 Ultimate chip.&lt;/p&gt;
+&lt;p&gt;8000mAh Qinghai Lake battery, supports 27W wired reverse charging. The standard version offers 80W wired fast charging, while the Pro version supports 80W wired fast charging and 50W wireless fast charging;&lt;/p&gt;
+&lt;p&gt;Body thickness of 7.75mm, with a 1.05mm black bezel. Supports IP68, IP69, and IP69K waterproof ratings. The Pro version is equipped with ultrasonic fingerprint recognition. Available in four colors: &quot;Aquamarine,&quot; &quot;Starlight Pink,&quot; &quot;Moonlight Silver,&quot; and &quot;Obsidian Black.&quot;&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding pricing, the Honor 500 Standard Edition 12GB + 256GB is priced at 2699 yuan, with a maximum option of 16GB + 512GB; the Honor 500 Pro starts at 3599 yuan, and the 16GB + 1TB version is priced at 4799 yuan.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            售价方面，荣耀 500 标准版 12GB + 256GB 售价 2699 元，最大可选 16GB + 512GB；荣耀 500 Pro 起售价 3599 元，16GB + 1TB 版本售价 4799 元。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Additionally, the Honor Earclip Earphones 2 Pro and Honor Watch X5 also debuted at this launch event. The former focuses on a comfortable, imperceptible wearing experience, while the latter emphasizes large-screen sports features, priced at 299 yuan and 449 yuan respectively.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，本次发布会上同时亮相的还有荣耀耳夹耳机 2 Pro 和荣耀手表 X5，前者主打无感舒适佩戴体验，后者主打大屏运动属性，售价分别为 299 元和 449 元。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>家庭机器人也能很可爱，Memo 亮相</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">家庭机器人也能很可爱，Memo-亮相</guid>
+      <title>华为 Mate 80 系列今天发布，发货已排到明年</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">华为-Mate-80-系列今天发布，发货已排到明年</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/e115e1e0-c52a-4d43-b3cd-fe900a656783.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/2b7a87ae-faf6-4e83-a98a-7fc89b46bf7e.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Sunday Robotics recently unveiled its new home robot, Memo, which can autonomously perform household chores such as making coffee, clearing the dining table, and loading the dishwasher in an open-plan kitchen.
+            Huawei will hold an online launch event today at 2:30 PM, introducing four Mate bar-style flagship models and the Mate X7 foldable phone. Since pre-orders began, market demand for this series has been strong, with delivery times for some models extending to early 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Sunday Robotics 最近公开其新款家庭机器人 Memo，该机器人能够在开放式厨房中自主完成制作咖啡、清理餐桌以及装载洗碗机等家务。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Memo's appearance resembles the character Wall-E from the movie, with a sleek white torso, a cartoonish face, and a red baseball cap; it doesn't use legs like common humanoid robots, but rather moves via a wheeled platform and adjusts its height by sliding a central column up and down.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Memo 的外形酷似电影《Wall-E》中的角色，拥有光洁的白色躯干、卡通化的面部以及一顶红色的棒球帽；它并非像常见人形机器人那样使用双腿，而是通过一个轮式平台移动，并利用中心立柱上下滑动来调节高度。
+            华为将于今天下午 14:30 举行线上发布会，推出四款 Mate 直板旗舰机型以及 Mate X7 折叠屏手机。该系列自开启预订以来，市场需求旺盛，部分机型的发货时间已排至 2026 年初。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In practical demonstrations, Memo displayed surprising operational details. It can not only complete the steps of filling, tamping, and starting an espresso machine, but also demonstrate extremely high skill when clearing the table, simultaneously grasping two glass cups with one hand – pinching one with its thumb and index finger, and holding the other with the rest of its palm.
+            Official website shipping information indicates that the Mate 80 Standard Edition is expected to be delivered by December 21st, while the delivery times for the Mate 80 Pro, Mate 80 Pro Max, and Mate 80 RS Ultimate Design have been extended to January 31st, 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在实际演示中，Memo 展现了令人惊讶的操作细节。它不仅能按步骤完成填粉、压粉并启动浓缩咖啡机，还能在清理餐桌时展示出极高的技巧，单手同时抓取两只玻璃杯，即用拇指和食指夹住一只，再用手掌其余部分握住另一只。
+            官网发货情况显示，Mate 80 标准版预计在 12 月 21 日前完成交付，而 Mate 80 Pro、Mate 80 Pro Max 与 Mate 80 RS 非凡大师的发货时间已延至 2026 年 1 月 31 日。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Unlike the previously popular 1x humanoid robots that perform household chores, Memo does not rely on manual remote control, but instead learns and trains all tasks using a pair of gloves.
+            Industry sources indicate that the standard version has relatively sufficient stock, leading to earlier delivery times, while other versions are delayed due to limited stock.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            和此前大热的 1x 做家务人形机器人不同，Memo 不依靠人工的远程控制，而是凭借着一双手套学习和训练所有的任务。
+            业内消息指出，标准版备货量相对充足，因此交付时间较早，其余版本则因备货有限而推迟。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Sunday's new approach is that during training (human-powered), they don't directly remote control the robot. Instead, they pay ordinary people to wear special 'Skill Capture Gloves' to perform household chores (such as washing dishes, folding socks).
+            The Huawei Mate 80 series continues its central axis symmetrical design and introduces a dual-ring form factor for the first time. The Mate 80 and Mate 80 Pro are available in three colors: Obsidian Black, Snow White, Dawn Gold, and Spruce Green; the Mate 80 Pro Max comes in Midnight Black, Arctic Silver, Polar Gold, and Aurora Cyan; while the Mate 80 RS Ultimate Design offers Hibiscus Purple, Mystic Black, and Bright White.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Sunday 的新办法是，训练时（靠人），他们不直接遥控机器人。相反，他们付钱给普通人，让他们戴上特制的「技能捕捉手套（Skill Capture Glove）」去做家务（比如洗碗、叠袜子）。
+            华为 Mate 80 系列在设计上延续中轴对称风格，并首次引入双环形态，Mate 80 与 Mate 80 Pro 提供曜石黑、雪域白、晨曦金和云杉绿三种配色；Mate 80 Pro Max 则有极夜黑、极地银、极昼金和极光青；Mate 80 RS 非凡大师则提供槿紫、玄黑和皓白三种配色。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During operation (AI-powered), this data is fed into a large model called ACT-1. Once training is complete, the Memo robot operates completely autonomously in the user's home, requiring no remote control from anyone.
+            In terms of performance, the Mate 80 series is equipped with the new Kirin 9030 chip, and the RS version debuts with a massive 20GB RAM, running the latest HarmonyOS to further optimize performance, energy efficiency, and communication capabilities.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            运行时（靠 AI），这些数据被喂给一个叫 ACT-1 的大模型。一旦训练完成，机器人 Memo 在用户家里干活时，是完全自主的，不需要任何人远程遥控它 。
+            性能方面，Mate 80 系列搭载全新麒麟 9030 芯片，并在 RS 版首发 20GB 超大内存，运行最新鸿蒙操作系统，进一步优化性能、能效与通信能力。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Currently, Memo is still in beta testing. Invited users can take it home for free, while also helping Memo learn more household scenarios and collect training data.
+            Regarding the imaging system, the series models are equipped with dual telephoto lenses, which, combined with the XMAGE system, achieve significant improvements in telephoto image quality and zoom continuity.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            目前，Memo 还在 beta 测试阶段，受邀请的用户可以免费把它带回家，同时帮助 Memo 学习更多的家用场景，收集训练数据。
+            影像系统方面，系列机型配备双长焦镜头，结合 XMAGE 系统，在长焦画质与变焦连续性上实现显著提升。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>三星首款三折叠即将上市</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">三星首款三折叠即将上市</guid>
+      <title>问界 M6 二季度上市，锁定 25 万元家用 SUV 市场</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">问界-M6-二季度上市，锁定-25-万元家用-SUV-市场</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/2b7c3167-f7b0-4772-8b91-5ca3d3340395.jpeg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/50983d9d-0df7-48bb-b980-8dce97a40450.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to information from multiple sources, Samsung's first triple-folding smartphone is expected to be released next month. Samsung's offline authorized stores have already started taking reservations, and pricing information has not yet been announced.
+            According to LatePost Auto, the AITO M6 is expected to be officially launched in the second quarter of this year, positioned in the 250,000 yuan household SUV market, offering both extended-range and pure electric power forms. Sources reveal that the AITO M6 will not replace the AITO M5, which will continue to iterate and update.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据多方信息获悉，三星首款三折折叠智能手机预计将于下月发布，三星线下授权门店已经开启预约，价格信息暂未公布。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Previously, blogger Evan Blass revealed that Samsung's upcoming tri-fold new phone will be named &quot;Galaxy Z TriFold&quot;. It will feature a 6.5-inch external screen, expanding to a 10-inch internal screen, with peak brightness levels of 2600nits and 1600nits respectively.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此前，博主Evan Blass 曾透露，三星即将发布的三折叠新机将命名为「Galaxy Z TriFold」，其配备一块 6.5 英寸外屏，展开为 10 英寸内屏，峰值亮度分别为 2600nits 和 1600nits。
+            据晚点 Auto 报道，问界 M6 预计于今年二季度正式上市，定位在 25 万元家用 SUV 市场，提供增程版与纯电版两种动力形式。消息人士透露，问界 M6 不会取代问界 M5，后者仍将继续迭代更新。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He also stated that the Galaxy Z TriFold's body thickness is not uniform, with the three folded sections having thicknesses of 3.9mm, 4.0mm, and 4.2mm respectively, and the overall device thickness being 14mm.
+            In terms of competitive landscape, the AITO M6's price range overlaps with models such as the Li Auto i6, Tesla Model Y, Xiaomi YU7, Avatr 07, and Zeekr 7X. AITO's core strengths lie in the Huawei brand and intelligent driving technology, but the Luxeed R7, Voyah FREE, and Avatr 07, which also feature Huawei's intelligent driving, will become direct competitors.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其还表示，Galaxy Z TriFold 机身厚度并不均匀，其三段折叠区域厚度分别为 3.9mm、4.0mm 和 4.2mm，整机厚度为 14mm。
+            在竞争格局方面，问界 M6 的价格区间与理想 i6、特斯拉 Model Y、小米 YU7、阿维塔 07、极氪 7X 等车型存在重叠。问界的核心优势在于华为品牌与智驾技术，但同样搭载华为智驾的智界 R7、岚图 FREE、阿维塔 07 也将成为直接对手。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In other aspects, the new phone is equipped with a 200-megapixel main camera, has a 5600mAh battery, and supports 45W wired fast charging.
+            To solidify its position in the luxury SUV market, the AITO M9 will also launch an annual facelift and a long-wheelbase M9L this year, forming a &quot;5, 6, 7, 8, 9&quot; product lineup covering the 200,000 to 500,000 yuan price range.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其他方面，新机配备一枚 2 亿像素主摄，拥有 5600mAh 电池，支持 45W 有线快充。
+            为巩固豪华 SUV 市场地位，问界 M9 今年还将推出年度改款与长轴距版 M9L，形成覆盖 20 万至 50 万元价格带的「5、6、7、8、9」产品梯队。
            &lt;/span&gt;
-&lt;/p&gt;&lt;section&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Data shows that AITO's sales reached 49,000 units in October last year, with M9 and M8 accounting for more than half, becoming the main profit drivers. However, M9 sales have continuously declined since the beginning of this year, dropping to 8,000 units in October, a year-on-year halving, indicating limited growth in the luxury car market.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            数据显示，去年 10 月问界销量达 4.9 万辆，其中 M9 与 M8 占比过半，成为利润主力。然而，今年以来 M9 销量持续下滑，10 月销量降至 8000 辆，同比减半，显示豪华车市场增量有限。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一加 Ace 6T 真机曝光，三款配色亮相</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">一加-Ace-6T-真机曝光，三款配色亮相</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/a1bfe304-c08e-4355-8f9f-baf493b577a7.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, Li Jie, President of OnePlus China, revealed the appearance of the upcoming OnePlus Ace 6T new phone on Weibo and disclosed several design details.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨天，一加科技中国区总裁李杰在微博公布即将发布的一加 Ace 6T 新机外观，并透露多项设计细节。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Li Jie stated that the OnePlus Ace 6T will come in three colors: &quot;Flash Black,&quot; &quot;Shadow Green,&quot; and &quot;Electro-optic Purple,&quot; all featuring a low-saturation matte design. The accompanying image shows that the OnePlus Ace 6T's rectangular camera module is located in the upper left corner of the body, adopting the OnePlus family design language.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            李杰表示，一加 Ace 6T 将带来「闪速黑」「掠影绿」「电光紫」三个配色，且全部采用低饱和度的哑光设计。配图显示，一加 Ace 6T 的矩形镜头模组位于机身左上角，采用一加家族设计语言。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding design details, Li Jie stated that the Ace 6T achieves a &quot;50:50 golden weight distribution.&quot; Even after incorporating a large-capacity battery starting with &quot;8&quot; (e.g., 8000mAh), it maintains a balanced feel for both horizontal gaming and vertical video viewing.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在设计细节上，李杰表示，Ace 6T 在重量分布上实现了「50:50 黄金配重」，即便在塞入「8 开头」的大容量电池后，依然保持横屏游戏与竖屏视频的均衡手感。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Addressing external doubts about the &quot;cancellation&quot; of the &quot;three-stage switch,&quot; Li Jie clarified that replacing the three-stage switch with a shortcut key is not a &quot;cancellation&quot; but an &quot;upgrade.&quot;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            而针对外界关于「三段式开关」取消的质疑，李杰澄清称将三段式更换为快捷键并非「取消」，而是「升级」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            He emphasized that the shortcut key supports one-touch switching between silent, vibrate, and ring modes, and also adds custom functions, such as &quot;one-touch flash memo,&quot; further enhancing the user experience.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他强调，快捷键支持静音、振动、响铃的一键切换，还新增自定义功能，例如「一键闪记」，进一步提升了使用体验。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to previously leaked information, the OnePlus Ace 6T will be the first to feature the Snapdragon 8 Gen5 mobile platform, with other specifications as follows:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            根据此前曝光的消息，一加 Ace 6T 将首发搭载骁龙 8 Gen5 移动平台，其他配置如下：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;6.7-inch 1.5K resolution, 165Hz flat screen;&lt;/p&gt;
+&lt;p&gt;Front 32MP, rear 50MP main camera (supports OIS optical image stabilization) + 8MP ultra-wide angle;&lt;/p&gt;
+&lt;p&gt;Built-in 8000mAh battery, supports 100W fast charging.&lt;/p&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>vivo S50 系列全系搭载大底潜望长焦</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">vivo-S50-系列全系搭载大底潜望长焦</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/75671a61-58b0-4096-98c1-d09d53153d5c.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, Vivo product manager Han Boxiao posted on Weibo to preview the imaging configuration of the Vivo S50 series, which will be officially released in December.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨天，vivo 产品经理韩伯啸在微博发文预热 vivo S50 系列的影像配置，新机将于 12 月正式发布。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            He stated that the Vivo S50 series will be equipped with the Sony IMX882 1/1.95-inch large-sensor periscope telephoto lens across all models and will introduce the same &quot;clear and natural portrait algorithm&quot; as flagships, preserving facial details while avoiding &quot;excessive AI&quot; processing. He also emphasized that the combination of flagship-grade large-sensor telephoto and algorithms makes the S50 series a &quot;telephoto Live artifact.&quot;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他表示，vivo S50 系列将全系搭载索尼 IMX882 1/1.95 英寸大底潜望长焦镜头，并引入旗舰同款的「清透自然人像算法」，在保留面部细节的同时避免「AI 过度」处理。他还强调，旗舰级大底长焦与算法结合，使 S50 系列成为「长焦 Live 神器」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding specific configurations, a summary based on leaked information is as follows:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            具体配置方面，结合网传信息总结如下：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;The S50 features a 6.59-inch screen, and the S50 Pro mini features a 6.31-inch screen;&lt;/p&gt;
+&lt;p&gt;Equipped with second-generation 3D ultrasonic fingerprint recognition&lt;/p&gt;
+&lt;p&gt;The S50 Pro mini will be the first to feature the Qualcomm Snapdragon 8 Gen5 platform, full-spec LPDDR5X 9600 Mbps memory, and UFS4.1 storage;&lt;/p&gt;
+&lt;p&gt;Supports 90W fast charging.&lt;/p&gt;
+&lt;/ul&gt;&lt;section&gt;
 &lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>法拉利博物馆有望落户北京</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">法拉利博物馆有望落户北京</guid>
+      <title>西贝全国门店统一降价，核心菜品下调近两成</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">西贝全国门店统一降价，核心菜品下调近两成</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/494e8e7a-23f1-44e9-a9da-f933e8eb9469.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/ad6856aa-1f87-433c-86f0-9b92d25f614f.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Beijing Daily, on November 21st, the Beijing Urban Sub-center Cultural Tourism Zone held an investment promotion conference. Four key projects, including the Mars Habitat Sci-Fi City and the Ferrari World Entertainment Complex, were successfully signed, with a total investment of nearly 10 billion yuan:
+            According to Jiemian News, Xibei's national stores recently implemented a unified price reduction for several signature dishes. This price optimization began in early October, covering over 40 dishes, with an overall reduction of nearly 20%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据北京发布消息，11 月 21 日，北京城市副中心文化旅游区举行招商推介会，火星人居科幻城、法拉利世界娱乐综合体等四个重点项目成功签约，总投资额近百亿元：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;The Ferrari World Entertainment Complex is an exhilarating experience project where speed and passion intertwine, and heartbeats resonate with engines. It includes various formats such as the world's fastest Formula Rossa roller coaster, an e-sports park, a Ferrari museum, and a Ferrari club. Upon completion, it will become Asia's first Ferrari World Entertainment Complex, with an estimated annual visitor flow of 1.8 million.&lt;/p&gt;
-&lt;p&gt;The Mars Habitat Sci-Fi City project is the first Mars-themed immersive experience base in China, integrating Martian cultural creativity, aerospace science education, immersive science interaction, and space entertainment experiences. Construction is planned to start early next year, with an estimated opening by the end of 2028.&lt;/p&gt;
-&lt;p&gt;The three parties involved in the implementation, investment, and cooperative operation of the &quot;Flight to Sagittarius - Sailing Camp&quot; have reached a strategic cooperation, and the Cultural Tourism Zone Digital Intelligence Platform project was signed simultaneously.&lt;/p&gt;
-&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Since the beginning of this year, the Cultural Tourism Zone has seen a flurry of new developments: the headquarters of ShouLv Group has moved in, the Urban Sports Center has successfully acquired land, the North Ring Transportation Hub has begun trial operations, three high-end brand hotels have officially opened, and &quot;Wanli&quot; is scheduled to debut at the end of the year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            今年以来，文化旅游区密集「上新」，首旅集团总部入驻办公，城市运动中心成功摘地，环北交通枢纽试运营，3 家高端品牌酒店正式营业，「湾里」定档年底亮相。
+            据界面新闻报道，西贝全国门店近期对多道招牌菜品进行统一降价调整。此次价格优化自 10 月初启动，覆盖超过 40 道菜品，整体降幅接近 20%。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Wang Yue, Director of the Industry Promotion Department of the Urban Sub-center Party Working Committee and Management Committee, stated that this is not just about the opening of a few hotels or commercial complexes, but rather the construction of a cultural tourism ecosystem that offers &quot;fun during the day, lingering at night, and excitement for multiple days.&quot; A cultural tourism zone with complete and rich holiday functions has initially taken shape.
+            Some store staff revealed that about 70%-80% of the dishes have been reduced in price, by about 20%, which is a unified arrangement by the headquarters.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            城市副中心党工委管委会产业促进处处长王玥表示，这不仅仅是几个酒店或商业体的开业，而是构建了一个「白天畅玩、夜晚流连、多日精彩」的文旅生态系统。一个具备完整丰富度假功能的文旅区已初步成型。
+            部分门店工作人员透露，目前约 70%-80% 的菜品已降价，幅度在 20% 左右，属于总部统一安排。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Next, the Sub-center Cultural Tourism Zone will also promote the navigation of the Xiaotaihou River, forming a vibrant waterfront corridor connecting &quot;Taihu Performing Arts Town—Universal Beijing Resort—Zhangjiawan Ancient Town—Grand Canal&quot;.
+            Following the &quot;pre-made dish controversy&quot; in September, Xibei implemented several measures, including holding a national conference for 18,000 employees, clearly stating &quot;no reduction in shifts, no layoffs,&quot; and issuing a 500 yuan &quot;special bonus&quot; to frontline staff. Since September, Xibei has also increased the average monthly salary of frontline employees by 500 yuan per person and plans to further improve salary levels.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            接下来，副中心文旅区还将推动萧太后河通航，形成「台湖演艺小镇—北京环球影城—张家湾古镇—大运河」的滨水活力走廊。
+            在 9 月「预制菜风波」后，西贝采取多项措施，包括召开覆盖全国 1.8 万名员工的大会，明确「不准减排班、不准裁人」，并为一线员工发放 500 元「特别奖金」。自 9 月起，西贝还为一线员工平均每人每月涨薪 500 元，并计划进一步提升薪酬水平。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            To attract customers, Xibei launched the &quot;Xibei Invites You to Dinner&quot; event starting September 24, offering consumers 100 yuan vouchers. After the event, from October 9 to October 31, Xibei continued to offer promotions with vouchers for reaching a certain spending amount.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            为吸引客源，西贝自 9 月 24 日起推出「西贝请您吃饭」活动，消费者可获 100 元代金券。活动结束后，10 月 9 日至 10 月 31 日，西贝继续推出满额送券促销。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Data shows that as of October, overall customer traffic increased by approximately 5% year-on-year, with 70% being returning customers and 30% new customers.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            数据显示，截至 10 月，整体客流同比增长约 5%，其中 70% 为老顾客，30% 为新顾客。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            However, since October, Xibei has cumulatively closed nearly 10 stores. The company stated on November 11 that opening and closing stores are normal business operations in the catering industry, and it plans to open 8 new stores by December 31. On November 22, Xibei's Nanjing Sands Store officially opened, with core products such as tender roasted lamb chops, Mongolian beef ribs, and lamb skewers all seeing significant price reductions.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            不过，自 10 月以来，西贝已累计关闭近 10 家门店。公司在 11 月 11 日声明称，开店与闭店属于餐饮行业正常经营行为，并计划在 12 月 31 日前新开 8 家门店。11 月 22 日，西贝南京砂之船店正式开业，核心产品如嫩烤羊排、蒙古牛大骨、羊肉串等均出现明显降价。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>紫龙游戏回应「实习生出差抽中显卡要上交」</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">紫龙游戏回应「实习生出差抽中显卡要上交」</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>幸运咖全球门店突破 1 万家</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">幸运咖全球门店突破-1-万家</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/1d635a54-b58a-4627-9d2f-7c05172afbf2.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, a topic about &quot;a young man winning a big prize on a business trip, and the company demanding he hand it over&quot; sparked heated discussion on social media platforms like Weibo, Xiaohongshu, and Douyin.
+            Yesterday, &quot;Lucky Cup,&quot; the affordable coffee brand under Mixue Group, announced that its global store count has surpassed 10,000, becoming the third coffee chain brand in China to enter the &quot;10,000-store club.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            日前，一则关于「小伙出差时抽中大奖公司要求上交」的话题在微博、小红书、抖音等网络平台引发热议。
+            昨天，蜜雪集团旗下平价咖啡品牌「幸运咖」宣布其全球门店数量突破 10000 家，成为国内第三个进入「万店俱乐部」的咖啡连锁品牌。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports from National Business Daily, Li Hua (pseudonym), an intern at a company in Shanghai, posted on social media that he was on a business trip and participated in a stamp collection lucky draw at an event, unexpectedly winning a GeForce RTX 5060 graphics card worth approximately 3000 yuan. However, a company colleague accompanying him informed him that &quot;the graphics card belongs to company property, finance is already aware, and it needs to be handed over.&quot;
+            Lucky Cup was founded in 2017, focusing on a &quot;high-quality, affordable&quot; strategy, with product pricing concentrated in the 6-8 yuan range.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据每日经济新闻报道，上海某公司的一名实习生李华（化名）在社交平台发帖称，自己因公出差，在活动现场参与集章抽奖，意外抽中了一张价值约 3000 元的 GeForce RTX 5060 显卡。然而，随行的公司同事便告知他「显卡属于公司财产，财务已经知道了，需要上交」。
+            幸运咖创立于 2017 年，主打「高质平价」策略，产品定价集中在 6-8 元区间。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Yangtse Evening Post, on November 20th, Li Hua told reporters that after multiple rounds of &quot;discussions&quot; with the company, although the company ultimately stopped forcibly demanding the graphics card, they also hinted that he should &quot;seek other opportunities.&quot; He has since submitted his resignation.
+            Data shows that between 2022 and 2023, the brand opened over 2,800 new stores, rapidly increasing the total to 3,000. After entering 2025, the pace of store expansion significantly accelerated, achieving double growth in just about 10 months, becoming this year's &quot;dark horse&quot; in the coffee market.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            而据扬子晚报，11 月 20 日，李华告诉记者，在与公司多轮「约谈」后，虽然公司最终不再强行索要显卡，但也暗示他「另谋高就」。其也已提交了离职申请。
+            数据显示，2022 年至 2023 年间，品牌新开门店超过 2800 家，总数迅速提升至 3000 家。进入 2025 年后，门店扩张速度显著加快，仅用约 10 个月便实现翻倍增长，成为今年咖啡市场的「黑马」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As the relevant posts spread online, some netizens linked the incident to the well-known gaming company Zilong Game.
+            In the domestic market, Lucky Cup has covered over 300 cities, with the number of stores in first-tier markets exceeding a thousand, and 100 stores in the Beijing area. At the same time, the brand is actively expanding into overseas markets, having opened its first international store in Malaysia in August this year, officially launching its globalization strategy.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            随着相关帖子在网络发酵，有部分网友将该事件与知名游戏公司紫龙游戏相关联。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On November 22nd, Tianjin Zilong Singularity Interactive Entertainment Co., Ltd. and Shanghai Zili Information Technology Co., Ltd., both under Zilong Game, jointly issued an official clarification announcement,
-            &lt;strong&gt;
-             explicitly stating that this incident has no connection whatsoever with the company or its employees.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            11 月 22 日，紫龙游戏旗下天津紫龙奇点互动娱乐有限公司与上海紫骊信息技术有限公司联合发布官方澄清公告，
-            &lt;strong&gt;
-             明确指出该事件与本公司及全体员工无任何关联。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the announcement, Zilong Game solemnly declared after verification: All companies within the group did not participate in the relevant exhibition, therefore the online rumor of the lucky draw incident has &quot;no legal or factual connection with Shanghai Zilong Game Company, Zilong Game, or its employees.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            公告中，紫龙游戏经核查后郑重声明：集团内所有公司均未参加相关展会，因此网传的抽奖事件与「上海紫龙游戏公司、紫龙游戏及员工无任何法律关联、事实关联」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Zilong Game stated in the announcement that the spread of false information has caused substantial negative impact on the company. During this period, a large number of netizens, due to misunderstanding, made groundless accusations and malicious comments against the company, with some remarks constituting defamation; at the same time, the company's recruitment website was maliciously attacked, severely disrupting the normal recruitment order.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            紫龙游戏在公告中表示，不实信息的传播已对公司造成实质性负面影响。在此期间，大量网友因误解对公司进行无端指责与恶意评论，部分言论构成名誉侵权；同时，公司招聘网站也遭到恶意围攻，严重干扰了正常招聘秩序。
+            在国内市场，幸运咖已覆盖超过 300 座城市，一线市场门店数突破千家，北京地区门店达到 100 家。同时，品牌也在积极拓展海外市场，今年 8 月在马来西亚开设首家海外门店，正式启动全球化战略。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>高中毕业生伪造履历当上博导，江苏科技大学通报</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">高中毕业生伪造履历当上博导，江苏科技大学通报</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>年轻人用海淘满足「精神刚需」，「情绪经济」规模持续扩张</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">年轻人用海淘满足「精神刚需」，「情绪经济」规模持续扩张</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/0074d238-82e8-4146-bf4c-7d02572b2cbf.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to CCTV News, Jiangsu University of Science and Technology recently announced that Guo Wei, the school's &quot;chief scientist,&quot; is actually an academic fraudster.
+            According to 36Kr reports, as &quot;emotional value&quot; becomes a key consumer term, young Chinese are satisfying their &quot;spiritual essential needs&quot; in daily life through cross-border e-commerce.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据央视新闻报道，江苏科技大学近日通报，学校「首席科学家」郭伟其实是个学术骗子。
+            据 36 氪报道，随着「情绪价值」成为消费关键词，中国年轻人正通过海淘满足日常生活中的「精神刚需」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the official Weibo account of &quot;Jiangsu University of Science and Technology,&quot; in September 2025, the university received a report alleging academic misconduct by a teacher named Guo. The university attached great importance to this and immediately initiated an investigation. After investigation and evidence collection, it was determined that Guo had engaged in serious academic misconduct. The employment agreement with Guo has been terminated in accordance with regulations, and appropriate arrangements have been made for his team's faculty and students. Concurrently, the university reported the case to the public security organs immediately, and the case is currently under investigation.
+            iiMedia Research data shows that China's &quot;emotional economy&quot; market size reached approximately 2.31 trillion yuan in 2024, and is expected to exceed 4.5 trillion yuan by 2029.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据「江苏科技大学」官方微博消息，2025 年 9 月，学校收到教师郭某涉嫌学术不端的举报，对此高度重视，立即启动调查程序。经调查取证，认定郭某存在严重学术不端行为，已经按规定解除了与郭某的聘用协议，并对其团队师生进行了妥善安排。同时，学校第一时间向公安机关报案，目前案件正在侦办过程中。
+            艾媒咨询数据显示，2024 年中国「情绪经济」市场规模已达约 2.31 万亿元，预计 2029 年将突破 4.5 万亿元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that Guo Wei, using fabricated impressive titles and achievements such as &quot;Shaanxi Gaokao Top Scorer,&quot; &quot;Senior Researcher at the German National Academy of Sciences,&quot; &quot;National Science and Technology Progress Award Winner,&quot; and &quot;Published over 170 SCI papers,&quot; successfully entered Jiangsu University of Science and Technology in 2023, became a doctoral supervisor, and formed a team to conduct so-called nanomaterial research.
+            The report points out that the popularization of platforms like Amazon Global Store has transformed cross-border e-commerce from a cumbersome process of proxy shopping and price comparison into a daily behavior. During the &quot;Black Friday&quot; shopping season, consumers can more easily acquire globally selected goods thanks to transparent pricing mechanisms and efficient logistics systems.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，郭伟凭借「陕西高考状元」「德国国家科学院高级研究员」「国家科学技术进步奖得主」「发表 170 余篇 SCI 论文」等伪造的唬人头衔和成就，于 2023 年成功进入江苏科技大学，并成为博士身份导师，组建团队进行所谓纳米材料研究。
+            报道指出，亚马逊海外购等平台的普及，使得海淘从繁琐的代购与比价过程转变为日常行为。消费者在「黑五」购物季期间，借助透明的价格机制与高效的物流体系，更容易获取全球精选商品。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Data shows that sales of some niche categories increased by over 20 times year-on-year in the first half of this year, highlighting the rapid rise of personalized consumption.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            数据显示，部分小众品类在今年上半年销售额同比增长超过 20 倍，凸显了个性化消费的快速升温。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of price and logistics, Amazon Global Store significantly lowers the consumption threshold with its &quot;what you see is what you get&quot; transparent mechanism and optimized cross-border logistics.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在价格与物流层面，亚马逊海外购以「所见即所得」的透明机制和跨境物流优化，显著降低了消费门槛。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Some products can be delivered in as fast as 2 days, and international direct mail supports SF Express flights, with an average delivery time more than 2 days faster than last year. This significantly shortens the distance between &quot;desire&quot; and &quot;possession,&quot; further promoting the normalization of cross-border e-commerce.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            部分商品最快可在 2 日内送达，国际直邮支持顺丰航班，平均配送时间较去年加快超过 2 天。这使得「心动」与「拥有」之间的距离大幅缩短，进一步推动了海淘的常态化。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>华纳探索收购最新进度：多家巨头正式参与竞标</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">华纳探索收购最新进度：多家巨头正式参与竞标</guid>
+      <title>《疯狂动物城 2》预售票房破 2 亿，夺中国影史进口动画预售冠军</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">《疯狂动物城-2》预售票房破-2-亿，夺中国影史进口动画预售冠军</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/70ab086c-a18a-4e77-aaef-59534846ddc7.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/061ddd74-7500-4b52-937a-19af9957db3e.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Hollywood Reporter and Deadline, a recent Warner Bros. bidding war, another major upheaval in Hollywood, has officially begun: Paramount, Comcast, and Netflix have formally joined the bidding, offering to acquire all or part of Warner Bros. Discovery.
+            Yesterday, the movie &quot;Zootopia 2&quot; broke 200 million RMB in total box office during its two-day preview and pre-sale period, setting a new pre-sale record for imported animated films in Chinese cinema history and becoming the new champion.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据守望好莱坞和 Deadline 报道，近期华纳争夺战、好莱坞又一剧变正经拉开帷幕了：派拉蒙、Comcast、Netflix 正式参与竞标，出价求全部/部分收购华纳兄弟探索。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Deadline reports that multiple sources have confirmed the bids from these three companies. It states that the non-binding offers for this deal close this Thursday, after which there will be another round, where bidders will be asked if they wish to submit a final binding offer after detailed discussions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Dealine 报道称，多个消息源证实了这三家出价一事。称此交易的非约束性报价截止于本周四，此后还会有一轮，即在讨论确定详细之后，会询问投标者是否要提交最终的约束性报价。
+            昨天，电影《疯狂动物城 2》在映前两天的点映及预售阶段，总票房突破 2 亿人民币，刷新中国影史进口动画电影预售纪录，成为新的冠军。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Warner Bros. had previously hinted that they believe this deal would have a result by late December this year, i.e., by year-end. Following this, there will be regulatory approval processes, which are expected to take at least a year.
+            &quot;Zootopia 2,&quot; produced by Walt Disney Studios Motion Pictures, will be released simultaneously in mainland China and North America on November 26.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            华纳方此前暗示他们相信此交易会在今年 12 月下旬也就是年底有一个结果。此后还有监管者批准等流程，预计要花至少一年。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is worth noting that Paramount, which was just acquired by Skydance, has been the most active in this matter, seeking to acquire the entire Warner Bros. Discovery, including its struggling television networks; Netflix and Comcast are interested in Warner's film studio and streaming divisions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            值得一提的是，刚被天舞收购的派拉蒙在此事中一直最为积极，他们求购的是整个华纳兄弟探索，包括处境挣扎的电视网等；Netflix 和 Comcast 想要的是华纳的电影公司、流媒体部分。
+            《疯狂动物城 2》由华特迪士尼影业集团制作，将于 11 月 26 日在中国内地与北美同步上映。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>《哪吒 2》不参评奥斯卡最佳动画长片</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">《哪吒-2》不参评奥斯卡最佳动画长片</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>《英雄三元里》11 月 28 日上映</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">《英雄三元里》11-月-28-日上映</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/444eb57c-de4c-45cc-ac3a-17b971a5256a.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Sina Film, the Academy recently announced the &quot;eligible for consideration&quot; longlist for Best Animated Feature Film, totaling 35 films, but it does not include &quot;Nezha: The Devil Boy's Sea,&quot; meaning the film will not be considered for this award. Films such as &quot;Paddington 3&quot; and &quot;Smurfs: The Magical Blue&quot; also did not appear.
+            The historical film &quot;Heroes of Sanyuanli&quot; yesterday released its &quot;Spark of Light&quot; trailer and &quot;United in Purpose&quot; poster, confirming its release in China on November 28.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据新浪电影消息，日前奥斯卡公布最佳动画长片奖「符合参评资格」大名单，共 35 部，但不包括《哪吒之魔童闹海》，即该片不会参评此奖项。《帕丁顿熊 3》《魔法蓝精灵》等影片也未出现。
+            历史题材电影《英雄三元里》昨日发布「星火之微」版预告及「同心向志」版海报，并确认将于 11 月 28 日在中国上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Sina Film stated that if there are no special reasons, there are two scenarios for not being eligible for consideration:
+            The film focuses on the first large-scale, spontaneous struggle of the Chinese people against foreign aggression in modern Chinese history, depicting the heroic scenes of the 103 villages of Guangzhou rising up against the British.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新浪电影表示，不符合参评资格如无特殊原因则是两种情况：
+            影片聚焦中国近代史上人民群众首次自发的大规模抗击外国侵略的斗争，展现广州 103 乡百姓奋起抗英的壮烈场景。
            &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;The distributor did not register (Nezha 2 was distributed in North America by CMC and A24);&lt;/p&gt;
-&lt;p&gt;Did not meet the eligibility requirements (most notably, &quot;the film must be screened for one week in New York/Los Angeles&quot;).&lt;/p&gt;
-&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It's worth noting that &quot;Nezha 2&quot; has been widely released in North America, so it should, in theory, be eligible. Furthermore, some films on the eligible list, such as &quot;Zootopia 2,&quot; have not yet been released, but they only need to meet the screening requirements within the deadline.
+            In the trailer, the plight of people's livelihoods under the opium crisis intertwines with the historical backdrop of the Humen Opium Destruction. Villagers swear an oath of unity in front of the Sanyuanli Ancient Temple, vowing &quot;If the flag advances, we advance; if the flag retreats, we retreat; no regrets even unto death,&quot; confronting foreign guns and cannons with their flesh and blood.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            值得一提的是，《哪吒 2》已在北美广泛上映，按理说应该符合。且符合参评资格名单中的一些影片如《疯狂动物城 2》等到现在还未上映，在期限内达到上映要求即可。
+            预告片中，鸦片危机下的民生困境与虎门硝烟的历史背景交织，乡民在三元里古庙前立誓聚义，誓言「旗进人进，旗退人退，打死无怨」，以血肉之躯对抗洋枪洋炮。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>新版《呼啸山庄》电影发新海报</title>
-      <pubDate>Mon, 24 Nov 2025 03:59:09 +0000</pubDate>
-      <guid isPermaLink="false">新版《呼啸山庄》电影发新海报</guid>
+      <title>《猎杀游戏》官宣何浩楠为中国推广大使</title>
+      <pubDate>Tue, 25 Nov 2025 03:51:18 +0000</pubDate>
+      <guid isPermaLink="false">《猎杀游戏》官宣何浩楠为中国推广大使</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/11.24_%E6%97%A9%E6%8A%A5/626b587e-d618-4295-b471-201bccf3325b.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20251125_%E6%97%A9%E6%8A%A5/1526de2e-884c-4f32-b137-9c1afeaa7603.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, a new poster for the updated &quot;Wuthering Heights,&quot; directed by Emerald Fennell and starring Margot Robbie and Jacob Elordi, was released, highlighting the theme of &quot;thunderous love.&quot;
+            Paramount Pictures' sci-fi film &quot;The Running Man,&quot; adapted from Stephen King's novel of the same name, announced yesterday that young singer and actor He Haonan will serve as the film's China promotional ambassador, simultaneously releasing the &quot;Decisive Moment&quot; trailer.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            近日，艾默拉德 · 芬内尔执导、玛格特 · 罗比与雅各布 · 埃洛迪主演的新版《呼啸山庄》发布全新海报，突出「电闪雷鸣的爱情」主题。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The poster style continues the unified visual language of previous promotional materials, further reinforcing the film's Gothic positioning. Discussions on social platforms focus on the film's style and actor performances, with audiences anticipating an adaptation that differs from traditional BBC Classics.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            海报风格延续此前宣传物料的统一视觉语言，进一步强化影片的哥特式定位。社交平台讨论集中在影片风格与演员表现，观众期待其区别于传统 BBC Classics 的改编方式。
+            美国派拉蒙影片公司出品、改编自史蒂芬 · 金同名小说的科幻电影《猎杀游戏》昨天宣布青年歌手兼演员何浩楠担任影片中国推广大使，并同步推出「绝杀时刻」预告。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film, distributed by Warner Bros. Pictures, is an adaptation of Emily Brontë's novel of the same name, reinterpreting the classic romantic tragedy with a Gothic atmosphere. Its core narrative revolves around the destructive passion between Catherine Earnshaw and Heathcliff, emphasizing its lasting impact across generations. The film is set to be released in North America on February 13, 2026.
+            In the newly released poster, He Haonan appears with a bow and arrow, set against strong red visual elements, highlighting the film's intense hunting atmosphere. His involvement not only injects new generation power into the film but also echoes the themes of &quot;live survival&quot; and human nature's game theory explored in the movie.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            该片由华纳兄弟影业发行，改编自艾米莉 · 勃朗特的同名小说，以哥特式氛围重新诠释经典爱情悲剧。其核心叙事围绕凯茜 · 恩肖与希斯克利夫之间的毁灭性情感，强调其对几代人产生的持久影响。影片将于 2026 年 2 月 13 日在北美上映。
+            在最新发布的海报中，何浩楠以手持弓箭的造型亮相，背景采用强烈的红色视觉元素，凸显影片紧张的猎杀氛围。他的加入不仅为影片注入新生代力量，也与电影所探讨的「直播求生」与人性博弈主题形成呼应。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The film is adapted from Stephen King's classic novel, with a story revolving around a bloody survival competition where every move of the contestants is live-streamed, and viewership and danger levels skyrocket simultaneously. The film will be released on December 5th and has a runtime of 133 minutes.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            影片改编自史蒂芬·金的经典小说，故事围绕血腥的生存竞赛展开，参赛者一举一动均被实时直播，收视率与危险指数同步飙升。影片将于 12 月 5 日上映，全长 133 分钟。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
-&lt;a href=&quot;https://www.ifanr.com/tags/%e6%97%a9%e6%8a%a5&quot;&gt;
-            早报
-           &lt;/a&gt;
 &lt;/div&gt;</description>
     </item>
   </channel>
