@@ -2,874 +2,852 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Tue, 10 Feb 2026 05:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 05:08:45 +0000</lastBuildDate>
     <item>
-      <title>豆包 2.0 被曝或春节前上线</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">豆包-2.0-被曝或春节前上线</guid>
+      <title>《黑神话：钟馗》实机视频上线</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">《黑神话：钟馗》实机视频上线</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/68dacd3d-1702-4e9a-bb04-e1e8b5843439.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/c70a288c-e5e9-484d-81bd-7ed35e16318a.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to LatePost, Doubao 2.0 is expected to be launched before the Spring Festival this year.
+            Yesterday, Feng Ji, founder and CEO of Game Science and producer of &quot;Black Myth: Wukong,&quot; &quot;suddenly&quot; released the first gameplay video of &quot;Black Myth: Zhong Kui.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据晚点 LatePost 报道，豆包 2.0 或将会在今年春节前上线。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report states that the upcoming Doubao 2.0 model is the most significant output from Wu Yonghui (Byte Seed Head of Fundamental Research) since taking over Seed a year ago. It is a multimodal model similar to Gemini, with 1 trillion parameters, making it the largest model trained by Seed since its establishment.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道称，即将发布的豆包 2.0 模型是吴永辉（字节 Seed 基础研究负责人）接管 Seed 一年最核心的产出。它是一款类似 Gemini 的多模态模型，10000 亿参数，是 Seed 成立以来训练的最大模型。
+            昨日，游戏科学创始人、CEO，《黑神话：悟空》制作人冯骥「突然」放出了《黑神话：钟馗》首支实机视频。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Some Seed personnel revealed through the report that the model encountered infrastructure-level challenges during its training. They analyzed that Seed had relatively neglected fundamental capability building during its continuous catch-up over the past two years, leading to instability when scaling up parameters during Doubao 2.0's training, making progress difficult at times.
+            Feng Ji mentioned in the article that he was worried players would analyze the video for subtle metaphors, plot directions, or new technical features. To this, he stated, &quot;There's no operation, no combat, no gameplay, no Zhong Kui, because... it hasn't been made at all (bushi).&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            有 Seed 人士通过报道透露，这款模型训练期间遇到基础设施层面的挑战。他们分析，过去两年 Seed 持续追赶期间，相对忽视了基础能力建设，所以训练豆包 2.0 期间扩大参数规模时不稳定，一度难以推进。
+            冯骥在文中提到，担心玩家对该视频进行细节隐喻、剧情方向或者新的技术 feature 的分析，对此他表示「没操作没战斗没玩法没钟馗，因为……根本没做啊（bushi）」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that Weng Jiayi, head of RL Infra at OpenAI, said in a podcast that every model team's Infra has bugs, and model companies essentially compete on the speed at which Infra fixes bugs, which determines the number of ideas that can be verified per unit of time, while ideas can be solved by increasing talent density.
-           &lt;/span&gt;
+            The video also mentioned at the end,
+            &lt;strong&gt;
+             &quot;This video was specially recorded for the Spring Festival of the Year of the Horse and is unrelated to the actual game plot; please do not take it seriously.&quot;
+            &lt;/strong&gt;
+&lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，OpenAI 的 RL Infra 负责人翁家翌在一档播客节目中说，每个模型团队的 Infra 都有 bug，模型公司本质上拼的是 Infra 修 bug 的速度，它决定了单位时间内验证想法的数量，而想法只要提高人才密度就能解决。
+            视频结束也提到，
+            &lt;strong&gt;
+             「本视频是为马年春节专门录制，与游戏实际剧情无关，切勿轻信」
+            &lt;/strong&gt;
+            。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report points out that for the Seed team, it is more difficult to reorganize the Infra system.
+            It is reported that &quot;Black Myth: Zhong Kui&quot; officially debuted at Gamescom 2025 in August last year, and it was simultaneously stated that the game was in an early development stage, with no actual gameplay demo at that time.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道指出，对于 Seed 团队，想要重整 Infra 系统难度更大。
+            据悉，《黑神话：钟馗》已在去年 8 月的 2025 科隆游戏展中正式亮相，并同步表示游戏处于早期开发阶段，当时并无实机演示。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is understood that Seed's Infra team has hundreds of people, supporting the research and development of dozens of models within Seed, and the senior management believes their level is the best in China. &quot;To reorganize, it requires a lot of human and material resources, and also a considerable cost of trust,&quot; a Seed insider said, adding that they can only &quot;fix the wheels while driving.&quot;
+            It is reported that &quot;Black Myth: Zhong Kui&quot; is a single-player action role-playing game with the famous character &quot;Zhong Kui&quot; from Chinese folklore as its main creative source. In terms of platforms, the game will be available on PC + mainstream console platforms.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据了解，Seed 的 Infra 团队有数百人，同时支撑 Seed 内部数十款模型的研发和尝试，高层认为水平国内第一。「想要重整，需要投入大量人力、物力，还要承担不小的信任成本。」 一位 Seed 人士说，只能 「边开车边修轮子」。
+            据悉，《黑神话：钟馗》是以中国民间传说中的著名角色「钟馗」为主要创意来源的单机·动作·角色扮演游戏。平台方面，游戏将登陆 PC + 主流主机平台。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that after encountering problems with training Doubao 2.0, multiple teams cooperated and spent 3 months, mainly addressing issues from model architecture and training data, to ensure the model was launched before the Spring Festival.
+            In addition, the official also responded to &quot;why Zhong Kui was made first, instead of a sequel to 'Black Myth: Wukong'&quot;: to try some more differentiated game experiences, tinker with a few more challenging game features, and also come up with something fresh in terms of worldview and narrative.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，训练豆包 2.0 遇到问题后，最终多个团队配合，花了 3 个月时间，主要从模型架构、训练数据等方面入手解决问题，确保模型赶在春节前上线。
+            另外，官方也回应了「为何先做钟馗，而不是《黑神话：悟空》续作」：尝试一些更有差异的游戏体验，鼓捣几个更有挑战的游戏特性，也在世界观与叙事上搞点新鲜玩意。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/49caaf0d-313b-4c89-b277-c6c4ee710d85.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition, ByteDance's latest video generation model, Seedance 2.0, has recently been launched on platforms such as Xiaoyunque and Jimeng, and has received widespread attention.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另外，字节最新视频生成模型 Seedance 2.0 日前已上线小云雀、即梦等平台，并且受到了广泛关注。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that Seedance 2.0 can create cinematic videos based on text or images. It adopts a dual-branch diffusion transformer architecture, capable of generating both video and audio simultaneously. By simply writing a detailed prompt or uploading an image, Seedance 2.0 can generate a multi-shot sequence video with native audio in 60 seconds.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，Seedance 2.0 可根据文本或图像创建电影级视频。其采用双分支扩散变换器架构，可同时生成视频和音频。只需编写详细的提示或上传一张图片，Seedance 2.0 即可在 60 秒内生成带有原生音频的多镜头序列视频。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is worth mentioning that this model's unique multi-shot narrative feature can automatically generate multiple interconnected scenes based on a single prompt. The AI automatically maintains consistency in characters, visual style, and atmosphere across all scene transitions, eliminating the need for manual editing.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            值得一提的是，这款模型独有的多镜头叙事功能，能够根据单个提示自动生成多个相互关联的场景。AI 会自动保持所有场景切换中角色、视觉风格和氛围的一致性，无需手动编辑。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/04c96507-7744-48f7-af15-8ff5ec8e4240.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Feng Ji, producer of 'Black Myth: Wukong' and founder of Game Science, also posted an evaluation of Seedance 2.0:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨日，《黑神话：悟空》制作人、游戏科学创始人冯骥还发文评价了 Seedance 2.0：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Leading: Currently the strongest video generation model on Earth, bar none;&lt;/p&gt;
-&lt;p&gt;Omnipotent: AI's ability to understand and integrate multimodal information (text, images, video, audio) has made a leap, which is astonishing;&lt;/p&gt;
-&lt;p&gt;Explosive Productivity: The production cost of general videos will no longer follow the traditional logic of the film and television industry, gradually approaching the marginal cost of computing power. The content field is bound to usher in unprecedented inflation, and traditional organizational structures and production processes will be completely reconstructed;&lt;/p&gt;
-&lt;p&gt;Low Threshold, (AI) Video Democratization: All display methods that previously required considering production costs will easily become video-based, typically seen in e-commerce advertisements and pre-shoots. Although the core aspects of game development have not yet been directly encroached upon by AI, video itself will gradually evolve towards customization, real-time interaction, and gamification, perhaps becoming a new form of entertainment in the future.&lt;/p&gt;
-&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the same time, Feng Ji also pointed out that as video models become stronger, the situation of 'widespread fake videos and a crisis of trust' will also worsen. He stated that because realistic fake videos will become completely barrier-free, existing intellectual property and censorship systems will face unprecedented challenges. In response, Feng Ji suggested:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            同时冯骥也指出，如今视频模型越来越强，「假视频泛滥与信任危机」的情况也将会加重。其表示，因为逼真的假视频将变得毫无门槛，而现有的知识产权与审查体系会面临空前冲击。对此，冯骥建议：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Please remind your parents and relatives unfamiliar with AI as soon as possible that in the future, all video content (especially that containing personal images and voices) lacking endorsement from official authoritative channels may be fabricated. Please be sure to cross-verify through multiple channels to avoid being deceived.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;section&gt;
+&lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>尚界汽车辟谣 AI 生成冬测图</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">尚界汽车辟谣-AI-生成冬测图</guid>
+      <title>ChatGPT 广告上线</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">ChatGPT-广告上线</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/07a8556d-c1f9-4553-a963-a23784423b70.jpg&quot;/&gt;
-&lt;/p&gt;&lt;div class=&quot;editor-image-source&quot;&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Shangjie Z7 Winter Test Related Images&lt;/p&gt;
-&lt;/div&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/c75e50c8-024e-4220-8e5b-edf16dad8e6a.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Shangjie Auto's news yesterday, it recently released images of the Shangjie Z7 winter test, but this set of images sparked widespread discussion among netizens due to suspicions of being AI-generated.
+            According to CNBC, OpenAI plans to start testing ads for ChatGPT yesterday.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据尚界汽车昨日消息，其于近期发布了尚界 Z7 冬季测试的图片，但该组图片因疑似 AI 生成而引发广大网友热议。
+            据 CNBC 报道，OpenAI 计划在昨日开启 ChatGPT 的广告测试。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding this situation, Shangjie Auto responded:
+            Reports cite sources saying that OpenAI expects advertising revenue not to exceed half of its total revenue in the long term.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对于该情况，尚界汽车回应表示：
+            报道援引知情人士消息，OpenAI 预计广告收入在长期内的表现，不会超过其收入的一半。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to OpenAI's previous statements, ChatGPT will display ads to free and Go subscription users, and these ads will not affect ChatGPT's responses. It will also ensure user conversations remain confidential from advertisers, but noted that ads will still be &quot;optimized based on the content most helpful to you&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            根据 OpenAI 此前的说法，ChatGPT 将会在免费以及 Go 订阅用户中打广告，且广告不会影响 ChatGPT 的回答，并会确保用户的对话对广告商保密，但还指出广告仍将「根据对您最有帮助的内容进行优化」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Interestingly, competitor Anthropic had previously run Super Bowl ads mocking the inclusion of advertising in AI. Subsequently, OpenAI CEO Sam Altman directly called it &quot;slander, this is twisting our meaning&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            有趣的是，友商 Anthropic 前几天还在超级碗中投放了嘲讽 AI 中加入广告的行为。随后 OpenAI CEO Sam Altman 也是直呼「造谣，这是在扭曲我们的意思」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It's worth noting that
+            &lt;strong&gt;
+             OpenAI also plans to launch a new chat model this week
+            &lt;/strong&gt;
+            , though the specific direction has not been disclosed. Recently, OpenAI released its latest programming model, GPT-5.3-Codex.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            值得一提的是，
+            &lt;strong&gt;
+             OpenAI 还计划在本周内推出一款新的聊天模型
+            &lt;/strong&gt;
+            ，但并未透露具体方向。近期，OpenAI 发布了旗下最新编程模型 GPT-5.3-Codex。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>雷军：小米汽车目前暂时没有进入美国市场的计划</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">雷军：小米汽车目前暂时没有进入美国市场的计划</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/964f6458-02b3-450c-b031-8e6b030564bc.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, Lei Jun, founder of Xiaomi, responded to recent news regarding &quot;Xiaomi YU7 testing in California, USA&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨日，小米创办人雷军回应了近期「小米 YU7 在美国加州测试」的相关消息。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding the question of &quot;Is Xiaomi preparing to enter the US market?&quot;, he stated:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            针对「小米是不是准备进入美国市场」这一问题，其表示：
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The winter test images officially released by Shangjie Auto are all real shots, not AI-generated. For the purpose of keeping product design details confidential, we camouflaged the car body and blurred local details.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Shangjie Auto stated that the Shangjie Z7's winter test was a real test conducted in extremely cold environments, aiming to verify the vehicle's performance in low-temperature conditions and bring users a more reliable and safer product experience.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            尚界汽车表示，尚界 Z7 此次冬测是在极寒环境下的真实测试，旨在验证车辆低温环境下各项表现，为大家带来更可靠、更安全的产品体验。
-           &lt;/span&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;We currently have no plans to enter the US market. I estimate that this YU7 is a benchmark vehicle purchased by American counterparts or suppliers.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/00f90a44-1051-48a1-a03d-087ad482c84b.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Previous images showed that the Shangjie Z7 winter test photos contained content where 'the wheel hub was rotating but the tire was stationary,' leading some netizens to question whether the images were AI-generated.
+            During last night's Xiaonian live broadcast, Lei Jun also revealed more information about Xiaomi Auto:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            从此前的图片显示，尚界 Z7 的冬测图中出现了「轮毂转动但轮胎处于静止」的内容，对此有网友质疑图片为 AI 生成。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI：所谓的泄露版 AI 硬件是假的！</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI：所谓的泄露版-AI-硬件是假的！</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/a74bc9c1-b500-4c21-8d81-3276e63a7883.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Verge, there were recent reports of a Super Bowl advertisement claiming to be for &quot;OpenAI's first AI hardware,&quot; but yesterday morning, OpenAI responded by saying it was &quot;fake.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 The Verge 报道，近期有消息爆出号称「OpenAI 首款 AI 硬件」相关的超级碗广告，但在昨天早上，OpenAI 方面已回应表示「假的」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-&lt;strong&gt;
-             OpenAI President Greg Brockman responded on X with &quot;fake news,&quot; while OpenAI spokesperson Lindsay McCallum Rémy stated it was &quot;completely false.&quot;
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-&lt;strong&gt;
-             OpenAI 总裁 Greg Brockman 在 X 上发文回应「fake news」（假新闻），而 OpenAI 发言人 Lindsay McCallum Rémy 则表示「完全是假的」。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the aforementioned fake news exposure has now been deleted. The report stated that the content described an employee complaining that an advertisement they participated in producing was not aired, and accidentally leaked the alleged advertisement video.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，上述提到的曝光假消息目前已被删除。报道称，该内容讲述一位员工抱怨自己参与制作的广告没有播出，并意外泄露了所谓的广告视频。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Related screenshots show that the advertisement featured Alexander Skarsgård, the male lead from &quot;Mute,&quot; wearing OpenAI's first hardware. The product he was wearing was a bright silver ear-clip TWS earphone, with an oval silver spherical charging case.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            从相关截图显示，广告内容中展示了《杀戮人机》男主亚历山大·斯卡斯加德佩戴 OpenAI 首款硬件。而其佩戴的产品为一款亮银的耳夹式 TWS 耳机，并且拥有一个椭圆形的银色球体耳机仓。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Verge's analysis mentioned that the account that discovered the alleged leaked advertisement was very new, and the owner of the account that leaked the false information also switched professional identities very suddenly.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            The Verge 分析提到，发现所谓泄露广告的账号十分新，并且泄露假信息的账号主人切换职业身份也十分突然。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, Gillian Follett, a reporter for foreign media AdAge, was also affected. She pointed out on social media that she had not written any reports related to &quot;OpenAI's first AI hardware being exposed,&quot; nor had she published any articles about &quot;OpenAI being pulled from the Super Bowl.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另外，被波及到的还有外媒 AdAge 的记者 Gillian Follett。其在社交平台指出，自己并未写过与「OpenAI 首款 AI 硬件被曝光」相关的报道，也并未发表过「OpenAI 被撤下超级碗」的文章。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>荣耀布局系统级 AI 录音纪要</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">荣耀布局系统级-AI-录音纪要</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Blue Whale News, Plaud, an AI meeting minute tool hardware company, is developing an OS system-level native AI recording function for Honor, enabling direct meeting minute creation from the phone's native app.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据蓝鲸新闻消息，AI 纪要工具硬件企业 Plaud 正为荣耀开发 OS 系统级原生应用 AI 录音功能，实现手机原生 APP 直做会议纪要。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to informed sources,
-            &lt;strong&gt;
-             Plaud only provides software-level support, and related functions can be implemented later through upgrading the Magic OS version.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据知情人士透露，
-            &lt;strong&gt;
-             Plaud 仅提供软件层面支持，相关功能后续可通过升级 Magic OS 版本实现。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to previous information, since 2023, Plaud has sold over 1 million NotePins globally, each priced at $159. Coupled with an annual AI transcription subscription service of $99, Plaud's annual revenue reaches $250 million, maintaining a gross profit margin of nearly 25%, comparable to tech giants like Apple.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据此前信息，自 2023 年以来，Plaud 已向全球销售超过 100 万台 NotePin，每台售价 159 美元 。配合每年 99 美元的 AI 转写订阅服务，Plaud 年度营收达 2.5 亿美元，且保持接近 25% 的毛利率，媲美苹果等科技巨头。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>比亚迪硫化物固态电池有望明年小批量生产</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">比亚迪硫化物固态电池有望明年小批量生产</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Cailian Press, learned from BYD's investor relations department, BYD is exploring multiple routes in the field of solid-state batteries, with sulfide solid-state batteries as an important technical direction.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据财联社从比亚迪投资者关系部获悉，比亚迪在固态电池领域进行多路线探索，以硫化物固态电池作为重要的技术方向。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report states that
-            &lt;strong&gt;
-             BYD's sulfide solid-state batteries have achieved breakthroughs in areas such as battery life and fast charging, with small-scale production expected by 2027.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道称，
-            &lt;strong&gt;
-             比亚迪的硫化物固态电池在电池寿命、快充等领域实现突破，有望 2027 年实现小批量生产。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the field of sodium-ion batteries, it is already in the development stage of its third-generation product technology platform, and has developed sodium-ion battery products with tens of thousands of cycles. The mass production timeline will be determined based on actual market and customer demand.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            而在钠电池领域，已处于第三代产品技术平台的开发阶段，并开发出万次循环的钠电产品，量产节点将根据实际市场及客户需求而定。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小红书正研发视频剪辑类 AI 产品</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">小红书正研发视频剪辑类-AI-产品</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports from &quot;Sci-Tech Innovation Board Daily,&quot; Xiaohongshu's technical team is developing an AI video editing product called OpenStoryline (version 1.0.0), which is
-            &lt;strong&gt;
-             still under testing and may be open-sourced later.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《科创板日报》消息，小红书技术团队正研发视频剪辑类 AI 产品 OpenStoryline（版本号 1.0.0），
-            &lt;strong&gt;
-             尚在测试，后续或开源。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is understood that OpenStoryline can edit videos by uploading a few pictures and using a conversational approach. The videos have storyboards and independent segments, incorporate some content understanding, and can finally be accompanied by text and background music.
-            &lt;strong&gt;
-             The overall effect is similar to Jiemeng's Xiaoyunque and SenseTime's Seko 2.0.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，OpenStoryline 能够通过上传几张图片，以对话方式进行剪辑，并且视频拥有分镜和独立片段，设计了一些内容理解，最后还可以配上文案和背景音乐，
-            &lt;strong&gt;
-             整体效果与即梦的小云雀、商汤的 Seko 2.0 类似。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Blogger &quot;Tiantiiankaiqi&quot; reported that since Xiaohongshu does not have a trillion-parameter base model, the entire OpenStoryline platform uses the DeepSeek open-source large language model and the Qwen3 series 8-billion-parameter open-source multimodal model.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            博主「天天开柒」消息称，由于小红书没有训练万亿级参数的基座模型，所以整个 OpenStoryline 平台，采用 DeepSeek 开源大语言模型，以及 Qwen3 系列 80 亿参数的开源多模态模型。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>雷军预热小年直播</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">雷军预热小年直播</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/f96b9c5b-f9e2-496f-844c-bc521dbdfb87.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun, founder of Xiaomi, announced that he will hold a &quot;Xiaonian&quot; (Minor New Year) live broadcast tonight at 8 PM.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小米创办人雷军宣布，将在今晚 8 点举行小年直播。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun stated that this live broadcast will take everyone on a tour of the Xiaomi Auto Customization Service Center.
-            &lt;strong&gt;
-             It is worth noting that this is already Lei Jun's fifth live broadcast in 2026.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            雷军表示，本次直播将带大家逛逛小米汽车定制服务中心。
-            &lt;strong&gt;
-             值得一提的是，本次直播已经是雷军在 2026 年第五场直播。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the first four live broadcasts this year, Lei Jun extensively responded to online questions and rumors:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在今年的前四场直播中，雷军大量回应了网上的疑问以及传闻：
+            在昨晚小年直播中，雷军也透露了小米汽车的更多信息：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Responding to &quot;small print marketing&quot;: Lei Jun responded that using small print for annotations/explanations is indeed a common industry practice, primarily for legal compliance. He emphasized at the time that this is also an industry bad habit and needs to be changed immediately.&lt;/p&gt;
-&lt;p&gt;Addressing &quot;taking things out of context&quot;: &quot;Everyone is maliciously attacked, then taken out of context and slandered. On the internet, it becomes very difficult to speak. And I believe that taking things out of context and spreading rumors to defame is not just against Xiaomi, but many other competitors as well.&quot;&lt;/p&gt;
-&lt;p&gt;Xiaomi has activated over 100 self-built laboratories in 4 locations: Beijing, Shanghai, Nanjing, and Wuhan; at the same time, Xiaomi Auto is also conducting tests in 4 extreme environments: Turpan (high temperature), Heihe (extreme cold), Kunlun Mountains (high altitude), and Hainan (high temperature/high humidity).&lt;/p&gt;
-&lt;p&gt;Responding to the incident where Xiaomi was deemed unsuitable for contact with a KOL: The final handling of the incident was not because the KOL criticized Xiaomi or offended Mi Fans, but because he continuously attacked, disparaged, and cursed Xiaomi users. &quot;We definitely cannot tolerate that.&quot;&lt;/p&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>顺丰推出 2 亿春季增收计划：平均收入增加 500 元</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">顺丰推出-2-亿春季增收计划：平均收入增加-500-元</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;p&gt;The last unit of the first-generation SU7 has recently rolled off the production line and will be delivered to its owner soon;&lt;/p&gt;
+&lt;p&gt;The new generation SU7 has undergone major upgrades to core components such as the chassis, motor, and battery, resulting in a more solid chassis and more precise steering;&lt;/p&gt;
+&lt;p&gt;One of the characteristics of the Xiaomi Auto factory is its high level of intelligence. The factory houses six to seven hundred robots, enabling 100% automated assembly in all stages and 100% automated inspection, indicating a very high degree of intelligence. The entire factory roof is covered with self-generating photovoltaic panels. All electricity used by the factory comes from these self-generating photovoltaic panels on the roof.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to SF Express Group, it has officially launched a &quot;Spring Income Increase&quot; special plan for its frontline employees nationwide, investing 200 million yuan to help all couriers increase their income, with an average income increase of around 500 yuan.
+            During the live broadcast, Lei Jun also mentioned that the Xiaomi YU7 adopts a four-in-one domain control module for its electronic and electrical architecture. This entire system is self-developed by Xiaomi, as Xiaomi's core business is smartphones, making electronic and electrical architecture its strength.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据顺丰集团消息，其正式发布面向全国一线员工的「春季增收」专项计划，投入 2 亿元资金助力快递员全员增收，平均收入提升 500 元左右。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the first phase of this income increase plan will last 3 months, covering all frontline couriers nationwide. The increased income will be directly distributed in the form of per-parcel subsidies, marking the industry's first nationwide special plan for courier income increase.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，本次增收计划一期时间 3 个月，覆盖全国所有一线快递员群体，增收部分将以单票计提补贴形式直接发放，这也是行业内首次推出全国性快递员增收专项计划。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            SF Express stated that this is both a heartwarming reward from SF Express for the couriers' hard work during the peak period of New Year's goods delivery and an important measure for employee care during the Spring Festival; it also responds to the national call for stable employment and retention, and addresses the characteristics of the traditional off-season in the spring express delivery industry, aiming to genuinely increase couriers' income through special incentives and enhance the sense of gain and happiness for frontline workers.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            顺丰表示，这既是顺丰对年货寄递高峰期间快递员辛勤付出的暖心回馈，是春节员工关怀的重要举措之一；同时也是响应国家稳岗留工号召，针对春季快递行业传统淡季特点，通过专项激励切实增加快递员收入，提升一线从业者获得感与幸福感的重要举措。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the future, SF Express will continue to launch income increase plans for frontline couriers, continuously iterate and adjust existing schemes, gradually forming a stable and long-term income incentive mechanism, thereby continuously driving the optimization and upgrading of customer service quality through increased employee income.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            未来，顺丰将会持续推出面向一线快递员的增收计划，并对现有方案持续迭代调整，逐步形成稳定的长效增收激励机制，以员工收入提升不断带动促进客户服务质量优化升级。
+            直播中，雷军还提到，小米 YU7 采用的电子电气架构是四合一域控制模块，这套系统全部是小米自研的，因为小米的本行是做智能手机，所以电子电气架构是小米强项。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>💡 Anthropic 总裁：家长控制未成年使用 AI 是正确的</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">💡-Anthropic-总裁：家长控制未成年使用-AI-是正确的</guid>
+      <title>余承东谈问界目标：两年内冲刺 200 万辆</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">余承东谈问界目标：两年内冲刺-200-万辆</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, Daniela Amodei, co-founder and president of Anthropic, stated in an interview with ABC News that parental intervention in the use of AI by minors under 18 is a quite correct first step.
+            According to IT Home, Richard Yu, Huawei's Executive Director and CEO of the Consumer BG, and Zhang Xinghai, founder of Seres, recently appeared at the AITO M9 Starlight Night event.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            日前，Anthropic 创始人兼总裁丹妮拉·阿莫代在接受美国广播公司新闻采访时表示，父母干预 18 岁以下的未成年使用 AI 是相当正确的第一步。
+            据 IT 之家消息，华为常务董事、终端 BG 董事长余承东与赛力斯创始人张兴海日前亮相问界 M9 星光之夜。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Amodei stated that many parents, like herself (Amodei has two children), likely have complex feelings about AI—
+            At the event, Richard Yu discussed AITO's development over the next five years, stating that it will achieve leapfrog upgrades, focusing on user needs, continuously deepening high-quality product R&amp;amp;D, refining an excellent driving experience, optimizing a high-quality service system, striving to enhance consumer satisfaction, and launching more competitive products.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            活动上，余承东在谈及问界未来五年发展时表示，将实现跨越式升级，以用户需求为核心，持续深耕高品质产品研发、打磨卓越驾乘体验、优化优质服务体系，全力提升消费者满意度，推出更具竞争力的产品。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Richard Yu and Zhang Xinghai also disclosed AITO brand's sales plan:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            余承东和张兴海还披露了问界品牌的销量规划：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Building on AITO's cumulative sales exceeding 1 million units, the goal is to sell another 1 million units within two years, aiming for a total sales volume of 2 million units.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Richard Yu also discussed the naming meaning of the &quot;AITO&quot; brand: the Chinese character &quot;问&quot; (Wèn) means &quot;to ask&quot; or &quot;to explore&quot;, carrying the meaning of exploration and seeking; &quot;界&quot; (Jiè) means &quot;boundary&quot; or &quot;cross-border&quot;, indicating cross-industry cooperation and cross-border car manufacturing; AITO stands for &quot;Adding Intelligence to Auto&quot;, meaning bringing AI into the automotive industry.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            余承东还谈及了「问界 / AITO」品牌的命名寓意：中文名中的「问」是投石问路，带有探索、探寻的意味；「界」就是跨界，表示跨界合作、跨界造车；AITO 则是「Adding Intelligence to Auto」，意为将 AI 带入汽车行业。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It's worth noting that Richard Yu pre-announced that the capabilities of large models and AI will be provided to existing car owners via OTA updates, and there will be more surprises in the coming months, with capabilities becoming increasingly powerful.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            值得一提的是，余承东提前预告，会把大模型的能力、AI 的能力给老车主 OTA 升级，同时后面几个月还有惊喜，能力会越来越强。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>国产掌机品牌 AYANEO 辟谣拖欠员工工资</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">国产掌机品牌-AYANEO-辟谣拖欠员工工资</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/4831b229-8b12-4197-88c0-a04212156dce.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, domestic handheld console brand AYANEO posted a statement saying that individual accounts have been spreading rumors, deliberately slandering AYANEO's recent normal new product releases and promotional activities, and fabricating seriously false information such as &quot;arrears of employee wages&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨日，国产掌机品牌 AYANEO 发文称：有个别账号散布谣言，蓄意污蔑 AYANEO 近期正常的新品发布以及促销活动，捏造「拖欠员工工资」等严重失实信息。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            AYANEO stated that the company's employee salaries are currently being paid normally, and there have been no instances of arrears of any kind. AYANEO also released its salary payment records for the past six months.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            AYANEO 表示，目前公司员工薪资发放情况一切正常，未曾发生任何形式的拖欠行为。同时 AYANEO 还公布了近半年的工资发放记录。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            AYANEO also mentioned that the statements made by people like 'Zhennan Ge' on QQ, such as 'the capital chain is broken, employee salaries cannot be paid, and there has been a collective strike for several days,' are malicious rumors. They have already reported the matter to the relevant public security organs with evidence and arranged for lawyers to intervene.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            AYANEO 还提到，针对 QQ 名为『真南哥』等人所发表『资金链断了，员工工资发不出、集体罢工几天』类似言论为恶意造谣，其已向相关公安机关举证报警并安排律师介入。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智谱新模型架构曝光：DeepSeek 同款稀疏注意力</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">智谱新模型架构曝光：DeepSeek-同款稀疏注意力</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/b88a0063-f2fe-484b-9c2f-d0403f4da4a5.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Recently, according to overseas blogger 'Chetaslua,' Zhipu's next-generation model (possibly GLM-5) will adopt the same architecture as DeepSeek.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            日前，据海外博主「Chetaslua」消息，智谱下一代模型（或为 GLM-5）将采用 DeepSeek 同款架构。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Chetaslua's analysis,
             &lt;strong&gt;
-             on the one hand, thinking about how AI can bring healthier, happier lives to children, but on the other hand, also needing to worry about their mental development.
+             GLM-5 will adopt the DeepSeek-V3/V3.2 architecture, which includes Sparse Attention Mechanism (DSA) and Multi-Token Prediction (MTP); the total number of model parameters will reach 745B, which will be 2 times that of the previous generation GLM-4.7.
             &lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿莫代表示，可能很多父母都跟自己一样（阿莫代有两个小孩），对 AI 充满了复杂的感觉——
+            据 Chetaslua 分析，
             &lt;strong&gt;
-             一方面在想 AI 能给孩子们带来更健康、快乐的生活，但另一方面也需要担心他们的心智成长。
+             GLM-5 将采用了 DeepSeek-V3/V3.2 架构，其中包含稀疏注意力机制（DSA）和多 Token 预测（MTP）；模型总参数量达 745B，将会是上一代 GLM-4.7 的 2 倍。
             &lt;/strong&gt;
 &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She added that from a societal perspective, there is still a lot of work to be done with AI to ensure that humanity can develop this technology thoughtfully and safely.
+            It is worth mentioning that a mysterious model named 'Pony Alpha' recently launched on the global model service platform OpenRouter, generating significant interest. Some analysts have pointed out that this model might be Zhipu's new model.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其补充，从社会角度来看，AI 如今还有大量工作需要做，以确保人类能够深思熟虑、安全地发展这项技术。
+            值得一提的是，近期有一个名为「Pony Alpha」的神秘模型上线全球模型服务平台 OpenRouter，并且引发较高热度。其中不乏有人分析指出，该模型或为智谱新的模型。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Amodei mentioned that the minds of minors are still developing. Therefore, children under 18 might need limitations or parental controls on their ability to directly interact with AI models, which is a good start.
+            According to CBN, Zhipu currently has relevant confidential projects underway, and this mysterious model is Zhipu's upcoming new generation model, GLM-5.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿莫代提到，未成年的头脑仍在发育。因此，18 岁以下的孩子在直接与 AI 模型互动的能力上，可能应该有限制或家长控制，而这也是一个好的开始。
+            而据第一财经消息，智谱目前有相关保密项目在推进中，该神秘模型，是智谱即将发布新一代模型 GLM-5。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Furthermore, Amodei also stated in the interview that
+            It is reported that OpenRouter's partner Kilo Code once revealed that Pony Alpha is 'a specialized evolutionary version of one of the world's most popular open-source models from a global lab.'
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据悉，OpenRouter 合作方 Kilo Code 曾透露，Pony Alpha 是「某个全球实验室最受欢迎的开源模型的专项进化版」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In response, the report points out that Pony Alpha is more likely to be DeepSeek-V4 or Zhipu's upcoming new generation model GLM-5.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            对此，报道指出，Pony Alpha 更有可能是 DeepSeek-V4 或者智谱即将发布的新一代模型 GLM-5。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>字节回应 Seedance 2.0 隐私争议</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">字节回应-Seedance-2.0-隐私争议</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Recently, ByteDance's AI video generation large model Seedance 2.0 gained popularity. Pan Tianhong (Tim), founder of tech self-media 'Yingshi Jufeng,' pointed out in his review that the model can generate highly matched personal voice characteristics based solely on facial images, without user authorization.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            近日，字节跳动旗下 AI 视频生成大模型 Seedance 2.0 走红，科技自媒体「影视飓风」创始人潘天鸿（Tim）在评测中指出，该模型在未获得用户授权的情况下，仅凭面部图像即可生成高度匹配的个人声音特征。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Sina Tech, as the related incident escalated,
             &lt;strong&gt;
-             the work AI can accomplish entirely without human reliance is extremely limited.
+             ByteDance Seedance 2.0 urgently suspended its real-person material reference capability.
             &lt;/strong&gt;
-            She said that even the tasks humans are best at and those with the highest cognitive difficulty are better suited to be completed jointly by humans and AI.
+            In relevant group chats for Jiemeng AI, an official operations staff member stated:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另外，阿莫代还在采访中表示，
+            而据新浪科技消息，相关事件发酵同时，
             &lt;strong&gt;
-             AI 在完全不依赖人类的情况下能够胜任的工作极其有限。
+             字节跳动 Seedance 2.0 紧急暂停了真人素材参考能力。
             &lt;/strong&gt;
-            她说，即使是人类最擅长、认知难度最高的任务，也更适合由人类与 AI 共同完成。
+            而在即梦 AI 相关群聊中，有官方运营人员表示：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Seedance 2.0 received far more attention than expected during its internal testing period. Thank you for your usage feedback. To ensure a healthy and sustainable creative environment, we are currently making urgent optimizations based on feedback and temporarily do not support inputting real-person images or videos as primary references.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The operations staff also stated that the platform deeply understands that the boundary of creativity is respect, and after product adjustments, it will officially meet everyone with a more complete appearance.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            运营人员还表示，平台深知创意的边界是尊重，产品调整后会以更完善的面貌与大家正式见面。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💡 Anthropic：AI 智能体将重塑开发全流程</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">💡-Anthropic：AI-智能体将重塑开发全流程</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic recently released a significant report titled '2026 Agentic Coding Trends Report'.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 近日发布了一份名为《2026 Agentic Coding Trends Report》的重磅报告。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She believes that collaboration between humans and AI can create more meaningful, challenging, and interesting work forms, while also leading to higher productivity and expanding opportunities for more people. At the same time, future employment does not necessarily require a deep technical background.
+            The report points out that,
+            &lt;strong&gt;
+             with the evolution of AI programming capabilities from 'experimental tools' to 'productivity systems,'
+            &lt;/strong&gt;
+            the software development industry stands on the brink of a 'tectonic shift-like' transformation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其认为，人类与 AI 的协作能够创造更有意义、更具挑战性和更有趣的工作形态，同时也能带来更高生产率，并为更多人拓展机会空间。同时，未来的就业并不一定要求深厚的技术背景。
+            报告指出，
+            &lt;strong&gt;
+             随着 AI 编程能力从「实验性工具」向「生产力系统」的演进
+            &lt;/strong&gt;
+            ，软件开发行业正站在一场「地壳运动般」变革的边缘。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The report predicts that by 2026, software development will no longer be limited to humans writing code but will shift to humans orchestrating teams of AI agents to complete tasks. This shift will lead to a dramatic collapse of the traditional software development life cycle, with project delivery times shrinking from weeks to hours.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报告预测，到 2026 年，软件开发将不再局限于人类编写代码，而是转向由人类编排 AI 智能体团队来完成。这一转变将导致传统的软件开发生命周期发生剧烈坍缩，项目交付时间将从数周缩短至数小时。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            A striking technological trend in the report is the evolution of AI agent architecture. Current monolithic agents are limited by context windows and single-threaded processing capabilities, often only able to handle linear tasks. However, Anthropic points out that
+            &lt;strong&gt;
+             2026 will be the year of 'multi-agent collaboration' explosion.
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报告中引人注目的技术趋势是 AI 智能体架构的演进。目前的单体智能体受限于上下文窗口和单线程处理能力，往往只能处理线性任务。但 Anthropic 指出，
+            &lt;strong&gt;
+             2026 年将是「多智能体协同」爆发的一年。
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Interestingly, the report also mentions that despite AI taking on more execution-level work, it reveals a key 'collaboration paradox': high AI utilization but low full delegation rate.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            有趣的是，报告中还提到，尽管 AI 承担了更多执行层面的工作，但报告揭示了一个关键的「协作悖论」：AI 使用率高，但完全放权率低。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic's internal research shows that while engineers use AI in 60% of their work, the proportion of tasks they say can be 'fully passed through' is only 0-20%. This indicates that AI currently functions more like a partner requiring continuous supervision rather than a fully automated replacement.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 的内部研究显示，虽然工程师在 60% 的工作中都会使用 AI，但他们表示能够「完全通过」的任务比例仅为 0-20%。这表明，AI 目前更像是一个需要持续监督的合作伙伴，而非完全自动化的替代品。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The report points out that as AI capabilities improve, human supervision methods will also undergo a qualitative change—shifting from 'line-by-line review' to 'agent-based quality control,' meaning using AI agents to review large-scale code generated by other AIs, with humans only needing to focus on high-risk and strategic parts.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            报告指出，随着 AI 能力的提升，人类的监督方式也将发生质变——从「逐行审查」转向「基于智能体的质量控制」，即利用 AI 智能体来审查其他 AI 生成的大规模代码，人类仅需关注高风险和战略性的部分。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>最便宜 MacBook 前瞻：12.9 寸非刘海屏</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">最便宜-MacBook-前瞻：12.9-寸非刘海屏</guid>
+      <title>法拉利首款纯电车型内饰公布</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">法拉利首款纯电车型内饰公布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/58cb62ad-06b0-4e63-9751-25449e43e6b2.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/249dfe3d-575e-4179-9b57-f2d98a4246e7.jpeg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 9to5Mac, citing sources from Bloomberg reporter Mark Gurman and analyst Ming-Chi Kuo, the rumored &quot;cheapest MacBook&quot; is expected to be launched in the first half of 2026.
+            Recently, Ferrari officially unveiled the interior design of its first all-electric model, 'Luce'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 9to5Mac 援引彭博社记者 Mark Gurman、分析师郭明錤消息，称传闻中「最便宜 MacBook」将有望 2026 上半年推出。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of positioning, this MacBook will be directly named &quot;MacBook&quot; and will be an entry-level product. Its target audience is users who do not require high performance and prioritize portability and budget. For this, the MacBook will adopt the same A18 Pro processor as the iPhone.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            定位上，该款 MacBook 将直接命名为「MacBook」，为入门级产品，目标人群为性能要求不高、注重便携与预算的用户，对此 MacBook 将采用 iPhone 同款 A18 Pro 处理器。
+            近日，法拉利正式公布了其首款纯电车型「Luce」的内饰设计。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding the screen, the entry-level MacBook will feature a 12.9-inch display, slightly smaller than the MacBook Air's 13.6 inches, but there's a chance it might ditch the current notch design. Notably, the MacBook will be available in four colors: blue, pink, yellow, and silver, similar to the entry-level iPad.
+            It is reported that the design of Luce involved the LoveFrom team led by Jony Ive, Apple's former chief design officer, and the car's interior is claimed to offer an 'exhilarating driving experience'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            屏幕方面，入门版 MacBook 采用一块 12.9 英寸的显示屏，尺寸略小于 MacBook Air 的 13.6 英寸，但有几率取消目前的刘海屏设计。值得一提的是，MacBook 将提供蓝、粉、黄、银四款配色，与入门款 iPad 类似。
+            据悉，Luce 的设计由苹果前首席设计官 Jony Ive 带队的 LoveFrom 团队参与，并且该车内饰号称能带来「令人振奋的驾驶体验」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of price, the new machine is expected to start from $699 (approximately RMB 4838), which is lower than the MacBook Air's starting price of $999 (domestic price starts from RMB 7999).
+            In terms of overall interior design,
+            &lt;strong&gt;
+             Luce adopts a simple and clear style, using a large amount of 100% recycled aluminum alloy, CNC machined from a single piece of aluminum
+            &lt;/strong&gt;
+            , with an anodized surface; the screen glass uses Corning &quot;Gorilla&quot; glass.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            价格方面，新机预计 699 美元起（约合人民币 4838 元起），低于 MacBook Air 的 999 美元起售价（国行为 7999 元起）。
+            整体内饰设计上，
+            &lt;strong&gt;
+             Luce 采用了简单明了的风格，采用了大量的 100% 再生铝合金，并由整块铝材 CNC 加工
+            &lt;/strong&gt;
+            ，表面经阳极氧化处理；而屏幕玻璃采用康宁「大猩猩」玻璃。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            For the steering wheel, Luce uses a three-spoke steering wheel, also precision-machined from a single piece of aluminum, available in silver, gold, and gray; the operating area is equipped with E-Manettino and Manettino knobs.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            方向盘处理上，Luce 采用了三辐方向盘，并且同样由整块铝材精密加工而成，拥有银、金、灰三款配色；操作区域配备 E-Manettino 和 Manettino 旋钮。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The instrument panel adopts a design combining digital and mechanical gauges, where the central instrument cluster combines mechanical pointers with a digital dial, featuring physical pointers.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            仪表台则采用数字结合机械仪表的设计，其中中央仪表盘将机械指针与数字化表盘相结合，拥有实体指针。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The control panel also adopts a design style combining digital and mechanical elements, equipped with multiple mechanical control buttons, and a separate multi-function display in the upper right corner; additionally, Luce's control panel supports multi-angle rotation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            控制面板同样采用了数字结合机械的设计风格，配备多枚机械控制按钮，右上角还拥有一块独立的多功能显示仪；另外，Luce 的控制面板还支持多角度转动。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It is worth mentioning that the Luce vehicle is equipped with three displays: the instrument cluster, the central control screen, and the rear screen, with the instrument cluster screen also utilizing Samsung's dual-layer OLED technology.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            值得一提的是，Luce 整车配备三块显示屏，分别为仪表盘、中控屏以及后排，其中仪表盘屏幕还采用了三星双层 OLED 技术。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>阿里新一代模型 Qwen 3.5 曝光</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">阿里新一代模型-Qwen-3.5-曝光</guid>
+      <title>字节上架图像生成新模型 Seedream 5</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">字节上架图像生成新模型-Seedream-5</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/982d25a6-599a-4574-a8e0-98502f6b5ddd.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/41446fa5-f148-413f-87ad-7d720502ff7c.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Linux Do platform user &quot;BunnHack&quot; pointed out:
+            Recently, ByteDance's AI video generation large model Seedance 2.0 has become popular. And yesterday, ByteDance launched its latest image generation model, &quot;Seedream 5.0&quot;.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨日，Linux Do 平台用户「BunnHack」指出：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the latest updates in the Hugging Face Transformers codebase, a PR titled &quot;Adding Support for Qwen3.5&quot; has been submitted, officially paving the way for the upcoming Qwen 3.5 series models.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            根据 Hugging Face Transformers 代码库的最新动态显示，一项名为「Adding Support for Qwen3.5」的 PR 已被提交，正式为即将到来的 Qwen 3.5 系列模型铺平道路。
+            近期，字节跳动旗下 AI 视频生成大模型 Seedance 2.0 走红。而在昨日，字节又上线了最新生图模型「Seedream 5.0」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the new content in the PR,
-            &lt;strong&gt;
-             the Qwen 3.5 series will be a large family, covering pure text, multimodal vision, and Mixture-of-Experts (MoE) models
-            &lt;/strong&gt;
-            :
+            It is reported that Seedream 5.0 boasts three major highlights: real-time online retrieval, precise and controllable editing, and intelligent logical reasoning, allowing every demand to be responded to promptly and presented accurately:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 PR 中新增的内容显示，
-            &lt;strong&gt;
-             Qwen 3.5 系列将是一个庞大的家族，涵盖了纯文本、多模态视觉以及混合专家模型（MoE）
-            &lt;/strong&gt;
-            ：
+            据悉，Seedream 5.0 拥有联网实时检索、编辑精准可控、智能逻辑推理 三大亮点，让每一个需求都能及时响应、准确呈现：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Multimodal visual capabilities: includes Qwen3_5VisionModel and Qwen3_5ForConditionalGeneration, and is equipped with an automatic image processor (Auto Image Processor);&lt;/p&gt;
-&lt;p&gt;MoE Architecture: The code explicitly lists Qwen3_5Moe and Qwen3_5MoeText, confirming that Qwen 3.5 will continue to use MoE.&lt;/p&gt;
+&lt;p&gt;Strong Timeliness: For the first time, it supports image generation with retrieval capabilities, deeply linking creation with popular news topics, meeting creative demands for highly time-sensitive knowledge, celebrity recognition, local overseas effects, and other scenarios;&lt;/p&gt;
+&lt;p&gt;Instruction Following: Improves the coherence between generated images and input text, reduces &quot;text-to-image&quot; model hallucinations, and precisely responds to detailed text instructions;&lt;/p&gt;
+&lt;p&gt;Feature Transfer: Accurately references visual features such as tone, style, makeup, and camera angles, enabling multi-scenario applications and gameplay;&lt;/p&gt;
+&lt;p&gt;Reasoning and Thinking: Precisely captures intrinsic logical connections, supports complex logical deduction and multi-step reasoning requirements, and intelligently optimizes the compositional layout of creations;&lt;/p&gt;
+&lt;p&gt;Physical World Knowledge: Better understands real-world laws, has more reasonable spatial layouts, and produces realistic and natural image quality that stands up to detailed scrutiny;&lt;/p&gt;
+&lt;p&gt;Vertical Industry Knowledge: Built-in professional knowledge base for vertical industries, covering fields such as bioscience, architectural design, geographic information, and health and wellness.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding the above content, BunnHack speculates that Alibaba's new generation base model, Qwen3.5, is about to be released.
+            It's worth noting that Seedream 5.0's 2k and 4k resolutions are making their debut on Jiemeng and are available for free for a limited time; additionally, Seedream 5.0 is now available on Xiaoyunque.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对于上述内容，BunnHack 推测阿里千问新一代基座模型 Qwen3.5 发布在即。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Yicai Global, Qwen 3.5 (Qwen3.5) adopts a brand-new hybrid attention mechanism and is very likely to be a natively visual-understanding VLM-type model. Qwen3.5 may open-source at least a 2B dense model and a 35B-A3B MoE model.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另据第一财经消息，千问 3.5（Qwen3.5）采用了全新的混合注意力机制，并且极有可能是原生可实现视觉理解的 VLM 类模型，Qwen3.5 或将开源至少 2B 的密集模型和 35B-A3B 的 MoE 模型。
+            值得一提的是，Seedream 5.0 的 2k、4k 清晰度即梦首发并限免；另外，Seedream 5.0 目前已上线小云雀。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>岚图泰山黑武士版将于 3 月登场</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">岚图泰山黑武士版将于-3-月登场</guid>
+      <title>腾讯混元推出 0.3B 端侧模型</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">腾讯混元推出-0.3B-端侧模型</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/96800ca8-52b4-413e-8d55-646e669c668b.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/89da63dd-3034-4490-bc4b-a542eef12c29.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On February 9, Voyah Auto's official social media platform released a video, formally announcing that the Voyah Taishan Black Warrior Edition will debut in March this year, adopting a limited release strategy.
+            On February 10, Tencent Hunyuan launched the &quot;extremely small&quot; model HY-1.8B-2Bit for consumer-grade hardware scenarios.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            2 月 9 日，岚图汽车官方社交平台发布视频，正式宣布岚图泰山黑武士版将于今年 3 月登场，采用限定发售策略。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the officially released video, Voyah brand friend Hu Jun appeared. Accompanied by his signature finger snap, the Voyah Taishan Black Warrior Edition made a stunning appearance, showcasing its continuation of the Voyah Taishan's iconic front-face design, and equipped with advanced assisted driving configurations such as lidar and intelligent driving status indicator lights.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在官方发布的视频中，岚图品牌挚友胡军出镜，伴随其标志性响指，岚图泰山黑武士版震撼现身，展示其延续了岚图泰山标志性的前脸设计，并搭载激光雷达、智驾状态指示灯等高阶辅助驾驶配置。
+            2 月 10 日，腾讯混元推出面向消费级硬件场景的「极小」模型 HY-1.8B-2Bit。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Voyah Auto CBO Shao Mingfeng's previous introduction, the Voyah Taishan Black Warrior Edition features a full-vehicle black-out treatment and is equipped with an exclusive exterior package. The integration of elements such as a high-gloss black grille, light-waterfall grille, exclusive 22-inch black forged wheels, and red brake calipers creates a low-key yet powerful overall style.
+&lt;strong&gt;
+             This model is based on a small-sized model with 1.8B parameters. Through 2Bit quantization technology, the equivalent parameter count is approximately 0.3B, with actual storage occupation of only about 600MB, smaller than some commonly used mobile applications, achieving a new breakthrough in edge-side deployment.
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;strong&gt;
+             该模型基于 1.8B 参数的小尺寸模型，通过 2Bit 量化技术，等效参数量约为 0.3B，实际存储占用仅约 600MB，比常用的一些手机应用还小，实现了端侧部署的新突破。
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Specifically, this model is based on the Hunyuan team's pioneering industrial-grade 2Bit edge-side quantization solution. By performing 2-bit quantization-aware training (QAT) on the HY-1.8B-Instruct model, the model size is reduced to 1/6 of the original precision model, while the generation speed on real edge devices is increased by 2-3 times, significantly enhancing the user experience.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据岚图汽车 CBO 邵明峰此前介绍，岚图泰山黑武士版采用全车黑化处理并配备专属外观套件，高亮黑格栅、光瀑格栅、专属 22 英寸黑色锻造轮毂与红色制动卡钳等元素的融合，形成低调而具张力的整体风格。
+            具体来看，该模型基于混元团队首创的产业级 2Bit 端侧量化方案，通过对 HY-1.8B-Instruct 模型进行 2 比特量化感知训练（QAT）产出，模型大小减少至原始精度模型的 1/6，同时在真实端侧设备上生成速度提升 2-3 倍，可大幅提升使用体验。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            For the interior, an exclusive scheme will be offered, emphasizing individuality and sophistication. The door panels and seats feature exclusive perforated textures, headrests include hand embroidery, and detailed configurations such as an exclusive starlight headliner are provided.
+            In terms of capabilities, the model also retains the original chain of thought, providing corresponding depth of reasoning for tasks of varying complexity. This is the industry's first edge-side model practice to achieve 2-bit industrial-grade quantization.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            内饰提供专属方案上，将突出个性与精致感，门板与座椅采用专属打孔纹理，头枕加入手工刺绣，并配备专属星空顶等细节配置。
+            能力上，模型还保留了原版的思维链，可以为不同复杂度的任务提供相应深度的推理过程。这是业界首个实现 2bit 产业级量化的端侧模型实践。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the officially released video, the Voyah Taishan Black Warrior Edition showcased a cool black-style front face, with a full-width light strip paired with a light-waterfall grille and an illuminated brand logo appearing simultaneously, creating an overall visual effect of immense power and recognition.
+            Regarding deployment, Tencent Hunyuan provides model weights in gguf-int2 format and bf16 pseudo-quantized weights for HY-1.8B-2Bit. Compared to the original precision model, HY-1.8B-2Bit can be flexibly used on edge devices. This model has also been adapted for computing platforms like Arm and can be deployed on mobile devices enabled with Arm SME2 technology, achieving efficient operation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在本次官方释放的视频中，岚图泰山黑武士版展示了酷黑风格的前脸，贯穿式光带搭配光瀑格栅点亮式品牌徽标同时出现，整体视觉极具力量感与识别度。
+            部署方面，腾讯混元提供了 HY-1.8B-2Bit 的 gguf-int2 格式的模型权重与 bf16 伪量化权重，对比原始精度模型，HY-1.8B-2Bit 能够灵活用于端侧设备上，该模型也已在 Arm 等计算平台上完成适配，可部署于启用 Arm SME2 技术的移动设备上，并实现高效运行。
            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Project Link:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            项目链接：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;a href=&quot;https://github.com/Tencent/AngelSlim&quot;&gt;
+             https://github.com/Tencent/AngelSlim
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;a href=&quot;https://github.com/Tencent/AngelSlim&quot;&gt;
+             https://github.com/Tencent/AngelSlim
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Model address:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            模型地址：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit-GGUF&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit-GGUF
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit-GGUF&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit-GGUF
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Technical report:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            技术报告：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit/blob/main/AngelSlim_Technical_Report.pdf&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit/blob/main/AngelSlim_Technical_Report.pdf
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;a href=&quot;https://huggingface.co/AngelSlim/HY-1.8B-2Bit/blob/main/AngelSlim_Technical_Report.pdf&quot;&gt;
+             https://huggingface.co/AngelSlim/HY-1.8B-2Bit/blob/main/AngelSlim_Technical_Report.pdf
+            &lt;/a&gt;
+&lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>拯救者 Y700 第五代采用 165Hz 刷新率</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">拯救者-Y700-第五代采用-165Hz-刷新率</guid>
+      <title>千问上线新生图模型</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">千问上线新生图模型</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/83d7744d-2a78-478d-9f3e-8aeca30e90fb.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/1867a702-0c73-4fb7-bc33-17cdd22abccb.png&quot;/&gt;
+&lt;/p&gt;&lt;div class=&quot;editor-image-source&quot;&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Generated by Qwen-Image-2.0&lt;/p&gt;
+&lt;/div&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Lenovo Legion announced more information about the AI Tablet Y700 Fifth Generation.
+            Yesterday, Alibaba's Qwen large model launched a new generation of image generation foundation model, Qwen-Image-2.0.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，联想拯救者公布 AI 平板 Y700 第五代更多信息。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new device will be equipped with an 8.8-inch &quot;Hunter Speed&quot; gaming screen, featuring an ultra-high refresh rate of 165Hz and an instantaneous touch sampling rate of 2640Hz (multi-finger sampling rate is 480Hz), a resolution of 3040 × 1904, 408PPI, and 800nits global brightness.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新机将配备 8.8 英寸猎速电竞屏，拥有 165Hz 超高刷新率以及 2640Hz 瞬时采样率（多指采样率为 480Hz），分辨率达 3040 × 1904，拥有 408PPI 以及 800nits 全局亮度。
+            昨天，阿里千问大模型推出新一代图像生成基础模型 Qwen-Image-2.0。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Legion also stated that the 165Hz ultra-high refresh rate is designed to eliminate screen jitter when the image moves, making the visuals more coherent and comfortable for users when, for example, turning their head in FPS games or dragging the map in MOBA games.
+            According to reports, the main features of Qwen-Image-2.0 include:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            拯救者方面还表示，配备 165Hz 超高刷新率是为了消除画面移动时产生的屏幕抖动，让用户在进行比如 FPS 转头或 MOBA 拖动地图时，画面会更连贯，更舒适。
+            据介绍，Qwen-Image-2.0 主要特色包括：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;More professional text rendering: 1k token instruction support, direct output of professional infographics, including PPT/posters/comics, etc.&lt;/p&gt;
+&lt;p&gt;More delicate realistic texture: 2k resolution support, finely depicting realistic scenes, including characters/nature/architecture, etc.&lt;/p&gt;
+&lt;p&gt;Stronger semantic adherence: integrated understanding and generation, image generation and editing in one. Lighter model architecture: smaller model, faster speed.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of performance, in tests at AI Arena, Qwen-Image-2.0, as an image generation and editing all-in-one model, achieved superior performance in both text-to-image and image-to-image benchmarks with the same model.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            性能方面，在 AI Arena 的测试中，Qwen-Image-2.0 作为一个生图编辑二合一的模型，同一模型在文生图和图生图基准中获得优越性能。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, an ultra-high refresh rate can make the edges of moving targets smoother, and the display engine's screen scanning cycle becomes shorter.
+            It is reported that API invitation testing has been opened on Alibaba Cloud Bailian, and developers can also experience the new model for free through Qwen Chat (chat.qwen.ai).
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另外，超高刷新率还能让移动目标的边缘更流畅，显示引擎扫描屏幕的周期就越短。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the Legion Y700 Fifth Generation will feature a rear RGB light and is expected to be powered by Qualcomm's fifth-generation Snapdragon 8 Extreme Edition mobile platform, offering up to 24GB+1TB memory versions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，拯救者 Y700 第五代将配备后置 RGB 灯，预计搭载高通第五代骁龙 8 至尊版移动平台，最高提供 24GB+1TB 的内存版本。
+            据悉，阿里云百炼上已开通 API 邀测，开发者也可通过 Qwen Chat（chat.qwen.ai）免费体验新模型。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>昔日网红「自嗨锅」被申请破产审查</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">昔日网红「自嗨锅」被申请破产审查</guid>
+      <title>QQ 诞生 27 周年</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">QQ-诞生-27-周年</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/f1c2f38b-2000-4c79-b3b2-ab8f5aa6dfc5.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/8026ffef-7648-4907-97f8-06bd3bed8dfc.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Qichacha, recently, Hangzhou Jinlingyang Enterprise Management Consulting Co., Ltd., an affiliated company of Zihaiguo, added a bankruptcy review case. The applicant is Mr. Ma, and the handling court is the Yuhang District People's Court of Hangzhou.
+            On February 10th, Tencent QQ celebrated its 27th anniversary since its birth. Tencent officially published an article reviewing the growth journey of this instant messaging giant.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据企查查显示，近日，自嗨锅关联公司杭州金羚羊企业管理咨询有限公司新增一则破产审查案件，申请人为马某，经办法院为杭州市余杭区人民法院。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Information shows that Zihaiguo was founded in 2018 and is a self-heating instant hotpot brand. Its products include spicy beef self-heating hotpot, self-heating soup pot, self-heating dry pot, self-heating cooking pot, and more.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            信息显示，自嗨锅成立于 2018 年，是一个自热方便火锅品牌，产品包括麻辣牛肉自热火锅、自热汤锅、自热干锅、自热煮锅等。
+            2 月 10 日，腾讯 QQ 迎来其诞生后的第 27 个年头。腾讯官方发文回顾了这一即时通讯巨头的成长历程。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Yicai Global, &quot;Zihaiguo&quot; was once a leading brand in the internet-famous self-heating hotpot industry, founded by Baicaowei founder Cai Hongliang in 2018. Cai Hongliang previously founded the snack brand &quot;Baicaowei,&quot; cashing out 960 million yuan after selling it to &quot;Haoxiangni&quot; in 2016. &quot;Zihaiguo&quot; was his second star startup project.
+            It is reported that on February 10, 1999, in a cubicle office in Shenzhen, the first version of OICQ—OICQ 99 beta build 0210—was officially released, marking the birth of Tencent QQ.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据第一财经报道，「自嗨锅」曾是网红自热火锅行业头部品牌，由百草味创始人蔡红亮于 2018 年创立。蔡红亮曾创立零食品牌「百草味」，2016 年卖给「好想你」后套现 9.6 亿元离场，「自嗨锅」是他第二个明星创业项目。
+            据悉，1999 年 2 月 10 日，在深圳的一间格子办公室里，OICQ 的第一个版本 ——OICQ 99 beta build 0210 正式问世，标志着腾讯 QQ 的诞生。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As of now, Hangzhou Jinlingyang has 6 pieces of information regarding individuals subject to enforcement, involving an amount exceeding 140 million yuan, and Cai Hongliang has also been restricted from high consumption.
+            After entering the 21st century, QQ's user base rapidly expanded, with registered accounts exceeding 100 million in 2001, gradually covering the entire country and becoming a basic communication tool for netizens.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            截至目前，杭州金羚羊已有 6 条被执行人信息，涉及金额超 1.4 亿元，蔡红亮也被限制高消费。
+            进入 21 世纪后，QQ 用户规模迅速扩张，2001 年注册账户数突破 1 亿，逐步覆盖全国，成为网民基础通讯工具。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            With its precise positioning for &quot;single-person meals&quot; and the &quot;lazy economy,&quot; coupled with heavy advertising and marketing, &quot;Zihaiguo&quot; quickly became a dark horse in the market at that time.
+            According to Tencent, during its functional evolution, QQ gradually developed from a simple communication tool into a diversified social platform. The launch of features such as the Olympic online torch relay, QQ Farm &quot;stealing vegetables&quot; game, channel-based interest social networking, flash transfer of images, and QQ Zone has made it a comprehensive community connecting interpersonal relationships and interest groups.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            凭借精准的「一人食」「懒人经济」定位和重广告营销，「自嗨锅」迅速成为当时的市场黑马。
+            而据腾讯介绍，在功能演进过程中，QQ 逐渐从单纯通讯工具发展为多元社交平台。奥运在线火炬传递、QQ 农场偷菜游戏、频道兴趣社交、闪传图片、QQ 空间等功能的推出，使其成为连接人际关系与兴趣圈层的综合社区。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In 2020, with a surge in demand for home consumption, Zihaiguo's sales skyrocketed, becoming a phenomenal internet-famous product. It not only set a record of selling 5 million units in 10 minutes, but its Tmall flagship store also achieved sales exceeding 100 million yuan in just 21 minutes during that year's Double Eleven.
+            It is worth mentioning that QQ has gradually begun to restore classic features that were previously removed: on December 8, 2025, the PC version of QQ Classic Mode will return; on January 24, 2026, QQ Show will make a brand new comeback; on February 6, 2026, QQ Farm Classic will return.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            2020 年，居家需求激增，自嗨锅销量暴涨，成了现象级网红产品。不仅创下 10 分钟售 500 万桶的纪录，在当年双十一，其天猫旗舰店更是在短短 21 分钟内，达到破亿销售额。
+            值得一提的是，QQ 近年来开始逐步恢复曾经下架的经典功能：2025 年 12 月 8 日，PC 端 QQ 经典模式回归；2026 年 1 月 24 日，QQ 秀全新回归；2026 年 2 月 6 日，QQ 农场经典回归。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            However, with the sharp decline in &quot;stay-at-home&quot; demand after 2022, &quot;Zihaiguo&quot;'s presence gradually weakened. In March 2023, the listed company &quot;MSG King&quot; Lianhua Health expressed interest in acquiring a partial stake in Hangzhou Jinlingyang, but the deal fell through five months later.
+&lt;strong&gt;
+             🎤 How long has it been since you last logged into QQ, folks?
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;strong&gt;
+             🎤 小伙伴们多久没登录 QQ 了？
+            &lt;/strong&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>支付宝上线 Robotaxi 打车小程序</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">支付宝上线-Robotaxi-打车小程序</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/d4a9faf9-be42-4151-bc1a-b9f0329a7abe.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Cailian Press, Alipay's Robotaxi ride-hailing mini-program was recently launched.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            但随着 2022 年后「宅家」需求锐减，「自嗨锅」声量渐弱。2023 年 3 月，上市公司「味精大王」莲花健康有意收购杭州金羚羊部分股权，但 5 个月后这笔交易告吹。
+            据财联社消息，支付宝 Robotaxi 打车小程序于近日全新上线。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to official customer service, Robotaxi is an autonomous driving ride-hailing service platform provided by Alipay's travel channel, currently aggregating autonomous driving service providers such as Pony.ai, but it has not been officially launched yet.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据官方客服，Robotaxi 是支付宝出行频道提供的自动驾驶打车服务平台，目前聚合了小马智行等自动驾驶服务商，但尚未正式推出。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Robotaxi mini-program currently operates in parts of five cities: Guangzhou, Dongguan, Beijing, Wuhan, and Shenzhen, with more cities being gradually integrated.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Robotaxi 小程序运营区域目前包括广州、东莞、北京、武汉、深圳五个城市的部分地区，更多城市正在陆续接入中。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>12306 回应「无座票乘客被劝离静音车厢」</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">12306-回应「无座票乘客被劝离静音车厢」</guid>
+      <title>lululemon 全新推出 EasyFive 五袋款长裤系列</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">lululemon-全新推出-EasyFive-五袋款长裤系列</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/1e11f367-f8ef-4456-b931-d6ca0b643d21.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/f4e516ff-1ff4-4cf7-968e-5fa6dc17f02c.jpeg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Jimu News, a netizen recently posted that they bought a high-speed rail standing ticket. Because there were many people in the regular carriage, they stood in the silent carriage. Although they did not make any noise, a staff member still reminded them that passengers without seats are not allowed to stay in the silent carriage.
+            Recently, the athletic lifestyle brand lululemon launched its new EasyFive™ Five-Pocket Pant series, breaking style conventions and allowing for free movement with a personalized attitude.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据极目新闻报道，日前有网友发文称，自己买到了高铁无座票，因普通车厢人员较多，他就站到了静音车厢。尽管自己没有发出声音，但还是有工作人员提醒，无座乘客不能在静音车厢停留。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The incident sparked heated discussion among netizens. Some netizens commented, &quot;Are people not allowed to stand in second-class seats? I'm willing to buy a standing ticket, but I also need a place to stand.&quot; In response, some netizens explained, &quot;It's not that people are not allowed to stand in second-class seats, it's that people are not allowed to stand in the silent carriage. Standing tickets are generally not sold for the silent carriage itself.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            相关事件引发网友热议。有网友留言表示：「二等座不让站人吗？我愿意站票，但是也要给我站的地方。」对此，有网友评论解释道：「不是二等座不让站人，是静音车厢不让站人，本身卖无固定座位票也不会是静音车厢那个车厢。」
+            日前，运动生活方式品牌 lululemon 推出全新 EasyFive™ 五袋款长裤系列，打破风格定式，以个性姿态自由迈步。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports, the netizen who posted the relevant content stated that they bought a standing ticket for another carriage, but their carriage was too crowded, so they went to the silent carriage, and then a staff member came to remind them, &quot;but it might also depend on how strictly it's enforced.&quot;
+            The EasyFive™ Five-Pocket Pant series features modern cuts and diverse styles, offering three pant types for women: low-rise wide-leg pants, mid-rise straight-leg pants, and high-rise bootcut pants. The cotton-blend Utilitech™ twill fabric is crisp and stylish, with a slight stretch for comfort; the inner waistline features a smooth Ultralu™ lining, providing a soft wearing experience.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据报道，发布相关内容的网友表示，其买到的是其他车厢的无座票，但是其所在的车厢人太多了，自己就去了静音车厢，然后就有工作人员过来提醒了，「不过可能也是看管得严不严。」
+            EasyFive™ 五袋款长裤系列用摩登剪裁呈现多元版型，为女士客人带来低腰阔腿裤、中腰直筒长裤及高腰微喇裤三种裤型。棉混纺 Utilitech™ 斜纹面料挺括有型，微带弹力兼顾舒适；腰部内侧均采用顺滑的 Ultralu™ 衬里，给予她柔软穿着体验。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding the above situation, a 12306 customer service representative stated that
-            &lt;strong&gt;
-             when passengers purchase tickets, it will show which carriage the standing ticket is for, and silent carriages do not sell standing tickets.
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对于上述情况，12306 接线工作人员表示，
-            &lt;strong&gt;
-             乘客在购买车票时，会显示具体是在哪个车厢的无座票，而且静音车厢是不发售无座车票的。
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Another staff member from the 12306 platform stated that it is recommended that passengers without seats try not to ride in the silent carriage, but there is no strict regulation on this matter, and the actual situation on site shall prevail.
+            For men, there are two different cut styles: relaxed and classic, offering more comfortable leg movement for ease and flexibility. The total of five pockets on the sides, back, and inside provide convenient storage for personal items, allowing him to move freely and comfortably.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            12306 平台另一名工作人员则表示，建议无座旅客尽量不去静音车厢乘坐，但此事并没有硬性规定，以现场情况为准。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>叮咚买菜：一切都在稳当运行着</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">叮咚买菜：一切都在稳当运行着</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/96f3e72a-fb0b-4d49-9f7b-95418bf6e6d5.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On February 5, Meituan announced on the Hong Kong Stock Exchange that it would complete the acquisition of 100% equity of Dingdong Maicai's China business for an initial consideration of approximately US$717 million.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            2 月 5 日，美团于香港联交所发布公告，将以约 7.17 亿美元的初始对价，完成对叮咚买菜中国业务 100% 股权的收购。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the transaction transition period, Dingdong Maicai will continue to operate according to its pre-transaction model.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            交易过渡期内，叮咚买菜将按照交易前的模式继续经营。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Dingdong Maicai responded, stating, &quot;
-            &lt;strong&gt;
-             Please rest assured, Dingdong Maicai is operating steadily.
-            &lt;/strong&gt;
-            &quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨日，叮咚买菜方面回应表示，
-            &lt;strong&gt;
-             「请大家放心，叮咚买菜一切都在稳稳当当地运行着。」
-            &lt;/strong&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Dingdong Maicai stated that all its business partners, whether in product development, delivery, or quality control teams, are adhering to their posts as always.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            叮咚买菜方面表示，无论是商品开发、配送员，还是品控团队，我们所有业务的伙伴们都一如既往地坚守在岗位上。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that Dingdong Maicai was founded in 2017 and is a leading fresh produce instant retail platform in China, specializing in &quot;delivery in as fast as 29 minutes.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，叮咚买菜创立于 2017 年，是国内领先的生鲜即时零售平台，主打「最快 29 分钟送达」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The company was listed on the New York Stock Exchange in 2021. In the third quarter of 2025, Dingdong Maicai achieved revenue of 6.66 billion yuan, a historical quarterly high; net profit of 80 million yuan, achieving profitability under GAAP standards for 7 consecutive quarters.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            公司于 2021 年登陆纽交所。2025 年三季度，叮咚买菜实现营收 66.6 亿元人民币，创历史季度最高；净利润 0.8 亿元人民币，连续 7 个季度实现 GAAP 标准下盈利。
+            男士客人则有宽松与经典两种不同剪裁风格，更加从容的腿部活动空间让他松弛有度，两侧、后侧及内侧共五袋设计方便收纳随身物品，伴他自在随心，舒适随行。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>《小黄人大眼萌 3》首支预告公开</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">《小黄人大眼萌-3》首支预告公开</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>电影《拼桌》定档 3 月 14 日</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">电影《拼桌》定档-3-月-14-日</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/c827d931-5863-4c6e-86e2-e83340236faf.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            (Universal Pictures)
+            Recently, the movie &quot;Pintable&quot; officially released its &quot;Drinking Buddies&quot; poster, announcing its release on White Day, March 14th.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            （环球影画）
+            日前，电影《拼桌》正式发布「酒肉情侣」版海报，官宣 3 月 14 日白色情人节上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the first trailer for &quot;Minions 3: Minions and the Big Monster,&quot; a spin-off film from &quot;Despicable Me,&quot; was released, announcing that the film will soon be shown globally on the big screen.
+            Set against the backdrop of contemporary &quot;Dazi culture&quot; (buddy culture), the film tells the story of Zhang Jiayi, an editor of unsold books, and Lu Shigu, an unemployed programmer, who become &quot;meal buddies&quot; through shared tables, and gradually transform their fast-food-style friendship amidst life's changes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨日，《神偷奶爸》衍生电影《小黄人大眼萌 3：小黄人与大怪兽》首支预告公布，并宣布本片即将大银幕全球献映。
+            该片以当代「搭子文化」为背景，讲述滞销书编辑张嘉怡与失业程序员陆拾谷因拼桌成为「饭搭子」，在生活变故中逐渐改变快餐式友谊关系的故事。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the film tells the story of the Minions venturing into Hollywood, attempting to make a monster movie, but accidentally summoning real monsters and causing chaotic adventures.
+            The film is executive produced by Zhang Lu, written and directed by Wu Jing, starring Wang Chuanjun and Jiang Shuying, with Li Xueqin, Zheng Yunlong, Fu Shou'er, and Liu Jia as main cast members, Wang Caiping and Du Jiayi as special guest stars, Wu Mian, Bai Jugang, and Tian Ye (Lao Si) as special appearances, and Tian Xiaojie, Luo Haiqiong, Qi Xi, Xu Lingyue, and Kui Kui as friendly appearances.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，本片讲述了小黄人闯荡好莱坞，试图拍摄一部怪兽电影，却意外召唤出真实怪兽、引发混乱冒险的故事。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Minions 3&quot; is directed by Pierre Coffin, written by Brian Lynch, and stars Pierre Coffin. It will be released in North America on July 1.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            《小黄人大眼萌 3》由皮埃尔·柯芬执导，布莱恩·林奇担任编剧，皮埃尔·柯芬主演，将于 7 月 1 日北美上映。
+            影片由张律监制，吴靖编剧并执导，王传君、江疏影领衔主演，李雪琴、郑云龙、傅首尔、刘佳主演，王彩平、杜家毅特邀出演，吴冕、白举纲、田野（老四）特别出演，田小洁、罗海琼、齐溪、许龄月、葵葵友情出演。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>《河狸变身计划》定档 3 月上映</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">《河狸变身计划》定档-3-月上映</guid>
+      <title>《天才游戏》宣布 4 月上映</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">《天才游戏》宣布-4-月上映</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/a2f950b2-2a37-4bc1-b87f-7d7883aada3d.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/db3535c2-02ce-4ccc-a3e5-2e54c657ad12.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Pixar's official Weibo announced yesterday that the new original animated film &quot;Beaver Transformation Project&quot; is scheduled to hit cinemas nationwide on March 20.
+            Yesterday, the suspense crime film &quot;Genius Game&quot; released its &quot;Let's Play Something Exciting!&quot; poster, officially announcing its nationwide release on April 4th.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            皮克斯官方微博昨日宣布，全新原创动画电影《河狸变身计划》定档 3 月 20 日登陆全国影院。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film tells the story of a young girl named Mabel who, in order to explore the animal world, uploads her consciousness into a robot beaver. Later, she befriends George, the king of the beaver kingdom, and together they unite with animals to thwart a real estate developer's plan.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            该片讲述年轻女孩梅宝为了探索动物世界，将意识上传到一只机器海狸体内，后来她结交了海狸王国的国王乔治，他们联合动物击退了一个房地产开发商的计划的故事。
+            昨日，悬疑犯罪电影《天才游戏》发布「玩点刺激的！」版海报，正式官宣将于 4 月 4 日全国上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film is directed by Daniel Chong, written by Daniel Chong and Jesse Andrews, with voice acting by Pepper Corda, Jon Hamm, and Bobby Moynihan. It will also be released in the United States on March 6, 2026.
+            The film tells the story of genius teenager Liu Quanlong and wealthy teenager Chen Lun, who embark on a life-swapping adventure due to a twist of fate, showcasing a narrative style that intertwines suspense and horror through their mirrored destinies.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            影片由丹尼尔·钟执导，丹尼尔·钟、杰西·安德鲁斯编剧，佩珀·柯达、乔恩·哈姆、鲍比·莫尼汉参与配音，还于 2026 年 3 月 6 日美国上映。
+            该片讲述天才少年刘全龙与富家少年陈伦在因缘际会下开启人生交换冒险的故事，通过双生镜像命运展现悬疑与惊悚交织的叙事风格。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The film is written and directed by Cheng Liang, starring Peng Yuchang and Ding Yuxi.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            影片由由程亮自编自导，彭昱畅、丁禹兮领衔主演。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>2026 春节档新片预售票房破 8000 万</title>
-      <pubDate>Tue, 10 Feb 2026 05:09:44 +0000</pubDate>
-      <guid isPermaLink="false">2026-春节档新片预售票房破-8000-万</guid>
+      <title>《非穷尽列举》NTLive 电影中国内地 3 月上映</title>
+      <pubDate>Wed, 11 Feb 2026 05:08:45 +0000</pubDate>
+      <guid isPermaLink="false">《非穷尽列举》NTLive-电影中国内地-3-月上映</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.10_%E6%97%A9%E6%8A%A5_II/a2ccab89-61ba-49a6-8bf3-68de3dff345e.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/2.11_%E6%97%A9%E6%8A%A5_II/1e65108e-1f76-4c5b-b4ff-2144251b2c59.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Lighthouse Pro, as of yesterday (February 9) at 22:48, the total pre-sale box office for new films in the 2026 Spring Festival档 has exceeded 80 million yuan. &quot;Pegasus 3,&quot; &quot;Silent Awakening,&quot; and &quot;Blade of the Phantom Master: Wind Rises in the Desert&quot; temporarily rank in the top three on the pre-sale box office chart.
+            According to Sina Movies, the NTLive film &quot;Prima Facie&quot; (Non-Exhaustive List), created by the &quot;Prima Facie&quot; team, is scheduled to be released in mainland China on March 8th.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据灯塔专业版，截至昨日（2 月 9 日）22 时 48 分，2026 春节档新片预售总票房已突破 8000 万，《飞驰人生 3》《惊蛰无声》《镖人：风起大漠》暂列预售票房榜前三。
+            据新浪电影消息，《初步举证》团队打造的《非穷尽列举》NTLive 电影中国内地定档 3 月 8 日上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that 6 Spring Festival films have currently opened pre-sales, including &quot;Pegasus 3,&quot; &quot;Silent Awakening,&quot; &quot;Blade of the Phantom Master: Wind Rises in the Desert,&quot; &quot;Boonie Bears: The Year of the Bear,&quot; &quot;Panda Plan: Tribal Adventures,&quot; and &quot;Starlight Dream.&quot;
+            The film reunites &quot;Prima Facie&quot; screenwriter Suzie Miller and director Justin Martin, starring Rosamund Pike, and premiered in London last year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，目前已有 6 部春节档电影开启预售，包含《飞驰人生 3》《惊蛰无声》《镖人：风起大漠》《熊出没·年年有熊》《熊猫计划之部落奇遇记》《星河入梦》。
+            本片由《初步举证》编剧苏茜·米勒与导演贾斯汀·马丁再度联手，裴淳华主演，去年在伦敦开演。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The story follows London judge Jessica Parks, who is renowned in her professional field, especially in sexual violence cases, for her empathy, sharp intellect, and willingness to challenge the system. She also raises her young son Harry, while her husband Michael, a lawyer, has a less prominent presence in Jessica's family life. One day, Jessica learns that her son has been accused of rape by a classmate after a party, causing a sudden and immense clash between her professional and private lives. Her dedication to justice and fairness, her maternal instinct to protect her son... Jessica must confront a moral and emotional turmoil.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            故事讲述伦敦法官 Jessica Parks 在职业领域尤其是性暴力案件方面声名斐然，有同理心、尖锐、敢于挑战体系。同时她也养育着年少的儿子 Harry，丈夫 Michael 是一名律师，在 Jessica 的家庭生活中存在感不强。而一天，Jessica 得知，儿子在一场派对后被同学指控强奸，她的专业与私人生活猛然出现了巨大的冲撞，对正义公理的执着、保护儿子的直觉……Jessica 必须直面道德和情感上的混乱。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;a href=&quot;https://www.ifanr.com/tags/%e6%97%a9%e6%8a%a5&quot;&gt;
