@@ -2,26 +2,40 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Sat, 14 Mar 2026 04:48:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 08:36:00 +0000</lastBuildDate>
     <item>
       <title>「苹果税」降至 25%，百度腾讯网易回应</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">「苹果税」降至-25%，百度腾讯网易回应</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/80f2312f-3f11-404f-a026-957e51c9bfe1.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Apple announced that it would lower the commission rate for iOS and iPadOS on the App Store in mainland China starting from March 15 this year. This change covers multiple dimensions, including standard commissions, auto-renewing subscriptions, and the Small Developer Program, making it one of Apple's most significant fee reforms in the Chinese market in recent years.
+            Yesterday, Apple announced that it would lower the commission rates for iOS and iPadOS on the App Store in mainland China, effective March 15 this year. This change covers multiple dimensions, including standard commissions, auto-renewable subscriptions, and the Small Developer Program, making it one of Apple's most significant fee reforms in the Chinese market in recent years.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，苹果宣布将自今年 3 月 15 日起下调中国内地（大陆） App Store 的 iOS 与 iPadOS 佣金率。此次变动覆盖标准佣金、自动续费订阅以及小型开发者计划等多个维度，成为苹果近年来在中国市场最显著的费率改革之一。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;The standard commission rate for in-app purchases and paid apps will be reduced from 30% to 25%;&lt;/p&gt;
-&lt;p&gt;The commission rate for eligible in-app purchases under the App Store Small Business Program and Mini Apps Partner Program, as well as the commission rate for auto-renewing subscriptions after the first year, will be reduced from 15% to 12%.&lt;/p&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The standard commission rate for in-app purchases and paid apps will be reduced from 30% to 25%;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             App 内购买及付费 App 的标准佣金率将由 30% 下调至 25%；
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The commission rate for eligible in-app purchases under the App Store Small Business Program and Mini Apps Partner Program, as well as the commission rate for auto-renewable subscriptions after the first year, will be reduced from 15% to 12%.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             App Store Small Business Program 与 Mini Apps Partner Program 项下符合条件的 App 内购买佣金率，以及第一年后的自动续费订阅佣金率，将从 15% 下调至 12%。
+            &lt;/span&gt;
+&lt;/li&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Apple emphasized that developers do not need to re-sign terms before March 15 to enjoy the new rates. The &quot;Apple Developer Program License Agreement&quot; has been revised accordingly, and the Chinese version will be launched within one month.
+            Apple emphasized that developers do not need to re-sign terms before March 15 to enjoy the new rates. The &quot;Apple Developer Program License Agreement&quot; has been revised accordingly, and the Chinese version will be available within a month.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             苹果强调，开发者无需在 3 月 15 日前重新签署条款即可享受新费率，《Apple Developer Program 许可协议》已同步修订，中文版将在一个月内上线。
@@ -34,20 +48,20 @@
             另据《新京报》和新浪科技报道，多家互联网大厂均对此作出积极回应：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Tencent stated that this adjustment reflects a response to the calls of Chinese users and developers, helping to build a more open and win-win platform environment and stimulate innovation;&lt;/p&gt;
-&lt;p&gt;NetEase stated that the commission reduction will promote a virtuous cycle in the industry and has constructive significance for the long-term prosperity of China's mobile internet ecosystem;&lt;/p&gt;
-&lt;p&gt;Baidu stated that this adjustment not only responds to the long-standing concerns of Chinese users and developers but will also release more open and positive development signals for the application ecosystem.&lt;/p&gt;
+&lt;p&gt;Tencent stated that this adjustment reflects a response to the calls of Chinese users and developers, helping to build a more open, win-win platform environment and stimulate innovation;&lt;/p&gt;
+&lt;p&gt;NetEase, on the other hand, stated that the reduction in commissions will promote a virtuous cycle in the industry and has constructive significance for the long-term prosperity of China's mobile internet ecosystem;&lt;/p&gt;
+&lt;p&gt;Baidu stated that this adjustment not only addresses the long-standing concerns of Chinese users and developers but also sends a more open and positive development signal to the application ecosystem.&lt;/p&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>比亚迪执行副总裁回应进军 F1：不要惊讶，正在研究</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">比亚迪执行副总裁回应进军-F1：不要惊讶，正在研究</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/72c4eb46-cf30-44a8-b44f-e85f6e6b9531.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to IT Home, BYD Executive Vice President Li Ke confirmed in an interview yesterday that the company is studying entering top competitive motorsport fields, including F1, but has not yet made a final decision.
+            According to IT Home, BYD Executive Vice President Li Ke confirmed in an interview yesterday that the company is exploring entry into top-tier competitive motorsport, including F1, but no final decision has been made yet.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 IT 之家报道，比亚迪执行副总裁李柯昨天在采访中证实，公司正在研究进入包括 F1 在内的顶级竞技赛车领域，但目前尚未做出最终决定。
@@ -67,7 +81,7 @@
 &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Bloomberg previously reported that BYD is considering two paths to enter F1, with a preference for acquiring an existing team rather than building a new one from scratch. If it ultimately materializes, this would be BYD's first foray into world-class motorsport, with the core objective of enhancing its brand recognition in overseas high-end markets.
+            Bloomberg previously reported that BYD is considering two paths to enter F1, with a preference for acquiring an existing team rather than building a new one from scratch. If it ultimately materializes, this would be BYD's first foray into top-tier global motorsport, with the core goal of enhancing its brand recognition in overseas high-end markets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             彭博社此前报道指出，比亚迪正考量两种进入 F1 的路径，其中更倾向于收购现有车队，而非从零组建新队伍。若最终成行，这将是比亚迪首次布局世界顶级汽车赛事，核心目标在于提升其在海外高端市场的品牌认知度。
@@ -76,7 +90,7 @@
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             🔗 Related reading:
             &lt;a href=&quot;https://mp.weixin.qq.com/s/vT7GmS5UIMsv3bddI1G94Q&quot;&gt;
-             BYD plans to enter F1, its next opponent is not Tesla, but Ferrari
+             BYD plans to enter F1; its next opponent is not Tesla, but Ferrari
             &lt;/a&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
@@ -89,20 +103,20 @@
     </item>
     <item>
       <title>新一代小米 SU7 官宣本月见，雷军称「肯定会涨价」</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">新一代小米-SU7-官宣本月见，雷军称「肯定会涨价」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/0bbb1a2c-b4dd-4755-861c-2cf82f7a860d.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Lei Jun posted on Weibo, confirming that the new generation Xiaomi SU7 will be officially released this month, with large-scale deliveries commencing rapidly after the launch, earlier than the previously announced &quot;expected launch in April.&quot;
+            Yesterday, Lei Jun posted on Weibo, confirming that the new generation Xiaomi SU7 will be officially released this month, with large-scale deliveries commencing rapidly after the launch, earlier than the previously announced &quot;expected April launch.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，雷军在微博发文，确认新一代小米 SU7 将于本月正式发布，并在发布后迅速开启大规模交付，较此前公开的「预计 4 月上市」有所提前。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun stated that after more than two years of refinement, the new generation SU7 has seen significant improvements in safety, handling, intelligent experience, and luxurious texture. Xiaomi Auto has now fully entered mass production and has preemptively ceased sales of the first-generation SU7 to make way for the new model.
+            Lei Jun stated that after more than two years of refinement, the new generation SU7 has significantly improved in terms of safety, handling, intelligent experience, and luxurious texture. Xiaomi Auto has now fully entered mass production and has preemptively ceased sales of the first-generation SU7 to make way for the successor model.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             雷军表示，新一代 SU7 经过两年多打磨，在安全、驾控、智能体验和豪华质感等方面均有明显提升。目前小米汽车已全面投入备产，并提前停售第一代 SU7，为换代车型让路。
@@ -120,7 +134,7 @@
 &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new generation SU7 still offers Standard, Pro, and Max versions, with pre-sale prices of 229,900 yuan, 259,900 yuan, and 309,900 yuan, respectively. Vehicles have been gradually arriving at stores nationwide since March 4th, and are expected to cover 143 cities and 492 stores by mid-this month.
+            The new generation SU7 continues to offer Standard, Pro, and Max versions, with pre-sale prices of 229,900 yuan, 259,900 yuan, and 309,900 yuan, respectively. Vehicles have been progressively arriving at stores nationwide since March 4, and are expected to cover 143 cities and 492 stores by mid-month.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新一代 SU7 依旧提供标准版、Pro 版和 Max 版，预售价分别为 22.99 万元、25.99 万元和 30.99 万元。车辆已于 3 月 4 日起陆续进驻全国门店，预计本月中旬覆盖 143 城、492 店。
@@ -134,7 +148,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of range, the CLTC range is 720 km, 902 km, and 835 km, respectively. Safety features have also been further enhanced, including 9 airbags + new rear side airbags, a 1500MPa scratch-resistant bottom beam, and a bottom &quot;bulletproof coating.&quot;
+            In terms of range, the CLTC range is 720 km, 902 km, and 835 km, respectively. Safety features have also been further enhanced, including 9 airbags + newly added rear side airbags, a 1500MPa scratch-resistant underbody crossbeam, and a &quot;bulletproof coating&quot; on the bottom.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             续航方面，CLTC 续航分别为 720 km、902 km 和 835 km。安全配置也进一步强化，包括 9 气囊 + 新增后排侧气囊、1500MPa 防刮底横梁及底部「防弹涂层」。
@@ -143,11 +157,11 @@
     </item>
     <item>
       <title>市监总局：严查「大字吸睛、小字免责」广告乱象</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">市监总局：严查「大字吸睛、小字免责」广告乱象</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to CCTV News, the State Administration for Market Regulation recently issued the &quot;Notice on Strengthening the Regulation of Warning Language in Advertisements,&quot; launching a six-month special rectification campaign against advertising irregularities, focusing on intensifying supervision over misleading promotional practices such as &quot;large characters for attention, small characters for disclaimer.&quot;
+            According to CCTV News, the State Administration for Market Regulation recently issued the &quot;Notice on Strengthening the Supervision of Prompting Language in Advertisements,&quot; launching a six-month special rectification campaign against advertising irregularities, focusing on increasing supervision over misleading promotional behaviors such as &quot;large characters to attract attention, small characters for disclaimer.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据央视新闻报道，市场监管总局近日印发《关于强化广告中提示性用语监管工作的通知》，启动为期半年的广告乱象专项整治，重点针对「大字吸睛、小字免责」等误导性宣传行为加大监管力度。
@@ -160,22 +174,22 @@
             《通知》明确六项重点任务：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Rectify &quot;misleading large and small font&quot; advertisements;&lt;/p&gt;
-&lt;p&gt;Investigate and punish advertisements that do not clearly indicate warning language in accordance with the law;&lt;/p&gt;
+&lt;p&gt;Rectify &quot;misleading large and small character&quot; advertisements;&lt;/p&gt;
+&lt;p&gt;Investigate and punish advertisements that do not prominently display prompting language in accordance with the law;&lt;/p&gt;
 &lt;p&gt;Investigate and punish advertisements that illegally use absolute terms in accordance with the law;&lt;/p&gt;
-&lt;p&gt;Strengthen supervision of citation advertisements;&lt;/p&gt;
-&lt;p&gt;Strengthen supervision of advertisers' self-attestation of advertisement content;&lt;/p&gt;
+&lt;p&gt;Strengthen the supervision of citation advertisements;&lt;/p&gt;
+&lt;p&gt;Strengthen the supervision of advertisers' self-attestation of advertisement content;&lt;/p&gt;
 &lt;p&gt;Strengthen supervision over major advertising media.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regulatory authorities require all regions to effectively strengthen the cleanup and rectification of behaviors such as &quot;arbitrarily claiming first, original, best,&quot; &quot;carrot-hole style citations,&quot; and weakening the display of unfavorable information, focusing on combating illegal advertisements that severely deceive and mislead consumers and disrupt market competition.
+            Regulatory authorities require all regions to effectively strengthen the cleanup and rectification of behaviors such as &quot;randomly claiming first, original, best,&quot; &quot;cherry-picking citations,&quot; and weakening the display of unfavorable information, focusing on combating illegal advertisements that severely deceive and mislead consumers and disrupt market competition order.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             监管部门要求，各地需切实加大对「随意宣称第一、首创、最佳」「萝卜坑式引证」以及弱化不利信息标示等行为的清理整治力度，重点打击严重欺骗误导消费者、扰乱市场竞争秩序的违法广告。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Officials also emphasized that they will promote the matching of high-quality advertising resources with high-quality products, alleviate advertisers' &quot;marketing anxiety,&quot; and guide businesses to abandon &quot;wordplay&quot; marketing.
+            Officials also emphasized that they will promote the matching of high-quality advertising resources with high-quality products to alleviate advertisers' &quot;marketing anxiety&quot; and guide operators to abandon &quot;word game&quot; marketing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             官方同时强调，将推动优质广告资源与高品质产品对接，缓解广告主「营销焦虑」，并引导经营者摒弃「文字游戏」式营销。
@@ -184,20 +198,20 @@
     </item>
     <item>
       <title>马斯克 xAI 挖走 Cursor 两位核心负责人</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">马斯克-xAI-挖走-Cursor-两位核心负责人</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/a40ecf25-d22d-48cc-ae3c-beac3132d303.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 《The Information》, Elon Musk's xAI recently poached two key leaders, Andrew Milich and Jason Ginsberg, from AI coding assistant company Cursor. Both will report directly to Musk.
+            According to 《The Information》, Elon Musk's xAI recently poached two key leaders, Andrew Milich and Jason Ginsberg, from AI programming assistant company Cursor. Both will report directly to Musk.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据《The Information》报道，马斯克旗下 xAI 近日从 AI 编程助手公司 Cursor 挖走两名核心负责人 Andrew Milich 与 Jason Ginsberg，两人将直接向马斯克本人汇报。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Milich and Ginsberg were previously responsible for product and engineering directions at Cursor, respectively, and participated in the development of Agent-related capabilities. Their past experiences of co-founding companies and moving jobs together have made them known as a &quot;golden duo&quot; in Silicon Valley.
+            Milich and Ginsberg were previously responsible for product and engineering directions at Cursor, respectively, and participated in the development of Agent-related capabilities. Their prior experience of co-founding startups and moving jobs together has led them to be regarded as a &quot;golden duo&quot; in Silicon Valley.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Milich 与 Ginsberg 曾在 Cursor 分别负责产品与工程方向，并参与 Agent 相关能力的研发。两人此前共同创业、共同跳槽的经历，使其在硅谷被视为「黄金搭档」。
@@ -211,21 +225,21 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Cursor has grown rapidly in the past two years, with ARR reaching $2 billion last year, but its market pressure is continuously increasing as large model vendors like Anthropic and OpenAI directly enter the market with products such as Claude Code.
+            Cursor has grown rapidly in the past two years, with ARR reaching $2 billion last year, but its market pressure is continuously increasing as large model vendors like Anthropic and OpenAI directly launch products such as Claude Code.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Cursor 过去两年增长迅速，ARR 在去年达到 20 亿美元，但随着 Anthropic、OpenAI 等大模型厂商直接下场推出 Claude Code 等产品，其市场压力不断加剧。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            《Business Insider》previously reported that several co-founders of xAI have left the company in recent weeks, with only three remaining in their positions.
+            《Business Insider》previously reported that several xAI co-founders have left the company in recent weeks, with only three remaining.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《商业内幕》此前报道，xAI 多名联合创始人已在最近数周离开公司，目前仅剩三人仍在任职。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In response, Musk posted on X: &quot;I apologize that many great people did not get an interview or job offer at xAI over the past few years.&quot; He stated that he and Baris Akis, a member of xAI's talent engineering team, will &quot;go back through the company's interview history and re-contact promising candidates.&quot;
+            In response, Musk posted on X, saying: &quot;I apologize that many great people didn't get interview or hiring opportunities at xAI over the past few years.&quot; He stated that he and Baris Akis, a member of xAI's talent engineering team, will &quot;review the company's interview history and re-contact potential candidates.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             对此，马斯克在 X 上发文称：「过去几年，许多优秀的人在 xAI 没能获得面试或录用机会，我表示歉意。」他表示，自己与 xAI 人才工程团队成员 Baris Akis 将「回溯公司面试历史，并重新联系有潜力的候选人」。
@@ -234,18 +248,18 @@
     </item>
     <item>
       <title>曝魅族大规模组织架构调整：超五成员工离职</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">曝魅族大规模组织架构调整：超五成员工离职</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 36Kr, Meizu is undergoing a large-scale organizational restructuring: over 50% of its employees are about to leave, affecting approximately 400 people.
+            According to 36Kr, Meizu is undergoing a large-scale organizational restructuring: over 50% of its employees, approximately 400 people, are about to leave.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 36 氪 报道，魅族正在经历大规模组织架构调整：超过 50% 的员工即将离开，涉及规模约 400 人。
+            据 36 氪报道，魅族正在经历大规模组织架构调整：超过 50% 的员工即将离开，涉及规模约 400 人。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report indicates that the personnel adjustments primarily involve three categories: some employees will receive &quot;N+2&quot; compensation; the PANDAER trendy brand team will be spun off for independent operation; and some members of the AR glasses team will be absorbed by the AR company &quot;Thunderbird Innovation.&quot; However, Meizu has denied claims related to &quot;Thunderbird absorption.&quot;
+            The report indicates that the personnel adjustments mainly involve three categories: some employees will receive &quot;N+2&quot; compensation; the PANDAER trendy brand team will be spun off for independent operation; and some members of the AR glasses team will be absorbed by AR company &quot;Thunderbird Innovation.&quot; However, Meizu has denied claims related to &quot;Thunderbird absorption.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             报道显示，此次人员调整的去向主要包括三类：部分员工将获得「N+2」补偿；PANDAER 潮牌团队将分拆独立运营；AR 眼镜团队部分成员被 AR 企业「雷鸟创新」吸收。不过，魅族方面否认了「雷鸟吸收」的相关说法。
@@ -259,14 +273,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meanwhile, Meizu's core mobile phone assets (including code, product documentation, visual animation documentation, etc.) have been fully integrated into a hardware company under the Geely system. The Zhuhai team may no longer use the &quot;Meizu&quot; brand in the future.
+            Meanwhile, Meizu's core mobile phone assets (including code, product documentation, visual animation documentation, etc.) have been fully integrated into a hardware company under the Geely system, and the Zhuhai team may no longer use the &quot;Meizu&quot; brand in the future.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             与此同时，魅族手机的核心资产（包括代码、产品文档、视觉动效文档等）已被整体整合进吉利体系旗下硬件公司，珠海团队未来或不再继续使用「魅族」品牌。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meizu announced on February 27th, in a statement titled &quot;Twenty-three Years of Passion, Reborn in the Name of Flyme,&quot; that it would suspend its domestic new mobile phone hardware self-development projects and seek third-party hardware partners.
+            Meizu announced on February 27th, in a notice titled &quot;Twenty-Three Years of Passion, Reborn in the Name of Flyme,&quot; that it would suspend its domestic new mobile phone hardware self-development projects and seek third-party hardware partners.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             魅族在 2 月 27 日已发布《廿三载热爱，以 Flyme 之名新生》公告，宣布暂停国内新手机硬件自研项目，并寻求第三方硬件合作伙伴。
@@ -275,7 +289,7 @@
     </item>
     <item>
       <title>追觅下周发射首颗太空算力卫星</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">追觅下周发射首颗太空算力卫星</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/7c91a8af-3bf4-4207-a163-dad2ee4f4ab0.jpg&quot;/&gt;
@@ -297,20 +311,20 @@
     </item>
     <item>
       <title>淘宝更新支持 OpenClaw，可自动搜索比价</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">淘宝更新支持-OpenClaw，可自动搜索比价</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/faa80233-3f1f-4f48-9ba9-cd35e01cc9ce.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Taobao desktop client recently released version v2.5.0, introducing MCP protocol support locally for the first time, allowing AI agents like OpenClaw to automatically perform multiple shopping operations with user authorization, including searching for products, browsing details, comparing prices, and adding to the shopping cart. However, final payment still requires manual confirmation from the user.
+            The Taobao desktop client recently released v2.5.0, introducing MCP protocol support locally for the first time, allowing AI agents like OpenClaw to automatically perform multiple shopping operations with user authorization, including searching for products, browsing details, comparing prices, and adding to the shopping cart. However, final payment still requires manual user confirmation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             淘宝桌面客户端近日发布 v2.5.0 版本，首次在本地引入 MCP 协议支持，让 OpenClaw 等 AI 智能体能够在用户授权下自动化执行多项购物操作，包括搜索商品、浏览详情、比价、加入购物车等。不过，最终付款仍需用户手动确认。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            After enabling the MCP protocol, the Taobao desktop client will expose a specified port on the local machine to pair with AI tools like OpenClaw installed on the same device. AI can input keywords, select interactive elements by simulating clicks, and extract information from product search results pages, product detail pages, and store pages.
+            After enabling the MCP protocol, the Taobao desktop client will expose a specified port on the local machine to pair with AI tools like OpenClaw installed on the same device. AI can input keywords, select interactive elements via simulated clicks, and scrape information from product search results pages, product detail pages, and store pages.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             启用 MCP 协议后，淘宝桌面客户端会在本机暴露指定端口，与安装在同一设备上的 OpenClaw 等 AI 工具进行配对。AI 可通过模拟点击方式输入关键词、选择交互元素，并在商品搜索结果页、商品详情页和店铺页面抓取信息。
@@ -324,14 +338,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            However, due to permission limitations, AI currently cannot read product review content, meaning it cannot filter out &quot;water army&quot; (fake) reviews, nor can it make further judgments based on review quality.
+            However, due to permission limitations, AI currently cannot read product review content, meaning it cannot filter out &quot;water army&quot; (fake) comments or make further judgments based on review quality.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             不过，受限于权限，AI 目前无法读取商品评价内容，意味着无法过滤水军评论，也无法基于评价质量进行进一步判断。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, the current version only supports the native MCP protocol, and AI and Taobao clients need to run on the same device. However, some technical users have achieved cross-machine control by modifying port listening.
+            In addition, the current version only supports the native MCP protocol, and the AI and Taobao client need to run on the same device, but some technical users have achieved cross-machine control by modifying port listening.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             此外，当前版本仅支持本机 MCP 协议，AI 与淘宝客户端需运行在同一台设备上，但已有技术用户通过修改端口监听实现跨机器控制。
@@ -340,7 +354,7 @@
     </item>
     <item>
       <title>寒武纪首次实现年度盈利，净赚 20.59 亿元</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">寒武纪首次实现年度盈利，净赚-20.59-亿元</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/5f050e1f-32cd-4bfd-a7bb-addc502b6945.jpg&quot;/&gt;
@@ -353,17 +367,17 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;The company's revenue last year was 6.497 billion yuan, a year-on-year increase of 453.21%;&lt;/p&gt;
-&lt;p&gt;The net profit attributable to shareholders of listed companies was 2.059 billion yuan, turning losses into profits year-on-year, marking its first annual profit since its listing in 2020.&lt;/p&gt;
+&lt;p&gt;The net profit attributable to shareholders of listed companies was 2.059 billion yuan, turning losses into profits year-on-year, becoming its first annual profit since its listing in 2020.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Cambricon attributed the significant improvement in revenue and profit to the continuous rise in computing power demand in the AI industry, enhanced product competitiveness, and expanded market reach and application implementation. The company plans to distribute a cash dividend of 15 yuan (tax inclusive) for every 10 shares to all shareholders, with an estimated total distribution exceeding 632 million yuan, accounting for 30.71% of last year's net profit attributable to the parent company.
+            Cambricon attributed the significant improvement in revenue and profit to the continuous increase in computing power demand in the artificial intelligence industry, enhanced product competitiveness, and driven market expansion and application implementation. The company plans to distribute a cash dividend of 15 yuan (including tax) for every 10 shares to all shareholders, with an estimated total distribution of over 632 million yuan, accounting for 30.71% of last year's net profit attributable to the parent company.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             寒武纪将营收与利润的大幅改善归因于人工智能行业算力需求持续攀升，公司产品竞争力增强并带动市场拓展及应用落地。公司计划向全体股东每 10 股派发现金红利 15 元（含税），预计合计派发超 6.32 亿元，占去年归母净利润的 30.71%。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The company also announced that its A-share stock abbreviation will remove the special identifier &quot;U&quot; starting March 16 this year, changing from &quot;Cambricon-U&quot; to &quot;Cambricon,&quot; while the stock code remains unchanged. Cambricon meets the conditions for being moved out of the STAR Market Growth Layer, with a non-recurring net profit attributable to the parent company of 1.77 billion yuan last year.
+            The company also announced that its A-share stock abbreviation will remove the special identifier U starting from March 16 this year, changing from &quot;Cambricon-U&quot; to &quot;Cambricon&quot;, with the stock code remaining unchanged. Cambricon meets the conditions for being removed from the STAR Market Growth Layer, with a non-recurring net profit attributable to the parent company of 1.77 billion yuan last year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             公司还宣布，其 A 股股票简称将于今年 3 月 16 日起取消特别标识 U，由「寒武纪-U」变更为「寒武纪」，股票代码保持不变。寒武纪满足调出科创成长层的条件，去年扣非归母净利润为 17.70 亿元。
@@ -372,7 +386,7 @@
     </item>
     <item>
       <title>OpenAI CEO：未来 AI 将像水电一样按量计费</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">OpenAI-CEO：未来-AI-将像水电一样按量计费</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/a96f1e25-572a-4be9-931f-4b8c980e366b.png&quot;/&gt;
@@ -380,7 +394,7 @@
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             According to Business Insider, OpenAI CEO Sam Altman stated at the BlackRock Infrastructure Summit held in Washington this week that
             &lt;strong&gt;
-             AI will be metered like electricity and tap water in the future, becoming a fundamental public service
+             AI will be metered and charged like electricity and tap water in the future, becoming a basic public service
             &lt;/strong&gt;
             .
            &lt;/span&gt;
@@ -399,7 +413,7 @@
             奥特曼指出，随着全球对 AI 的需求持续攀升，算力将成为决定谁能获得 AI 服务的关键因素。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;We see a future where intelligence will become a public service, like electricity or water, which people buy from us by the amount, for anything they want to do.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;We see a future where intelligence will become a public service, like electricity or water, and people will buy it from us by quantity for anything they want to do.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Altman emphasized that insufficient computing power will directly drive up the cost of AI usage and may even prevent some users from accessing services. He mentioned that if OpenAI cannot build enough computing infrastructure, &quot;either we won't be able to sell it, or the price will become very high,&quot; which could ultimately force governments to intervene in allocating limited computing resources.
@@ -416,7 +430,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AMD CEO Lisa Su stated at CES in January this year that over &quot;10 yottaflops&quot; (a hundred million floating-point operations per second) of computing power will be needed globally in the next five years, which is 10,000 times the total global AI computing power in 2022.
+            AMD CEO Lisa Su stated at CES in January this year that over &quot;10 yottaflops&quot; (a hundred quadrillion floating-point operations per second) of computing power will be needed globally in the next five years, which is 10,000 times the total global AI computing power in 2022.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             AMD CEO 苏姿丰在今年 1 月的 CES 上曾表示，未来五年全球需要超过「10 yottaflops」（亿浮点运算每秒）的算力规模，是 2022 年全球 AI 总算力的 1 万倍。
@@ -425,13 +439,13 @@
     </item>
     <item>
       <title>Google 将在 Android 17 收紧无障碍权限</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">Google-将在-Android-17-收紧无障碍权限</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/3f23b751-a195-493d-bbf6-7b02f3510086.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Android Authority, Google is further tightening the usage rules for accessibility permissions (AccessibilityService API) in this year's Android 17 Beta 2, and incorporating related restrictions into the Advanced Protection Mode (Advanced Protection Mode) system.
+            According to Android Authority, Google is further tightening the usage rules for accessibility permissions (AccessibilityService API) in this year's Android 17 Beta 2, and incorporating related restrictions into the Advanced Protection Mode system.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 Android Authority 报道，Google 正在今年的 Android 17 Beta 2 中进一步收紧无障碍权限（AccessibilityService API）的使用规则，并将相关限制纳入 Advanced Protection Mode（高级防护模式）的体系之下。
@@ -445,21 +459,21 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Android 17 Beta 2 enables Advanced Protection Mode by default, prohibiting all applications not officially classified as accessibility tools by the system from requesting or using accessibility permissions; if permissions were previously granted, the system will automatically revoke them.
+            Android 17 Beta 2 enables Advanced Protection Mode by default, and all applications not officially classified as accessibility tools by the system will be prohibited from applying for or using accessibility permissions; if permissions were previously obtained, the system will automatically revoke them.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Android 17 Beta 2 默认开启 Advanced Protection Mode，所有未被系统正式归类为无障碍工具的应用将被禁止申请或使用无障碍权限；若此前已获得权限，系统会自动撤销。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Accessibility API was originally designed to help users with disabilities operate devices, such as screen readers, voice assistance services, Switch input systems, etc. However, its powerful read and operate capabilities have also long been used by some applications to circumvent system restrictions, and even by malicious software for fraud.
+            The Accessibility API was originally used to help disabled users operate devices, such as screen readers, voice assistance services, and Switch input systems, but its powerful reading and operating capabilities have also long been used by some applications to circumvent system restrictions, and even by malicious software for fraud.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             无障碍 API 原本用于帮助残障用户操作设备，例如屏幕阅读器、语音辅助服务、Switch 输入系统等，但其强大的读取与操作能力也长期被部分应用用于规避系统限制，甚至被恶意软件用于诈骗。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Google emphasized on its support page that only applications that correctly declare themselves as accessibility tools will not be affected, including screen readers and voice assistance services.
+            Google emphasizes on its support page that only applications that correctly declare themselves as accessibility tools will not be affected, including screen readers, voice assistance services, etc.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Google 在支持页面中强调，只有正确声明自身为无障碍工具的应用不会受到影响，包括屏幕阅读器、语音辅助服务等。
@@ -468,31 +482,31 @@
     </item>
     <item>
       <title>大众与小鹏首款联合开发车型「与众 08」量产下线</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">大众与小鹏首款联合开发车型「与众-08」量产下线</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/172486b7-a4c9-4bcb-9d08-0d177aca21d8.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the first co-developed model between Volkswagen and Xpeng, the Yuzhong 08, officially rolled off the production line at Volkswagen Anhui. This model took only 24 months from signing the cooperation agreement to mass production, is positioned as a full-size pure electric SUV, and is planned for launch in the first half of the year.
+            Yesterday, the first model jointly developed by Volkswagen and Xpeng, the VOYAH 08, officially rolled off the production line at Volkswagen Anhui. This model took only 24 months from signing the cooperation agreement to mass production, is positioned as a full-size pure electric SUV, and is planned to be launched in the first half of the year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，大众汽车与小鹏汽车联合开发的首款车型与众 08 在大众安徽正式量产下线，该车型从签署合作协议到量产仅用时 24 个月，定位全尺寸纯电 SUV，计划于上半年上市。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Equipped with advanced technologies such as enhanced L2-level assisted driving, Xpeng's VLA full-scenario intelligent driving assistance system, and Qualcomm Snapdragon 8295P cockpit chip;&lt;/p&gt;
-&lt;p&gt;Built on an 800-volt high-voltage SiC platform, with a maximum range exceeding 700 kilometers (CLTC);&lt;/p&gt;
-&lt;p&gt;In collision tests, 31 standards exceeded national requirements. Its body dimensions are 5000/1954/1672 mm, with a wheelbase of 3030 mm.&lt;/p&gt;
+&lt;p&gt;Equipped with advanced technologies such as enhanced L2-level assisted driving, Xpeng Motors' VLA full-scenario intelligent driving assistance system, and Qualcomm Snapdragon 8295P cockpit chip;&lt;/p&gt;
+&lt;p&gt;Built on an 800-volt high-voltage SiC platform, with a maximum range of over 700 kilometers (CLTC);&lt;/p&gt;
+&lt;p&gt;In crash tests, 31 standards exceeded national requirements. Its body dimensions are 5000/1954/1672 mm, with a wheelbase of 3030 mm.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Volkswagen Group and Xpeng Motors reached a long-term strategic cooperation in 2023 to jointly develop two pure electric vehicle models. In the R&amp;amp;D and manufacturing stages, VCTC and Xpeng Motors deeply collaborated, leading product design definition, technical verification, quality standards, and driving control tuning.
+            Volkswagen Group and Xpeng Motors reached a long-term strategic cooperation in 2023 to jointly create two pure electric vehicle models. In the R&amp;amp;D and manufacturing stages, VCTC and Xpeng Motors deeply collaborated, leading product design definition, technical verification, quality standards, and driving control tuning.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             大众汽车集团与小鹏汽车于 2023 年达成长期战略合作，联合打造两款纯电车型。在研发与制造环节，VCTC 与小鹏汽车深度协同，主导产品设计定义、技术验证、质量标准与驾控调校。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that following the 08, the second jointly developed model will also be launched this year.
+            It is reported that following the Yu Zhong 08, the second co-developed model will also be launched this year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据悉，继与众 08 之后，第二款联合开发车型也将在今年上市。
@@ -508,7 +522,7 @@
     </item>
     <item>
       <title>绿联与 MiniMax 官宣达成合作，将推开箱即用 AI 私有云</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">绿联与-MiniMax-官宣达成合作，将推开箱即用-AI-私有云</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/bbdd2aad-61bf-46f6-9960-21fbe07c0b1a.jpg&quot;/&gt;
@@ -521,14 +535,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The core outcome of the cooperation between the two parties is the native integration of the MiniMax large model into the Ugreen NAS system. The OpenClaw &quot;Lobster&quot; application has officially launched on the Ugreen NAS private cloud UGOS Pro App Center. Users do not need to manually deploy, apply for API keys, configure environments, or debug code; they can simply install it with one click in the App Center and use it out of the box.
+            The core outcome of the cooperation is the native integration of the MiniMax large model into the Ugreen NAS system. The OpenClaw &quot;Lobster&quot; application has been officially launched on the Ugreen NAS Private Cloud UGOS Pro App Center. Users do not need to manually deploy, apply for API keys, configure environments, or debug code; they can simply install it with one click in the App Center and use it out of the box.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             双方合作的核心成果是将 MiniMax 大模型原生集成至绿联 NAS 系统，OpenClaw「龙虾」应用正式上线绿联 NAS 私有云 UGOS Pro 应用中心，用户无需手动部署、无需申请 API 密钥，也不需要进行环境配置或代码调试，只需在应用中心一键安装即可开箱即用。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Ugreen, OpenClaw initially supports DXP series and the upcoming iDX series devices, adapting to both PC and web platforms, with more models to be supported in the future.
+            According to Ugreen, OpenClaw initially supports the DXP series and the upcoming iDX series devices, adapting to both desktop and web platforms, with support for more models to be opened in the future.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             根据绿联方面介绍，OpenClaw 首发支持 DXP 系列及即将上市的 iDX 系列设备，适配电脑端与网页端平台，未来将开放更多机型支持。
@@ -544,39 +558,39 @@
     </item>
     <item>
       <title>Google AI Pro 配额缩水引争议：官方建议升级 Ultra</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">Google-AI-Pro-配额缩水引争议：官方建议升级-Ultra</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports from The Register and Blue Point Network, Google recently adjusted its Antigravity Coding Agent and Google AI subscription system, sparking strong dissatisfaction among many developers.
+            According to reports from The Register and Blue Point Network, Google recently made adjustments to its Antigravity Coding Agent and Google AI subscription system, sparking strong dissatisfaction among many developers.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 The Register 和蓝点网报道，Google 近日对其反重力（Antigravity）Coding Agent 及 Google AI 订阅体系进行调整，引发大量开发者强烈不满。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Google AI Pro subscription quotas have been drastically cut. The advanced model allowance, originally refreshed every 5 hours, has now been extended to 5-7 days, forcing many users' development processes to be interrupted.
+            Google AI Pro subscription quotas have been drastically cut. The advanced model allowance, which originally refreshed every 5 hours, has now been extended to 5-7 days, forcing many users' development processes to be interrupted.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Google AI Pro 订阅配额被大幅削减，原本每 5 小时刷新一次的高级模型额度，如今被延长至 5～7 天，导致不少用户的开发流程被迫中断。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Multiple developers reported on Google AI forums, Reddit, and X that after the update, the AI Pro subscription not only has a longer refresh cycle but also a significantly faster quota consumption. Even light use of Gemini 3.1 Pro or Claude series models can exhaust most of the quota.
+            Multiple developers have reported on Google AI forums, Reddit, and X that after the update, AI Pro subscriptions not only have longer refresh cycles but also significantly faster quota consumption, with light use of Gemini 3.1 Pro or Claude series models quickly depleting most of the quota.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             多名开发者在 Google AI 论坛、Reddit 与 X 上反馈称，AI Pro 订阅在更新后不仅刷新周期变长，额度消耗也显著加快，轻度使用 Gemini 3.1 Pro 或 Claude 系列模型即可耗尽大部分配额。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Google stated in its announcement that this adjustment aims to give users &quot;more flexible control over how they build&quot; and introduces a credit system: subscriptions include a small number of credits, and additional usage requires on-demand purchase at a price of $25 for 2500 credits. However, the official documentation does not clearly explain the actual value of credits in the Antigravity tool, raising further questions.
+            Google stated in its announcement that this adjustment aims to give users &quot;more flexible control over how they build&quot; and introduces a credit system: subscriptions include a small number of credits, with additional usage requiring on-demand purchase at $25 for 2500 credits. However, official documentation does not clearly explain the actual value of credits in the Antigravity tool, raising further questions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Google 在公告中表示，此次调整旨在让用户「更灵活地控制构建方式」，并引入积分体系：订阅内含少量积分，额外使用需按需购买，价格为 25 美元 2500 积分。但官方文档并未明确说明积分在反重力工具中的实际价值，引发进一步质疑。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Register, Google is repositioning AI Pro to be suitable for &quot;enthusiasts, students, and developers primarily working within an IDE,&quot; and recommends that professional developers upgrade to the AI Ultra subscription, priced at $249.99 per month, for more stable access to advanced models.
+            According to a report by &quot;The Register,&quot; Google is repositioning AI Pro to be suitable for &quot;hobbyists, students, and developers primarily working within an IDE,&quot; and recommends that professional developers upgrade to the AI Ultra subscription at $249.99 per month to gain more stable access to advanced models.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             根据《The Register》的报道，Google 将 AI Pro 重新定位为适合「爱好者、学生与主要在 IDE 内工作的开发者」，并建议专业开发者升级至每月 249.99 美元的 AI Ultra 订阅，以获得更稳定的高级模型访问能力。
@@ -585,27 +599,27 @@
     </item>
     <item>
       <title>💡 美团王兴：AI 冲击远超互联网、公司要减少「登味」</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">💡-美团王兴：AI-冲击远超互联网、公司要减少「登味」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/e3410cfd-2bad-413e-9d99-2be4ee703479.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports from 36Kr and Jiemian News, yesterday, Meituan CEO Wang Xing emphasized in a management communication meeting that the influence of AI will far exceed the internet era, and &quot;digitization of the physical world&quot; will become a crucial foundation for Meituan's future AI strategy.
+            According to reports from 36Kr and Jiemian News, Meituan CEO Wang Xing emphasized at a management communication meeting yesterday that the impact of AI will far exceed the internet era, and &quot;digitalization of the physical world&quot; will become a key foundation for Meituan's future AI strategy.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 36 氪、界面新闻报道，昨天，美团 CEO 王兴在管理层沟通会上强调，AI 的影响力将远超互联网时代，而「物理世界的数字化」将成为美团未来 AI 战略的关键基础。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Wang Xing stated that the changes brought by AI &quot;will be much greater than those brought by the entire internet,&quot; and its influence compared to the internet is &quot;like the difference between a monkey and a flower,&quot; a completely different order of magnitude.
+            Wang Xing stated that the changes brought by AI &quot;will be much greater than those brought by the entire internet,&quot; and its impact compared to the internet is &quot;like the difference between a monkey and a flower,&quot; a completely different order of magnitude.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             王兴表示，AI 带来的变化「会比整个互联网带来的变化要大得多」，其影响力与互联网相比「就像猴与花的区别」，量级完全不同。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He pointed out that the impact of AI Agents even surpasses ChatGPT.
+            He pointed out that the impact of AI Agents even surpasses that of ChatGPT.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             他指出，AI Agent 的冲击甚至超过了 ChatGPT。
@@ -614,28 +628,28 @@
 &lt;p style=&quot;line-height: 1.375rem&quot;&gt;It is destined to create immense productivity and will certainly bring significant changes to organizations and work models.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            When discussing Meituan's business path, Wang Xing emphasized that the digitization of the physical world will become an important foundation for AI.
+            When discussing Meituan's business path, Wang Xing emphasized that the digitalization of the physical world will become an important foundation for AI.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在谈及美团的业务路径时，王兴强调，物理世界的数字化将成为 AI 的重要底座。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He cited &quot;Einstein ordering food&quot; as an example, pointing out that no matter how smart a large model is, it cannot directly know if a restaurant has available seats. This is not an intelligence problem but an information problem, thus information infrastructure in the real world remains key.
+            He cited &quot;Einstein ordering food&quot; as an example, pointing out that no matter how smart a large model is, it cannot directly know if a restaurant has available seats. This is not an intelligence problem but an information problem, thus information infrastructure in the real world remains crucial.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             他以「爱因斯坦订餐」为例指出，大模型再聪明，也无法直接得知餐厅是否有空位，这不是智力问题，而是信息问题，因此真实世界的信息基建仍是关键。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition to the AI strategy, Wang Xing also put forward specific requirements for organizational culture at the meeting. He called on management to reduce internal &quot;bureaucracy&quot; and explicitly stated that he would no longer accept the address &quot;Brother Xing,&quot; hoping that internal company communication would return to a professional and direct manner.
+            In addition to the AI strategy, Wang Xing also put forward specific requirements regarding organizational culture at the meeting. He called on management to reduce internal &quot;Deng-style&quot; (a term often implying bureaucracy or formality) and explicitly stated that he would no longer accept the address &quot;Brother Xing,&quot; hoping that internal company communication would return to a professional and direct manner.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             除 AI 战略外，王兴也在会上提出组织文化层面的具体要求。他呼吁管理层减少内部的「登味」，并明确表示不再接受「兴哥」这一称呼，希望公司内部沟通回归专业、直接的方式。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He explained that the moniker originated from a dorm nickname with co-founder Wang Huiwen in 1997, but it no longer aligns with the company's professional direction, so he advocated for everyone to start calling him by his given name.
+            He explained that this title originated from a dormitory nickname with co-founder Wang Huiwen in 1997, but it no longer aligns with the company's professional direction, so he advocated for everyone to start by calling him by his name.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             他解释称，这一称呼源自 1997 年与联合创始人王慧文的宿舍昵称，但如今已不符合企业专业化方向，因此倡议从自身做起，直呼其名。
@@ -644,27 +658,27 @@
     </item>
     <item>
       <title>阿里云手机版「龙虾」正式上架 App Store</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">阿里云手机版「龙虾」正式上架-App-Store</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/be21069d-4113-48ce-a4e5-95e930d52a6e.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Alibaba Cloud officially launched the mobile version of its OpenClaw &quot;Lobster&quot; application, JVS Claw, which is now available on the App Store.
+            Yesterday, Alibaba Cloud officially launched the mobile version of the OpenClaw「Lobster」application JVS Claw, which is now available on the App Store.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，阿里云正式上线手机版 OpenClaw「龙虾」应用 JVS Claw，已登陆 App Store。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            JVS Claw is developed by Alibaba Cloud's Wuying team and is positioned as &quot;a communication tool that better understands intelligent agents.&quot; Currently, it only supports iPhone, requiring iOS 12.0 or above. During the internal testing phase, each user can create 1 bot for free and receive a free quota of 8000 Credits, valid for 14 days.
+            JVS Claw, developed by Alibaba Cloud's Wuying team, is positioned as &quot;a communication tool that better understands intelligent agents.&quot; Currently, it only supports iPhone, requiring iOS 12.0 or higher. During the internal testing phase, each user can create 1 bot for free and receive a free quota of 8000 Credits, valid for 14 days.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             JVS Claw 由阿里云无影团队打造，定位为「更懂智能体的通讯工具」，目前仅支持 iPhone，系统要求为 iOS 12.0 或以上版本。在内测阶段，每位用户可免费创建 1 个 bot，并获得 8000 Credits 的免费额度，有效期为 14 天。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The application integrates the AI intelligent assistant Clawbot and the independent cloud environment ClawSpace, with its core objective focused on &quot;execution&quot;: users can drive intelligent agents through natural language to handle complex tasks such as processing files, organizing data, and generating documents in an isolated, secure cloud environment, achieving &quot;one-sentence operation for the entire process.&quot;
+            The application integrates the AI intelligent assistant Clawbot and the independent cloud environment ClawSpace, with its core objective focused on &quot;execution&quot;: users can drive intelligent agents through natural language to handle complex tasks such as processing files, organizing data, and generating documents in an isolated, secure cloud environment, achieving &quot;one-sentence operation of the entire process.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             应用集成 AI 智能助手 Clawbot 与云端独立环境 ClawSpace，核心目标聚焦「执行」：用户通过自然语言即可驱动智能体在隔离、安全的云端环境中处理文件、整理数据、生成文档等复杂任务，实现「一句话操作全流程」。
@@ -673,13 +687,13 @@
     </item>
     <item>
       <title>千问 App 上线 Qwen-Image 2.0</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">千问-App-上线-Qwen-Image-2.0</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/6f96b72e-5d55-4078-8c8a-1e07f1bd6004.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the Qianwen App launched its new image generation and editing model, &quot;Qwen-Image 2.0,&quot; which brings upgrades in text-to-image quality, complex text rendering, realistic texture performance, and instruction comprehension.
+            Yesterday, the Qianwen App launched a new image generation and editing model, &quot;Qwen-Image 2.0,&quot; which brings upgrades in text-to-image quality, complex text rendering, realistic texture performance, and instruction understanding capabilities.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，千问 App 上线全新图像生成与编辑模型「Qwen-Image 2.0」，在文生图质量、复杂文字渲染、真实质感表现及指令理解能力上均迎来升级。
@@ -693,7 +707,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the introduction, the model supports text-to-image generation, basic editing, and multi-scene creation, suitable for various content forms such as illustrations for long texts, emoji generation, travel journals, recipe creation, and comic creation.
+            According to the introduction, the model supports text-to-image generation, basic editing, and multi-scenario creation, suitable for various content forms such as long text illustrations, emoji generation, travel journals, recipe creation, and comic creation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据介绍，模型支持文生图、基础编辑与多场景创作，适用于长文本配图、表情包生成、旅行手帐、菜谱制作及漫画创作等多种内容形式。
@@ -709,34 +723,34 @@
     </item>
     <item>
       <title>联想 moto razr fold 大折叠新机亮相 F1 中国大奖赛现场</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">联想-moto-razr-fold-大折叠新机亮相-F1-中国大奖赛现场</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/7e01e797-d3b3-422c-9bc9-68ab2b702cce.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The 2026 F1 Chinese Grand Prix officially opened yesterday at the Shanghai International Circuit. Lenovo Moto showcased several smartphones in its exhibition area, including the brand-new AI large foldable product, the Lenovo Moto Razr Fold foldable AI phone, which made its public debut in China.
+            The 2026 F1 Chinese Grand Prix officially opened yesterday at the Shanghai International Circuit. Lenovo moto showcased several smartphones in its exhibition area, including the brand-new AI large foldable product, the Lenovo moto razr fold foldable AI phone, making its first public appearance in China.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             2026 F1 中国大奖赛昨天在上海国际赛车场正式开幕。联想 moto 携多款智能手机亮相展区，其中全新的 AI 大折叠新品联想 moto razr fold 折叠屏 AI 手机首次在国内公开亮相。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new phone performs excellently in terms of folding resistance, screen flatness, and crease control, offering a better grip experience with its thin and light body and delicate texture.
+            The new phone performs excellently in terms of folding damping, screen flatness, and crease control. Coupled with its thin and light body and delicate texture, it offers a better grip experience.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新机在折叠阻尼、屏幕平整度与折痕控制方面表现出色，配合轻薄机身与细腻质感，带来更佳的握持体验。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition to the Razr Fold, Lenovo Moto also showcased several straight-screen models, including the Razr 60 small foldable series, the lightweight Moto X70 Air, and the camera-focused Moto X70 Air Pro, covering a wider range of user needs.
+            In addition to the razr fold, Lenovo moto also exhibited several straight-screen models, including the razr 60 small foldable series, the lightweight moto X70 Air, and the camera-focused moto X70 Air Pro, covering a wider range of user needs.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             除 razr fold 外，联想 moto 还展出了 razr 60 小折叠系列、轻薄定位的 moto X70 Air 以及主打影像的 moto X70 Air Pro 等多款直屏机型，覆盖更广泛的用户需求。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The exhibition area also features interactive zones such as a giant foldable check-in area, an F1 miniature track photo zone, and a Tianxi AI charging energy station. Through AI imaging, rapid stamp collection, AI Tianxi custom driver's licenses, and other activities, it creates an immersive experience that blends technology and the racetrack.
+            The exhibition area also features interactive zones such as a giant foldable check-in area, an F1 miniature track imaging area, and a Tianxi AI charging energy station. Through AI imaging, rapid stamp collection, AI Tianxi customized driver's licenses, and other activities, it creates an immersive experience that integrates technology and the racetrack.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             展区同步设置巨物大折叠打卡区、F1 微缩赛道影像区、天禧 AI 充电能量站等互动区域，通过 AI 影像、极速集章、AI 天禧定制车手证等玩法，构建科技与赛道融合的沉浸式体验。
@@ -745,13 +759,13 @@
     </item>
     <item>
       <title>钉钉 AI 2.0 定档 3 月 17 日：以自然意象诠释系统级连接能力</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">钉钉-AI-2.0-定档-3-月-17-日：以自然意象诠释系统级连接能力</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/bf134e72-710f-4747-9dc6-9d8a41c5cbe5.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The AI DingTalk 2.0 annual new product launch event will officially be held on March 17th at the Lecture Hall of the Visitor Center, Zone C, Alibaba Xixi Campus, Hangzhou, Zhejiang.
+            The AI DingTalk 2.0 Annual New Product Launch Event will officially be held on March 17th at the Lecture Hall of the Visitor Center, Zone C, Alibaba Xixi Campus, Hangzhou, Zhejiang.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             AI 钉钉 2.0 年度新品发布会将于 3 月 17 日正式在浙江杭州·阿里巴巴西溪园区 C 区访客中心报告厅举行。
@@ -766,7 +780,7 @@
 &lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-             The morning session (9:30–11:45) will feature a keynote speech by DingTalk founder and CEO Chen Hang, who will interpret the product philosophy, complemented by opening and return shows to connect the process;
+             The morning session (9:30–11:45) will focus on a keynote speech, where DingTalk founder and CEO Chen Hang will interpret the product philosophy, complemented by opening and return shows to connect the process;
             &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
              上午场（9:30–11:45）将以主题演讲为核心，由钉钉创始人兼 CEO 陈航解读产品理念，辅以开场及返场 show 衔接流程；
@@ -774,7 +788,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-             The afternoon session (13:30–16:30) will feature three parallel activities: &quot;Practitioner TALK&quot; will invite industry &quot;AI practitioners&quot; to share real cases and implementation methods for working in the AI era; &quot;AI ToB Win-Win Future&quot; will focus on open platforms and hardware innovations connecting AI to the physical world; and the &quot;One-Person Company (OPC) Workshop&quot; will conduct hands-on exercises for AI DingTalk 2.0, helping individuals efficiently operate a &quot;one-person company.&quot;
+             The afternoon session (13:30–16:30) will feature three parallel activities: &quot;Practitioner TALK&quot; will invite industry &quot;AI practitioners&quot; to share real cases and implementation methods for working in the AI era; &quot;AI ToB Win-Win Future&quot; will focus on open platforms and hardware innovations connecting AI to the physical world; and the &quot;One-Person Company (OPC) Workshop&quot; will conduct practical exercises for AI DingTalk 2.0, helping individuals efficiently operate a &quot;one-person company.&quot;
             &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
              下午场（13:30–16:30）则设置三场平行活动：「实干家 TALK」将邀请行业「AI 实干家」分享 AI 时代工作方式的真实案例与落地方法；「AI ToB 共赢未来」聚焦开放平台与 AI 连接物理世界的硬件创新；「一人公司 (OPC) 工坊」则针对 AI 钉钉 2.0 开展实操演练，助力个人高效运营「一人公司」。
@@ -784,7 +798,7 @@
     </item>
     <item>
       <title>One Fun Thing｜京东云推出养龙虾送真虾活动</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">One-Fun-Thing｜京东云推出养龙虾送真虾活动</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/b52126d5-2fb4-4e6f-acd9-14aa5310a2bb.jpg&quot;/&gt;
@@ -797,7 +811,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            JD Cloud stated that users who log in to the official website to purchase a cloud host and deploy OpenClaw, or use JoyCode intelligent coding assistant for the first time, between 0:00 and 24:00 on March 13th, will receive a crayfish gift. Quantities are limited, first come, first served.
+            JD Cloud stated that users who log in to the official website to purchase a cloud host and deploy OpenClaw, or use JoyCode intelligent coding assistant for the first time, between 0:00 and 24:00 on March 13th, will receive a crayfish gift, while supplies last.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             京东云表示，用户在 3 月 13 日 0 点至 24 点期间，只需登录官网购买云主机并部署 OpenClaw，或首次使用 JoyCode 智能编码助手，即可获得一份小龙虾礼品，数量有限，先到先得。
@@ -811,7 +825,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Currently, JD Cloud offers various deployment solutions such as lightweight cloud hosts, GCS intelligent computing services, and computing factories. Users can choose according to their needs to quickly obtain a 24/7 available intelligent work assistant.
+            Currently, JD Cloud offers various deployment solutions such as lightweight cloud hosts, GCS intelligent computing services, and computing factories. Users can choose according to their needs to quickly obtain a 24-hour available intelligent work assistant.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             目前，京东云提供轻量云主机、GCS 智算服务、计算工厂等多种部署方案，用户可按需选择，快速获得 24 小时可用的智能工作助理。
@@ -820,27 +834,27 @@
     </item>
     <item>
       <title>周末看什么｜《匹兹堡医护前线》第二季</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">周末看什么｜《匹兹堡医护前线》第二季</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/8d03d2a3-5c09-4742-99a6-542ce8f7b3d0.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Pittsburgh Med&quot; Season 2 continues the series' structure of building high-pressure medical scenes with &quot;real-time narration,&quot; with each episode covering 1 hour of in-hospital time, collectively forming a complete 15-hour overview of the emergency room's operation on July 4th.
+            Season 2 of &quot;Pittsburgh Medical Frontline&quot; continues the series' structure of building high-pressure medical scenes with &quot;real-time narration,&quot; with each episode covering 1 hour of in-hospital time, collectively forming a complete 15-hour overview of the emergency room's operation on July 4th.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《匹兹堡医护前线》第二季延续了该系列以「实时叙事」构建高压医疗现场的结构，每集覆盖 1 小时院内时间，整体串联成 7 月 4 日这一天的 15 小时急诊室运转全貌。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Season 2 opens ten months after Season 1, with Robby about to go on leave, and the team being taken over by the new attending physician, Dr. Baran Al-Hashimi. Multiple characters experience promotions, and new members join, leading the emergency room to face a more complex staff structure and work pressure during the holiday peak.
+            Season 2 opens ten months after Season 1, with Robby about to go on leave, and the team being taken over by the new attending physician, Dr. Baran Al-Hashimi. Multiple characters have experienced promotions, and new members have joined, leading the emergency room to face a more complex staffing structure and work pressure during the holiday peak.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             第二季开篇设定在第一季十个月后，Robby 即将休假，由新任主治医师 Dr. Baran Al‑Hashimi 接手团队。多名角色经历职级提升，新成员加入，使得急诊室在节假日高峰中面临更复杂的人员结构与工作压力。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The core of the plot still revolves around the &quot;overloaded healthcare system&quot; and the &quot;psychological breaking point of medical staff,&quot; continuously presenting resource shortages, surging patient numbers, ethical conflicts, and internal team tensions.
+            The core of the plot still revolves around the &quot;overloaded medical system&quot; and the &quot;psychological breaking point of medical staff,&quot; continuously presenting resource shortages, surging patient numbers, ethical conflicts, and internal team tensions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             剧情核心依旧围绕「超负荷医疗体系」与「医护人员的心理临界点」展开，持续呈现资源短缺、患者激增、伦理冲突与团队内部张力。
@@ -856,20 +870,20 @@
     </item>
     <item>
       <title>买书不读指南｜《经历：好奇、探索和体验人生》</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">买书不读指南｜《经历：好奇、探索和体验人生》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/59e8a1ae-5548-4207-8a34-cb9319348a7b.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Experience: Curiosity, Exploration, and Experiencing Life&quot; is the latest work by Shigehiro Oishi, Professor of Psychology at the University of Chicago, on the paradigm of a &quot;good life.&quot;
+            &quot;Experience: Curiosity, Exploration, and Experiencing Life&quot; is the latest work by University of Chicago psychology professor Shigehiro Oishi on the paradigm of a &quot;good life.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《经历：好奇、探索和体验人生》是芝加哥大学心理学教授大石繁宏关于「美好人生」范式的最新著作。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The book proposes a third main theme, &quot;psychological richness,&quot; distinct from &quot;hedonism&quot; and &quot;meaning pathways,&quot; emphasizing that life's value comes not only from continuous happiness or grand goals, but from the accumulation of diverse experiences and shifts in perspective over time.
+            The book proposes a third main thread, &quot;psychological richness,&quot; distinct from &quot;hedonism&quot; and &quot;meaning pathways.&quot; It emphasizes that life's value comes not only from continuous happiness or grand goals but from the accumulation of diverse experiences and shifts in perspective over time.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             书中提出区别于「幸福主义」与「意义路径」的第三条主线——「心理富足」，强调人生价值不只来自持续的快乐或宏大的目标，而在于时间维度上累积的多样化体验与视角变化。
@@ -885,27 +899,27 @@
     </item>
     <item>
       <title>游戏推荐｜《杀戮尖塔 2》推出即登顶全球 Steam 销量榜</title>
-      <pubDate>Sat, 14 Mar 2026 04:48:24 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 08:36:00 +0000</pubDate>
       <guid isPermaLink="false">游戏推荐｜《杀戮尖塔-2》推出即登顶全球-Steam-销量榜</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260314_%E6%97%A9%E6%8A%A5/cc9c93f8-8405-4869-b1f6-7d3623823498.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Slay the Spire 2&quot; continues the series' core &quot;deck-building + Rogue-like&quot; gameplay, unfolding a new narrative centered around &quot;the Spire reawakening.&quot; Players will explore an ever-changing labyrinthine ecosystem, facing new enemies, events, and relics, while simultaneously unlocking fragmented timelines of the Spire's history.
+            &quot;Slay the Spire 2&quot; continues the series' core &quot;deck-building + Rogue-like&quot; gameplay, unfolding a new narrative centered around &quot;the spire reawakening.&quot; Players will explore an ever-changing labyrinthine ecosystem, facing new enemies, events, and relics, while simultaneously unlocking fragmented timelines of the spire's history.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《杀戮尖塔 2》延续系列核心的「卡牌构筑 + Rogue-like」玩法，并围绕「高塔再度苏醒」展开全新叙事。玩家将探索一个不断变化的迷宫生态，面对全新敌人、事件与遗物，同时解锁高塔历史的碎片化时间线。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Since its Early Access launch on March 6th, the game has rapidly gained global phenomenal popularity on Steam, thanks to its extremely high level of completion and series influence. It has received &quot;Overwhelmingly Positive&quot; reviews among 14,545 Chinese reviews, maintaining an excellent reputation.
+            Since its early access launch on March 6th, the game has quickly gained global phenomenal popularity on the Steam platform, thanks to its high level of completion and series influence. It has received &quot;Overwhelmingly Positive&quot; reviews among 14,545 Chinese reviews, maintaining an extremely high reputation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             自 3 月 6 日开启抢先体验以来，本作凭借极高完成度与系列影响力，在 Steam 平台迅速形成全球现象级热度，在14545 条中文评测中拿下「好评如潮」，保持极高口碑表现。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Within three days of its release, the game pushed its peak concurrent players on Steam to over 570,000, making it the game with the highest launch concurrent player count so far in 2026, far exceeding the original's by 10 times.
+            Within three days of its release, the game pushed its peak concurrent players on Steam to over 570,000, making it the game with the highest launch concurrent player count so far in 2026, more than 10 times that of its predecessor.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             游戏在发售三天内将 Steam 同时在线峰值推至 57 万人以上，成为 2026 年迄今首发在线人数最高的游戏，远超初代的 10 倍。
