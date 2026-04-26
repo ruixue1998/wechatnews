@@ -2,10 +2,10 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Sat, 25 Apr 2026 05:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:41:00 +0000</lastBuildDate>
     <item>
       <title>DeepSeek V4 开源，华为昇腾首发，性能比肩顶级闭源</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">DeepSeek-V4-开源，华为昇腾首发，性能比肩顶级闭源</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/6caf31b1-98cb-43e8-b7d5-e9f566225cca.png&quot;/&gt;
@@ -13,9 +13,9 @@
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Yesterday,
             &lt;a href=&quot;https://mp.weixin.qq.com/s/oXP0arza09P36gkxW_fZHQ&quot;&gt;
-             DeepSeek officially released and open-sourced the preview version of its V4 series models
+             DeepSeek officially released and open-sourced the V4 series model preview version
             &lt;/a&gt;
-            , launching two products, DeepSeek-V4-Pro and DeepSeek-V4-Flash, both featuring a million-token context, with API services simultaneously going live.
+            , launching two products, DeepSeek-V4-Pro and DeepSeek-V4-Flash, both featuring a million-token context, with API services going live simultaneously.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，
@@ -26,7 +26,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            V4-Pro has 1.6T parameters (49B active parameters), and V4-Flash has 284B parameters (13B active parameters). Both models are primarily upgraded with AI Agent capabilities, and have been specifically adapted for mainstream products such as Claude Code, OpenCode, and CodeBuddy. The performance of V4-Pro-Max is particularly outstanding:
+            V4-Pro has 1.6T parameters (49B active parameters), and V4-Flash has 284B parameters (13B active parameters). Both models are primarily focused on upgrading AI Agent capabilities and have been specifically adapted for mainstream products such as Claude Code, OpenCode, and CodeBuddy. V4-Pro-Max's performance is particularly outstanding:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             V4-Pro 参数量达 1.6T（49B 激活参数），V4-Flash 参数量为 284B（13B 激活参数）。两款模型均以 AI Agent 能力为核心升级方向，已针对 Claude Code、OpenCode、CodeBuddy 等主流产品完成专项适配。V4-Pro-Max 的性能表现尤为突出：
@@ -34,25 +34,25 @@
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;LiveCodeBench Pass@1 reached 93.5, and Codeforces Rating reached 3206, both the highest among the models tested, currently ranking 23rd in the Codeforces human player leaderboard;&lt;/p&gt;
 &lt;p&gt;SWE Verified Resolved reached 80.6, almost on par with Claude Opus 4.6 Max's 80.8;&lt;/p&gt;
-&lt;p&gt;IMOAnswerBench Pass@1 is 89.8, second only to GPT-5.4's 91.4;&lt;/p&gt;
-&lt;p&gt;BrowseComp Pass@1 reached 83.4, and MCPAtlas Public Pass@1 reached 73.6, both among the top models tested.&lt;/p&gt;
+&lt;p&gt;IMOAnswerBench Pass@1 was 89.8, second only to GPT-5.4's 91.4;&lt;/p&gt;
+&lt;p&gt;BrowseComp Pass@1 reached 83.4, and MCPAtlas Public Pass@1 reached 73.6, placing them among the top models tested.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            DeepSeek officially stated that V4-Pro-Max has &quot;firmly secured the throne as the best open-source model,&quot; achieving top-tier performance on programming benchmarks and significantly narrowing the gap with leading closed-source models in reasoning and Agentic tasks; V4-Flash-Max, when given sufficient thought budget, can achieve reasoning performance comparable to the Pro version.
+            DeepSeek officially stated that V4-Pro-Max has &quot;firmly secured the throne as the best open-source model,&quot; achieving top-tier performance on programming benchmarks and significantly narrowing the gap with leading closed-source models in reasoning and Agentic tasks; V4-Flash-Max, when given sufficient thinking budget, can achieve reasoning performance comparable to the Pro version.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             DeepSeek 官方表示，V4-Pro-Max 已「稳坐最佳开源模型宝座」，在编程基准上达到顶级水平，并在推理与 Agentic 任务上显著缩小与领先闭源模型的差距；V4-Flash-Max 则在给予充足思考预算时，可实现与 Pro 版本相当的推理表现。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is worth noting that Nvidia is no longer the only option. DeepSeek has exclusively opened early access to V4 to domestic chip manufacturers, with Huawei Ascend becoming the first platform – this marks the first time a top-tier open-source large model has fully run on domestic computing power, and it is also an important step for domestic models in &quot;de-Nvidia-ization.&quot;
+            It's worth noting that Nvidia is no longer the only option. DeepSeek has exclusively opened early access to V4 to domestic chip manufacturers, with Huawei Ascend becoming the first platform – this marks the first time a top-tier open-source large model has fully run on domestic computing power, and it's a significant step for domestic models in &quot;de-Nvidia-fication.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             值得注意的是，英伟达不再是唯一选项。DeepSeek 将 V4 的早期访问权限独家开放给国产芯片厂商，华为昇腾成为首发平台 —— 这是顶级开源大模型首次完整跑通国产算力，也是国产模型在「去英伟达化」上迈出的重要一步。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Just last week, Jensen Huang said in a podcast interview: &quot;If DeepSeek had been released on the Huawei platform first, that would have been very scary for us.&quot;
+            Just last week, Jensen Huang said in a podcast interview: &quot;If DeepSeek had launched on the Huawei platform first, that would have been very scary for us.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             而就在上周，黄仁勋在播客访谈里说了一句话：「如果当初 DeepSeek 先在华为平台上发布，那对我们来说非常可怕。」
@@ -65,10 +65,10 @@
             发布当日，各大云服务厂商迅速跟进：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;PPIO became one of the first AI cloud platforms in the industry to launch DeepSeek-V4-Pro and DeepSeek-V4-Flash, allowing developers to directly call them after registration, without the need for self-deployment;&lt;/p&gt;
+&lt;p&gt;PPIO became one of the first AI cloud platforms in the industry to launch DeepSeek-V4-Pro and DeepSeek-V4-Flash, allowing developers to directly call them after registration without self-deployment;&lt;/p&gt;
 &lt;p&gt;Huawei Cloud MaaS platform simultaneously launched its adaptation, providing a one-click API Tokens service for DeepSeek-V4-Flash;&lt;/p&gt;
-&lt;p&gt;China Unicom's Unicom Cloud and Unicom Yuanjing platforms also completed integration on the release day, and directly embedded the V4 model in the CodingPlan subscription package;&lt;/p&gt;
-&lt;p&gt;Tianshu Zhixin and Cambricon have both completed Day 0 level adaptation for both versions, and Cambricon's adaptation code has been open-sourced to the GitHub community.&lt;/p&gt;
+&lt;p&gt;China Unicom's Unicom Cloud and Unicom Yuanjing platforms also completed integration on the release day, and directly embedded the V4 model in their CodingPlan subscription package;&lt;/p&gt;
+&lt;p&gt;Tianshu Zhixin and Cambricon both completed Day 0 level adaptation for both versions, and Cambricon's adaptation code has been open-sourced to the GitHub community.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             🤗 Hugging Face: huggingface.co/collections/deepseek-ai/deepseek-v4
@@ -78,9 +78,9 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related Reading:
+            🔗 Related reading:
             &lt;a href=&quot;https://mp.weixin.qq.com/s/So7qbRYtCQX6RjYEZMvX0A&quot;&gt;
-             After reviewing the DeepSeek V4 report, I uncovered this hidden easter egg
+             After digging through the DeepSeek V4 report, I found this hidden Easter egg
             &lt;/a&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
@@ -93,13 +93,13 @@
     </item>
     <item>
       <title>Google 拟向 Anthropic 投资最高 400 亿美元</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">Google-拟向-Anthropic-投资最高-400-亿美元</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260425_%E6%97%A9%E6%8A%A5/386f1d55-aadf-4dff-9935-52963ebf8fc2.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Bloomberg, Google plans to invest up to $40 billion in Anthropic. According to Anthropic, Google will immediately inject $10 billion in cash at a valuation of $35 billion, with another $30 billion to follow if Anthropic meets specific performance targets.
+            According to Bloomberg, Google plans to invest up to $40 billion in Anthropic. According to Anthropic, Google will immediately inject $10 billion in cash at a valuation of $35 billion, with an additional $30 billion to follow if Anthropic meets specific performance targets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据彭博社报道，Google 计划向 Anthropic 投资最高 400 亿美元。根据 Anthropic 方面的说法，Google 将以 350 亿美元的估值立即注入 100 亿美元现金，若 Anthropic 达成特定业绩目标，另外 300 亿美元将随后跟进。
@@ -115,23 +115,23 @@
     </item>
     <item>
       <title>Intel 发布一季度财报：营收增长 7%，AI 需求拉动 CPU 与封装业务</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">Intel-发布一季度财报：营收增长-7%，AI-需求拉动-CPU-与封装业务</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0b14547c-3eef-45fb-9795-b14a5a6725e8.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Intel released its Q1 2026 financial report.
+            Yesterday, Intel released its financial report for the first quarter of fiscal year 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨日，Intel 发布 2026 财年第一季度财报。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;First-quarter revenue was $13.6 billion, a 7% year-over-year increase, marking six consecutive quarters of better-than-expected revenue performance. GAAP EPS was -$0.73, non-GAAP EPS was $0.29, and quarterly operating cash flow reached $1.1 billion.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;First-quarter revenue was $13.6 billion, a 7% year-over-year increase, marking six consecutive quarters of exceeding revenue expectations. Earnings per share were -$0.73 under GAAP and $0.29 under non-GAAP, with single-quarter operating cash flow reaching $1.1 billion.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;ul&gt;
 &lt;p&gt;On the business front, Intel launched the third generation Core Ultra series processors based on the Intel 18A process, introducing this process to the mainstream market for the first time, and simultaneously released several new products including Xeon 600, Core Ultra 200S Plus, and 200HX Plus.&lt;/p&gt;
-&lt;p&gt;Intel and Google have entered into a multi-year partnership to continuously deploy Xeon processors in Google workload-optimized instances and jointly develop custom ASIC Infrastructure Processing Units (IPUs); Xeon 6 processors are also confirmed to be integrated into Nvidia DGX Rubin NVL8 systems, serving as the main CPU.&lt;/p&gt;
-&lt;p&gt;In terms of foundry business, Intel has expanded its packaging and testing capacity at its Penang factory in Malaysia and repurchased a 49% minority stake in the Fab 34 wafer factory joint venture in Ireland.&lt;/p&gt;
+&lt;p&gt;Intel and Google have entered into a multi-year partnership to continuously deploy Xeon processors in Google workload-optimized instances and jointly develop custom ASIC Infrastructure Processing Units (IPUs); Xeon 6 processors are also confirmed to be integrated into Nvidia DGX Rubin NVL8 systems as the main CPU.&lt;/p&gt;
+&lt;p&gt;Regarding its foundry business, Intel has expanded its packaging and testing capacity at its Penang, Malaysia factory and repurchased a 49% minority stake in the Fab 34 wafer factory joint venture in Ireland.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Looking ahead to the second quarter of this year, Intel expects revenue to be between $13.8 billion and $14.8 billion, with non-GAAP earnings per share projected at $0.20.
@@ -143,13 +143,13 @@
     </item>
     <item>
       <title>Apple Music 副总裁：AI 音乐投稿泛滥，但几乎没人听</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">Apple-Music-副总裁：AI-音乐投稿泛滥，但几乎没人听</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/3239c37d-2a28-4032-9bcd-acef88212eea.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to AppleInsider, Apple Music is facing the challenge of a large influx of AI-generated music, but listeners are not buying into it.
+            According to AppleInsider, Apple Music is facing the challenge of a massive influx of AI-generated music, but listeners are not buying into it.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 AppleInsider 报道，Apple Music 正面临 AI 生成音乐大量涌入的挑战，但听众对此并不买账。
@@ -162,10 +162,10 @@
             Apple Music 副总裁 Oliver Schusser 在日前的采访中透露，目前提交至该平台的全部音乐中，超过三分之一属于「100% AI 生成」的内容，然而 AI 音乐在 Apple Music 上的实际播放占比却不到 0.5%。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The listening rate of AI music on Apple Music is indeed very low, rounding to less than 0.5%.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The listening rate for AI music on Apple Music is indeed very low, rounding to less than 0.5%.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Schusser revealed that Apple has developed an internal detection system that can accurately identify the source AI model of submitted content, and also requires record labels and distributors to proactively disclose AI usage. In terms of anti-fraud, Apple's anti-fraud penalty mechanism has cumulatively reduced platform fraudulent activities by approximately 60%.
+            Schusser revealed that Apple has developed an internal detection system that can accurately identify the source AI model of submitted content, and also requires record labels and distributors to proactively disclose AI usage. In terms of anti-fraud, Apple's anti-fraud penalty mechanism has cumulatively reduced platform fraudulent behavior by approximately 60%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Schusser 透露，苹果已开发了一套内部检测系统，可精准识别提交内容的 AI 模型来源，同时要求唱片公司和分发商主动披露 AI 使用情况。在反欺诈方面，苹果的反欺诈处罚机制已使平台欺诈行为累计减少约 60%。
@@ -174,7 +174,7 @@
     </item>
     <item>
       <title>阿联酋要让 AI Agent 接管一半政府工作</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">阿联酋要让-AI-Agent-接管一半政府工作</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/8cfbffa5-c9f6-4ff8-b68a-f94bc36fde88.jpg&quot;/&gt;
@@ -187,14 +187,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Mohammed emphasized that &quot;AI is no longer just a tool.&quot; This AI agent will be positioned as the government's &quot;executive partner,&quot; with core objectives pointing to three dimensions: enhancing the quality of public services, accelerating decision-making processes, and comprehensively improving administrative efficiency.
+            Mohammed emphasized that &quot;AI is no longer just a tool.&quot; These AI agents will be positioned as the government's &quot;executive partners,&quot; with core objectives focused on three dimensions: enhancing the quality of public services, accelerating decision-making processes, and comprehensively improving administrative efficiency.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             穆罕默德强调「AI 不再是工具。」这种 AI 智能体将被定位为政府的「执行伙伴」，核心目标指向三个维度：提升公共服务质量、加速决策流程、全面提高行政效率。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            To this end, the UAE government has set a strict timetable and quantifiable evaluation standards. Within the two-year window, government performance will be measured by three indicators: the speed of AI adoption, the quality of implementation, and the proficiency in using AI to reshape government workflows.
+            To this end, the UAE government has set a strict timeline and quantifiable evaluation standards. Within the two-year window, government performance will be measured by three indicators: the speed of AI adoption, the quality of implementation, and the proficiency in using AI to reshape government workflows.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             为此，阿联酋政府制定了严格的时间表和可量化评估标准。两年窗口期内，政府绩效将按三项指标进行衡量 —— AI 采用速度、实施质量以及在重塑政府工作流程中对 AI 的运用熟练度。
@@ -210,13 +210,13 @@
     </item>
     <item>
       <title>💡 小米罗福莉：AGI 两年内实现，中美顶尖模型代差仅两三个月</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">💡-小米罗福莉：AGI-两年内实现，中美顶尖模型代差仅两三个月</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/722dba62-a990-4bf1-a334-4802f50bbba8.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, Luo Fuli, head of Xiaomi's large model team, gave a series of specific judgments on the current competitive landscape of large models, the paradigm shift of AI agents, and the AGI process during an interview with &quot;Language is the World.&quot;
+            Recently, Luo Fuli, head of Xiaomi's large model team, gave a series of specific judgments on the current competitive landscape of large models, the paradigm shift of AI agents, and the progress of AGI during an interview with &quot;Language is the World.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             近日，小米大模型团队负责人罗福莉在接受「语言即世界」访谈时，就当前大模型竞争格局、AI 智能体范式转变及 AGI 进程给出了一系列具体判断。
@@ -227,7 +227,7 @@
             &lt;strong&gt;
              AGI will be achieved within two years
             &lt;/strong&gt;
-            . She estimates that the current progress is about 20% complete, with hopes of advancing to 60% to 70% this year.
+            . She estimates that the current progress is about 20% complete, with hopes to advance to 60% to 70% this year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             罗福莉预计，
@@ -238,16 +238,16 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luo Fuli stated that several domestic companies, including Kimi and MiMo, already possess base models with over 1T parameters, and the gap between China and the US in the pre-training phase is &quot;basically non-existent.&quot;
+            Luo Fuli stated that several domestic companies, including Kimi and MiMo, currently possess foundational models with over 1T parameters, and the gap between China and the United States in the pre-training phase &quot;is basically non-existent.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             罗福莉表示，目前国内已有包括 Kimi、MiMo 在内的多家公司具备 1T 参数以上的基座模型，中美两国在预训练阶段的差距「基本上已经没有」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She believes that domestic teams actually have certain advantages in pre-training architecture. As long as their reaction speed to the Agent paradigm is fast enough,
+            She believes that domestic teams actually have certain advantages in pre-training architecture. As long as they react quickly enough to the Agent paradigm,
             &lt;strong&gt;
-             the generation gap between top domestic models and international cutting-edge models like Claude Opus 4.6 is actually only two to three months
+             the generation gap between top domestic models and international cutting-edge models like Claude Opus 4.6 is actually only two or three months
             &lt;/strong&gt;
             .
            &lt;/span&gt;
@@ -260,7 +260,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;The next two to three months will be very exciting,&quot; she said, adding that this window period will be a critical test of each team's overall research level, technological agility, and ability to embrace new paradigms.
+            &quot;The next two or three months will be very exciting,&quot; she said, adding that this window period will be a critical test of each team's overall research level, technical agility, and ability to embrace new paradigms.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             「接下来两三个月会非常精彩」，她说，这一窗口期将是对各家团队整体研究水平、技术敏捷度以及拥抱新范式能力的关键考验。
@@ -274,7 +274,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            A 1T parameter scale is currently the &quot;ticket&quot; to achieving near-top-tier Agent levels, and the logic of computing power allocation has also reversed — the ratio of pre-training to post-training computing power investment by top teams has narrowed from 5:1 in the past to 1:1 this year.
+            A 1T parameter scale is currently the &quot;entry ticket&quot; to achieve near top-tier Agent capabilities, and the logic of computing power allocation has also reversed — the ratio of pre-training to post-training computing power investment by top teams has narrowed from the previous 5:1 to 1:1 this year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             1T 参数规模是当前实现接近顶尖 Agent 水平的「入场券」，而算力分配逻辑也随之逆转 —— 顶尖团队的预训练与后训练算力投入比例已从过去的 5:1，收窄至今年的 1:1。
@@ -283,7 +283,7 @@
     </item>
     <item>
       <title>小米 YU7 GT 定档五月底：续航 705 km，新增「车厘子红」配色</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">小米-YU7-GT-定档五月底：续航-705-km，新增「车厘子红」配色</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/31db512a-b2a8-4ac3-8465-df934ab96e5a.jpg&quot;/&gt;
@@ -296,14 +296,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun positioned it as a &quot;high-performance SUV suitable for long-distance travel&quot; and pre-disclosed some core parameters: maximum horsepower of 1003 PS, top speed of 300 km/h, CLTC range of 705 km, and a new color named &quot;Cherry Red.&quot;
+            Lei Jun positioned it as a &quot;high-performance SUV suitable for long-distance travel&quot; and pre-disclosed some key parameters: maximum horsepower of 1003 PS, top speed of 300 km/h, CLTC range of 705 km, and a new color named &quot;Cherry Red.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             雷军将其定位为「适合长途旅行的高性能 SUV」，并提前披露了部分核心参数：最大马力 1003 PS，最高时速 300 km/h，CLTC 续航里程达 705 km，新增配色命名为「车厘子红」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the press conference, Lei Jun also announced the latest delivery data for Xiaomi Auto. As of April 23, Xiaomi Auto's cumulative deliveries over 24 months have exceeded 655,000 units; the new generation Xiaomi SU7 has received over 60,000 locked orders and has delivered over 26,000 units.
+            At the press conference, Lei Jun also announced the latest delivery data for Xiaomi Auto. As of April 23, Xiaomi Auto's cumulative deliveries over 24 months have exceeded 655,000 units; the new generation Xiaomi SU7 has received over 60,000 locked orders, with over 26,000 units already delivered.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             发布会上，雷军还公布了小米汽车的最新交付数据。截至 4 月 23 日，小米汽车 24 个月累计交付量已超过 65.5 万台；新一代小米 SU7 锁单数超过 6 万台，已交付超过 2.6 万台。
@@ -325,7 +325,7 @@
     </item>
     <item>
       <title>宝马 16 款新车亮相北京车展，新世代 i3 续航破 1000 公里</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">宝马-16-款新车亮相北京车展，新世代-i3-续航破-1000-公里</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f33c079e-9578-4c6f-8764-e2bb042211ee.jpg&quot;/&gt;
@@ -337,26 +337,26 @@
             昨日，宝马集团在 2026 北京车展上携 BMW、MINI、BMW Motorrad 三大品牌共 16 款首发车型亮相，全新 BMW 7 系、新世代 BMW iX3 长轴距版、新世代 BMW i3 长轴距版三款车型首次面向公众展示。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;All-new BMW 7 Series : Equipped with the BMW Panoramic iDrive system, offering over 500 exterior paint finishes and more than 50 China-exclusive digital functions; the pure electric BMW i7 features large cylindrical batteries, with a CLTC range of nearly 800 kilometers, and is planned for launch in China next year;&lt;/p&gt;
+&lt;p&gt;All-new BMW 7 Series : Equipped with the BMW Panoramic iDrive system, offering over 500 exterior paint finishes and more than 50 China-exclusive digital functions; the purely electric BMW i7 features large cylindrical batteries, with a CLTC range of nearly 800 kilometers, and is planned for launch in China next year;&lt;/p&gt;
 &lt;p&gt;New Generation BMW iX3 Long Wheelbase : Based on the NCAR platform, equipped with an 800V high-voltage architecture and sixth-generation BMW eDrive, with a wheelbase exceeding 3 meters and a CLTC range breaking 900 kilometers, officially launching in the fourth quarter of this year;&lt;/p&gt;
-&lt;p&gt;New Generation BMW i3 Long Wheelbase : Shares the same platform and architecture, with a CLTC range exceeding 1000 km. Both new generation models come standard with the BMW Driving Control Super Brain (Heart of Joy) central computing unit and full-scenario L2-level navigation assistance system.&lt;/p&gt;
+&lt;p&gt;New Generation BMW i3 Long Wheelbase : Shares the same platform and architecture, with a CLTC range exceeding 1000 km. Both new generation models come standard with the BMW Driving Control Super Brain (Heart of Joy) central computing unit and full-scenario L2-level pilot driving assistance system.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of localization, 70% of the source code for the China version of the new generation operating system X was developed by a Chinese team. The system integrates Alibaba + DeepSeek AI engine, Gaode immersive navigation, and Huawei HarmonyOS ecosystem (digital key, HiCar, MyBMW App). BMW has also partnered with Momenta, planning to launch China-exclusive L2-level point-to-point navigation assistance systems on multiple models by the end of next year.
+            In terms of localization, 70% of the source code for the Chinese version of the new generation operating system X was developed by a Chinese team. The system integrates Alibaba + DeepSeek AI engine, Gaode immersive navigation, and Huawei Hongmeng ecosystem (digital key, HiCar, MyBMW App). BMW has also partnered with Momenta, planning to launch China-exclusive L2-level point-to-point pilot driving assistance systems on multiple models by the end of next year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             本土化方面，中国版新世代操作系统 X 有 70% 源代码由中国团队开发，系统集成阿里巴巴 + DeepSeek AI 引擎、高德沉浸式导航及华为鸿蒙生态（数字钥匙、HiCar、MyBMW App）。宝马还与 Momenta 合作，计划于明年底前在多款车型上推出中国专属 L2 级点到点领航驾驶辅助系统。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition, the global limited edition of 70 BMW Speedtop concept cars made its debut in China, and 20 units each of the BMW M3 40th Anniversary Limited Edition sedan and touring car are exclusively available in China.
+            In addition, the global limited edition of 70 units of the BMW Speedtop concept car made its debut in China, and 20 units each of the BMW M3 40th Anniversary Limited Edition sedan and touring car are limited in China.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             此外，全球限量 70 台的 BMW Speedtop 概念车迎来中国首展，BMW M3 40 周年限量版轿车与旅行车在华各限量 20 台。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            MINI presented the global premiere of the MINI X VAGABUND creative show car, while BMW Motorrad unveiled the new R 1300 RT and R 12 G/S. This year, BMW Group plans to launch approximately 20 new or revised models in China, and next year, 40 models globally will feature new generation design and technology.
+            MINI unveiled the global premiere of the MINI X VAGABUND concept car, while BMW Motorrad showcased the new R 1300 RT and R 12 G/S. This year, BMW Group plans to launch approximately 20 new or facelifted models in China, and next year, 40 models globally will feature new generation design and technology.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             MINI 带来全球首发的 MINI X VAGABUND 创意展车，BMW Motorrad 则携全新 R 1300 RT 与 R 12 G/S 亮相。今年宝马集团计划在中国推出约 20 款全新或改款车型，明年全球将有 40 款车型应用新世代设计与科技。
@@ -365,13 +365,13 @@
     </item>
     <item>
       <title>腾势 Z 电动超跑亮相北京车展</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">腾势-Z-电动超跑亮相北京车展</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ee03f79a-2b86-4ca0-89a2-5dcbdce06789.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Auto Pengyou, yesterday, Denza Auto's &quot;world's first intelligent electric supercar,&quot; the Denza Z, made its global debut at the Beijing Auto Show. The car was led by BYD Global Design Director Wolfgang Egger, designed with the &quot;Pure Emotion&quot; concept, and offers three versions: hardtop, convertible, and track. In terms of performance and configuration:
+            According to Auto Pengyou, yesterday, Denza Auto's &quot;world's first intelligent electric supercar&quot; Denza Z made its global debut at the Beijing Auto Show. The car was led by BYD's Global Design Director Wolfgang Egger, designed with the &quot;Pure Emotion&quot; concept, and offers three versions: hardtop, convertible, and track. In terms of performance and configuration:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 Auto 鹏友报道，昨日，腾势汽车「全球首款智能电动超跑」腾势 Z 在北京车展全球首秀。该车由比亚迪全球设计总监沃尔夫冈·艾格领衔打造，以「Pure Emotion」为设计理念，提供硬顶、敞篷和赛道三款版本。性能与配置方面：
@@ -381,12 +381,12 @@
 &lt;p&gt;Equipped with the e-platform 3.0 intelligent vehicle control platform, supporting precise torque vectoring control;&lt;/p&gt;
 &lt;p&gt;&quot;Yunlian-M&quot; intelligent magnetorheological suspension, with millisecond-level damping adjustment;&lt;/p&gt;
 &lt;p&gt;China's first full-stack self-developed steer-by-wire system;&lt;/p&gt;
-&lt;p&gt;God's Eye advanced intelligent driving system.&lt;/p&gt;
+&lt;p&gt;&quot;Eye of God&quot; advanced intelligent driving system.&lt;/p&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>全新理想 L9 Livis 亮相北京车展，5 月 15 日上市</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">全新理想-L9-Livis-亮相北京车展，5-月-15-日上市</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fc92e5b0-d011-412d-8f74-abb823f04a0d.jpg&quot;/&gt;
@@ -398,9 +398,9 @@
             全新理想 L9 Livis 昨天在北京车展正式亮相，定位为「具身智能旗舰 SUV」。官方确认将于 5 月 15 日上市并开启交付。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;In terms of exterior, the new car for the first time uses UWB radar to replace ultrasonic radar, eliminating body openings. It features a short front overhang, long rear overhang ratio paired with 22-inch wheels, diamond-cut lines extending from the A-pillar to the D-pillar, and a wide-shouldered trapezoidal rear design;&lt;/p&gt;
-&lt;p&gt;The new car is equipped with an 800V active suspension and a full steer-by-wire chassis (including steer-by-wire, rear-wheel steering, and steer-by-wire mechanical braking). The nominal single-wheel lifting force exceeds 10,000 N, supporting two escape modes: suspension bounce and active wheel lift. The official claims this is the world's first such solution applied to a full-size SUV;&lt;/p&gt;
-&lt;p&gt;The car doors feature a semi-hidden mechanical structure, supporting both electric and manual opening. In a power-off state, they can be manually pulled open, and all four doors are equipped with electric suction anti-pinch strips.&lt;/p&gt;
+&lt;p&gt;In terms of exterior, the new car for the first time replaces ultrasonic radar with UWB radar to eliminate body openings, and adopts a short front overhang, long rear overhang ratio paired with 22-inch wheels. Diamond-like lines extend from the A-pillar to the D-pillar, and the rear features a wide-shouldered trapezoidal shape;&lt;/p&gt;
+&lt;p&gt;The new car is equipped with 800V active suspension and a full steer-by-wire chassis (including steer-by-wire, rear-wheel steering, and steer-by-wire mechanical braking). The nominal single-wheel lifting force exceeds 10,000 Newtons, supporting two escape modes: suspension bounce and active wheel lift. The official claims this is the world's first such solution applied to a full-size SUV;&lt;/p&gt;
+&lt;p&gt;The car doors adopt a semi-hidden mechanical structure, supporting both electric and manual opening. They can be manually pulled open in a power-off state, and all four doors are equipped with electric soft-close anti-pinch strips.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Li Auto also revealed that the all-new L9 Livis will simultaneously feature a new generation interior, intelligent cockpit, 5C extended-range system, and the Mach 100 chip. The full specifications will be unveiled during its launch on May 15th.
@@ -412,7 +412,7 @@
     </item>
     <item>
       <title>45.68 万元起，蔚来 ES8 玄金特别版亮相北京车展</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">45.68-万元起，蔚来-ES8-玄金特别版亮相北京车展</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/cc1277ba-2cc7-46b6-b4fd-2e3be8e82988.jpg&quot;/&gt;
@@ -425,14 +425,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Xuanjin Special Edition is based on the 6-seat Signature Edition configuration, featuring an extreme night black exterior, exclusive black chrome exterior trim, new 22-inch forged Xuanjin Star-Shine wheels with Dawn Gold calipers, and standard roof rail guides.
+            The Xuanjin Special Edition is based on the 6-seat Signature Edition configuration, featuring an extreme night black exterior color, exclusive black chrome exterior trim, new 22-inch forged Xuanjin Starburst wheels with Dawn Gold calipers, and standard roof rail guides.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             玄金特别版以 6 座签名版为配置基础，外观采用极夜黑车色，搭配专属黑铬外饰套件、全新 22 英寸锻造玄金星耀轮圈与曙光金卡钳，并标配行李架导轨。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            For the interior, this version debuts a new Aradan Orange interior theme, while also offering a Sumu Red interior theme as an option. The Aradan Orange interior theme is now available as an option for all new ES8 models, with an optional price of 8,000 yuan.
+            For the interior, this version debuts a new Ardan Orange interior theme, while also offering a Sumu Red interior theme as an option. The Ardan Orange interior theme is simultaneously available as an option for all new ES8 models, with an optional price of 8,000 yuan.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             内饰方面，该版本首发全新雅丹橙内饰主题，同时提供苏木红内饰主题供选择。全新 ES8 所有版型同步开放雅丹橙内饰主题选装，选装价格为 8000 元。
@@ -441,20 +441,20 @@
     </item>
     <item>
       <title>乐道 L80 发布会定档 4 月 28 日</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">乐道-L80-发布会定档-4-月-28-日</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0e13e872-d739-4c38-bcd7-fefdc0707f3f.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, William Li, founder, chairman, and CEO of NIO, announced at the NIO press conference that the new L80 model under its Onvo brand will hold a product and technology launch event on April 28th, with pre-sales starting simultaneously. The model will also be exhibited at the Beijing Auto Show and national stores at the same time.
+            Yesterday, William Li, founder, chairman, and CEO of NIO, announced at the NIO press conference that the new L80 model under its Onvo brand will hold a product and technology launch event on April 28th, simultaneously opening for pre-sales. The model will also be exhibited at the Beijing Auto Show and national stores concurrently.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，蔚来创始人、董事长兼 CEO 李斌在蔚来新闻发布会上宣布，旗下品牌乐道的新车 L80 将于 4 月 28 日举办产品技术发布会，并同步开启预售，届时该车型也将在北京车展现场及全国门店同期展出。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            William Li positioned the Onvo L80 as the &quot;world's first dual-cabin super large five-seater SUV,&quot; calling it the large five-seater SUV with the largest cargo space in the Chinese market. The official statement indicates that the L80 will &quot;comprehensively refresh the travel experience of large five-seater SUVs&quot; and accelerate the transition of the large five-seater SUV market towards pure electric.
+            William Li positioned the Onvo L80 as the &quot;world's first dual-cabin super large five-seat SUV&quot; and called it the large five-seat SUV with the largest cargo space in the Chinese market. The official statement indicates that the L80 will &quot;comprehensively refresh the travel experience of large five-seat SUVs&quot; and accelerate the transition of the large five-seat SUV market towards pure electric.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             李斌将乐道 L80 定位为「全球首款双舱超级大五座 SUV」，并称其为中国市场装载空间最大的大五座 SUV。官方表示，L80 将「全面刷新大五座 SUV 的出行体验」，并推动大五座 SUV 市场加快向纯电转变。
@@ -463,36 +463,36 @@
     </item>
     <item>
       <title>火山引擎发布新一代汽车 AI 解决方案</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">火山引擎发布新一代汽车-AI-解决方案</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2aae34e1-31af-476b-8351-d10b3ac18f3f.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, ByteDance's Volcano Engine unveiled its next-generation automotive AI solution based on an Agentic AI architecture on the opening day of the Beijing Auto Show, comprising two major product lines: the AI Cockpit Suite Solution and the Doubao Cockpit Assistant Solution.
+            Yesterday, Volcano Engine unveiled its next-generation automotive AI solution based on the Agentic AI architecture on the opening day of the Beijing Auto Show, comprising two major product lines: the AI Cockpit Suite solution and the Doubao Cockpit Assistant solution.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，火山引擎在北京车展开幕首日发布了基于 Agentic AI 架构的新一代汽车 AI 解决方案，包含 AI 座舱套件方案与豆包座舱助手方案两大产品线。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The AI Cockpit Suite Solution supports flexible on-demand access for automakers; the Doubao Cockpit Assistant Solution offers a complete product-level delivery, is interconnected with the Doubao APP, and is planned for mass production and vehicle integration within this year.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The AI Cockpit Suite solution supports flexible on-demand access for automakers; the Doubao Cockpit Assistant solution is a complete product-level delivery, interconnected with the Doubao APP, and is planned for mass production and vehicle integration within this year.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new solution replaces the previous &quot;intent domain partitioning + multi-agent collaboration&quot; architecture with a single AI brain, integrating three major engines—dialogue reasoning, goal-driven, and learning &amp;amp; growth—to connect functional domains such as vehicle control, intelligent driving, navigation, and cockpit.
+            The new solution replaces the previous &quot;intent domain partitioning + multi-agent collaboration&quot; architecture with a single AI brain, integrating three major engines: conversational reasoning, goal-driven, and learning &amp;amp; growth, thereby connecting functional domains such as vehicle control, intelligent driving, navigation, and cockpit.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新方案以单一 AI 大脑取代上一代「意图分域 + 多 Agent 协同」架构，融合对话推理、目标驱动、学习成长三大引擎，打通车控、智驾、导航、座舱等功能域。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the press conference, Tan Dai, President of Volcano Engine, also released the latest data: intelligent vehicles equipped with the Doubao large model have exceeded 7 million units, covering over 50 brands and 145 models. Its adoption rate firmly ranks first in the industry, with over 30 million cockpit interactions completed daily.
+            At the press conference, Tan Dai, President of Volcano Engine, also announced the latest data: intelligent vehicles equipped with the Doubao large model have exceeded 7 million units, covering over 50 brands and 145 models, with its adoption rate firmly ranking first in the industry, completing over 30 million cockpit interactions daily.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             发布会上，火山引擎总裁谭待还公布了最新数据：搭载豆包大模型的智能汽车已超 700 万辆，覆盖超 50 个品牌、145 个车型，搭载量稳居行业第一，日均完成超 3000 万次座舱交互。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the auto show, several new cars equipped with the Doubao large model will also be unveiled, including the Mercedes-Benz all-electric GLC, SAIC Audi E7X, SAIC Volkswagen ID. ERA 9X, Chery Exeed EX7, FAW Hongqi HS6 PHEV, Buick Electra E7, and Roewe &quot;Jiayue&quot;.
+            During the auto show, several new models equipped with the Doubao large model will also make their debut, including the Mercedes-Benz all-electric GLC, SAIC Audi E7X, SAIC Volkswagen ID. ERA 9X, Chery Exeed EX7, FAW Hongqi HS6 PHEV, Buick Electra E7, and Roewe &quot;Jiayue&quot;.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             车展期间，梅赛德斯-奔驰纯电 GLC、上汽奥迪 E7X、上汽大众 ID. ERA 9X、奇瑞星途 EX7、一汽红旗 HS6 PHEV、别克至境 E7、荣威「家越」等多款搭载豆包大模型的新车也将同步亮相。
@@ -501,7 +501,7 @@
     </item>
     <item>
       <title>阶跃星辰发布语音新模型 StepAudio 2.5 ASR</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">阶跃星辰发布语音新模型-StepAudio-2.5-ASR</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7889a3f2-0a61-4ea7-9392-698d1cf7a615.jpg&quot;/&gt;
@@ -521,11 +521,11 @@
     </item>
     <item>
       <title>Keep 发布 9.0 版本，自研运动大模型 Keepace.ai 同步亮相</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">Keep-发布-9.0-版本，自研运动大模型-Keepace.ai-同步亮相</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The fitness app &quot;Keep&quot; officially released version 9.0 and simultaneously unveiled its self-developed sports and health large model, Keepace.ai, officially initiating the productization process of its AI strategy.
+            The fitness app &quot;Keep&quot; officially released version 9.0 and simultaneously announced its self-developed sports and health large model, Keepace.ai, officially initiating the productization process of its AI strategy.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             运动健身 App「Keep」正式发布 9.0 版本，并同步公布了其自研运动健康大模型 Keepace.ai，正式启动 AI 战略的产品化进程。
@@ -536,21 +536,21 @@
 &lt;p&gt;Regarding data analysis, the new version integrates multi-dimensional data across exercise, diet, and sleep, covering the entire cycle of planning, execution, and review, providing users with professional insights and long-term corrective advice.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The name Keepace.ai is derived from the dual meanings of &quot;Keep Pace&quot; and &quot;Keep Ace.&quot; This model integrates Keep platform's decade-long accumulation of hundreds of millions of sports data assets, primarily focusing on three core scenarios: training course generation, sports knowledge Q&amp;amp;A, and sports data interpretation.
+            The name Keepace.ai is derived from the dual meanings of Keep Pace and Keep Ace. This model integrates hundreds of millions of sports data assets accumulated by the Keep platform over ten years, primarily focusing on three core scenarios: training course generation, sports knowledge Q&amp;amp;A, and sports data interpretation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Keepace.ai 的命名取自 Keep Pace（保持配速）与 Keep Ace（保持王牌）的双重含义。该模型融合了 Keep 平台十年积累的亿级运动数据资产，主要聚焦训练课程生成、运动知识问答与运动数据解读共三大核心场景。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Unlike general large models, Keepace.ai has undergone special optimization for the precision requirements of sports and health scenarios. The system deeply integrates with users' injury history, performs dynamic risk screening based on movements and individual status, and provides more granular customized recommendations by combining fitness levels, fatigue status, and equipment conditions.
+            Different from general large models, Keepace.ai has undergone special optimization for the precision requirements of sports and health scenarios. The system deeply integrates with users' injury history, performs dynamic risk screening based on movements and individual status, and provides more granular customized suggestions by comprehensively considering physical fitness levels, fatigue status, and equipment conditions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             区别于通用大模型，Keepace.ai 针对运动健康场景的精准度要求进行了专项优化，系统会深度结合用户伤病史，基于动作、个体状态执行动态风险排查，并综合体能水平、疲劳状态及器械条件输出颗粒度更细的定制建议。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Keep stated that with the continuous iteration of Keepace.ai, a richer 'AI Family Bucket' of products will be launched successively in the first half of this year to deepen the AI-driven sports and health ecosystem.
+            Keep stated that with the continuous iteration of Keepace.ai, a richer &quot;AI Family Bucket&quot; of products will be successively launched in the first half of this year to deepen the AI-driven sports and health ecosystem.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Keep 表示，随着 Keepace.ai 的持续迭代，今年上半年将陆续落地更丰富的「AI 全家桶」产品，以深化 AI 驱动的运动健康生态体系。
@@ -559,44 +559,44 @@
     </item>
     <item>
       <title>美团外卖「防疲劳」机制实施满一年：超 99% 骑手未触发强制下线</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">美团外卖「防疲劳」机制实施满一年：超-99%-骑手未触发强制下线</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to CBNData, Meituan announced yesterday several data points since the implementation of its 'anti-fatigue' mechanism one year ago.
+            According to a report by Yicai, Meituan yesterday released several data points since the implementation of its &quot;anti-fatigue&quot; mechanism one year ago.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据第一财经报道，美团于昨日公布了「防疲劳」机制实施一年以来的多项数据。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Nationwide, the average daily delivery time for riders is within 5-6 hours. On average, only 0.54% of riders trigger mandatory offline, and over 99% of riders' delivery duration did not reach the 12-hour limit.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;The average daily delivery time for riders nationwide is within 5-6 hours. On average, only 0.54% of riders trigger mandatory offline status daily, and over 99% of riders' delivery duration does not reach the 12-hour upper limit.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meituan's 'anti-fatigue' mechanism began piloting in 2021 and was officially implemented nationwide at the end of 2024 with the rule of '8 hours of active order time per day for rest reminders, and 12 hours for mandatory offline.'
+            Meituan's &quot;anti-fatigue&quot; mechanism began piloting in 2021 and was officially implemented nationwide at the end of 2024 with the rule of &quot;8 hours of active order time per day for rest reminders, and 12 hours for mandatory offline.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             美团「防疲劳」机制于 2021 年开始试点，并于 2024 年末在全国正式实施「单日有单时长 8 小时提醒休息、12 小时强制下线」规则。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;During off-peak order seasons, the proportion of riders who received pop-up reminders and were mandatorily taken offline was 23% and 57% lower, respectively, than during peak seasons;&lt;/p&gt;
-&lt;p&gt;From a geographical perspective, the proportion of riders mandatorily taken offline in first- and second-tier cities such as Beijing, Shanghai, and Shenzhen ranks among the highest nationwide, significantly above the national average.&lt;/p&gt;
+&lt;p&gt;From a geographical perspective, the proportion of riders mandatorily taken offline in first- and second-tier cities like Beijing, Shanghai, and Shenzhen ranks among the highest nationwide, significantly exceeding the national average.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding income, Meituan previously disclosed that in the first half of 2025, the average monthly income for high-frequency riders nationwide will be between 6,949 and 10,201 yuan, while skilled 'Lepao' riders in high-tier cities like Beijing, Shanghai, Guangzhou, and Shenzhen can earn up to 12,826 yuan per month.
+            In terms of income, Meituan previously disclosed that in the first half of 2025, the average monthly income for high-frequency riders nationwide will range from 6949 to 10201 yuan, while skilled &quot;Lepao&quot; riders in high-tier cities like Beijing, Shanghai, Guangzhou, and Shenzhen can earn up to 12826 yuan per month.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在收入层面，美团此前披露，2025 年上半年全国高频骑手月均收入为 6949 至 10201 元，北上广深等高线城市的「乐跑」熟练骑手群体月收入可达 12826 元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Zhang Qiang, a Beijing rider interviewed by CBNData, stated that his average daily actual order-taking time is about 8 hours, with a monthly income of around 10,000 yuan. He has not been significantly affected by the 'anti-fatigue' mechanism overall and supports it. However, some riders reported that due to economic pressure, some colleagues switched to other platforms to continue taking orders after being mandatorily taken offline.
+            Zhang Qiang, a Beijing rider interviewed by Yicai, stated that his average daily actual order-taking time is about 8 hours, with a monthly income of around 10,000 yuan. He has not been significantly affected by the &quot;anti-fatigue&quot; mechanism and supports it. However, some riders reported that due to financial pressure, some colleagues switched to other platforms to continue taking orders after being mandatorily taken offline.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             第一财经采访的北京骑手张强表示，其日均实际接单时长约 8 小时，月收入在 1 万元左右，整体未受「防疲劳」机制明显影响，并对该机制持支持态度。不过，也有骑手反映，部分同行因经济压力在被强制下线后转至其他平台继续接单。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meituan stated that this year it will push strong rest reminders to riders at critical junctures, such as after 4 consecutive hours of delivery or multiple consecutive days of delivery, but will leave the final choice to the riders.
+            Meituan stated that this year, it will push strong rest reminders to riders at critical junctures such as continuous 4-hour delivery shifts and multiple consecutive days of delivery, but the final choice will be left to the riders.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             美团表示，今年将在连续跑单 4 小时、连续多日跑单等关键节点为骑手推送休息强提醒，但会将最终选择权交给骑手。
@@ -605,34 +605,34 @@
     </item>
     <item>
       <title>餐馆「反向抹零」被立案调查</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">餐馆「反向抹零」被立案调查</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4d645ad3-4fdc-4cd3-8986-4e34e2b73106.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to CCTV News, recently, a restaurant in Shunde District, Foshan, Guangdong, was officially investigated by local market supervision authorities for overcharging a consumer 0.1 yuan through 'reverse rounding.'
+            According to CCTV News, a restaurant in Shunde District, Foshan, Guangdong, was recently officially investigated by local market regulatory authorities for &quot;reverse rounding&quot; by overcharging a consumer 0.1 yuan.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据央视新闻报道，近期，广东佛山顺德区一家餐饮店因「反向抹零」多收消费者 0.1 元，被当地市场监管部门正式立案调查。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            When a consumer dined at the establishment, the amount due was 156.9 yuan, but the merchant's POS system automatically rounded up, charging 157 yuan.
+            When a consumer dined at the restaurant, the amount due was 156.9 yuan. The merchant's cash register system automatically rounded up, resulting in an actual charge of 157 yuan.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             消费者在该店就餐，应付金额 156.9 元，商家收银系统自动向上取整，实收 157 元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            After receiving a complaint via the 12315 hotline, the Longjiang Market Supervision Office immediately conducted an on-site verification and retrieved backend transaction records, confirming that the merchant's pricing logic was in violation. They ordered the merchant to rectify the system settings and initiated an investigation in accordance with the law. The case is currently still under further processing.
+            After receiving a complaint via the 12315 hotline, the Longjiang Market Supervision and Management Office immediately conducted an on-site verification and retrieved backend transaction records, confirming that the merchant's pricing logic was in violation. It ordered the merchant to rectify the system settings and initiated an investigation in accordance with the law. The case is currently undergoing further processing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在接到 12315 热线投诉后，龙江市场监督管理所随即现场核查并调取后台交易流水，确认商家计价逻辑违规，责令其整改系统设置，并依法立案查处。案件目前仍在进一步处理中。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            'Reverse rounding' is not an isolated case. Guan Lian, head of the Price Supervision and Inspection Division of the Shanxi Provincial Administration for Market Regulation, pointed out that consumer rights protection data shows such complaints have covered multiple industries, including catering, supermarkets, and farmers' markets.
+            &quot;Reverse rounding&quot; is not an isolated case. Guan Lian, head of the Price Supervision and Inspection Division of the Shanxi Provincial Administration for Market Regulation, pointed out that consumer rights protection data shows such complaints have covered multiple industries including catering, supermarkets, and farmers' markets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             「反向抹零」并非个案。山西省市场监督管理局价格监督检查处处长官廉指出，从消费维权数据来看，此类投诉已覆盖餐饮、商超、农贸市场等多个行业。
@@ -641,7 +641,7 @@
     </item>
     <item>
       <title>耐克将裁员 1400 人</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">耐克将裁员-1400-人</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c5da64cb-4561-40af-977c-0628a5d5d880.jpg&quot;/&gt;
@@ -654,14 +654,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This round of layoffs is Nike's second major round of layoffs this year. In January, Nike cut 775 positions, primarily in its U.S. distribution centers, citing accelerated automation. Last summer, Nike also completed a round of layoffs affecting less than 1% of its corporate employees.
+            This round of layoffs is Nike's second large-scale reduction this year. In January, Nike had already cut 775 positions, primarily involving distribution center roles within the United States, citing accelerated automation. Last summer, Nike also completed a round of layoffs affecting less than 1% of its corporate employees.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             此次裁员是耐克今年以来的第二轮大规模裁员。今年 1 月，耐克已以加速推进自动化为由，削减了 775 个职位，主要涉及美国境内的配送中心岗位。此前去年夏天，耐克亦完成了一轮波及不到 1% 企业员工的裁员调整。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Nike Chief Operating Officer Venkatesh Alagirisamy stated in an internal memo that these layoffs are part of Nike's 'Win Now' strategy, aiming to integrate the supply chain, reshape the technology team, and centralize technology operations at two core hubs: the Beaverton headquarters and the Nike India Technology Center.
+            Nike Chief Operating Officer Venkatesh Alagirisamy stated in an internal memo that these layoffs are part of Nike's &quot;Win Now&quot; strategy, aimed at integrating the supply chain, reshaping the technology team, and centralizing technology operations at two core hubs: the Beaverton headquarters and the Nike India Technology Center.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             耐克首席运营官 Venkatesh Alagirisamy 在内部备忘录中表示，此次裁员是耐克「Win Now」战略的组成部分，旨在整合供应链、重塑技术团队，并将技术运营集中于比弗顿总部与耐克印度技术中心两个核心中心。
@@ -672,20 +672,20 @@
     </item>
     <item>
       <title>《绵羊侦探团》定档 5 月 16 日</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">《绵羊侦探团》定档-5-月-16-日</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fb90c712-8928-421e-bce3-303b47ae06b9.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the animated film 'Sheep Detective Agency' announced its release date for May 16th and simultaneously unveiled its official poster.
+            Yesterday, the animated film &quot;Sheep Detective Agency&quot; announced its release date for May 16th and simultaneously unveiled its official poster.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，动画电影《绵羊侦探团》宣布定档 5 月 16 日，并同步发布官方海报。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film, directed by Kyle Balda, director of the 'Minions' series, tells the story of a group of sheep detectives who love mystery novels, stepping out of their pasture to investigate after the mysterious death of shepherd George, who left behind a $30 million will.
+            The film, directed by Kyle Balda, director of the &quot;Minions&quot; series, tells the story of a group of sheep detectives who love mystery novels. They leave their pasture to investigate after the mysterious death of shepherd George, who left behind a $30 million will.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片由《小黄人大眼萌》系列导演凯尔 · 巴尔达执导，讲述牧羊人乔治离奇死亡、留下 3000 万美元遗嘱后，一群热爱推理小说的绵羊侦探走出牧场、展开调查的故事。
@@ -694,41 +694,41 @@
     </item>
     <item>
       <title>One Fun Thing｜雷军 2026 北京车展「串门」蔚小理，还送 T 恤</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">One-Fun-Thing｜雷军-2026-北京车展「串门」蔚小理，还送-T-恤</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7d90e602-d1ae-434b-9caa-08b4d536dc69.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, on the opening day of the 2026 Beijing Auto Show, after Xiaomi Group CEO Lei Jun completed the Xiaomi Auto launch event in the morning, he began his &quot;exhibition tour mode&quot; in the afternoon, appearing successively at the exhibition booths of brands such as Li Auto, Nio, and Xpeng.
+            Yesterday, on the opening day of the 2026 Beijing Auto Show, Xiaomi Group CEO Lei Jun, after completing the Xiaomi Auto press conference in the morning, began his 'exhibition tour mode' in the afternoon, appearing successively at the exhibition booths of brands such as Li Auto, Nio, and Xpeng.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，2026 北京车展开幕首日，小米集团 CEO 雷军上午完成小米汽车发布会后，下午开启「逛展模式」，先后现身理想、蔚来、小鹏等品牌展台。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the Li Auto booth, Lei Jun presented Li Auto CEO Li Xiang with a T-shirt printed with the words &quot;Let me finish.&quot; These four words originated from a famous scene where Li Xiang, overcome with emotion, shouted them during a reality show in 2013, later evolving into a popular internet meme.
+            At the Li Auto booth, Lei Jun presented Li Auto CEO Li Xiang with a T-shirt printed with the words 'Let me finish speaking'. These four words originated from a famous scene when Li Xiang, emotional during a reality show in 2013, shouted them out, which later evolved into a popular internet meme.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在理想展台，雷军向理想 CEO 李想赠送了一件印有「听我讲完」字样的 T 恤。这四个字源自李想 2013 年参加真人秀时因情绪激动喊出的名场面，此后演变为网络热梗。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun joked on the spot, saying that last time when Li Xiang introduced the Li Auto L6, people said he &quot;dealt with it for half an hour,&quot; but this time, &quot;they really listened to him finish.&quot;
+            Lei Jun joked on the spot, saying that last time when Li Xiang introduced the Li Auto L6, everyone said he 'just went through the motions for half an hour,' but this time, 'they really listened to him finish.'
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             雷军现场调侃称，上次介绍理想 L6 时大家说李想「应付了半个小时」，这次「真的听他讲完了」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the Nio booth, Lei Jun presented Nio CEO William Li with a T-shirt printed with &quot;Charge Up Together&quot; and praised Nio's charging piles. William Li later posted on Weibo to express his gratitude, stating that &quot;everyone is very familiar with the words on this T-shirt.&quot;
+            At the Nio booth, Lei Jun presented Nio CEO William Li with a T-shirt printed with 'Let's power up together' and praised Nio's charging piles. William Li later posted on Weibo to express his gratitude, stating that 'everyone is very familiar with the words on this T-shirt.'
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在蔚来展台，雷军则向蔚来 CEO 李斌送上印有「一起加电」的 T 恤，并对蔚来的充电桩给予好评。李斌随后在微博发文致谢，称「这个 T 恤上的字，大家都非常熟悉」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lei Jun also revealed at the morning press conference that as of April 23, cumulative deliveries of Xiaomi Auto have exceeded 655,000 units, and he previewed that the high-performance version YU7 GT will be released at the end of May, with a maximum horsepower of 1003 hp, a range of 705 kilometers, and positioned as a sports car-grade SUV.
+            Lei Jun also revealed at the morning press conference that as of April 23, Xiaomi Auto's cumulative deliveries have exceeded 655,000 units, and he previewed that the high-performance version YU7 GT will be released by the end of May, featuring a maximum horsepower of 1003 hp, a range of 705 kilometers, and positioned as a sports car-grade SUV.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             雷军上午发布会还透露，截至 4 月 23 日，小米汽车累计交付已超 65.5 万辆，并预告高性能版本 YU7 GT 将于 5 月底发布，最大马力 1003 匹，续航 705 公里，定位跑车级 SUV。
@@ -737,41 +737,41 @@
     </item>
     <item>
       <title>周末看什么｜《迈克尔 · 杰克逊：巨星之路》正式上映</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">周末看什么｜《迈克尔-·-杰克逊：巨星之路》正式上映</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9de7b31b-e6e5-4623-bab6-5ec2fd48b613.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The officially authorized biographical musical film &quot;Michael Jackson: The Road to Stardom&quot; officially landed in cinemas nationwide yesterday.
+            The officially authorized biographical musical film of Michael Jackson, 'Michael Jackson: The Road to Stardom,' officially premiered in cinemas nationwide yesterday.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             迈克尔 · 杰克逊官方授权传记音乐电影《迈克尔·杰克逊：巨星之路》昨日正式登陆全国院线。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Starring Jaafar Jackson, a member of the Jackson family, he spent two years delving into the dance steps, vocal style, and inner world, interpreting the King of Pop's charisma with a performance that is almost a &quot;replication.&quot;
+            Starring Jaafar Jackson, a member of the Jackson family, he spent two years delving into the dance steps, vocal style, and inner world, interpreting the King of Pop's charisma with an almost 'replicated' performance.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             主演贾法尔 · 杰克逊作为杰克逊家族成员，历经两年深耕舞步、声线与内心世界，以近乎「复刻」的表演诠释天王神韵。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film accurately recreates several iconic stage moments: the Motown 25th Anniversary debut of the &quot;moonwalk,&quot; the pioneering zombie group dance from &quot;Thriller,&quot; the peak performance of &quot;Bad&quot; at Wembley Stadium in 1988, with classic looks such as white socks, black leather shoes, and crystal gloves all faithfully reproduced.
+            The film accurately recreates multiple iconic stage moments: the Motown 25th Anniversary debut of the 'Moonwalk,' the pioneering zombie group dance from 'Thriller,' and the peak performance of 'Bad' at Wembley Stadium in 1988, with classic looks such as white socks, black leather shoes, and crystal gloves all faithfully reproduced.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片精准还原多个标志性舞台时刻：摩城 25 周年首秀「月球漫步」、《Thriller》先锋僵尸群舞、1988 年温布利球场《Bad》巅峰演出，白袜黑皮鞋、水晶手套等经典造型悉数重现。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Colman Domingo portrays the strict father Joe Jackson, and Nia Long interprets the gentle mother Katherine, together outlining the family ties and growing pains behind the King of Pop.
+            Colman Domingo plays the strict father Joe Jackson, and Nia Long portrays the gentle mother Katherine, together outlining the family ties and growing pains behind the King of Pop.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             科尔曼·多明戈饰演严厉父亲乔 · 杰克逊，尼娅 · 朗诠释温柔母亲凯瑟琳，共同勾勒出天王背后的家庭羁绊与成长阵痛。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film incorporates 30 classic golden songs and is enhanced with IMAX and Dolby Atmos. Executive producer Lydia Silberman stated that the film aims to present &quot;a living Michael,&quot; allowing audiences to see the struggles and original intentions behind the genius.
+            The film integrates 30 classic hits and is enhanced with IMAX and Dolby Atmos. Executive producer Lydia Silverman stated that the film aims to present 'a living Michael,' allowing audiences to see the struggles and original intentions behind the genius.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片融合 30 首经典金曲，并获 IMAX 与杜比全景声加持。执行制片人莉迪亚 · 西尔弗曼表示，影片旨在呈现「活生生的迈克尔」，让观众看见天才背后的挣扎与初心。
@@ -780,34 +780,34 @@
     </item>
     <item>
       <title>买书不读指南｜《燃烧的龙舌兰》</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">买书不读指南｜《燃烧的龙舌兰》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c407aed1-b358-4604-bcd3-40ac0545c7e7.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Burning Tequila&quot; is the latest travelogue by travel writer Banjo (real name Liu Hua), documenting the author's solo trip to Mexico at the end of 2010.
+            'Burning Tequila' is the latest travelogue by travel writer Banjo (real name Liu Hua), documenting the author's solo trip to Mexico in late 2010.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《燃烧的龙舌兰》是旅行作家班卓（本名刘华）的最新游记，记录了作者于 2010 年末独自前往墨西哥的旅行经历。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Starting from San Cristóbal de las Casas in Chiapas, the author traveled through Mayan villages, tequila farms, and hippie gatherings, immersing herself in the daily lives of strangers, working, talking, and interacting with them.
+            The author departed from San Cristóbal de las Casas in Chiapas, passing through Mayan villages, agave farms, and hippie gatherings, immersing herself in the daily lives of strangers, working, conversing, and living with them.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             作者从恰帕斯州圣克里斯托瓦尔出发，途经玛雅村落、龙舌兰农场与嬉皮士聚会，一路走入陌生人的日常生活，与其劳作、交谈、相处。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the journey, she and her chance companions ventured deep into the Rainbow Forest, hiked through desolate late-night swamps, tasted hallucinogenic sacred mushrooms, and dived underwater to swim with sea turtles and eagle rays. &quot;Understanding the desire for life&quot; was the core driving force behind this journey.
+            During the journey, she and her chance companions ventured deep into the Rainbow Forest, hiked through desolate midnight swamps, tasted sacred hallucinogenic mushrooms, and dived underwater to swim with sea turtles and eagle rays. 'Understanding the desire for life' was the core driving force behind this journey.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             旅途中，她与偶遇的同伴深入彩虹森林，徒步荒寂的深夜沼泽，品尝致幻的神圣蘑菇，并潜入海底与海龟、鹰鳐共游。「理解生命的渴望」是驱动这段旅途的核心动力。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It writes about the barriers created by skin color, language, class, and gender, while also documenting how people try to bridge these differences and draw closer to each other, delving into heterogeneous cultures as an observer, presenting a &quot;panorama of life&quot; through inquiry and dialogue, and weaving themes such as memory, loneliness, love, and ideals into the concrete travel narrative.
+            It writes about the barriers created by skin color, language, class, and gender, while also documenting how people attempt to bridge these differences and draw closer to each other. It delves into heterogeneous cultures as an observer, presenting a 'panorama of life' through inquiry and dialogue, and weaving themes such as memory, solitude, love, and ideals into the specific narrative of the journey.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             它书写肤色、语言、阶层与性别所制造的隔阂，同时记录人如何跨越这些差异尝试彼此靠近，以观察者姿态深入异质文化，在追问与对话中呈现「众生相」，并将记忆、孤独、爱情、理想等命题编织进具体的行旅叙事之中。
@@ -816,41 +816,41 @@
     </item>
     <item>
       <title>游戏推荐｜《失落星船：马拉松》</title>
-      <pubDate>Sat, 25 Apr 2026 05:19:35 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2026 08:41:00 +0000</pubDate>
       <guid isPermaLink="false">游戏推荐｜《失落星船：马拉松》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4ab09927-241e-47ac-8b1d-b999bd0ae846.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Marathon&quot; is created by the original team behind &quot;Halo&quot; and &quot;Destiny,&quot; supporting PS5, Xbox, and PC platforms. The game continues the cosmic background of the original &quot;Marathon&quot; series, building a bizarre and unique sci-fi worldview centered on transhumanism and immortality.
+            'Marathon' is developed by the original team behind 'Halo' and 'Destiny,' supporting PS5, Xbox, and PC platforms. The game continues the cosmic background of the original 'Marathon' series, focusing on transhumanism and immortality, building an eerie and unique sci-fi worldview.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《失落星船：马拉松》由《光环》和《命运》的原班人马打造，支持 PS5、Xbox 和 PC 平台。游戏延续了原作《马拉松》系列的宇宙背景，以超人类主义与永生不死为主题，构建了一个诡异而独特的科幻世界观。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Players take on the role of &quot;Runners,&quot; performing scavenging and extraction missions within the wreckage of the UESC &quot;Marathon&quot; spacecraft and its surrounding areas, engaging in high-risk confrontations with NPC enemies and other player squads.
+            Players take on the role of 'Runners,' performing scavenging and extraction missions within the wreckage of the UESC 'Marathon' spaceship and its surrounding areas, engaging in high-risk confrontations with NPC enemies and other player squads.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             玩家扮演「疾行者」，在 UESC「马拉松」号飞船残骸与周边区域中执行搜刮、撤离任务，与 NPC 敌人及其他玩家小队展开高风险对抗。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The game combines hero shooter and extraction shooter designs, offering various &quot;Runner&quot; roles with distinct positions such as &quot;Assassin,&quot; &quot;Rescuer,&quot; &quot;Destroyer,&quot; and &quot;Scout.&quot; Each character comes with preset abilities, allowing for tactical cooperation with teammates.
+            The game combines hero shooter and extraction shooter designs, offering various 'Runner' roles with different specializations such as 'Assassin,' 'Rescuer,' 'Destroyer,' and 'Scout.' Each character comes with preset abilities, allowing for tactical cooperation with teammates.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             游戏采用英雄射击与撤离射击相结合的设计，提供「刺客」「救援」「毁灭者」「侦查」等多种定位各异的疾行者角色，每名角色携带预设能力，可与队友形成战术配合。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The core gameplay revolves around scavenging, gear progression, and character skill trees. Players accumulate materials, complete missions, and unlock upgrades in each match, retaining some progression even if extraction fails.
+            The core gameplay revolves around scavenging, gear progression, and character skill trees. Players accumulate materials, complete missions, and unlock upgrades in each match, retaining some progress even if extraction fails.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             核心玩法围绕搜刮、装备成长与角色技能树展开，玩家在每局对战中积累材料、完成任务、解锁升级，即便撤离失败也能保留部分成长进度。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            IGN reviewer Travis Northup gave the game a score of 9 (Amazing) in his article, highly commending its inheritance of Bungie's iconic shooting feel, as well as the design quality of its deep progression system and endgame content.
+            IGN reviewer Travis Northup gave the game a score of 9 (Amazing) in his article, highly praising its inheritance of Bungie's iconic shooting feel, as well as the design quality of its deep progression system and endgame content.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             IGN 评测人 Travis Northup 在文章中给出 9 分（奇佳）的成绩，高度肯定了本作对 Bungie 标志性射击手感的传承，以及其深度成长系统与终局内容的设计质量。
