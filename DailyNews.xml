@@ -2,951 +2,948 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Fri, 29 May 2026 06:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:27:35 +0000</lastBuildDate>
     <item>
-      <title>苹果 iOS 27 AI Siri 界面曝光</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">苹果-iOS-27-AI-Siri-界面曝光</guid>
+      <title>曝苹果用 Gemini 训练端侧 AI，部分 Siri 请求转向谷歌云</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">曝苹果用-Gemini-训练端侧-AI，部分-Siri-请求转向谷歌云</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/dfd9ec73-c3a3-4921-8776-6c7b46d83e0b.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/805061aa-6203-42f3-a805-5cfb355096d7.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Bloomberg reporter Mark Gurman released a set of UI mockups for iOS 27, showcasing the new Siri interface, a new chatbot-style application, and other major iOS 27 changes Apple plans to release at WWDC26.
+            According to The Information, Apple plans to fully leverage on-device AI computing power at next month's Worldwide Developers Conference (WWDC), while also introducing Nvidia's privacy technology to ensure the security of some cloud-based AI tasks.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，彭博社记者 Mark Gurman 发布了一组 iOS 27 的 UI 示意图，展示了新版 Siri 界面、新的聊天机器人式应用，以及苹果计划在 WWDC26上发布的其他 iOS 27 重大变化。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the new version of Siri will have two launch entry points:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，新版 Siri 将会有两个启动入口：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Traditional method: That is, shouting &quot;Siri&quot; or long-pressing the iPhone power button will trigger the new Siri animation in the Dynamic Island.&lt;/p&gt;
-&lt;p&gt;New method &quot;Search or Ask&quot;: iOS 27 will allow users to swipe down from the top center of the iPhone from any location in the system to launch the new &quot;Search or Ask&quot; interface.&lt;/p&gt;
-&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that &quot;Search or Ask&quot; supports voice and text input, has screen content awareness and personal data analysis capabilities, and can perform multi-level tasks across applications based on context.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，「Search or Ask」支持语音与文本输入，具备屏幕内容感知及个人数据分析能力，可基于上下文跨应用执行多级任务。
+            据《The Information》报道，苹果计划在下月的全球开发者大会（WWDC）上全面发力端侧 AI 算力，同时将引入英伟达的隐私技术以保障部分云端 AI 任务的安全性。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition, Apple will launch a standalone Siri App similar to ChatGPT, which will retain historical conversation records and support multi-modal attachment uploads for AI analysis.
+            Sources revealed that Apple is using Google's large language model Gemini to train lightweight models that can run locally (i.e., model distillation).
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，苹果将推出类似于 ChatGPT 的独立 Siri App，该应用将保留历史对话记录，并支持多模态附件上传以供 AI 分析。
+            知情人士透露，苹果正利用谷歌大语言模型 Gemini 训练可本地运行的轻量化模型（即模型蒸馏）。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of imaging and native applications, Siri will be directly integrated into the camera app for the first time, using third-party AI agents for object recognition and reverse image search.
+            To advance model miniaturization, Apple is seeking to acquire relevant startups, with Liquid AI, an edge AI company in Cambridge, Massachusetts, being one of its potential acquisition targets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在影像与原生应用方面，Siri 将首次直接整合进相机应用中，借由第三方 AI 代理进行物体识别与逆向图像搜索。
+            为推进模型小型化，苹果正在寻求收购相关初创公司，马萨诸塞州剑桥市的边缘 AI 企业 Liquid AI 曾是其潜在的收购目标之一。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is worth mentioning that iOS 27's camera interface will introduce a customizable control panel to meet professional shooting needs; the Photos app will also add computational photography features such as AI Reframe and AI Extend.
+            To address complex cloud-based demands that edge devices cannot handle, Apple has approved the use of Nvidia's Confidential Compute privacy protection technology within the Google Cloud environment.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            值得一提的是，iOS 27 的相机界面将引入可自定义控件面板，以满足专业拍摄需求；而相册应用则新增 AI 构图（Reframe）与 AI 扩图（Extend）等计算摄影功能。
+            针对端侧设备无法处理的复杂云端需求，苹果已批准在谷歌云（Google Cloud）环境中使用英伟达的机密计算（Confidential Compute）隐私保护技术。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Beyond its AI initiatives, iOS 27 will also focus on fixing bugs related to last year's &quot;Liquid Glass&quot; design.
+            This technology ensures the security of cloud AI requests by processing data and models with hardware-level encryption. This also means that while Apple maintains its 'Private Cloud Compute' brand promise, the underlying processing still relies on Nvidia GPUs and Google's cloud infrastructure.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在 AI 布局之外，iOS 27 还将重点修复去年「液态玻璃」（Liquid Glass）设计引发的相关 Bug。
+            该技术通过硬件级加密处理中的数据与模型，确保云端 AI 请求的安全性。这也意味着苹果在维持其「私有云计算（Private Cloud Compute）」品牌承诺的同时，底层处理过程仍需依赖英伟达 GPU 及谷歌的云基础设施。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Claude Opus 4.8 发布：快速模式成本降至三分之一</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">Claude-Opus-4.8-发布：快速模式成本降至三分之一</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/11dcc488-7018-4877-ac9d-0219ce987539.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Early this morning, Anthropic officially released its flagship model Claude Opus 4.8, upgrading its capabilities in programming, AI agent tasks, reasoning, and knowledge work while maintaining the same pricing.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            今天凌晨，Anthropic 正式发布旗舰模型 Claude Opus 4.8，在保持定价不变的前提下，对编程、AI 智能体任务、推理和知识工作能力进行了升级。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Standard mode pricing remains at $5 per million input tokens and $25 per million output tokens; fast mode pricing is $10 per million input tokens and $50 per million output tokens, with a running speed increase of approximately 2.5 times compared to the previous generation, and model costs reduced to one-third of the previous generation.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            标准模式定价维持每百万输入 token 5 美元、每百万输出 token 25 美元；快速模式定价为每百万输入 token 10 美元、每百万输出 token 50 美元，运行速度较前代提升约 2.5 倍，模型成本降至前代的三分之一。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The core improvements in this upgrade lie in judgment and honesty. Official evaluations show that Opus 4.8 is about one-quarter as likely as its predecessor, Opus 4.7, to allow its own code defects to pass unexplained, and is more willing to proactively flag uncertainties, reducing conclusions lacking basis.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此次升级的核心改进在于判断力与诚实性。官方评估显示，Opus 4.8 放任自身代码缺陷未经说明通过的概率约为前代 Opus 4.7 的四分之一，更愿意主动标注不确定性，减少缺乏依据的结论。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of benchmark tests, Opus 4.8 scored 69.2% on SWE-Bench Pro, higher than Opus 4.7's 64.3%, and surpassed GPT-5.5 and Gemini 3.1 Pro in multiple tests such as Agentic Coding, Agentic Computer Use, Knowledge Work, and Finance Agent. However, on the Terminal-Bench 2.1 programming benchmark, GPT-5.5's 78.2% is still higher than Opus 4.8's 74.6%.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            基准测试方面，Opus 4.8 在 SWE-Bench Pro 上得分 69.2%，高于 Opus 4.7 的 64.3%，并在 Agentic Coding、Agentic Computer Use、Knowledge Work、Finance Agent 等多项测试中超过 GPT-5.5 与 Gemini 3.1 Pro。但在终端编程基准 Terminal-Bench 2.1 上，GPT-5.5 的 78.2% 仍高于 Opus 4.8 的 74.6%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Anthropic also stated that it plans to roll out the more powerful Claude Mythos series models to all customers in the coming weeks.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Anthropic 还表示，计划在未来数周内向所有客户推出能力更强的 Claude Mythos 系列模型。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/JgDc1QK9664j55RlnANrEA&quot;&gt;
-             Just now, Claude Opus 4.8 went online, claiming to be DeepSeek and Qwen
-            &lt;/a&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/JgDc1QK9664j55RlnANrEA&quot;&gt;
-             刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen
-            &lt;/a&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;section&gt;
-&lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
-&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>鸿蒙生态设备累计数超 13 亿</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">鸿蒙生态设备累计数超-13-亿</guid>
+      <title>赛力斯回应特斯拉 FSD 入华</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">赛力斯回应特斯拉-FSD-入华</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, at the OpenHarmony Developer Conference 2026, a Huawei representative stated that the
+            According to IT Home, at the recent 4th Future Car Pioneer Conference, Seres Auto Chairman Zhang Zhengping shared his views on the comparison between Huawei Qiankun Intelligent Driving and Tesla FSD.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 IT 之家报道，在近期的第四届未来汽车先行者大会上，赛力斯汽车董事长张正萍就华为乾崑智驾与特斯拉 FSD 的对比发表了看法。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            He stated that the ultimate judgment of which intelligent driving system is superior should be left to the market for objective evaluation. When discussing specific technical routes, Zhang Zhengping pointed out:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他表示，两款智驾系统孰优孰劣，最终应交由市场来客观评判。在谈及具体技术路线时，张正萍指出：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Which intelligent driving system is better to use still needs to be answered by the market. The new generation AITO M9 is equipped with 6 LiDAR sensors, which is not inferior to FSD in this regard. Furthermore, FSD simulates human visual driving logic, while Huawei Qiankun Intelligent Driving can achieve a state where it 'sees beyond what human eyes can see'.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It is reported that Tesla FSD, starting from version V12, adopts a pure vision solution, relying on 8 cameras and an end-to-end neural network architecture, with simulating human visual logic at its core.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据悉，特斯拉 FSD 自 V12 版本起采用纯视觉方案，依托 8 颗摄像头与端到端神经网络架构，以模拟人类视觉逻辑为核心。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 招聘把价值观面试放到关键位置</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">Anthropic-招聘把价值观面试放到关键位置</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2dd51cdb-8988-46fd-b07f-a4b02f36c38b.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Bloomberg Businessweek reported on Anthropic's hiring process. The report states that after rapid expansion, the AI company still places 'whether candidates align with the company's mission' at the core of its interview process; applicants typically undergo multiple rounds of skill assessments and interviews,
             &lt;strong&gt;
-             cumulative number of HarmonyOS smart hardware ecosystem devices has exceeded 1.3 billion units
+             most of which require completion without the use of AI
             &lt;/strong&gt;
             .
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，开源鸿蒙开发者大会 2026 上，华为相关负责人在会上表示，
+            彭博商业周刊报道了 Anthropic 的招聘流程。报道称，这家 AI 公司快速扩张后，仍把「候选人是否认同公司使命」放在面试流程的核心位置；应聘者通常要经历多轮技能评估和面试，
             &lt;strong&gt;
-             鸿蒙智能硬件生态设备累计数已超过 13 亿台
+             其中多数练习要求不使用 AI 完成
             &lt;/strong&gt;
             。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition, Xie Shaofeng, Chairman of the Open Atom Open Source Foundation, stated that the OpenHarmony community's code volume has exceeded 140 million lines, with over 13,000 contributors, supporting forms such as mobile phones, tablets, computers, TVs, wearables, and industrial smart terminals.
+            The report mentioned that Anthropic's cultural interviews inquire about candidates' values, worldviews, and how they perceive AI risks. Several candidates and career coaches described this round of interviews as more in-depth than typical company culture interviews, even delving into professional ethical dilemmas, how candidates reacted at the time, and how they viewed it afterward.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，开放原子开源基金会理事长谢少锋表示，开源鸿蒙社区代码量已突破 1.4 亿行，贡献者超过 13000 名，支持手机、平板、电脑、电视、穿戴和行业智能终端等形态。
+            报道提到，Anthropic 的文化面试会询问候选人的价值观、世界观，以及他们如何看待 AI 风险。多名候选人和职业教练形容，这一轮面试比普通公司文化面更深入，甚至会追问职业伦理困境、候选人在当时如何反应、事后如何看待。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic President Daniela Amodei previously stated in a podcast that the company asks candidates about their 'unusual but defensible' beliefs, with a focus on how candidates defend their judgment in uncomfortable situations.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 总裁 Daniela Amodei 此前在播客中称，公司会询问候选人有哪些「不寻常但愿意捍卫」的信念，考察重点包括候选人在不舒服的处境里捍卫自身判断的方式。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepSeek 又崩了</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">DeepSeek-又崩了</guid>
+      <title>ChatGPT 消费级 AI 流量份额被追近，AI 市场进入「三足鼎立」</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">ChatGPT-消费级-AI-流量份额被追近，AI-市场进入「三足鼎立」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/dc2ec56f-6eac-408a-8b95-3537562c06ea.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/8af56fcb-3532-499a-9120-b69b9af86622.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday morning, a large number of users reported DeepSeek service anomalies on social platforms. DeepSeek's status page showed performance degradation in web chat and API services, and the incident was marked as &quot;partial outage&quot; at 10:21, affecting components including API services and web chat services.
+            SimilarWeb's latest traffic data shows that the consumer AI market is shifting from ChatGPT's sole leadership to a 'three-way standoff' among OpenAI, Google, and Anthropic.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天上午，有大量用户在社交平台反馈 DeepSeek 服务异常。DeepSeek 状态页显示，网页对话和 API 服务出现性能下降，事件在 10:21 被标记为「部分中断」，受影响组件包括 API 服务和网页对话服务。
+            SimilarWeb 最新流量数据显示，消费级 AI 市场正在从 ChatGPT 一家领先，转向 OpenAI、Google 和 Anthropic「三足鼎立」的态势。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The status page was updated at 10:27, showing that the cause had been identified and a fix was being implemented. The incident lasted approximately 22 minutes; an update at 10:50 showed that services had been restored.
+            Over the past six months, ChatGPT's share has dropped from approximately 80% to about 60%, Gemini's traffic relative to ChatGPT has risen from about 20% to about 50%, and Claude's has increased from about 3% to about 20%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            状态页在 10:27 更新显示，原因已定位，修复正在实施。该事件持续约 22 分钟；10:50 更新显示，服务已恢复。
+            过去半年，ChatGPT 的份额从约 80% 降至约 60%，Gemini 相对 ChatGPT 的流量从约 20% 升至约 50%，Claude 则从约 3% 升至约 20%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This data still shows ChatGPT maintaining its lead. Dongcha also mentioned that ChatGPT has approximately 900 million weekly active users, Gemini about 500 million, and Claude between 150 million and 200 million; Claude has the fastest quarterly growth among top websites, reaching 255%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            这组数据仍显示 ChatGPT 保持领先。动察同时提到，ChatGPT 周活用户约 9 亿，Gemini 约 5 亿，Claude 约 1.5 亿至 2 亿；Claude 在头部网站中的季度增速最快，达到 255%。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>小米超大众丰田成全球新能源第七</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">小米超大众丰田成全球新能源第七</guid>
+      <title>黄仁勋回应 AI 烧钱：浪费点钱没事，别浪费时间</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">黄仁勋回应-AI-烧钱：浪费点钱没事，别浪费时间</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/84fa0856-b525-46fa-a61c-a6ec2320dffc.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9b8be743-63fc-405b-a17f-6761b7e51d1a.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Trend Force Jibang recently released industry insights showing:
+            According to 36Kr, Nvidia CEO Jensen Huang recently responded to the issue of AI usage costs in an internal company meeting, stating that 'it's okay to waste a little money, but the key is not to waste time'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Trend Force 集邦日前发布产业洞察显示：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;In the first quarter of 2026, the combined sales of new energy vehicles, including battery electric vehicles (BEV), plug-in hybrid electric vehicles (PHEV), and hydrogen fuel cell vehicles, reached 3.94 million units, a 2% year-on-year decrease, accounting for 19% of global car sales in the first quarter.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Among them, China's new energy vehicle market entered an adjustment period; at the same time, the Western European market showed signs of recovery, and pure electric vehicle sales in Japan and South Korea also grew significantly. It is worth noting that:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其中，中国新能源车市场步入调整期；同时，西欧地区市场出现复苏迹象，日本和韩国的纯电车销量也有显著成长。值得关注的是：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Tesla surpassed BYD to reclaim the pure electric vehicle sales championship;&lt;/p&gt;
-&lt;p&gt;Leapmotor, in fifth place, achieved year-on-year sales growth against the trend, thanks to its rapidly expanding product matrix and cost-effective strategy;&lt;/p&gt;
-&lt;p&gt;Xiaomi, with a 2.9% market share, surpassed Volkswagen and Toyota to rank seventh in pure electric vehicle sales.&lt;/p&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 基金会设立 2.5 亿美元 AI 基金</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI-基金会设立-2.5-亿美元-AI-基金</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/d49b4677-132a-4bd1-aee2-996311c007d2.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The OpenAI Foundation, the non-profit entity controlling OpenAI, announced yesterday that it would invest an initial $250 million to help workers, communities, and economies adapt to changes in job and income structures brought about by AI.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            控制 OpenAI 的非营利主体 OpenAI Foundation 昨日宣布，将投入首期 2.5 亿美元，用于帮助劳动者、社区和经济体应对 AI 带来的岗位与收入结构变化。
+            据 36 氪报道，英伟达 CEO 黄仁勋近期在公司内部会议上就 AI 使用成本问题作出回应，表示「稍微浪费一点钱没关系，但关键是不要浪费时间」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This funding will be used to research the impact of AI on the labor market, support workers and communities facing short-term job displacement pressure, and explore ways to more broadly distribute the economic benefits of AI. Public sources confirm the initial funding amount, funding directions, and the foundation's entity, with economic benefit distribution being one of the key focus areas for the fund.
+            During this internal meeting, an employee raised concerns that the current extensive use of AI merely consumes tokens without bringing substantial productivity improvements. Huang responded by saying that people find it difficult to master any technology in its early stages, so one should not strive for perfection from the outset, but rather take the first step and embrace new technologies.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这笔资金将用于研究 AI 对劳动力市场的影响、支持面临短期岗位替代压力的劳动者和社区，并探索更广泛分配 AI 经济收益的方式。公开来源可以确认首期资金规模、资助方向和基金会主体，经济收益分配会是基金重点关注的方向之一。
+            此次内部会议上，有员工提出担忧，认为目前大量使用 AI 只是白白消耗 Token，并未带来实质性的生产力提升。黄仁勋对此回应称，任何技术在初期阶段人们都难以熟练运用，因此不应一开始就追求完美，而是应该先迈出一步，拥抱新技术。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The OpenAI Foundation last year committed $50 million to support public interest projects, and this $250 million fund expands the focus from general public welfare to AI's impact on the workforce and benefit distribution.
+            Regarding AI usage costs, Jensen Huang consistently advocates for employees to use AI extensively. He previously stated that for an engineer earning $500,000 annually, if their token expenses were less than $250,000, he would be concerned; if they only spent $5,000, he would be 'furious'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI Foundation 去年已承诺投入 5000 万美元支持公共利益项目，这次 2.5 亿美元基金把重点从泛公益扩展到 AI 劳动力冲击和收益分配。
+            在 AI 使用成本问题上，黄仁勋一贯主张员工应大量使用 AI。他此前曾表示，对于一名年薪 50 万美元的工程师，若其 Token 费用低于 25 万美元，他会感到担忧；若仅花费 5000 美元，他则会「气炸」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            His logic is that he would rather spend half of an employee's salary on AI costs to achieve a 10-fold increase in efficiency.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他的逻辑是，宁可拿出员工薪资的一半用于 AI 费用，也要换来 10 倍的效率提升。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>广东回应高考 AI 批卷传言</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">广东回应高考-AI-批卷传言</guid>
+      <title>刘强东提出「3 个 12」原则，京东规定员工每日工作不超 12 小时</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">刘强东提出「3-个-12」原则，京东规定员工每日工作不超-12-小时</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Guangdong Education Media, the Guangdong Provincial Education Examinations Authority responded, stating that &quot;Guangdong's summer college entrance examination uses AI for grading&quot; is a false rumor. The report mentioned that Guangdong has indeed used intelligent technology in college entrance examination venue management in recent years, but its purpose is for examination safety aspects such as assisting patrols, security checks, radio signal shielding, and confidential room inspections.
+            According to TechWeb, JD.com recently introduced a new work hour management rule internally called '3 x 12'. This principle was proposed by founder Richard Liu last week and is being gradually implemented across multiple departments within the group starting this week. Relevant notifications have now been cascaded down from C1 and C2 levels, and frontline R&amp;amp;D teams have received specific arrangements.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据广东教育传媒报道，广东省教育考试院回应，称「广东夏季高考用 AI 批卷」为不实传言。报道提到，广东近年确实在高考考场管理中使用智能技术，但用途是辅助巡考、安检、无线电信号屏蔽和保密室巡检等考试安全环节。
+            据 TechWeb 报道，京东集团近日在内部推出了一项名为「3 个 12」的工作时间管理新规。该原则由创始人刘强东于上周提出，并于本周起在集团内多个部门逐步推进落实。目前相关通知已从 C1、C2 层级向下传达，一线研发团队已收到具体安排。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Guangdong Provincial Education Examinations Authority pointed out that subjective questions are still manually graded by teachers, with independent double grading. If the score difference exceeds the threshold, a third review is initiated. The system only performs random checks, real-time monitoring, and error correction assistance. In 2025, Guangdong's grading center will be located at South China Normal University, with over 6,200 teachers selected from across the province to participate in grading.
+            The '3 x 12' principle revolves around three quantitative indicators:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            广东省教育考试院指出，主观题仍由教师人工评阅，实行双人独立评阅，评分差超过阈值时进入三评，系统只承担随机抽检、实时监控和纠错辅助。2025 年广东评卷点设在华南师范大学，全省选聘超 6200 名教师参与评卷。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>黄仁勋将加入清华经管顾问委员会</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">黄仁勋将加入清华经管顾问委员会</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fb521a4a-311f-4d48-b165-254ca0cb1919.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the Financial Times, Jensen Huang has accepted an invitation to join the Tsinghua University School of Economics and Management Advisory Board (Tsinghua SEM Advisory Board).
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《金融时报》报道，黄仁勋已接受邀请，加入清华大学经济管理学院顾问委员会（Tsinghua SEM Advisory Board）。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Tsinghua SEM Advisory Board was established in 2000, and its members have long included leaders of multinational corporations and prominent figures in economics and management. Apple CEO Tim Cook previously served as its chairman. The committee's mission is to help the school become a world-class institution for economics and management.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            清华经管顾问委员会成立于 2000 年，成员长期包括跨国企业负责人和经济管理领域代表人物，苹果 CEO 库克此前担任该委员会主席，委员会的定位，是帮助学院建设成为世界一流的经济管理学院。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that the committee brings together the heads of tech giants such as Apple, Microsoft, Meta, Tesla, Alibaba, and Tencent, as well as the leaders of financial powerhouses like JPMorgan Chase, Blackstone Group, and Bridgewater.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据悉，该委员会云集了苹果、微软、Meta、特斯拉、阿里、腾讯等科技巨头的掌门人，以及摩根大通、黑石集团、桥水等金融巨鳄的掌舵者。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 工程师被控用内部搜索数据下注获利 120 万美元</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">Google-工程师被控用内部搜索数据下注获利-120-万美元</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to TechCrunch, the U.S. Department of Justice has sued Google software engineer Michele Spagnuolo, accusing him of using Google's internal non-public business information to profit $1.2 million on Polymarket.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 TechCrunch 报道，美国司法部起诉 Google 软件工程师 Michele Spagnuolo，指控其利用 Google 内部非公开业务信息，在 Polymarket 上获利 120 万美元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The indictment states that Spagnuolo used the &quot;AlphaRaccoon&quot; account on Polymarket to place bets related to the results of Google's 2025 Year in Search campaign, with a betting exposure exceeding $2.7 million. TechCrunch reported that these bets were related to Google's unreleased search trend data.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            起诉材料称，Spagnuolo 在 Polymarket 上使用「AlphaRaccoon」账号，围绕 Google 2025 年 Year in Search 活动相关结果下注，涉案下注风险敞口超过 270 万美元。TechCrunch 报道提到，这些押注与 Google 尚未公开的搜索趋势数据有关。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>理想汽车一季度由盈转亏</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">理想汽车一季度由盈转亏</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/3f5aaa9c-3fcf-491d-a5fe-b139c5ae2c9d.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Li Auto released its first-quarter 2026 financial results. During the period, total operating revenue was 22.983 billion yuan, a year-on-year decrease of 11.4%; net loss attributable to parent company was 2.290 billion yuan, compared to a profit of 650 million yuan in the same period last year; gross profit was 1.808 billion yuan, a year-on-year decrease of 66.0%, and gross margin was 7.9%, a year-on-year decrease of 12.6 percentage points.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，理想汽车发布 2026 财年第一季度业绩，期内营业总收入 229.83 亿元，同比下降 11.4%；归母净亏损 22.90 亿元，去年同期为盈利 6.50 亿元；毛利 18.08 亿元，同比下降 66.0%，毛利率为 7.9%，同比下降 12.6 个百分点。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Operationally, Li Auto delivered 95,142 vehicles in the first quarter, a year-on-year increase of 2.5%. Vehicle gross margin fell to 6.1%, operating cash flow saw a net outflow of 6.091 billion yuan, and free cash flow saw a net outflow of 7.388 billion yuan. The company expects to deliver 95,000 to 100,000 vehicles in the second quarter, corresponding to revenues of 24.1 billion to 25.4 billion yuan.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            经营层面，理想汽车一季度交付 95142 辆，同比增长 2.5%。车辆毛利率降至 6.1%，经营现金流净流出 60.91 亿元，自由现金流净流出 73.88 亿元。公司预计二季度交付 95000 至 100000 辆，对应收入 241 亿至 254 亿元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As of April 30, Li Auto has 511 retail centers and 550 after-sales service centers in 160 cities, and has put into operation 4077 supercharging stations.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            截至 4 月 30 日，理想汽车在 160 个城市拥有 511 家零售中心、550 家售后维修中心，投用 4077 座超充站。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小鹏一季度亏损 17.8 亿元，人形机器人预计三季度亮相</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">小鹏一季度亏损-17.8-亿元，人形机器人预计三季度亮相</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e7c2429e-5740-43d3-b3c1-30124168e4af.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xpeng Motors released its unaudited results for the first quarter of 2026. During the period, total revenue was 13.03 billion yuan, a year-on-year decrease of 17.6% and a quarter-on-quarter decrease of 41.4%; vehicle sales revenue was 11.00 billion yuan, a year-on-year decrease of 23.5%, mainly affected by a decrease in delivery volume. The company's net loss in the first quarter was 1.78 billion yuan, compared to a loss of 660 million yuan in the same period last year, and a profit of 380 million yuan in the previous quarter.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小鹏汽车发布 2026 年第一季度未经审计业绩，期内总营收 130.3 亿元，同比下降 17.6%，环比下降 41.4%；车辆销售收入 110.0 亿元，同比下降 23.5%，主要受交付量下降影响。公司一季度净亏损 17.8 亿元，去年同期亏损 6.6 亿元，上一季度为盈利 3.8 亿元。
+            「3 个 12」原则围绕三项量化指标展开：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;The overall gross profit margin in the first quarter was 20.6%, higher than 15.6% in the same period last year, and lower than 21.3% in the previous quarter;&lt;/p&gt;
-&lt;p&gt;The automotive gross profit margin was 12.1%, an increase of 1.6 percentage points year-on-year;&lt;/p&gt;
-&lt;p&gt;R&amp;amp;D expenses were 2.91 billion yuan, a year-on-year increase of 46.8%, officially explained by increased investment in new models and AI-related technologies.&lt;/p&gt;
+&lt;p&gt;First, employees' daily working hours should generally not exceed 12 hours, with exceptions only during major promotional periods or special projects;&lt;/p&gt;
+&lt;p&gt;Second, employees are encouraged to leave the company no later than 12 AM, and workplaces should guide employees on duty to leave for rest and arrange lights out at midnight 24:00;&lt;/p&gt;
+&lt;p&gt;Third, the number of consecutive working days for employees shall not exceed 12 days, to prevent long-term overtime without rest.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xpeng expects to deliver 100,000 to 106,000 vehicles in the second quarter, a quarter-on-quarter increase of 59.5% to 69.1%; total revenue is expected to be 19.6 billion to 20.8 billion yuan.
+            JD.com stated that the introduction of this new regulation is a proactive adjustment made in response to the excessive workload of some internal teams, aiming to explicitly incorporate employee physical and mental health into management guidance and standardize daily office work and overtime management mechanisms through quantified working hour standards.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小鹏预计二季度交付 10 万至 10.6 万辆，环比增长 59.5% 至 69.1%；总营收预计为 196 亿至 208 亿元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He Xiaopeng, Chairman of Xpeng Group, stated at the Q1 earnings call that the R&amp;amp;D of the new generation Xpeng IRON humanoid robot's software and hardware, aimed at mass production, is progressing smoothly and is about to enter the ET2 software and hardware integration phase. It is
-            &lt;strong&gt;
-             planned to officially debut in the third quarter of this year
-            &lt;/strong&gt;
-            , with the goal of achieving mass production of advanced humanoid robots by the end of this year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小鹏集团董事长何小鹏在一季度财报电话会上表示，面向量产版本的新一代小鹏 IRON 人形机器人软硬件研发进展顺利，即将进入 ET2 软硬件合围阶段，
-            &lt;strong&gt;
-             计划今年第三季度正式亮相
-            &lt;/strong&gt;
-            ，并以今年底实现高阶人形机器人量产为目标。
+            京东方面表示，此次新规的出台，是针对内部部分团队工作强度过大问题所作的主动调整，旨在将员工身心健康明确纳入管理导向，通过量化的工作时间标准规范日常办公与加班管理机制。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>微博一季度净营收 4.213 亿美元</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">微博一季度净营收-4.213-亿美元</guid>
+      <title>一个月烧掉 5 亿美元，企业 AI 账单失控</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">一个月烧掉-5-亿美元，企业-AI-账单失控</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4c07e907-5de2-4ef4-8de5-4be8dd5a0e0d.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Axios, the business community is questioning the continuously rising AI spending, with cost control and return on investment becoming the core contradiction in enterprise AI procurement by 2026.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 Axios 报道，企业界正在对持续攀升的 AI 支出产生质疑，成本控制与投资回报问题已成为 2026 年企业 AI 采购的核心矛盾。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Microsoft recently canceled most Claude Code licenses, with cost being one of the main reasons. Uber's COO also publicly stated that AI-related spending is &quot;increasingly difficult to justify.&quot;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            微软近期取消了大部分 Claude Code 许可证，成本是主要原因之一。Uber 的 COO 也公开表示，AI 相关支出「越来越难以合理化」。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            An AI consultant revealed to Axios that one of their clients, due to not setting usage limits for employees' Claude licenses,
+            &lt;strong&gt;
+             burned through $500 million in a single month
+            &lt;/strong&gt;
+            .
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            一名 AI 顾问向 Axios 透露，其客户中有企业因未对员工的 Claude 许可证设置使用上限，
+            &lt;strong&gt;
+             在单月内烧掉了 5 亿美元
+            &lt;/strong&gt;
+            。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            CloudBees CEO Anuj Kapur told Axios that some companies are laying off employees under the guise of AI automation, but in reality, layoffs might just be &quot;the only lever they can pull&quot; to offset soaring AI bills. Meanwhile, consumer attitudes towards AI are cooling, and employee resistance is also spreading.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            CloudBees CEO Anuj Kapur 向 Axios 表示，部分企业正以 AI 自动化为由裁员，但实际上裁员可能只是「他们能拉动的唯一杠杆」，用于抵消高涨的 AI 账单。与此同时，消费者对 AI 的态度也在转冷，员工层面的抵制情绪同样在蔓延。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>工信部：动力电池进入规模化退役阶段</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">工信部：动力电池进入规模化退役阶段</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Weibo released its unaudited results for the first quarter of 2026. During the period, net revenue was $421.3 million, a year-on-year increase of 6%, or 1% at constant exchange rates; net profit attributable to Weibo shareholders was $34.7 million, with diluted earnings per share of $0.14.
+            On May 28, the Ministry of Industry and Information Technology held the second meeting of the national special working group on the recycling and utilization of new energy vehicle power batteries, stating that China's new energy vehicle power batteries have entered a large-scale retirement phase, and accelerating the improvement of the waste power battery recycling and utilization system has become a key task for 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            微博发布 2026 年第一季度未经审计业绩，期内净营收 4.213 亿美元，同比增长 6%，按固定汇率计算同比增长 1%；归属于微博股东的净利润为 3470 万美元，摊薄每股收益 0.14 美元。
+            工业和信息化部 5 月 28 日召开全国新能源汽车动力电池回收利用工作专班第二次会议，称我国新能源汽车动力电池已进入规模化退役阶段，加快健全废旧动力电池回收利用体系已经成为 2026 年重点工作。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Advertising and marketing revenue remained the main driver, with Q1 revenue of $369.8 million, up 9% year-on-year; among which, advertising and marketing revenue excluding Alibaba's advertising revenue was $326.5 million, up 10% year-on-year. Value-added service revenue was $51.6 million, down 11% year-on-year, mainly due to reduced revenue contribution from game-related businesses.
+            The meeting called for strengthening collaboration around the construction of laws, policies, and standard systems, as well as research on major issues, and launching a special joint law enforcement action to regulate the recycling and utilization of waste power batteries. The focus will be on investigating and prosecuting violations such as illegal delivery of waste power batteries, using waste power batteries to produce unqualified products, failing to fulfill information traceability responsibilities, illegal dismantling causing environmental pollution, and operating without a license.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            广告和营销收入仍是主力，一季度收入 3.698 亿美元，同比增长 9%；其中不含阿里巴巴广告收入的广告和营销收入为 3.265 亿美元，同比增长 10%。增值服务收入为 5160 万美元，同比下降 11%，主要受游戏相关业务收入贡献减少影响。
+            会议要求围绕法规、政策、标准体系建设和重大问题研究加强协同，并开展规范废旧动力电池回收利用联合执法专项行动。重点查处违规交售废旧动力电池、用废旧动力电池生产不合格产品、不履行信息溯源责任、非法拆解污染环境、无照经营等行为。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of user scale, Weibo's monthly active users in March were 562 million, and daily active users were 254 million. CEO Wang Gaofei mentioned in the financial report that the company optimized the homepage information flow consumption experience, improved the supply and distribution of high-quality video content, and enhanced search and advertising conversion efficiency through AI.
+            The Ministry of Industry and Information Technology also required enterprises to strengthen their primary responsibility, use digital technology to enhance monitoring of power battery flow, and guide industry associations, key enterprises, and research institutions to cooperate in exploring advanced technical equipment and new business models.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            用户规模方面，微博 3 月月活跃用户为 5.62 亿，日活跃用户为 2.54 亿。CEO 王高飞在财报中提到，公司优化首页信息流消费体验、提升优质视频内容供给和分发，并通过 AI 强化搜索与广告转化效率。
+            工信部还要求压实企业主体责任，运用数字化技术加强动力电池流向监测，并引导行业协会、重点企业和研究机构合作，探索先进技术装备和新型商业模式。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>MiniMax 年化收入两个月翻番</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">MiniMax-年化收入两个月翻番</guid>
+      <title>宇树具身智能体验馆亚洲首店将落地上海静安</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">宇树具身智能体验馆亚洲首店将落地上海静安</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2776009b-bef2-4138-be86-3ceb24d995c5.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Unitree Robotics announced that the first Unitree Embodied AI Experience Center in Asia will open tomorrow in Shanghai. The store is located on the 2nd floor of Jiuguang Department Store, No. 1618 West Nanjing Road, Jing'an District, Shanghai, covering an area of over 100 square meters, directly across the street from Apple Jing'an. The store will showcase products such as humanoid robots and quadruped robot dogs.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            宇树科技宣布，宇树具身智能体验馆亚洲首店将于明天在上海开业。门店位于上海市静安区南京西路 1618 号久光百货 2 层，面积超过 100 平方米，街对面就是 Apple 静安，门店将展示人形机器人、四足机器狗等产品。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宝马将在莱比锡工厂使用人形机器人</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">宝马将在莱比锡工厂使用人形机器人</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/b6628a6e-d935-444e-96a5-b5f9e50e4cd7.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to the BBC, BMW plans to use humanoid robots in European car production for the first time this summer, with two Aeon robots manufactured by Hexagon Robotics currently being tested at the Leipzig plant. Michael Nikolaides, BMW's Head of Process Management and Digitalization, stated that humanoid robots will be the future of car production.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 BBC 报道，宝马计划今年夏天在欧洲汽车生产中首次使用人形机器人，两台由 Hexagon Robotics 制造的 Aeon 机器人目前正在莱比锡工厂测试。宝马流程管理和数字化负责人 Michael Nikolaides 表示，人形机器人将是汽车生产的未来。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Aeon is 1.65 meters tall, weighs 60 kilograms, has a maximum movement speed of 2.4 meters/second, can carry 15 kilograms for a short period, and has a continuous carrying capacity of 8 kilograms. Its body is equipped with 21 sensors, including cameras, radar, microphones, force sensors, and torque sensors. Its battery life is about 3 hours, after which the battery needs to be replaced.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Aeon 身高 1.65 米，重量 60 公斤，最高移动速度 2.4 米/秒，短时间可搬运 15 公斤，持续搬运能力为 8 公斤。机身配备 21 个传感器，包括摄像头、雷达、麦克风、力传感器和扭矩传感器。它的电池工作时间约 3 小时，随后需要更换电池。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>哈啰明确顺风车高速费规则</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">哈啰明确顺风车高速费规则</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/20278205-6cc7-47ac-8b22-d280363aab46.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Hello Inc. yesterday released a guide for carpooling highway toll rules. The core rule is that the method of bearing highway tolls is subject to the passenger's remarks, and the driver's acceptance of the order indicates acceptance of this method.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            哈啰昨日发布顺风车高速费规则指南，核心规则是高速费承担方式以乘客备注为准，车主接单即表示接受该承担方式。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;If the passenger chooses &quot;willing to negotiate fees,&quot; the agreed-upon result via the platform chat box and platform phone call shall prevail; the driver should complete the negotiation before accepting the order or within 2 hours after accepting the order, and before the passenger gets in the car. If overdue, highway tolls will not be charged by default;&lt;/p&gt;
+&lt;p&gt;If the passenger chooses &quot;I will bear all costs,&quot; they shall solely bear the highway toll fees corresponding to the start and end points of their journey;&lt;/p&gt;
+&lt;p&gt;If &quot;I will not bear the cost&quot; is chosen, the passenger does not bear the highway toll, and the driver can decide whether to take the highway.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The rules also list violation scenarios, including drivers charging passengers who have refused to bear costs, repeatedly charging highway tolls, charging tolls when none were incurred, charging tolls inconsistent with the actual journey, and passengers refusing to pay after reaching an agreement.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            规则还列出违规场景，包括车主向已拒绝承担费用的乘客收费、重复收取高速费、未产生高速费却收费、收取与实际行程不符的高速费，以及协商一致后乘客拒不支付。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            For violations, drivers who overcharge must refund the excess amount and may have their growth value and trust score deducted, be banned for 3 to 7 days, or permanently banned for severe cases; passengers who fail to pay highway tolls as agreed will not be able to continue booking rides until payment is completed. Hello Inc. also reminds that highway tolls should be paid through the carpooling platform, not via offline transfers.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            违规处理上，车主多收费用需退回，并可能被扣成长值、信任分，封禁 3 至 7 天，严重者永久封禁；乘客未按约支付高速费，将在支付完成前不能继续叫车。哈啰同时提醒，高速费应通过顺风车平台支付，不要线下转账。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MiniMax 正式启动 A 股 IPO</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">MiniMax-正式启动-A-股-IPO</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Yicai, MiniMax disclosed its latest business data yesterday: the number of global enterprise and developer clients served by the company has exceeded 1 million, a 5-fold increase from six months ago; the global user base is approximately 300 million.
+            According to information from the CSRC official website, MiniMax signed a tutoring agreement with CITIC Securities on May 29, officially initiating its A-share IPO process.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            第一财经报道，MiniMax 昨日披露最新业务数据：公司服务的全球企业和开发者客户数已超过 100 万，较半年前增长 5 倍；全球用户规模约 3 亿。
+            据证监会官网信息，MiniMax 已于 5 月 29 日与中信证券签署辅导协议，正式启动 A 股 IPO 进程。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of revenue, MiniMax's annualized recurring revenue (ARR) has grown by over 100% in the past two months. The company previously disclosed at its March earnings conference that its ARR had exceeded $150 million in February 2026; based on this data, the ARR doubling cycle has been compressed to approximately 60 days.
+            Previously, Zhipu signed a coaching agreement with Guotai Haitong on February 9 this year, and jointly participated in the STAR Market listing coaching work with CICC, which had previously signed a contract. MiniMax's initiation of coaching this time means that the &quot;duo of large models,&quot; Zhipu and MiniMax, are expected to be listed on the A-share market simultaneously.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            收入方面，MiniMax 过去两个月年化经常性收入 ARR 增长超过 100%。公司此前在 3 月业绩会上披露，2026 年 2 月 ARR 已超过 1.5 亿美元；按这组数据计算，ARR 翻番周期已压缩到约 60 天。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Usage has also grown synchronously. MiniMax stated that the daily average token consumption of M2 series models has increased 6-fold within two months, and new registered users on the open platform have grown by more than 4 times.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            使用量也同步增长。MiniMax 称，M2 系列模型日均 token 消耗量在两个月内增长 6 倍，开放平台新注册用户增长 4 倍以上。
+            此前，智谱已于今年 2 月 9 日与国泰海通签署辅导协议，并与此前已签约的中金公司共同参与科创板上市辅导工作。MiniMax 此次启动辅导，意味着「大模型双雄」智谱与 MiniMax 有望同步在 A 股上市。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenRouter 完成 1.13 亿美元 B 轮融资</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">OpenRouter-完成-1.13-亿美元-B-轮融资</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1222b0cf-761f-4899-b0d8-03d4adb88c9c.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>智谱市值升至 8800 亿港元</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">智谱市值升至-8800-亿港元</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AI model API platform OpenRouter officially announced the completion of a $113 million Series B funding round, led by Alphabet's growth fund CapitalG, with participation from NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, Databricks Ventures, AMP PBC, Pace Capital, and existing investors a16z and Menlo Ventures.
+            According to Caixin.com, Zhipu AI's Hong Kong stock market value once rose to approximately HKD 880 billion, with its share price nearly 17 times its IPO price of HKD 116.2 in January. As of yesterday's close, its market value was HKD 711.12 billion.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            AI 模型 API 平台 OpenRouter 官方宣布完成 1.13 亿美元 B 轮融资，由 Alphabet 旗下成长基金 CapitalG 领投，NVentures、ServiceNow Ventures、MongoDB Ventures、Snowflake Ventures、Databricks Ventures、AMP PBC、Pace Capital 以及现有投资方 a16z 和 Menlo Ventures 参与。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The official statement said that over the past 6 months, the platform's weekly token processing volume grew from 5 trillion to 25 trillion, and this year's processing volume is expected to exceed 1,000 trillion tokens, serving over 8 million developers and covering more than 400 models.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方称，过去 6 个月平台每周处理 token 量从 5 万亿增长到 25 万亿，今年处理量预计超过 1000 万亿 token，并服务 800 多万开发者，覆盖 400 多个模型。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new funds will be used to expand infrastructure, enterprise capabilities, and intelligent routing. OpenRouter mentioned that the platform now supports image, audio, voice, transcription, embedding, and video models beyond text, and provides workspaces, cost management, guardrails, zero data retention policies, vendor-level failover, and cost/latency optimization.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新资金将用于扩展基础设施、企业能力和智能路由。OpenRouter 提到，平台已支持文本之外的图像、音频、语音、转写、嵌入和视频模型，并提供工作区、费用管理、guardrails、零数据保留策略、供应商级故障转移和成本/延迟优化。
+            据财新网报道，智谱 AI 港股市值一度升至约 8800 亿港元，股价接近 1 月上市发行价 116.2 港元的 17 倍。截止昨日收盘市值 7111.20 亿港元。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>💡 罗福莉：MiMo API 降价来自更低推理成本</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">💡-罗福莉：MiMo-API-降价来自更低推理成本</guid>
+      <title>💡 莫言：AI 创作本质是二手货，取代不了作家的原创能力</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">💡-莫言：AI-创作本质是二手货，取代不了作家的原创能力</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c16b106c-804e-4a81-aa3d-4670ba40231b.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2393ca7c-77fe-4549-a7f8-5004ef392252.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaomi MiMo officially announced a permanent price reduction for its MiMo-V2.5 series API, with a maximum reduction of up to 99% compared to the original API pricing, and no longer distinguishing between context window lengths. Luo Fuli, head of Xiaomi MiMo, subsequently posted on the X platform to explain the technical reasons behind this price reduction.
+            According to an interview with Xinhua News Agency, Mo Yan recently stated when discussing AI and literary creation that he believes AI cannot replace a writer's creation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小米 MiMo 官方日前宣布 MiMo-V2.5 系列 API 永久降价，相比原始 API 定价最高降幅可达 99%，且不再区分上下文窗口长度。小米 MiMo 负责人罗福莉随后在 X 平台发文，解释这次降价背后的技术原因。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luo Fuli stated that MiMo's original inference cost is far below the industry average, and the new price &quot;can basically maintain a break-even.&quot; She attributed the reasons to both the model and system sides: the model itself has undergone compression for inference efficiency, and the backend service has also reduced the cost per token through engineering optimization.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            罗福莉表示，MiMo 的原始推理成本远低于行业平均水平，新价格「基本可以维持收支平衡」。她把原因归结为模型和系统两侧：模型本身在推理效率上做了压缩，后端服务也通过工程优化降低了单位 token 成本。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luo Fuli emphasized that MiMo-V2.5 no longer differentiates prices by context window length, aiming to lower the barrier for long context usage and make it easier for developers to try it in practical applications. It is worth noting that Luo Fuli also advised peers in her post not to &quot;blindly cut prices&quot;:
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            罗福莉强调，MiMo-V2.5 不再按上下文窗口长度区分价格，意在把长上下文使用门槛拉低，让开发者更容易在实际应用里试用。值得关注的是，罗福莉在帖文中还建议同行不要「盲目降价」：
+            据新华社采访，莫言近日谈到 AI 与文学创作时表示，他认为 AI 无法取代作家的创作。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;We previously advised LLM companies not to &quot;blindly cut prices&quot; precisely because few model architectures and inference optimizations can prevent API costs from operating at a loss.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;I believe that a writer's most valuable asset is originality—the ability to write novels or poems that they themselves have not written and others have not written, to create typical character images that have never appeared in others' works. This is the reason and value for a writer's existence.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She believes that MiMo's low cost stems from its specific architectural design and inference optimization capabilities. If other companies lack similar foundations, blindly following suit could lead to losses.
+            Mo Yan further analyzed that current AI-generated content does not possess originality.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            她认为，MiMo 的低成本源于特定的架构设计与推理优化能力，若其他公司不具备类似基础，盲目跟进可能导致亏损。
+            莫言进一步分析，当下 AI 生成内容并不具备原创能力。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;AI is fed with content written by generations of writers. Based on a massive volume of works, it can recombine them to produce creations that seem as if no one has ever seen them before. But I believe it is not original; it is still second-hand.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Mo Yan also admitted that the application of AI as an auxiliary tool has become a trend, especially in translation work where its value will gradually become apparent. In literary planning, film and television production, and technical aspects, AI will also become increasingly important, and some positions will be impacted as a result.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            莫言也承认，AI 作为辅助工具的应用已成趋势，尤其在翻译工作中会逐步体现价值；在文学策划、影视制作和技术环节中，AI 也会越来越重要，部分岗位会因此受到冲击。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            She also elaborated on the industrial significance of this logic from a broader perspective: reasonably priced, high-performance model APIs will drive truly scaled inference demand, thereby accelerating the development of AI infrastructure chains such as chips, servers, liquid cooling, power supply, and data centers, forming a virtuous cycle in the industry.
+            In the interview, he also discussed AI's differentiating effect on people: tools will make smart people smarter, and may also cause those lacking judgment to further rely on ready-made outputs.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            她还从更宏观的角度阐述了这一逻辑的产业意义：价格合理、高性能的模型 API 将推动真正规模化的推理需求，进而带动芯片、服务器、液冷、供电及数据中心等 AI 基础设施链加速发展，形成行业良性循环。
+            采访中，他还谈到 AI 对人的分化作用：工具会让聪明人变得更聪明，也可能让缺少判断的人进一步依赖现成输出。
            &lt;/span&gt;
-&lt;/p&gt;&lt;section&gt;
-&lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
-&lt;/section&gt;</description>
+&lt;/p&gt;</description>
     </item>
     <item>
-      <title>索尼 Bravia 2026 新款电视发布</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">索尼-Bravia-2026-新款电视发布</guid>
+      <title>2899 元起，vivo S60 系列发布</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">2899-元起，vivo-S60-系列发布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/58132a50-380b-45e1-88cf-aaedc7ec67f3.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/18aa9400-2240-4670-bf1f-870b90b3044b.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Sony released new Bravia TV products at the 2026 Home Audio-Visual Entertainment New Product Launch, including the 9 Series Gen 2, 8 Series Gen 2, and 7 Series Gen 2, with prices starting from 10,999 yuan.
+            The vivo S60 series was officially released yesterday, with the vivo S60 priced from 3599 yuan and the vivo S60 Vitality Edition priced from 2899 yuan. The series of phones is endorsed by Tian Xiwei and offers three color options: &quot;Star Sea,&quot; &quot;Early Summer Green,&quot; and &quot;Midsummer Night.&quot; The body is 7.92mm thick and weighs 199g.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，索尼在 2026 家庭影音娱乐新品发布会上发布 Bravia 电视新品，包括 9 系二代、8 系二代和 7 系二代，售价 10999 元起。
+            vivo S60 系列昨日正式发布，其中 vivo S60 定价 3599 元起，vivo S60 元气版定价 2899 元起。系列手机由田曦薇代言，提供「星星海」「初夏绿」「仲夏夜」三种配色，机身厚 7.92mm，重量 199g。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Screen: 6.59-inch 1260p 144Hz flat screen;&lt;/p&gt;
+&lt;p&gt;Imaging: Front 50MP camera; S60 rear 50MP large-sensor main camera, 8MP ultra-wide, and 50MP IMX882 3X periscope telephoto; S60 Vitality Edition features a 50MP large-sensor main camera and 8MP ultra-wide.&lt;/p&gt;
+&lt;p&gt;Performance: S60 is equipped with Snapdragon 8s Gen 3, and the Vitality Edition with Dimensity 7500;&lt;/p&gt;
+&lt;p&gt;Battery: Both models are equipped with a 7200mAh Blue Ocean battery, supporting 90W wired charging;&lt;/p&gt;
+&lt;p&gt;Others: Standard 3D ultrasonic fingerprint, offering IP68 and IP69, stereo dual speakers, infrared remote control, and X-axis linear motor.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Among them, the 9 Series Gen 2 and 7 Series Gen 2 come standard with True RGB True Color Technology. This technology uses independent red, green, and blue LED backlights, enhancing color purity and brightness through finer backlight control. The 8 Series Gen 2 continues the OLED route, targeting users who pursue contrast and black level performance.
+            This time, vivo focuses on 4K Live images and Xiaohongshu publishing scenarios. Officially, the S60 supports 4K Live, Starlight Live, Live Color Palette, Inspiration Fun Sticker Live, and 3D spatial effects generated from Live cover frames; vivo also states that the S60 is the only product in the industry to support publishing 3D spatial images on Xiaohongshu.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其中，9 系二代和 7 系二代标配 True RGB 真彩原色技术。该技术采用独立红、绿、蓝 LED 背光源，用更细的背光控制提升色彩纯度和亮度表现。8 系二代则延续 OLED 路线，面向追求对比度和黑位表现的用户。
+            vivo 这次重点放在 4K Live 图像和小红书发布场景。官方称 S60 支持 4K Live、星光 Live、Live 调色盘、灵感趣贴 Live，以及由 Live 封面帧生成 3D 空间效果；vivo 还称 S60 是行业内唯一支持在小红书发布 3D 空间图的产品。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/tsnz2UoZbniliJin_j87yA&quot;&gt;
-             Is Sony's 149,999 yuan RGB TV a hit or a miss? We went to Sony headquarters to check it out
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/hFG48QNAd55aJ9e1sV84kg&quot;&gt;
+             vivo S60 Experience: A Phone That Should Be Used More, Thought About Less
             &lt;/a&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/tsnz2UoZbniliJin_j87yA&quot;&gt;
-             149999 元的索尼 RGB 电视是夯是拉？我们去索尼总部瞧了瞧
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/hFG48QNAd55aJ9e1sV84kg&quot;&gt;
+             vivo S60 体验：手机，就该少想多用
             &lt;/a&gt;
 &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>宋 Ultra DM-i 上市，12.99 万元起</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">宋-Ultra-DM-i-上市，12.99-万元起</guid>
+      <title>小米 17T 系列将在中国大陆发售</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">小米-17T-系列将在中国大陆发售</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c882b755-419c-414c-8e82-2362113b4a70.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/71dc7224-d8e4-4d06-af22-aa3e48c9aeeb.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            BYD yesterday launched the Song Ultra DM-i, the first B-segment plug-in hybrid SUV in its Dynasty series equipped with the 'DiDiXia' intelligent agent system. The new car comes in 5 models, priced from 129,900 yuan to 159,900 yuan.
+            Yesterday, Lu Weibing, President of Xiaomi Group, revealed in a post that the Xiaomi 17T series will be released in mainland China, expected to launch in early June.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            比亚迪昨日发布王朝网首款搭载「迪迪虾」智能体系统的 B 级插混 SUV 宋 Ultra DM-i，新车共 5 款车型，售价 12.99 万元至 15.99 万元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Song Ultra DM-i has body dimensions of 4850/1910/1670mm, a wheelbase of 2840mm, and is equipped with fifth-generation DM technology. Its CLTC pure electric range is up to 310 kilometers, with a combined range of up to 1845 kilometers, and a fuel consumption of 3.3L/100km at low battery. The power system consists of a 1.5L engine and an electric motor, with the engine having a maximum power of 70kW and the motor a maximum power of 175kW.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            宋 Ultra DM-i 的车身尺寸为 4850/1910/1670mm，轴距 2840mm，搭载第五代 DM 技术，CLTC 纯电续航最高 310 公里，综合续航最高 1845 公里，亏电油耗为 3.3L/100km 级别。动力系统由 1.5L 发动机和电机组成，发动机最大功率 70kW，电机最大功率 175kW。
+            昨日，小米集团总裁卢伟冰发文透露，小米 17T 系列将在中国大陆发布，预计 6 月上旬上线。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of configuration, the new car offers features such as a queen co-pilot seat, a large bed mode when the front and rear seats are folded down, a 16-speaker 'Sound of the Sky' audio system, Yunlian-C, and a TBC high-speed tire blowout stability system.
+            Lu Weibing introduced that Xiaomi first released the Xiaomi T series &quot;Xiaomi 9T&quot; in 2019; subsequently, Xiaomi spent seven years and seven generations of products directly competing with iPhone and Samsung Galaxy S series.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            配置上，新车提供女王副驾、前后排座椅放倒后的大床模式、16 扬声器「天空之声」音响、云辇-C、TBC 高速爆胎稳行系统等。
+            卢伟冰介绍，小米 2019 年首次发布小米 T 系列「小米 9T」；随后小米用了七年时间、七代产品和 iPhone、三星 Galaxy S 系列正面竞争。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The entry-level model also comes with 7 airbags, a panoramic sunroof, electric sunshade, electric tailgate, 19-inch wheels, a 15.6-inch central control screen, wireless charging, and a driving recorder.
+            According to his information, the Xiaomi T series has garnered over 15 million users globally, covering Europe, Southeast Asia, Latin America, the Middle East, Japan, and more than 100 countries and regions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            入门车型也配有 7 安全气囊、全景天幕、电动遮阳帘、电动尾门、19 英寸轮毂、15.6 英寸中控屏、无线充电和行车记录仪。
+            据其信息来看，小米 T 系列已经在全球拥有了超 1500 万用户，覆盖欧洲、东南亚、拉美、中东、日本，100 多个国家和地区。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Recently, Xiaomi has released the Xiaomi 17T series in regions such as Hong Kong/Taiwan, China, and Japan. The new phone offers two versions, 17T and 17T Pro. The former features a 6.59-inch flat screen, Dimensity 8500-Ultra, and Leica triple cameras; the latter features Dimensity 9500, a 6.83-inch flat screen, and Leica triple cameras.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            近期，小米已经在中国香港/台湾、日本等地区发布了小米 17T 系列。新机提供 17T 和 17T Pro 两个版本，前者采用 6.59 英寸直屏、天玑 8500-Ultra、徕卡三摄；后者采用天玑 9500、6.83 英寸直屏、徕卡三摄。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>光帆 AI 穿戴设备接入腾讯出行</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">光帆-AI-穿戴设备接入腾讯出行</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f7856f84-4d7e-4e47-8b0b-73c62acee0fa.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, LightSail Technology announced a partnership with Tencent Travel Services. LightSail AI full-sensing wearable devices will integrate with Tencent Travel Services, with related functions going live on June 5th. Users can initiate ride-hailing requests via voice, and the system will guide them through price estimation, ordering a ride, and automatic payment processes based on current location, destination, and other information.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，光帆科技宣布与腾讯出行服务达成合作，光帆 AI 全感穿戴设备将接入腾讯出行服务，相关功能将于 6 月 5 日上线。用户可通过语音发起叫车需求，系统根据当前位置、目的地等信息，引导完成价格预估、下单叫车和自动支付流程。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            After the user initiates a ride-hailing command via voice, the system can guide them through processes such as price estimation, ordering a ride, and automatic payment based on current location and destination information.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            用户通过语音发起叫车指令后，系统可依据当前位置与目的地信息，引导完成价格预估、下单叫车及自动支付等流程。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            LightSail AI full-sensing wearable device is LightSail Technology's first product, officially launched on May 15th. According to official information, after its launch, the product topped JD.com's AI headphone best-seller list, maintaining the top position for 8 consecutive days. The first batch of products has currently sold out, and a new round of pre-sales has begun.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            光帆 AI 全感穿戴设备是光帆科技旗下首款产品，已于 5 月 15 日正式开售。官方信息显示，该产品上线后登顶京东 AI 耳机热卖榜 TOP1，并连续 8 天保持榜首位置，首批产品目前已售罄，现已开启新一轮预售。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>vivo 官宣首款头戴式耳机 6 大卖点</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">vivo-官宣首款头戴式耳机-6-大卖点</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/019550d6-5748-4501-ba9e-2732622a38ae.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            vivo yesterday announced 6 major selling points for its first wireless over-ear noise-canceling headphones, which will be officially released on May 29th at 19:30. The official statement claims that these headphones feature 58dB active noise cancellation, 75 hours of battery life, and a lightweight wear of 238g.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            vivo 昨日公布首款无线头戴降噪耳机的 6 大卖点，并将于 5 月 29 日 19:30 正式发布。官方宣称，这款耳机主打 58dB 主动降噪、75 小时续航和 238g 轻量佩戴。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The product also features ultra-soft leather earcups and supports seamless connection across three devices in different ecosystems, targeting long commutes, office work, and audio-visual scenarios.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            产品还采用超软皮质耳罩，支持跨生态三设备无缝连接，面向长时间通勤、办公和影音场景。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小米招聘 Agent 上线</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">小米招聘-Agent-上线</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/824ba189-c25b-4d8d-8732-71bdb5ecaca2.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Xiaomi officially announced the launch of its 'Xiaomi Recruitment Agent' on its recruitment website, powered by the Xiaomi MiMo large model. According to reports, the Xiaomi Recruitment Agent can provide job seekers with policy explanations, intelligent job recommendations, and recruitment progress inquiries on Xiaomi's recruitment website.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，小米官方宣布，其招聘官网正式上线「小米招聘 Agent」，依托 Xiaomi MiMo 大模型。据介绍，小米招聘 Agent 能在小米招聘官网为求职者提供政策解答、职位智能推荐、招聘进展查询等服务。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OPPO Watch X3 理想定制款上线</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">OPPO-Watch-X3-理想定制款上线</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/167f6bd0-42c2-40f5-b250-ee96cc9e2f21.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Li Auto officially announced yesterday that the OPPO Watch X3 Li Auto customized edition has been launched on the Li Auto Mall, with a limited-time price of 2329.1 yuan.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            理想汽车昨天官宣，OPPO Watch X3 理想汽车定制款已上线理想商城，限时价 2329.1 元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This smartwatch focuses on linking with Li Auto's car key and car control scenarios. The main product is based on the OPPO Watch X3, with the Li Auto customized edition highlighting on-wrist unlocking, car control access, and owner benefits as its core selling points.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这款手表主打与理想汽车的车钥匙和车控场景联动，产品主体来自 OPPO Watch X3，理想定制版把核心卖点放在腕上解锁、车控入口和车主权益。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>博通发布首批 Wi-Fi 8 路由器集成芯片</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">博通发布首批-Wi-Fi-8-路由器集成芯片</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2aa4c259-4855-4480-850a-acf0fbb1fb66.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Recently, Broadcom released three Wi-Fi 8 router integrated chips, BCM6772, BCM6774, and BCM6776, targeting next-generation home, enterprise, and carrier routing devices.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            近期，博通发布 BCM6772、BCM6774 和 BCM6776 三款 Wi-Fi 8 路由器集成芯片，面向下一代家庭、企业和运营商路由设备。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports, Wi-Fi 8 focuses on improving stable connections, low latency, and multi-device concurrent experience in complex wireless environments. This batch of Broadcom chips targets routers of different specifications, supporting manufacturers in integrating wireless, network processing, and system functions on a single-chip solution, thereby reducing the complexity of overall machine design.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据介绍，Wi-Fi 8 重点在于提高复杂无线环境中的稳定连接、低延迟和多设备并发体验。博通这批芯片面向不同规格路由器，支持厂商在单芯片方案上集成无线、网络处理和系统功能，降低整机设计复杂度。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里达摩院发布 GPU 版本求解器</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">阿里达摩院发布-GPU-版本求解器</guid>
+      <title>基础套装 8999 元，哈浮 AQUA 发布，零零科技把飞行相机带到水上运动</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">基础套装-8999-元，哈浮-AQUA-发布，零零科技把飞行相机带到水上运动</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yicai Global cited news from the DAMO Academy's official WeChat account, stating that Alibaba DAMO Academy's 'MindOpt' solver has officially released its GPU version, leveraging GPU parallel acceleration capabilities and introducing new algorithms to address the 'long-tail effect' in large-scale optimization problems.
+            Zero Zero Robotics released Hover AQUA, positioned as a 100% waterproof flying camera for water sports.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            第一财经援引达摩院官微消息称，阿里巴巴达摩院「敏迭」求解器 MindOpt 正式发布 GPU 版本，利用 GPU 并行加速能力，并引入新算法处理大规模优化问题中的「长尾效应」。
+            零零科技发布哈浮 AQUA，定位为面向水上运动的 100% 防水飞行相机。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Damo Academy stated that in about 2000 general test cases, MindOpt can stably solve over 99% of problem types to high precision, and supports billion-variable linear programming problems that are traditionally difficult to handle. The solver primarily serves complex computing scenarios such as power dispatch, flight scheduling, high-end manufacturing, and financial management.
+            AQUA belongs to the new Hover family series, with a body weight of less than 250 grams. It features IP67 dust and water resistance, a positive buoyancy design, and the ability to take off and land on water, making it suitable for scenarios such as hydrofoiling, wakeboarding, kitesurfing, kayaking, sailing, paddleboarding, and jet skiing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            达摩院称，在约 2000 个通用算例测试中，敏迭可将 99% 以上的问题类型稳定求解至高精度，并支持传统上难以处理的亿级变量线性规划问题。求解器主要服务电力调度、航班编排、高端制造、金融管理等复杂计算场景。
+            AQUA 属于哈浮家族新系列，机身重量低于 250 克，具备 IP67 防尘防水、正浮力设计和水面起降能力，可用于水上飞翼、尾波滑水、风筝冲浪、皮划艇、帆船、桨板和水上摩托艇等场景。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Traditional linear programming solvers are mostly designed based on CPUs. As problem scales increase, matrix decomposition, memory requirements, and parallelism become bottlenecks. The GPU version pushes large-scale optimization problems from &quot;can it be computed&quot; to solution times and resource costs closer to what is usable in industrial systems.
+            AQUA can withstand Level 7 strong winds, has a maximum speed of 40 km/h, and is equipped with a hydrophobic lens, anti-fog technology, and corrosion-resistant structure. The imaging section uses a 1/1.28-inch CMOS sensor, capable of recording 4K video at up to 100fps, and features over 15 intelligent shooting modes, including paddleboard, kayak, and hydrofoil modes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            传统线性规划求解器多基于 CPU 设计，随着问题规模扩大，矩阵分解、内存需求和并行度都会成为瓶颈。GPU 版本把大规模优化问题从「算不算得动」推进到更接近工业系统可用的求解时间和资源成本。
+            AQUA 可抵御 7 级大风，最高时速 40 公里，配备疏水镜头、防雾技术和防腐蚀结构；影像部分使用 1/1.28 英寸 CMOS 传感器，最高录制 100fps 的 4K 视频，并内置超过 15 种智能运镜模式，包括桨板、皮划艇和水翼板模式。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Wakeboarding world champion Dominik Gührs stated that AQUA allows him to complete water sports filming alone without needing to arrange photographers and complex equipment. The product is now available on domestic e-commerce platforms and offline channels, with a retail price of 8999 yuan for the basic package and 9999 yuan for the fly-more package.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            尾波滑水世界冠军 Dominik Gührs 表示，AQUA 让他不必安排摄影师和复杂设备，也能独自完成水上运动拍摄。产品现已在国内电商平台和线下渠道发售，基础套装零售价 8999 元，畅飞套装零售价 9999 元。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>阿里 Qoder 推出 Cloud Agents</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">阿里-Qoder-推出-Cloud-Agents</guid>
+      <title>2699 元起，荣耀 WIN Turbo 发布</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">2699-元起，荣耀-WIN-Turbo-发布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/50211808-d378-41f7-a5c2-6ec1841a03b3.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2adc0d03-6350-49d7-9499-c07a3ddfa8c8.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Alibaba Qoder has launched Cloud Agents, a fully managed AI Agent operating platform, providing enterprises with Agent foundations, model services, and runtime environments. Enterprises can call APIs to have Agents execute tasks in the cloud.
+            Honor WIN Turbo was released yesterday, with a suggested retail price starting from 3299 yuan and an initial promotional price starting from 2699 yuan. Versions include 12GB + 256GB, 12GB + 512GB, and 16GB + 512GB, with initial prices of 2699 yuan, 2999 yuan, and 3599 yuan respectively.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿里 Qoder 上线全托管 AI Agent 运行平台 Cloud Agents，向企业提供 Agent 底座、模型服务和运行环境等能力。企业可通过 API 调用，让 Agent 在云端执行任务。
+            荣耀 WIN Turbo 昨日发布，建议零售价 3299 元起，首发优惠价 2699 元起。版本包括 12GB + 256GB、12GB + 512GB 和 16GB + 512GB，首发价分别为 2699 元、2999 元和 3599 元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Qoder documentation shows that developers can define Agents and start sessions via API, with complex tasks running in the cloud and results being returned in real-time. Alibaba Cloud states that this platform can shorten the Agent's online cycle from approximately 1 month to 1 day.
+            This phone focuses on a large battery and gaming scenarios, offering three color options: &quot;Quick Blackout,&quot; &quot;Guaranteed Win,&quot; and &quot;Fearless Blue.&quot; It supports IP68, IP69, and IP69K dust and water resistance ratings. The front features a 6.79-inch 1.5K LTPS OLED flat screen, supporting 8000nits peak brightness and 3840Hz &quot;zero-risk&quot; dimming.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Qoder 文档显示，开发者可以定义 Agent 并通过 API 启动 Session，复杂任务会在云端运行，并将结果实时回传。阿里云称，该平台可把 Agent 上线周期从约 1 个月缩短至 1 天。
+            该机主打大电池和游戏场景，提供「快开黑」「指定赢」「不怕蓝」三种配色，支持 IP68、IP69、IP69K 防尘防水等级。正面为 6.79 英寸 1.5K LTPS OLED 直屏，支持 8000nits 峰值亮度和 3840Hz「零风险」调光。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of performance, the Honor WIN Turbo is equipped with the Dimensity 8500 Racing Edition processor, offering up to 16GB of RAM and 512GB of storage. It features a built-in 10000mAh Qinghai Lake battery, supporting 80W fast charging and 27W reverse charging.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            性能部分，荣耀 WIN Turbo 搭载天玑 8500 竞速版处理器，最高提供 16GB 内存和 512GB 存储，内置 10000mAh 青海湖电池，支持 80W 快充和 27W 反向充电。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>自变量机器人开源 Wall-OSS-0.5，具身大模型预训练后可直接部署</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">自变量机器人开源-Wall-OSS-0.5，具身大模型预训练后可直接部署</guid>
+      <title>Claude Code 上线动态工作流预览版</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">Claude-Code-上线动态工作流预览版</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/da17b9b3-22d7-4312-89f4-f97c84c5879d.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/07d13b28-7845-45cc-baf1-e843a2ac1305.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            X-Square Robot yesterday released and open-sourced the embodied large model Wall-OSS-0.5, officially positioning it as a &quot;pre-train once, deploy anywhere&quot; Vision-Language-Action (VLA) model. Its core selling point is that it can be directly deployed on machines after pre-training without any task-specific fine-tuning. Wall-OSS-0.5 introduces four technologies:
+            Anthropic announced the launch of a preview version of &quot;Dynamic Workflows&quot; in Claude Code's CLI, Desktop, and VS Code plugins, targeting long-term R&amp;amp;D tasks such as complex bug tracking across service codebases, large-scale refactoring, framework migration, and pre-launch adversarial testing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            自变量机器人昨日发布并开源了具身大模型 Wall-OSS-0.5，官方将其定位为「预训练一次，随处部署」的视觉-语言-动作（VLA）模型，核心卖点是预训练完成后无需任何任务微调即可直接上机部署。Wall-OSS-0.5 引入了四项技术：
+            Anthropic 宣布在 Claude Code 的 CLI、Desktop 和 VS Code 插件中上线「动态工作流」预览版，面向跨服务代码库的复杂 Bug 追踪、大规模重构、框架迁移和上线前对抗测试等长程研发任务。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This mechanism transforms the original single-threaded programming agents into an orchestrated workflow: the main agent writes orchestration scripts for tasks, breaking down goals into dozens to hundreds of parallel sub-agents;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            这套机制把原本单线程的编程 Agent 改成编排式工作流：主 Agent 会为任务编写编排脚本，将目标拆解给数十到数百个并行子 Agent；
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Before merging code, the system also arranges independent sub-agents to perform multi-perspective adversarial testing and introduces two rounds of code review by Reviewer Agents. To support continuous operation, dynamic workflows also include incremental auto-archiving and breakpoint resume.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            合并代码前，系统还会安排独立子 Agent 做多视角对抗测试，并引入两轮 Reviewer Agents 代码审查。为支持连续运行，动态工作流还加入增量自动存档和断点续传。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阶跃星辰开源 Step 3.7 Flash</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">阶跃星辰开源-Step-3.7-Flash</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/21045984-72d6-4785-bc35-40729d6302d3.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            StepAhead released and open-sourced the new generation Flash large model, Step 3.7 Flash, positioned as a foundational model for production-grade agents, code, networked search, and multimodal workflows.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            阶跃星辰发布并开源新一代 Flash 大模型 Step 3.7 Flash，定位为面向生产级 Agent、代码、联网搜索和多模态工作流的模型底座。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The model architecture consists of a 196B language backbone and a 1.8B visual Transformer, with a total of approximately 198B parameters, about 11B active parameters, supporting 256K context and 3 inference tiers.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            模型架构由 196B 语言主干和 1.8B 视觉 Transformer 组成，总参数约 198B，激活参数约 11B，支持 256K 上下文和 3 档推理。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The official statement claims that Step 3.7 Flash can autonomously select, crop, and re-read local information in UI interfaces or charts, and actively retrieve and verify information when uncertain. In terms of performance, the model achieved 67.1% in the ClawEval-1.1 autonomous task execution evaluation, 79.2% in SimpleVQA Search, 95.3% in V* Python, and 56.3% in SWE-Bench Pro.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            官方称，Step 3.7 Flash 可以在 UI 界面或图表中自主框选、裁剪和重读局部信息，并在信息不确定时主动检索验证。性能方面，模型在 ClawEval-1.1 自主任务执行评测中达到 67.1%，SimpleVQA Search 为 79.2%，V* Python 为 95.3%，SWE-Bench Pro 为 56.3%。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Liquid AI 开源端侧 MoE 模型 LFM2.5</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">Liquid-AI-开源端侧-MoE-模型-LFM2.5</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/abf2b1bf-5970-4af6-b180-2320d8adc634.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Liquid AI released and open-sourced the edge-side Mixture-of-Experts model LFM2.5-8B-A1B. The model has a total of 8B parameters, but only 1B parameters are activated per run. Target devices include mobile phones, personal computers, and robots, supporting local fine-tuning and offline operation on personal devices and single consumer-grade graphics cards.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Liquid AI 发布并开源端侧混合专家模型 LFM2.5-8B-A1B。模型总参数为 8B，但每次运行只激活 1B 参数，目标设备包括手机、个人电脑和机器人，支持个人设备和单张消费级显卡上的本地微调与离线运行。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This update shifts LFM2.5-8B-A1B towards a &quot;think first, then answer&quot; inference model and expands the context capacity from 32K to 128K. Liquid AI also extended the vocabulary to 128K to improve the processing efficiency of non-English text; their materials show that Thai and Hindi processing efficiency increased by 238.2% and 120.4% respectively, and Arabic by 38.8%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            这次更新把 LFM2.5-8B-A1B 转向「先思考、后回答」的推理模型，并把上下文容量从 32K 扩大到 128K。Liquid AI 还把词表扩展到 128K，以提升非英语文本处理效率；其材料显示，泰语和印地语处理效率分别提升 238.2% 与 120.4%，阿拉伯语提升 38.8%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The team also carried out targeted optimizations for common issues in small models, such as circular reasoning and hallucinations. Liquid AI states that targeted reinforcement learning makes the model more inclined to admit &quot;I don't know&quot; when exceeding its knowledge boundaries, improving the hallucination-free rate from 7.46% in the previous generation to 63.47%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            团队还针对小模型常见的循环推理和幻觉问题做了专项优化。Liquid AI 称，靶向强化学习让模型在超出知识边界时更倾向于承认不知道，无幻觉率从前代 7.46% 提升至 63.47%。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>小米开源可控视频音效模型 ControlFoley</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">小米开源可控视频音效模型-ControlFoley</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f41b097b-8447-4143-a487-8645a15615dc.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Xiaomi Tech's official account released and open-sourced ControlFoley, a multimodal controllable video sound effect generation framework, targeting automatic video dubbing scenarios. It extends &quot;matching sound to visuals&quot; into multi-conditional control: creators can simultaneously input video, text instructions, and reference audio to specify the desired sound content and timbre style.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            小米技术公众号发布并开源多模态可控视频音效生成框架 ControlFoley，面向视频自动配音场景。它把「看画面配声音」扩展为多条件控制：创作者可以同时输入视频、文本指令和参考音频，指定希望生成的声音内容和音色风格。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            ControlFoley primarily addresses three types of control problems:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            ControlFoley 主要解决三类控制问题：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Gradient-bridge collaborative training mechanism, allowing the three modalities of vision, language, and action to learn collaboratively in a unified optimization direction, extending the physical common sense accumulated from vision-language pre-training to the action dimension;&lt;/p&gt;
-&lt;p&gt;VLA-oriented unified visual-action representation, which binds action codebooks with visual features based on residual vector quantization, using future frame changes as the reconstruction target, so that each action token corresponds to an observable physical change, thereby simultaneously improving real-machine action accuracy and multimodal reasoning capabilities;&lt;/p&gt;
-&lt;p&gt;Action-Space Supervision, which calculates loss in the decoded real action space, allowing gradients to directly reflect control errors, and automatically weighting critical moments of physical interaction to accelerate convergence;&lt;/p&gt;
-&lt;p&gt;DMuon, the first distributed Muon optimizer for embodied large-scale pre-training, reconstructs communication patterns through exclusive ownership scheduling and eliminates redundant computations with symmetry-aware CuteDSL kernels, reducing the extra overhead introduced by Muon by approximately 100 times.&lt;/p&gt;
+&lt;p&gt;When there is a semantic conflict between text and visuals, the model can prioritize responding to the user's text intent;&lt;/p&gt;
+&lt;p&gt;When the user provides reference audio, the model attempts to preserve the reference timbre without disrupting audio-visual synchronization;&lt;/p&gt;
+&lt;p&gt;When input condition combinations change, unified multimodal representation and random modal dropout training keep the model stable in tasks such as TV2A, TC-V2A, and AC-V2A.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Official test results show that Wall-OSS-0.5 achieved an autonomous completion rate of over 80% in 4 out of 17 real-machine zero-shot tasks; in fair comparisons across more than a dozen real robot tasks, its performance in manipulation and reasoning tasks surpassed similar open-source models.
+            Experimental results provided by Xiaomi show that ControlFoley achieves better semantic alignment, temporal synchronization, and sound quality performance compared to open-source baselines across multiple datasets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方测试结果显示，Wall-OSS-0.5 在 17 个真机零样本任务中，有 4 个任务自主完成率超过 80%；在十余个真实机器人任务的公平对比中，操作类和推理类任务表现领先同类开源模型。
+            小米给出的实验结果显示，ControlFoley 在多个数据集上对比开源基线取得更好的语义对齐、时间同步和声音质量表现。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            💻 GitHub: github.com/X-Square-Robot/wall-x
+            🤗 Hugging Face: huggingface.co/YJX-Xiaomi/ControlFoley
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            💻 GitHub: github.com/X-Square-Robot/wall-x
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🤗 Hugging Face: huggingface.co/x-square-robot/wall-oss-0.5
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            🤗 Hugging Face: huggingface.co/x-square-robot/wall-oss-0.5
+            🤗 Hugging Face: huggingface.co/YJX-Xiaomi/ControlFoley
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>WBench 开源交互式世界模型基准</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">WBench-开源交互式世界模型基准</guid>
+      <title>腾讯混元发布 Agent 记忆插件 Hy-Memory</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">腾讯混元发布-Agent-记忆插件-Hy-Memory</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/509ad569-f51d-425f-9997-44567217cc8d.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/d8c68466-6bcc-433e-afab-20bf51ab4c68.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Fudan University and Meituan LongCat team open-sourced WBench, used for evaluating interactive video world models. The benchmark includes 289 multi-turn test cases, covering 5 evaluation dimensions, and is calibrated using 22 metrics against human judgment.
+            Tencent Hunyuan released Hy-Memory, positioned as a memory plugin for long-term collaborative agents like OpenClaw, aiming to solve problems such as memory fragmentation, attention dilution, and old preference overwriting that often occur when long-cycle agents run across days and sessions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            复旦大学与美团 LongCat 团队开源 WBench，用于评估交互式视频世界模型。基准包含 289 个多轮测试用例，覆盖 5 个评估维度，并使用 22 项指标与人类判断进行校准。
+            腾讯混元发布 Hy-Memory，定位为面向 OpenClaw 等长期协作型智能体的记忆插件，旨在解决长周期 Agent 在跨天、跨会话运行中容易出现的记忆碎片化、注意力稀释和旧偏好覆盖问题。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Hy-Memory's architecture is divided into a 6-layer memory framework, breaking down memories into levels such as facts, profiles, mental models, and forward-looking intentions;&lt;/p&gt;
+&lt;p&gt;It also introduces a dual-system mechanism, where System 1 is responsible for extracting instant facts and session summaries in milliseconds, and System 2 refines user mental models and knowledge networks in the background;&lt;/p&gt;
+&lt;p&gt;The system also uses supersedes pointers to link new and old memories into an evolutionary chain, allowing retrieval results to retain both the latest conclusions and the path of preference changes.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This benchmark focuses on the model's physical rules, spatio-temporal consistency, instruction following, and control capabilities in continuous interactions, with evaluation criteria higher than single video generation quality. The paper abstract summarizes the 5 dimensions as video quality, scene adherence, interaction adherence, consistency, and physical compliance.
+            In terms of evaluation, Tencent states that Hy-Memory scored 85.2 in LongMemEval and leads in indicators such as preference, temporal reasoning, and knowledge updating.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这套基准关注的是模型在连续交互里的物理规则、时空一致性、指令遵循和控制能力，评价对象高于单次视频生成质量。论文摘要将 5 个维度概括为视频质量、场景遵循、交互遵循、一致性和物理合规性。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            💻 GitHub: github.com/meituan-longcat/WBench
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            💻 GitHub: github.com/meituan-longcat/WBench
+            评测方面，腾讯称 Hy-Memory 在 LongMemEval 中取得 85.2 分，并在偏好、时序推理和知识更新等指标上领先。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🤗 Hugging Face: huggingface.co/datasets/meituan-longcat/WBench
+            In terms of performance, its write speed is 8 times that of Graphiti, the number of memory entries is about 1/3 of mem0 and 1/4 of Graphiti, and Token consumption in long-context processing is reduced by 35%. Hy-Memory offers Lite, Pro, and Ultra configurations, defaulting to the Chroma local embedded vector library.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            🤗 Hugging Face: huggingface.co/datasets/meituan-longcat/WBench
-           &lt;/span&gt;
-&lt;/p&gt;&lt;section&gt;
-&lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
-&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>曝豆包接入抖音生活服务闭环，支持直接买团购</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">曝豆包接入抖音生活服务闭环，支持直接买团购</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/feaf6c31-1dfa-4c17-b747-4b9b12995c3c.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to &quot;Dujia&quot; reports, ByteDance's AI assistant Doubao is integrating with Douyin Life Services, providing group-buying package recommendations, in-app merchant pages, payment, and offline verification processes within the platform.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《读佳》报道，字节跳动旗下 AI 助手豆包正在与抖音生活服务整合，在站内提供团购套餐推荐、端内商家页面、支付和线下核销流程。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            After a user initiates a group-buying inquiry on Doubao, Doubao will recommend corresponding stores and package details; clicking on it will lead to an in-app merchant page to complete package selection and purchase.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            用户在豆包发起团购咨询后，豆包会推荐对应门店和套餐详情；点击后可进入端内商家页，完成套餐选择和购买。
+            性能上，其写入速度为 Graphiti 的 8 倍，记忆条数约为 mem0 的 1/3、Graphiti 的 1/4，长上下文处理中的 Token 消耗降低 35%。Hy-Memory 提供 Lite、Pro 和 Ultra 三档配置，默认使用 Chroma 本地嵌入式向量库。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>美团发布即时零售商家 AI 方案</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">美团发布即时零售商家-AI-方案</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>下月起，违规乘车拒不补票将被限制购票</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">下月起，违规乘车拒不补票将被限制购票</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/57289d86-7ad0-425a-b483-e6280942c634.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Meituan released its first AI solution exclusively for instant retail merchant operations, &quot;Claw.&quot; This solution is aimed at instant retail merchants, covering scenarios such as operational analysis, product management, marketing activities, and operational recommendations.
+            CCTV News quoted China State Railway Group as saying that the new version of the &quot;China State Railway Group Co., Ltd. Railway Passenger Transport Regulations&quot; will be officially implemented on June 1, for the first time setting ticket purchase restrictions for passengers who violate regulations and refuse to pay for tickets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，美团发布首个即时零售商家经营专属 AI 解决方案「牵牛花 Claw」。该方案面向即时零售商家，覆盖经营分析、商品管理、营销活动和运营建议等场景。
+            新闻联播援引中国国家铁路集团消息称，新版《中国国家铁路集团有限公司铁路旅客运输规程》将于 6 月 1 日正式实施，首次对违规乘车并拒绝补票的旅客设置限制购票规则。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The challenges of instant retail stem from rapid changes in products, inventory, fulfillment, and local demand. Merchants need to frequently adjust product supply, prices, and activities. Meituan integrates AI tools into the operational backend, aiming to transform platform-side data capabilities into actionable steps for merchants.
+            The new regulations cover violations including riding without a ticket, using altered, forged, or defaced travel documents, discrepancies between ticket, ID, and passenger, holding a low-fare ticket for a high-fare class, and holding a discounted or preferential ticket without the required reduction certificate or not meeting the reduction conditions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            即时零售的难点来自商品、库存、履约和本地需求的快速变化。商家需要频繁调整商品供给、价格和活动，美团把 AI 工具放到经营后台，目标是把平台侧数据能力转成商家可直接执行的动作。
+            新规覆盖的违规情形包括无票乘车，持用变造、伪造或涂改的乘车凭证乘车，票、证、人不一致，持低票价席别车票乘坐高票价席别，以及持优惠票、优待票但没有规定减价凭证或不符合减价条件。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            When the above situations occur and passengers refuse to pay for tickets, railway station and train staff will inform them on the spot of the irregular travel behavior and subsequent ticket purchase restrictions. When restricted passengers purchase tickets again, railway transport enterprises will prompt the reason for the restriction via 12306 or ticket windows. After passengers pay the outstanding ticket fare and an additional 50% of the outstanding fare, ticket purchase restrictions will be automatically lifted through online or offline methods;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            发生上述情形且拒绝补票时，铁路站车工作人员会现场告知违规乘车行为及后续限制购票措施。被限制购票旅客再次购票时，铁路运输企业会通过 12306 或售票窗口提示限制原因。旅客支付应补票款及应补票款 50% 的加收票款后，可通过线上或线下方式自动解除购票限制；
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            After paying for the ticket, a railway electronic invoice can still be issued within 180 days from the end of the original journey. The new passenger regulations also adjusted the student ticket discount range, connecting ticket refund, and lost item delivery rules.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            补票后，自原行程结束之日起 180 日内仍可开具铁路电子发票。新版客规还调整了学生票优惠区间、联程票退票和遗失物品寄递规则。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>京沪联合约谈三大外卖平台</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">京沪联合约谈三大外卖平台</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to CCTV News, the Beijing Municipal Market Supervision Bureau and the Shanghai Municipal Market Supervision Bureau signed the &quot;Framework Agreement for Cooperation on Food Safety Governance of Online Catering Third-Party Platforms,&quot; establishing a collaborative governance mechanism for online catering food safety, and for the first time jointly conducted administrative guidance for Meituan, Taobao Flash Buy, and JD Waimai, the three major food delivery platform companies.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据央视新闻报道，北京市市场监管局、上海市市场监管局签订《网络餐饮第三方平台食品安全治理合作框架协议》，建立网络餐饮食品安全协同治理机制，并首次联合对美团、淘宝闪购、京东外卖三大外卖平台企业开展行政指导。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Market supervision departments in both regions will collaborate in areas such as data sharing, information exchange, risk joint control, and law enforcement linkage, promoting food delivery platforms to implement a &quot;online review + offline verification&quot; dual-track system, and urging platforms to verify and compare the food business licenses and other qualification information of online catering merchants with provincial market supervision data.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            两地市场监管部门将在数据共享、信息互通、风险联控、执法联动等领域协作，推动外卖平台落实「线上审核 + 线下核验」双轨制，并督促平台把入网餐饮商户的食品经营许可等资质信息与省级市场监管数据进行核验比对。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This administrative guidance corresponds to the &quot;Supervision and Management Regulations for Online Catering Service Operators to Implement Food Safety Main Responsibilities&quot; which will come into effect on June 1. Regulatory authorities require platforms to improve substantive qualification review, online information disclosure, meal delivery management, and food safety management systems.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这次行政指导对应 6 月 1 日将施行的《网络餐饮服务经营者落实食品安全主体责任监督管理规定》。监管部门要求平台完善资质实质性审核、线上信息公示、餐品配送管理和食品安全管理制度。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;section&gt;
-&lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
-&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>《年会不能停 2！》定档 8 月 7 日</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">《年会不能停-2！》定档-8-月-7-日</guid>
+      <title>小红书视频支持杜比全景声</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">小红书视频支持杜比全景声</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/31c8304f-5930-40c1-a13c-73f5ed77652b.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0b96c81f-fe1b-4fdc-98f7-ebd654b49f2c.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the workplace comedy film &quot;Never Stop Annual Meeting 2!&quot; officially announced its release date, set for August 7, starring Zhang Ruoyun and Bai Ke.
+            Yesterday, Dolby Laboratories and Xiaohongshu announced that Xiaohongshu has launched Dolby Atmos content sharing functionality. Both parties had already introduced Dolby Vision to Xiaohongshu in 2024, and with this new audio dimension, creators can now publish video content with both Dolby Vision and Dolby Atmos on supported devices.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，职场喜剧电影《年会不能停 2！》官宣定档，将于 8 月 7 日上映，张若昀、白客领衔主演。
+            昨天，杜比实验室与小红书宣布，小红书上线杜比全景声内容分享功能。双方 2024 年已把杜比视界引入小红书，这次新增音频维度后，创作者可以在支持设备上发布同时具备杜比视界和杜比全景声的视频内容。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The predecessor, &quot;Never Stop Annual Meeting!&quot;, centered its comedy on the organizational structure of large internet companies, workplace jargon, and annual meeting culture, gaining discussion from a &quot;worker&quot; perspective. The sequel continues to use the workplace comedy genre, and the combination of Zhang Ruoyun and Bai Ke also maintains the film's clear positioning towards young and workplace audiences.
+            Xiaohongshu users can preview, share, and enjoy Dolby Atmos content on the Xiaohongshu mobile app via Dolby Atmos-enabled iPhones or Android phones; they can also access the Xiaohongshu web version via Safari browser on Mac or iPad to share and watch.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            前作《年会不能停！》以互联网大厂组织架构、职场黑话和年会文化为喜剧核心，凭借「打工人」视角获得讨论。续集继续使用职场喜剧类型，张若昀和白客的组合也让影片维持了面向年轻观众和职场观众的明确定位。
+            小红书用户可通过支持杜比全景声的 iPhone 或安卓手机，在小红书移动端 App 预览、分享和欣赏杜比全景声内容；也可以通过 Mac 或 iPad 上的 Safari 浏览器访问小红书网页端完成分享和观看。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>《X 战警 ’97》第二季定档 7 月 1 日</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">《X-战警-’97》第二季定档-7-月-1-日</guid>
+      <title>蜜雪冰城推出薄荷系列新品</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">蜜雪冰城推出薄荷系列新品</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/19e8a2fe-6bee-4536-a5de-53b06fe579e8.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/83964c04-5f30-4958-ad8f-b81c4d0cf0ec.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Marvel animated series &quot;X-Men '97&quot; Season 2 will premiere on Disney+ on July 1st this year, with the official release of the Season 2 poster and trailer yesterday.
+            Mixue Ice Cream &amp;amp; Tea announced yesterday the launch of its new mint series, featuring refreshing summer flavors. The series includes four products: Mint Ice Cream, Mint Crispy Sundae, Mint Milk Tea, and Snow King Coffee with Mint.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            漫威动画剧集《X战警 ’97》第二季将于今年 7 月 1 日登陆 Disney+，官方昨日同步发布了第二季海报及预告。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Season 2 consists of nine episodes, continuing the storyline of Season 1, set in the 1990s, telling the story of a group of mutants with extraordinary abilities protecting humanity in a hostile world.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            第二季共九集，延续第一季的故事线，以 1990 年代为背景，讲述一群拥有异能的变种人在充满敌意的世界中保护人类的故事。
+            蜜雪冰城昨日宣布薄荷系列新品上市，主打夏季清凉口味，系列包括薄荷冰淇淋、薄荷脆皮小圣代、薄荷奶绿和雪王雪顶咖啡薄荷味四款产品。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;X-Men '97&quot; Season 1 premiered on Disney+ in 2024, becoming one of the platform's most-watched animated works and receiving an Emmy nomination.
+            According to the official introduction, Mint Milk Tea combines mint flavor, jasmine green tea, and milky aroma; Mint Ice Cream offers two options: mint flavor and double swirl flavor; Mint Crispy Sundae consists of mint ice cream, chocolate crispy shell, and Oreo cookie crumbs.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            《X战警 ’97》第一季于 2024 年在 Disney+ 上线，是该平台观看量最高的动画作品之一，并获得艾美奖提名。
+            官方介绍显示，薄荷奶绿把薄荷风味、茉莉绿茶和奶香组合在一起；薄荷冰淇淋提供薄荷味和双炫味两种选择；薄荷脆皮小圣代由薄荷冰淇淋、巧克力脆皮和奥利奥饼干碎组成。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>《匹兹堡医魂》第三季已获 HBO 续订</title>
-      <pubDate>Fri, 29 May 2026 06:59:02 +0000</pubDate>
-      <guid isPermaLink="false">《匹兹堡医魂》第三季已获-HBO-续订</guid>
+      <title>好想来下架争议 NFC 果汁</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">好想来下架争议-NFC-果汁</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e182c832-10b8-4386-ac50-922dfdf1f6ef.jpg&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/18dfd6a8-be95-47e9-bc38-7fba004ec8e1.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Deadline, HBO medical drama &quot;Pittsburgh Medical Soul&quot; has been renewed for a third season before its second season aired. The second season aired from January to April this year, with a total of 15 episodes, and the third season will continue to revolve around emergency doctor Robby and the hospital's emergency system.
+            According to Jiemian News, after CCTV News exposed the chaos of juice labeling, a series of juice drinks under Haoxianglai attracted attention. The program mentioned that the product's outer packaging prominently stated &quot;100% Juice&quot; and &quot;NFC Not From Concentrate,&quot; but the first two ingredients in the list were water and concentrated juice, indicating that the label information did not match the actual ingredients.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 Deadline 报道，HBO 医疗剧《匹兹堡医魂》已在第二季播出前获得第三季续订。第二季今年 1 月至 4 月播出，共 15 集，第三季将继续围绕急诊医生 Robby 和医院急诊系统展开。
+            据界面新闻报道，央视新闻曝光果汁标签乱象后，好想来旗下一款系列果汁饮料引发关注。节目提到，该产品外包装显著标注「100% 果汁」和「NFC 非浓缩还原」，但配料表前两位为水和浓缩果汁，标签信息与实际成分不符。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Pittsburgh Medical Soul&quot; emphasizes real-time feel and high-pressure emergency scenes, with each season presenting internal hospital cases, resource allocation, and character relationships through a series of continuous shifts.
+            The PR representative of Wanchen Group, to which Haoxianglai belongs, responded that the relevant products have label flaws, which consumers might interpret as pure NFC juice. The company has already delisted the products and will redesign the packaging in the future to avoid such ambiguities. The report also listed previous cases involving Beibingyang, Master Kong, and others that sparked controversy over juice content and packaging labels.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            《匹兹堡医魂》主打实时感和高压急诊场景，每季通过一组连续班次呈现医院内部的病例、资源调度和人物关系。
+            好想来所属万辰集团公关负责人回应称，相关产品涉及标签瑕疵，消费者可能理解为纯 NFC 果汁，公司已先将产品下架，未来会重新制作包装，避免相关歧义。报道还列举了北冰洋、康师傅等此前因果汁含量和包装标识引发争议的案例。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Fun Thing｜任天堂做了一个会翻你相册的怪游戏</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">One-Fun-Thing｜任天堂做了一个会翻你相册的怪游戏</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/40d4185f-0821-4143-8342-8f6de8d51d09.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to The Verge, Nintendo launched the mobile game &quot;Pictonico&quot; this week. It looks like a lightweight version of &quot;WarioWare&quot;: each round features 10 consecutive micro-games lasting only a few seconds, with simple instructions like &quot;chomp&quot; appearing on the screen, requiring players to immediately understand the action, such as grabbing a mouth to make it chew food.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 The Verge 报道，任天堂本周上线了手机游戏《Pictonico》。它看起来像一个轻量版《瓦力欧制造》：每轮连续出现 10 个只有几秒钟的微型游戏，屏幕给出「chomp」之类的简单指令，玩家需要立刻理解操作，比如抓住一张嘴让它咀嚼食物。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Its interesting aspect is that the game uses photos from your phone's album to customize the experience. The Verge mentioned that players will see album content re-inserted into mini-game scenarios during absurd actions like plucking hair, licking lollipops, and peeling bananas.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            它有意思的地方在于，游戏会使用手机相册里的照片定制体验。The Verge 提到，玩家会在拔毛、舔棒棒糖、剥香蕉等荒诞动作里，看到相册内容被重新放进小游戏场景。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            It doesn't require sitting down to strategize; it's more like a fragmented toy that mixes private photo albums, a few seconds of reaction time, and Nintendo-esque absurdity. It transforms phone albums from 'being browsed' to 'being used as mini-game props'.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            它不需要坐下来攻略，更像一种把私人相册、几秒钟反应和任天堂式荒诞感混在一起的碎片玩具。它让手机相册从「被浏览」变成「被拿来做小游戏道具」。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>周末看什么｜《曼达洛人与古古》</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">周末看什么｜《曼达洛人与古古》</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ade688ab-83f4-42a2-9508-9c469866c127.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Star Wars: The Mandalorian &amp;amp; Grogu is the first theatrical film in Disney's The Mandalorian series, with a storyline that continues after the third season. It is directed by Jon Favreau, co-written by Dave Filoni and Noah Kloor, and stars Pedro Pascal.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《星球大战：曼达洛人与古古》是迪士尼旗下《曼达洛人》剧集系列的首部院线电影，故事时间线接续第三季之后，由乔恩·费儒执导，与戴夫·菲洛尼、诺亚·克鲁尔联合编剧，佩德罗·帕斯卡主演。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The plot focuses on the bounty hunter Din Djarin and the Force-sensitive apprentice Grogu, a non-biological father-son duo, as they undertake a top-secret mission crucial to the fate of the New Republic in a galaxy in turmoil after the fall of the Empire.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            剧情聚焦赏金猎人丁·贾伦（Din Djarin）与原力学徒古古（Grogu）这对非血缘父子，在帝国垮台后秩序动荡的银河系中执行一项关乎新共和国命运的绝密任务。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The film continues the series' core narrative of 'father-son bond,' progressing with a game-like 'level-clearing and monster-fighting' structure. The scope is relatively restrained, not focusing on a grand confrontation between the New Republic and the Imperial remnants.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            影片延续剧集「父子情」这一核心叙事主轴，以游戏式的「通关打怪」结构推进，格局相对克制，并未着力展开新共和国与帝国余孽的宏观对抗。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            As of May 29, 2026, the film received a score of 7.4 on Douban (27,407 ratings), outperforming 80% of action films and 83% of sci-fi films.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            截至 2026 年 5 月 29 日，影片在豆瓣获得 7.4 分（27407 人评价），好于 80% 动作片及 83% 科幻片。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>买书不读指南｜《大厂病：从个体困境到组织表演》</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">买书不读指南｜《大厂病：从个体困境到组织表演》</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7acd077d-94be-4f26-b4bb-7b7c24192bbe.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Xi Fanjun, author of 'Big Tech Sickness,' has over ten years of experience working in large technology companies, having long engaged in strategic communication and technology governance, and now focuses on organizational structure and public narrative research.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《大厂病》作者席凡君拥有十余年大型科技企业从业经历，长期从事战略传播与技术治理工作，现专注组织结构与公共叙事研究。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This book approaches the topic from a sociological perspective, drawing on theoretical resources from Weber, Foucault, Bauman, Bourdieu, and others, to systematically dissect the structural roots behind contemporary workplace phenomena such as 'involution,' 'lying flat,' and the '35-year-old crisis'.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            本书以社会学视角切入，援引韦伯、福柯、鲍曼、布尔迪厄等理论资源，系统解剖「内卷」「躺平」「35 岁危机」等当代职场现象背后的结构性根源。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The book's core argument is that individual anxiety and burnout do not stem from insufficient effort, but are the inevitable products of the alienation of modern organizational structures. Xi Fanjun extracts a series of original concepts such as 'liquid person,' 'safe person,' 'performative governance,' and 'the cage of language,' dissecting how big tech companies reshape human behavior and hollow out people's sense of meaning through processes, performance, and rhetoric.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            全书核心论点在于：个体的焦虑与倦怠，并非源于努力不足，而是现代组织结构异化的必然产物。席凡君提炼出「液态人」「安全人」「表演性治理」「语言的牢笼」等一系列原创概念，逐一拆解大厂如何以流程、绩效与话术重塑人的行为、掏空人的意义感。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The book points out that when companies evolve into 'self-sustaining systems,' middle managers become 'loyal hostages,' and senior employees face a higher risk of marginalization—'correct process, no one survives' is the core metaphor running through the entire book.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            书中指出，当公司进化为「自我维持的系统」，中层管理者沦为「忠诚人质」，资深员工反而面临更高的边缘化风险——「流程正确，无人生还」是贯穿全书的核心隐喻。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>游戏推荐｜Steam 限免《Drift86》，适合周末试试漂移</title>
+      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <guid isPermaLink="false">游戏推荐｜Steam-限免《Drift86》，适合周末试试漂移</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/5357ca73-dd08-4a3e-abd9-c7a6c723fa24.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Independent developer RewindApp's arcade drift racing game 'Drift86' is currently offering a limited-time free claim event on the Steam platform. The game, originally priced at 11 yuan in China, can now be claimed for free and permanently added to players' libraries.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            独立开发者 RewindApp 的街机漂移竞速游戏《Drift86》正在 Steam 平台开启限时免费领取活动。该作国区原价 11 元，玩家现可免费领取并永久入库。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            'Drift86' features lightweight drifting gameplay, including over 40 vehicles and more than 30 maps, supporting single-player and multiplayer modes. The game's atmosphere is influenced by 'Initial D,' with Eurobeat music and arcade-style cornering rhythms, focusing on quickly entering drifts, scoring, and repeating routes.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《Drift86》主打轻量漂移玩法，收录超过 40 种车辆和 30 多张地图，支持单人和多人模式。游戏氛围受到《头文字 D》影响，搭配 Eurobeat 音乐和街机化过弯节奏，重心放在快速进入甩尾、计分和刷路线的循环。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;/div&gt;</description>
