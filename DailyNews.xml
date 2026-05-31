@@ -2,10 +2,10 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Sat, 30 May 2026 06:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 08:44:00 +0000</lastBuildDate>
     <item>
       <title>曝苹果用 Gemini 训练端侧 AI，部分 Siri 请求转向谷歌云</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">曝苹果用-Gemini-训练端侧-AI，部分-Siri-请求转向谷歌云</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/805061aa-6203-42f3-a805-5cfb355096d7.jpg&quot;/&gt;
@@ -39,7 +39,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This technology ensures the security of cloud AI requests by processing data and models with hardware-level encryption. This also means that while Apple maintains its 'Private Cloud Compute' brand promise, the underlying processing still relies on Nvidia GPUs and Google's cloud infrastructure.
+            This technology ensures the security of cloud AI requests by encrypting data and models during hardware-level processing. This also means that while Apple maintains its 'Private Cloud Compute' brand promise, the underlying processing still relies on Nvidia GPUs and Google's cloud infrastructure.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             该技术通过硬件级加密处理中的数据与模型，确保云端 AI 请求的安全性。这也意味着苹果在维持其「私有云计算（Private Cloud Compute）」品牌承诺的同时，底层处理过程仍需依赖英伟达 GPU 及谷歌的云基础设施。
@@ -48,11 +48,11 @@
     </item>
     <item>
       <title>赛力斯回应特斯拉 FSD 入华</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">赛力斯回应特斯拉-FSD-入华</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to IT Home, at the recent 4th Future Car Pioneer Conference, Seres Auto Chairman Zhang Zhengping shared his views on the comparison between Huawei Qiankun Intelligent Driving and Tesla FSD.
+            According to IT Home, at the recent 4th Future Car Pioneer Conference, Zhang Zhengping, Chairman of Seres Auto, shared his views on the comparison between Huawei Qiankun Intelligent Driving and Tesla FSD.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 IT 之家报道，在近期的第四届未来汽车先行者大会上，赛力斯汽车董事长张正萍就华为乾崑智驾与特斯拉 FSD 的对比发表了看法。
@@ -77,7 +77,7 @@
     </item>
     <item>
       <title>Anthropic 招聘把价值观面试放到关键位置</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">Anthropic-招聘把价值观面试放到关键位置</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2dd51cdb-8988-46fd-b07f-a4b02f36c38b.jpg&quot;/&gt;
@@ -98,7 +98,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report mentioned that Anthropic's cultural interviews inquire about candidates' values, worldviews, and how they perceive AI risks. Several candidates and career coaches described this round of interviews as more in-depth than typical company culture interviews, even delving into professional ethical dilemmas, how candidates reacted at the time, and how they viewed it afterward.
+            The report mentioned that Anthropic's cultural interviews inquire about candidates' values, worldviews, and how they perceive AI risks. Several candidates and career coaches described this round of interviews as more in-depth than typical company cultural interviews, even delving into professional ethical dilemmas, how candidates reacted at the time, and how they viewed it afterward.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             报道提到，Anthropic 的文化面试会询问候选人的价值观、世界观，以及他们如何看待 AI 风险。多名候选人和职业教练形容，这一轮面试比普通公司文化面更深入，甚至会追问职业伦理困境、候选人在当时如何反应、事后如何看待。
@@ -114,13 +114,13 @@
     </item>
     <item>
       <title>ChatGPT 消费级 AI 流量份额被追近，AI 市场进入「三足鼎立」</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">ChatGPT-消费级-AI-流量份额被追近，AI-市场进入「三足鼎立」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/8af56fcb-3532-499a-9120-b69b9af86622.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            SimilarWeb's latest traffic data shows that the consumer AI market is shifting from ChatGPT's sole leadership to a 'three-way standoff' among OpenAI, Google, and Anthropic.
+            SimilarWeb's latest traffic data shows that the consumer AI market is shifting from ChatGPT's sole leadership to a 'three-way standoff' between OpenAI, Google, and Anthropic.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             SimilarWeb 最新流量数据显示，消费级 AI 市场正在从 ChatGPT 一家领先，转向 OpenAI、Google 和 Anthropic「三足鼎立」的态势。
@@ -143,27 +143,27 @@
     </item>
     <item>
       <title>黄仁勋回应 AI 烧钱：浪费点钱没事，别浪费时间</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">黄仁勋回应-AI-烧钱：浪费点钱没事，别浪费时间</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9b8be743-63fc-405b-a17f-6761b7e51d1a.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 36Kr, Nvidia CEO Jensen Huang recently responded to the issue of AI usage costs in an internal company meeting, stating that 'it's okay to waste a little money, but the key is not to waste time'.
+            According to 36Kr, Nvidia CEO Jensen Huang recently responded to concerns about AI usage costs during an internal company meeting, stating that 'it's okay to waste a little money, but the key is not to waste time'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 36 氪报道，英伟达 CEO 黄仁勋近期在公司内部会议上就 AI 使用成本问题作出回应，表示「稍微浪费一点钱没关系，但关键是不要浪费时间」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During this internal meeting, an employee raised concerns that the current extensive use of AI merely consumes tokens without bringing substantial productivity improvements. Huang responded by saying that people find it difficult to master any technology in its early stages, so one should not strive for perfection from the outset, but rather take the first step and embrace new technologies.
+            During this internal meeting, an employee raised concerns that the current extensive use of AI merely consumes tokens without bringing substantial productivity improvements. Jensen Huang responded by saying that in the initial stages of any technology, people find it difficult to use proficiently, so one should not strive for perfection from the outset, but rather take the first step and embrace new technologies.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             此次内部会议上，有员工提出担忧，认为目前大量使用 AI 只是白白消耗 Token，并未带来实质性的生产力提升。黄仁勋对此回应称，任何技术在初期阶段人们都难以熟练运用，因此不应一开始就追求完美，而是应该先迈出一步，拥抱新技术。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding AI usage costs, Jensen Huang consistently advocates for employees to use AI extensively. He previously stated that for an engineer earning $500,000 annually, if their token expenses were less than $250,000, he would be concerned; if they only spent $5,000, he would be 'furious'.
+            Regarding AI usage costs, Jensen Huang has consistently advocated for employees to use AI extensively. He previously stated that for an engineer earning $500,000 annually, if their token expenses were less than $250,000, he would be concerned; if they only spent $5,000, he would be 'furious'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             在 AI 使用成本问题上，黄仁勋一贯主张员工应大量使用 AI。他此前曾表示，对于一名年薪 50 万美元的工程师，若其 Token 费用低于 25 万美元，他会感到担忧；若仅花费 5000 美元，他则会「气炸」。
@@ -179,29 +179,36 @@
     </item>
     <item>
       <title>刘强东提出「3 个 12」原则，京东规定员工每日工作不超 12 小时</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">刘强东提出「3-个-12」原则，京东规定员工每日工作不超-12-小时</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to TechWeb, JD.com recently introduced a new work hour management rule internally called '3 x 12'. This principle was proposed by founder Richard Liu last week and is being gradually implemented across multiple departments within the group starting this week. Relevant notifications have now been cascaded down from C1 and C2 levels, and frontline R&amp;amp;D teams have received specific arrangements.
+            According to TechWeb, JD.com Group recently introduced a new work hour management rule internally called '3 x 12'. This principle was proposed by founder Liu Qiangdong last week and has been gradually implemented across multiple departments within the group starting this week. Relevant notifications have now been cascaded down from C1 and C2 levels, and frontline R&amp;amp;D teams have received specific arrangements.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 TechWeb 报道，京东集团近日在内部推出了一项名为「3 个 12」的工作时间管理新规。该原则由创始人刘强东于上周提出，并于本周起在集团内多个部门逐步推进落实。目前相关通知已从 C1、C2 层级向下传达，一线研发团队已收到具体安排。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The '3 x 12' principle revolves around three quantitative indicators:
+            The '3 x 12' principle revolves around three quantifiable indicators:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             「3 个 12」原则围绕三项量化指标展开：
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;First, employees' daily working hours should generally not exceed 12 hours, with exceptions only during major promotional periods or special projects;&lt;/p&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             First, employees' daily working hours should generally not exceed 12 hours, with exceptions only during major promotional periods or special projects;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             其一，员工每日工作时长原则上不超过 12 小时，仅大促期间或特殊项目情况下可作例外；
+            &lt;/span&gt;
+&lt;/li&gt;
 &lt;p&gt;Second, employees are encouraged to leave the company no later than 12 AM, and workplaces should guide employees on duty to leave for rest and arrange lights out at midnight 24:00;&lt;/p&gt;
-&lt;p&gt;Third, the number of consecutive working days for employees shall not exceed 12 days, to prevent long-term overtime without rest.&lt;/p&gt;
+&lt;p&gt;Third, the number of consecutive working days for employees on duty must not exceed 12 days, to prevent long-term overtime without rest.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            JD.com stated that the introduction of this new regulation is a proactive adjustment made in response to the excessive workload of some internal teams, aiming to explicitly incorporate employee physical and mental health into management guidance and standardize daily office work and overtime management mechanisms through quantified working hour standards.
+            JD.com stated that the introduction of this new regulation is a proactive adjustment made in response to the excessive workload of some internal teams, aiming to explicitly incorporate employee physical and mental health into management guidance and standardize daily office and overtime management mechanisms through quantified working hour standards.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             京东方面表示，此次新规的出台，是针对内部部分团队工作强度过大问题所作的主动调整，旨在将员工身心健康明确纳入管理导向，通过量化的工作时间标准规范日常办公与加班管理机制。
@@ -210,20 +217,20 @@
     </item>
     <item>
       <title>一个月烧掉 5 亿美元，企业 AI 账单失控</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">一个月烧掉-5-亿美元，企业-AI-账单失控</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4c07e907-5de2-4ef4-8de5-4be8dd5a0e0d.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Axios, the business community is questioning the continuously rising AI spending, with cost control and return on investment becoming the core contradiction in enterprise AI procurement by 2026.
+            According to Axios, the business community is questioning the continuously rising AI spending, with cost control and return on investment becoming the core contradiction in enterprise AI procurement for 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 Axios 报道，企业界正在对持续攀升的 AI 支出产生质疑，成本控制与投资回报问题已成为 2026 年企业 AI 采购的核心矛盾。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Microsoft recently canceled most Claude Code licenses, with cost being one of the main reasons. Uber's COO also publicly stated that AI-related spending is &quot;increasingly difficult to justify.&quot;
+            Microsoft recently canceled most Claude Code licenses, with cost being one of the main reasons. Uber's COO also publicly stated that AI-related expenditures are &quot;increasingly difficult to justify.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             微软近期取消了大部分 Claude Code 许可证，成本是主要原因之一。Uber 的 COO 也公开表示，AI 相关支出「越来越难以合理化」。
@@ -245,7 +252,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            CloudBees CEO Anuj Kapur told Axios that some companies are laying off employees under the guise of AI automation, but in reality, layoffs might just be &quot;the only lever they can pull&quot; to offset soaring AI bills. Meanwhile, consumer attitudes towards AI are cooling, and employee resistance is also spreading.
+            CloudBees CEO Anuj Kapur told Axios that some companies are laying off staff citing AI automation, but in reality, layoffs might just be &quot;the only lever they can pull&quot; to offset soaring AI bills. Meanwhile, consumer attitudes towards AI are also cooling, and employee resistance is spreading.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             CloudBees CEO Anuj Kapur 向 Axios 表示，部分企业正以 AI 自动化为由裁员，但实际上裁员可能只是「他们能拉动的唯一杠杆」，用于抵消高涨的 AI 账单。与此同时，消费者对 AI 的态度也在转冷，员工层面的抵制情绪同样在蔓延。
@@ -254,7 +261,7 @@
     </item>
     <item>
       <title>工信部：动力电池进入规模化退役阶段</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">工信部：动力电池进入规模化退役阶段</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
@@ -265,14 +272,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The meeting called for strengthening collaboration around the construction of laws, policies, and standard systems, as well as research on major issues, and launching a special joint law enforcement action to regulate the recycling and utilization of waste power batteries. The focus will be on investigating and prosecuting violations such as illegal delivery of waste power batteries, using waste power batteries to produce unqualified products, failing to fulfill information traceability responsibilities, illegal dismantling causing environmental pollution, and operating without a license.
+            The meeting called for strengthening collaboration around the construction of laws, policies, and standard systems and research on major issues, and for launching a special joint law enforcement action to regulate the recycling and utilization of waste power batteries. Key areas of investigation include illegal delivery and sale of waste power batteries, using waste power batteries to produce substandard products, failure to fulfill information traceability responsibilities, illegal dismantling that pollutes the environment, and unlicensed operations.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             会议要求围绕法规、政策、标准体系建设和重大问题研究加强协同，并开展规范废旧动力电池回收利用联合执法专项行动。重点查处违规交售废旧动力电池、用废旧动力电池生产不合格产品、不履行信息溯源责任、非法拆解污染环境、无照经营等行为。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Ministry of Industry and Information Technology also required enterprises to strengthen their primary responsibility, use digital technology to enhance monitoring of power battery flow, and guide industry associations, key enterprises, and research institutions to cooperate in exploring advanced technical equipment and new business models.
+            The Ministry of Industry and Information Technology also required enterprises to assume primary responsibility, use digital technology to strengthen monitoring of power battery flow, and guide industry associations, key enterprises, and research institutions to cooperate in exploring advanced technical equipment and new business models.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             工信部还要求压实企业主体责任，运用数字化技术加强动力电池流向监测，并引导行业协会、重点企业和研究机构合作，探索先进技术装备和新型商业模式。
@@ -281,13 +288,13 @@
     </item>
     <item>
       <title>宇树具身智能体验馆亚洲首店将落地上海静安</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">宇树具身智能体验馆亚洲首店将落地上海静安</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2776009b-bef2-4138-be86-3ceb24d995c5.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Unitree Robotics announced that the first Unitree Embodied AI Experience Center in Asia will open tomorrow in Shanghai. The store is located on the 2nd floor of Jiuguang Department Store, No. 1618 West Nanjing Road, Jing'an District, Shanghai, covering an area of over 100 square meters, directly across the street from Apple Jing'an. The store will showcase products such as humanoid robots and quadruped robot dogs.
+            Unitree Robotics announced that the first Unitree Embodied AI Experience Center in Asia will open tomorrow in Shanghai. The store is located on the 2nd floor of Jiuguang Department Store, No. 1618 Nanjing West Road, Jing'an District, Shanghai, covering an area of over 100 square meters, directly across the street from Apple Jing'an. The store will showcase humanoid robots, quadruped robot dogs, and other products.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             宇树科技宣布，宇树具身智能体验馆亚洲首店将于明天在上海开业。门店位于上海市静安区南京西路 1618 号久光百货 2 层，面积超过 100 平方米，街对面就是 Apple 静安，门店将展示人形机器人、四足机器狗等产品。
@@ -296,20 +303,20 @@
     </item>
     <item>
       <title>宝马将在莱比锡工厂使用人形机器人</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">宝马将在莱比锡工厂使用人形机器人</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/b6628a6e-d935-444e-96a5-b5f9e50e4cd7.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the BBC, BMW plans to use humanoid robots in European car production for the first time this summer, with two Aeon robots manufactured by Hexagon Robotics currently being tested at the Leipzig plant. Michael Nikolaides, BMW's Head of Process Management and Digitalization, stated that humanoid robots will be the future of car production.
+            According to BBC reports, BMW plans to use humanoid robots in European car production for the first time this summer, with two Aeon robots manufactured by Hexagon Robotics currently being tested at the Leipzig plant. Michael Nikolaides, BMW's head of process management and digitalization, stated that humanoid robots will be the future of car production.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 BBC 报道，宝马计划今年夏天在欧洲汽车生产中首次使用人形机器人，两台由 Hexagon Robotics 制造的 Aeon 机器人目前正在莱比锡工厂测试。宝马流程管理和数字化负责人 Michael Nikolaides 表示，人形机器人将是汽车生产的未来。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Aeon is 1.65 meters tall, weighs 60 kilograms, has a maximum movement speed of 2.4 meters/second, can carry 15 kilograms for a short period, and has a continuous carrying capacity of 8 kilograms. Its body is equipped with 21 sensors, including cameras, radar, microphones, force sensors, and torque sensors. Its battery life is about 3 hours, after which the battery needs to be replaced.
+            Aeon is 1.65 meters tall, weighs 60 kilograms, has a maximum movement speed of 2.4 meters/second, can carry 15 kilograms for short periods, and has a continuous carrying capacity of 8 kilograms. Its body is equipped with 21 sensors, including cameras, radar, microphones, force sensors, and torque sensors. Its battery life is approximately 3 hours, after which the battery needs to be replaced.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Aeon 身高 1.65 米，重量 60 公斤，最高移动速度 2.4 米/秒，短时间可搬运 15 公斤，持续搬运能力为 8 公斤。机身配备 21 个传感器，包括摄像头、雷达、麦克风、力传感器和扭矩传感器。它的电池工作时间约 3 小时，随后需要更换电池。
@@ -318,31 +325,31 @@
     </item>
     <item>
       <title>哈啰明确顺风车高速费规则</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">哈啰明确顺风车高速费规则</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/20278205-6cc7-47ac-8b22-d280363aab46.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Hello Inc. yesterday released a guide for carpooling highway toll rules. The core rule is that the method of bearing highway tolls is subject to the passenger's remarks, and the driver's acceptance of the order indicates acceptance of this method.
+            Hello Inc. yesterday released a guide for carpooling highway toll rules. The core rule is that the method of bearing highway tolls is based on the passenger's remarks, and the driver accepting the order means accepting that method.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             哈啰昨日发布顺风车高速费规则指南，核心规则是高速费承担方式以乘客备注为准，车主接单即表示接受该承担方式。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;If the passenger chooses &quot;willing to negotiate fees,&quot; the agreed-upon result via the platform chat box and platform phone call shall prevail; the driver should complete the negotiation before accepting the order or within 2 hours after accepting the order, and before the passenger gets in the car. If overdue, highway tolls will not be charged by default;&lt;/p&gt;
-&lt;p&gt;If the passenger chooses &quot;I will bear all costs,&quot; they shall solely bear the highway toll fees corresponding to the start and end points of their journey;&lt;/p&gt;
-&lt;p&gt;If &quot;I will not bear the cost&quot; is chosen, the passenger does not bear the highway toll, and the driver can decide whether to take the highway.&lt;/p&gt;
+&lt;p&gt;If the passenger chooses &quot;I will bear all costs,&quot; they will solely bear the highway toll fees corresponding to their trip's origin and destination;&lt;/p&gt;
+&lt;p&gt;If &quot;I will not bear costs&quot; is chosen, the passenger does not bear highway tolls, and the driver can decide whether or not to take the highway.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The rules also list violation scenarios, including drivers charging passengers who have refused to bear costs, repeatedly charging highway tolls, charging tolls when none were incurred, charging tolls inconsistent with the actual journey, and passengers refusing to pay after reaching an agreement.
+            The rules also list violation scenarios, including drivers charging passengers who have refused to bear costs, repeatedly charging highway tolls, charging for highway tolls that were not incurred, charging highway tolls inconsistent with the actual itinerary, and passengers refusing to pay after reaching a consensus.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             规则还列出违规场景，包括车主向已拒绝承担费用的乘客收费、重复收取高速费、未产生高速费却收费、收取与实际行程不符的高速费，以及协商一致后乘客拒不支付。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            For violations, drivers who overcharge must refund the excess amount and may have their growth value and trust score deducted, be banned for 3 to 7 days, or permanently banned for severe cases; passengers who fail to pay highway tolls as agreed will not be able to continue booking rides until payment is completed. Hello Inc. also reminds that highway tolls should be paid through the carpooling platform, not via offline transfers.
+            Regarding violation handling, drivers who overcharge must refund the excess amount and may have growth value and trust score deducted, be banned for 3 to 7 days, or permanently banned for severe cases; passengers who fail to pay highway tolls as agreed will not be able to continue booking rides until payment is completed. Hello Inc. also reminds that highway tolls should be paid through the carpooling platform, and offline transfers should not be used.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             违规处理上，车主多收费用需退回，并可能被扣成长值、信任分，封禁 3 至 7 天，严重者永久封禁；乘客未按约支付高速费，将在支付完成前不能继续叫车。哈啰同时提醒，高速费应通过顺风车平台支付，不要线下转账。
@@ -351,18 +358,18 @@
     </item>
     <item>
       <title>MiniMax 正式启动 A 股 IPO</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">MiniMax-正式启动-A-股-IPO</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to information from the CSRC official website, MiniMax signed a tutoring agreement with CITIC Securities on May 29, officially initiating its A-share IPO process.
+            According to information from the CSRC official website, MiniMax signed a tutoring agreement with CITIC Securities on May 29, officially initiating the A-share IPO process.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据证监会官网信息，MiniMax 已于 5 月 29 日与中信证券签署辅导协议，正式启动 A 股 IPO 进程。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Previously, Zhipu signed a coaching agreement with Guotai Haitong on February 9 this year, and jointly participated in the STAR Market listing coaching work with CICC, which had previously signed a contract. MiniMax's initiation of coaching this time means that the &quot;duo of large models,&quot; Zhipu and MiniMax, are expected to be listed on the A-share market simultaneously.
+            Previously, Zhipu signed a coaching agreement with Guotai Haitong on February 9 this year and participated in the STAR Market listing coaching work together with CICC, which had already signed. MiniMax's initiation of coaching this time means that the &quot;large model duo&quot; Zhipu and MiniMax are expected to be listed on the A-share market simultaneously.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             此前，智谱已于今年 2 月 9 日与国泰海通签署辅导协议，并与此前已签约的中金公司共同参与科创板上市辅导工作。MiniMax 此次启动辅导，意味着「大模型双雄」智谱与 MiniMax 有望同步在 A 股上市。
@@ -371,11 +378,11 @@
     </item>
     <item>
       <title>智谱市值升至 8800 亿港元</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">智谱市值升至-8800-亿港元</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Caixin.com, Zhipu AI's Hong Kong stock market value once rose to approximately HKD 880 billion, with its share price nearly 17 times its IPO price of HKD 116.2 in January. As of yesterday's close, its market value was HKD 711.12 billion.
+            According to Caixin.com, Zhipu AI's Hong Kong stock market value once rose to approximately HKD 880 billion, with its stock price nearly 17 times its IPO price of HKD 116.2 in January. As of yesterday's close, its market value was HKD 711.12 billion.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据财新网报道，智谱 AI 港股市值一度升至约 8800 亿港元，股价接近 1 月上市发行价 116.2 港元的 17 倍。截止昨日收盘市值 7111.20 亿港元。
@@ -384,7 +391,7 @@
     </item>
     <item>
       <title>💡 莫言：AI 创作本质是二手货，取代不了作家的原创能力</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">💡-莫言：AI-创作本质是二手货，取代不了作家的原创能力</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2393ca7c-77fe-4549-a7f8-5004ef392252.jpg&quot;/&gt;
@@ -396,7 +403,7 @@
             据新华社采访，莫言近日谈到 AI 与文学创作时表示，他认为 AI 无法取代作家的创作。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;I believe that a writer's most valuable asset is originality—the ability to write novels or poems that they themselves have not written and others have not written, to create typical character images that have never appeared in others' works. This is the reason and value for a writer's existence.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;I believe that a writer's most valuable asset is originality—the ability to write novels or poems that they themselves have not written and others have not written, to create typical characters that have never appeared in others' works. This is the reason and value for a writer's existence.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Mo Yan further analyzed that current AI-generated content does not possess originality.
@@ -405,17 +412,17 @@
             莫言进一步分析，当下 AI 生成内容并不具备原创能力。
            &lt;/span&gt;
 &lt;/p&gt;&lt;blockquote&gt;
-&lt;p style=&quot;line-height: 1.375rem&quot;&gt;AI is fed with content written by generations of writers. Based on a massive volume of works, it can recombine them to produce creations that seem as if no one has ever seen them before. But I believe it is not original; it is still second-hand.&lt;/p&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;AI is fed with content written by generations of writers. Based on a massive volume of works, it can recombine them to produce works that seem like no one has ever seen before. But I think it's not original after all; it's still second-hand.&lt;/p&gt;
 &lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Mo Yan also admitted that the application of AI as an auxiliary tool has become a trend, especially in translation work where its value will gradually become apparent. In literary planning, film and television production, and technical aspects, AI will also become increasingly important, and some positions will be impacted as a result.
+            Mo Yan also admitted that the application of AI as an auxiliary tool has become a trend, especially in translation work where its value will gradually become apparent; in literary planning, film and television production, and technical aspects, AI will also become increasingly important, and some positions will be impacted as a result.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             莫言也承认，AI 作为辅助工具的应用已成趋势，尤其在翻译工作中会逐步体现价值；在文学策划、影视制作和技术环节中，AI 也会越来越重要，部分岗位会因此受到冲击。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the interview, he also discussed AI's differentiating effect on people: tools will make smart people smarter, and may also cause those lacking judgment to further rely on ready-made outputs.
+            During the interview, he also discussed AI's polarizing effect on people: tools can make smart people smarter, and may also cause those lacking judgment to further rely on ready-made outputs.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             采访中，他还谈到 AI 对人的分化作用：工具会让聪明人变得更聪明，也可能让缺少判断的人进一步依赖现成输出。
@@ -424,35 +431,35 @@
     </item>
     <item>
       <title>2899 元起，vivo S60 系列发布</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">2899-元起，vivo-S60-系列发布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/18aa9400-2240-4670-bf1f-870b90b3044b.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The vivo S60 series was officially released yesterday, with the vivo S60 priced from 3599 yuan and the vivo S60 Vitality Edition priced from 2899 yuan. The series of phones is endorsed by Tian Xiwei and offers three color options: &quot;Star Sea,&quot; &quot;Early Summer Green,&quot; and &quot;Midsummer Night.&quot; The body is 7.92mm thick and weighs 199g.
+            The vivo S60 series was officially released yesterday, with the vivo S60 priced starting from 3599 yuan, and the vivo S60 Vitality Edition priced starting from 2899 yuan. The series of phones is endorsed by Tian Xiwei and offers three color options: &quot;Starry Sea,&quot; &quot;Early Summer Green,&quot; and &quot;Midsummer Night,&quot; with a body thickness of 7.92mm and a weight of 199g.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             vivo S60 系列昨日正式发布，其中 vivo S60 定价 3599 元起，vivo S60 元气版定价 2899 元起。系列手机由田曦薇代言，提供「星星海」「初夏绿」「仲夏夜」三种配色，机身厚 7.92mm，重量 199g。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;Screen: 6.59-inch 1260p 144Hz flat screen;&lt;/p&gt;
-&lt;p&gt;Imaging: Front 50MP camera; S60 rear 50MP large-sensor main camera, 8MP ultra-wide, and 50MP IMX882 3X periscope telephoto; S60 Vitality Edition features a 50MP large-sensor main camera and 8MP ultra-wide.&lt;/p&gt;
+&lt;p&gt;Imaging: 50MP front camera; S60 features a 50MP large-sensor main camera, 8MP ultra-wide, and 50MP IMX882 3X periscope telephoto; S60 Vitality Edition has a 50MP large-sensor main camera and 8MP ultra-wide;&lt;/p&gt;
 &lt;p&gt;Performance: S60 is equipped with Snapdragon 8s Gen 3, and the Vitality Edition with Dimensity 7500;&lt;/p&gt;
 &lt;p&gt;Battery: Both models are equipped with a 7200mAh Blue Ocean battery, supporting 90W wired charging;&lt;/p&gt;
 &lt;p&gt;Others: Standard 3D ultrasonic fingerprint, offering IP68 and IP69, stereo dual speakers, infrared remote control, and X-axis linear motor.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This time, vivo focuses on 4K Live images and Xiaohongshu publishing scenarios. Officially, the S60 supports 4K Live, Starlight Live, Live Color Palette, Inspiration Fun Sticker Live, and 3D spatial effects generated from Live cover frames; vivo also states that the S60 is the only product in the industry to support publishing 3D spatial images on Xiaohongshu.
+            vivo's focus this time is on 4K Live images and Xiaohongshu publishing scenarios. The official statement says S60 supports 4K Live, Starlight Live, Live Color Palette, Inspiration Sticker Live, and 3D spatial effects generated from Live cover frames; vivo also claims that S60 is the only product in the industry that supports publishing 3D spatial images on Xiaohongshu.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             vivo 这次重点放在 4K Live 图像和小红书发布场景。官方称 S60 支持 4K Live、星光 Live、Live 调色盘、灵感趣贴 Live，以及由 Live 封面帧生成 3D 空间效果；vivo 还称 S60 是行业内唯一支持在小红书发布 3D 空间图的产品。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
+            🔗 Related Reading:
             &lt;a href=&quot;https://mp.weixin.qq.com/s/hFG48QNAd55aJ9e1sV84kg&quot;&gt;
-             vivo S60 Experience: A Phone That Should Be Used More, Thought About Less
+             vivo S60 Experience: Phones Should Be Used More, Thought About Less
             &lt;/a&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
@@ -465,7 +472,7 @@
     </item>
     <item>
       <title>小米 17T 系列将在中国大陆发售</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">小米-17T-系列将在中国大陆发售</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/71dc7224-d8e4-4d06-af22-aa3e48c9aeeb.png&quot;/&gt;
@@ -485,7 +492,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to his information, the Xiaomi T series has garnered over 15 million users globally, covering Europe, Southeast Asia, Latin America, the Middle East, Japan, and more than 100 countries and regions.
+            According to its information, the Xiaomi T series has accumulated over 15 million users globally, covering Europe, Southeast Asia, Latin America, the Middle East, Japan, and more than 100 countries and regions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据其信息来看，小米 T 系列已经在全球拥有了超 1500 万用户，覆盖欧洲、东南亚、拉美、中东、日本，100 多个国家和地区。
@@ -501,7 +508,7 @@
     </item>
     <item>
       <title>基础套装 8999 元，哈浮 AQUA 发布，零零科技把飞行相机带到水上运动</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">基础套装-8999-元，哈浮-AQUA-发布，零零科技把飞行相机带到水上运动</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
@@ -512,21 +519,21 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AQUA belongs to the new Hover family series, with a body weight of less than 250 grams. It features IP67 dust and water resistance, a positive buoyancy design, and the ability to take off and land on water, making it suitable for scenarios such as hydrofoiling, wakeboarding, kitesurfing, kayaking, sailing, paddleboarding, and jet skiing.
+            AQUA belongs to the new Hover family series, with a body weight of less than 250 grams. It features IP67 dust and water resistance, positive buoyancy design, and the ability to take off and land on water, making it suitable for scenarios such as hydrofoiling, wakeboarding, kitesurfing, kayaking, sailing, paddleboarding, and jet skiing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             AQUA 属于哈浮家族新系列，机身重量低于 250 克，具备 IP67 防尘防水、正浮力设计和水面起降能力，可用于水上飞翼、尾波滑水、风筝冲浪、皮划艇、帆船、桨板和水上摩托艇等场景。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AQUA can withstand Level 7 strong winds, has a maximum speed of 40 km/h, and is equipped with a hydrophobic lens, anti-fog technology, and corrosion-resistant structure. The imaging section uses a 1/1.28-inch CMOS sensor, capable of recording 4K video at up to 100fps, and features over 15 intelligent shooting modes, including paddleboard, kayak, and hydrofoil modes.
+            AQUA can withstand level 7 strong winds, has a top speed of 40 km/h, and is equipped with a hydrophobic lens, anti-fog technology, and anti-corrosion structure. The imaging section uses a 1/1.28-inch CMOS sensor, capable of recording 4K video at up to 100fps, and features over 15 built-in intelligent shooting modes, including paddleboard, kayak, and hydrofoil modes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             AQUA 可抵御 7 级大风，最高时速 40 公里，配备疏水镜头、防雾技术和防腐蚀结构；影像部分使用 1/1.28 英寸 CMOS 传感器，最高录制 100fps 的 4K 视频，并内置超过 15 种智能运镜模式，包括桨板、皮划艇和水翼板模式。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Wakeboarding world champion Dominik Gührs stated that AQUA allows him to complete water sports filming alone without needing to arrange photographers and complex equipment. The product is now available on domestic e-commerce platforms and offline channels, with a retail price of 8999 yuan for the basic package and 9999 yuan for the fly-more package.
+            Wakeboarding world champion Dominik Gührs stated that AQUA allows him to complete water sports photography alone without needing to arrange photographers or complex equipment. The product is now available on domestic e-commerce platforms and offline channels, with a retail price of 8999 yuan for the basic package and 9999 yuan for the Fly More Combo.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             尾波滑水世界冠军 Dominik Gührs 表示，AQUA 让他不必安排摄影师和复杂设备，也能独自完成水上运动拍摄。产品现已在国内电商平台和线下渠道发售，基础套装零售价 8999 元，畅飞套装零售价 9999 元。
@@ -535,13 +542,13 @@
     </item>
     <item>
       <title>2699 元起，荣耀 WIN Turbo 发布</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">2699-元起，荣耀-WIN-Turbo-发布</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2adc0d03-6350-49d7-9499-c07a3ddfa8c8.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Honor WIN Turbo was released yesterday, with a suggested retail price starting from 3299 yuan and an initial promotional price starting from 2699 yuan. Versions include 12GB + 256GB, 12GB + 512GB, and 16GB + 512GB, with initial prices of 2699 yuan, 2999 yuan, and 3599 yuan respectively.
+            Honor WIN Turbo was released yesterday, with a suggested retail price starting from 3299 yuan and an initial promotional price starting from 2699 yuan. Versions include 12GB + 256GB, 12GB + 512GB, and 16GB + 512GB, with initial prices of 2699 yuan, 2999 yuan, and 3599 yuan, respectively.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             荣耀 WIN Turbo 昨日发布，建议零售价 3299 元起，首发优惠价 2699 元起。版本包括 12GB + 256GB、12GB + 512GB 和 16GB + 512GB，首发价分别为 2699 元、2999 元和 3599 元。
@@ -564,7 +571,7 @@
     </item>
     <item>
       <title>Claude Code 上线动态工作流预览版</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">Claude-Code-上线动态工作流预览版</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/07d13b28-7845-45cc-baf1-e843a2ac1305.jpg&quot;/&gt;
@@ -577,14 +584,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This mechanism transforms the original single-threaded programming agents into an orchestrated workflow: the main agent writes orchestration scripts for tasks, breaking down goals into dozens to hundreds of parallel sub-agents;
+            This mechanism transforms the original single-threaded programming agent into an orchestrated workflow: the main agent writes orchestration scripts for tasks, breaking down goals into dozens to hundreds of parallel sub-agents;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             这套机制把原本单线程的编程 Agent 改成编排式工作流：主 Agent 会为任务编写编排脚本，将目标拆解给数十到数百个并行子 Agent；
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Before merging code, the system also arranges independent sub-agents to perform multi-perspective adversarial testing and introduces two rounds of code review by Reviewer Agents. To support continuous operation, dynamic workflows also include incremental auto-archiving and breakpoint resume.
+            Before merging code, the system also arranges independent sub-agents to conduct multi-perspective adversarial testing and introduces two rounds of Reviewer Agents for code review. To support continuous operation, dynamic workflows also include incremental auto-archiving and resume-from-breakpoint capabilities.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             合并代码前，系统还会安排独立子 Agent 做多视角对抗测试，并引入两轮 Reviewer Agents 代码审查。为支持连续运行，动态工作流还加入增量自动存档和断点续传。
@@ -593,27 +600,27 @@
     </item>
     <item>
       <title>阶跃星辰开源 Step 3.7 Flash</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">阶跃星辰开源-Step-3.7-Flash</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/21045984-72d6-4785-bc35-40729d6302d3.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            StepAhead released and open-sourced the new generation Flash large model, Step 3.7 Flash, positioned as a foundational model for production-grade agents, code, networked search, and multimodal workflows.
+            Jieyue Xingchen released and open-sourced the new generation Flash large model, Step 3.7 Flash, positioned as a foundational model for production-grade agents, code, networked search, and multimodal workflows.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             阶跃星辰发布并开源新一代 Flash 大模型 Step 3.7 Flash，定位为面向生产级 Agent、代码、联网搜索和多模态工作流的模型底座。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The model architecture consists of a 196B language backbone and a 1.8B visual Transformer, with a total of approximately 198B parameters, about 11B active parameters, supporting 256K context and 3 inference tiers.
+            The model architecture consists of a 196B language backbone and a 1.8B vision Transformer, with a total of approximately 198B parameters, about 11B active parameters, supporting 256K context and 3 inference tiers.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             模型架构由 196B 语言主干和 1.8B 视觉 Transformer 组成，总参数约 198B，激活参数约 11B，支持 256K 上下文和 3 档推理。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The official statement claims that Step 3.7 Flash can autonomously select, crop, and re-read local information in UI interfaces or charts, and actively retrieve and verify information when uncertain. In terms of performance, the model achieved 67.1% in the ClawEval-1.1 autonomous task execution evaluation, 79.2% in SimpleVQA Search, 95.3% in V* Python, and 56.3% in SWE-Bench Pro.
+            The official statement claims that Step 3.7 Flash can autonomously select, crop, and re-read local information in UI interfaces or charts, and actively retrieve verification when information is uncertain. In terms of performance, the model achieved 67.1% in the ClawEval-1.1 autonomous task execution evaluation, 79.2% for SimpleVQA Search, 95.3% for V* Python, and 56.3% for SWE-Bench Pro.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             官方称，Step 3.7 Flash 可以在 UI 界面或图表中自主框选、裁剪和重读局部信息，并在信息不确定时主动检索验证。性能方面，模型在 ClawEval-1.1 自主任务执行评测中达到 67.1%，SimpleVQA Search 为 79.2%，V* Python 为 95.3%，SWE-Bench Pro 为 56.3%。
@@ -622,7 +629,7 @@
     </item>
     <item>
       <title>Liquid AI 开源端侧 MoE 模型 LFM2.5</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">Liquid-AI-开源端侧-MoE-模型-LFM2.5</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/abf2b1bf-5970-4af6-b180-2320d8adc634.jpg&quot;/&gt;
@@ -635,14 +642,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This update shifts LFM2.5-8B-A1B towards a &quot;think first, then answer&quot; inference model and expands the context capacity from 32K to 128K. Liquid AI also extended the vocabulary to 128K to improve the processing efficiency of non-English text; their materials show that Thai and Hindi processing efficiency increased by 238.2% and 120.4% respectively, and Arabic by 38.8%.
+            This update shifts LFM2.5-8B-A1B towards a &quot;think first, then answer&quot; inference model and expands the context window from 32K to 128K. Liquid AI also extended the vocabulary to 128K to improve the processing efficiency of non-English text; their materials show that Thai and Hindi processing efficiency increased by 238.2% and 120.4% respectively, and Arabic by 38.8%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             这次更新把 LFM2.5-8B-A1B 转向「先思考、后回答」的推理模型，并把上下文容量从 32K 扩大到 128K。Liquid AI 还把词表扩展到 128K，以提升非英语文本处理效率；其材料显示，泰语和印地语处理效率分别提升 238.2% 与 120.4%，阿拉伯语提升 38.8%。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The team also carried out targeted optimizations for common issues in small models, such as circular reasoning and hallucinations. Liquid AI states that targeted reinforcement learning makes the model more inclined to admit &quot;I don't know&quot; when exceeding its knowledge boundaries, improving the hallucination-free rate from 7.46% in the previous generation to 63.47%.
+            The team also made specific optimizations for common issues in small models such as circular reasoning and hallucinations. Liquid AI states that targeted reinforcement learning makes the model more inclined to admit &quot;I don't know&quot; when exceeding its knowledge boundaries, improving the hallucination-free rate from 7.46% in the previous generation to 63.47%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             团队还针对小模型常见的循环推理和幻觉问题做了专项优化。Liquid AI 称，靶向强化学习让模型在超出知识边界时更倾向于承认不知道，无幻觉率从前代 7.46% 提升至 63.47%。
@@ -651,13 +658,13 @@
     </item>
     <item>
       <title>小米开源可控视频音效模型 ControlFoley</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">小米开源可控视频音效模型-ControlFoley</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f41b097b-8447-4143-a487-8645a15615dc.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaomi Tech's official account released and open-sourced ControlFoley, a multimodal controllable video sound effect generation framework, targeting automatic video dubbing scenarios. It extends &quot;matching sound to visuals&quot; into multi-conditional control: creators can simultaneously input video, text instructions, and reference audio to specify the desired sound content and timbre style.
+            Xiaomi Technology's official account released and open-sourced ControlFoley, a multimodal controllable video sound effect generation framework, targeting automatic video dubbing scenarios. It expands &quot;matching sound to visuals&quot; into multi-conditional control: creators can simultaneously input video, text instructions, and reference audio to specify the desired sound content and timbre style.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             小米技术公众号发布并开源多模态可控视频音效生成框架 ControlFoley，面向视频自动配音场景。它把「看画面配声音」扩展为多条件控制：创作者可以同时输入视频、文本指令和参考音频，指定希望生成的声音内容和音色风格。
@@ -672,10 +679,10 @@
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;When there is a semantic conflict between text and visuals, the model can prioritize responding to the user's text intent;&lt;/p&gt;
 &lt;p&gt;When the user provides reference audio, the model attempts to preserve the reference timbre without disrupting audio-visual synchronization;&lt;/p&gt;
-&lt;p&gt;When input condition combinations change, unified multimodal representation and random modal dropout training keep the model stable in tasks such as TV2A, TC-V2A, and AC-V2A.&lt;/p&gt;
+&lt;p&gt;When the combination of input conditions changes, unified multimodal representation and random modal dropout training keep the model stable in tasks such as TV2A, TC-V2A, and AC-V2A.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Experimental results provided by Xiaomi show that ControlFoley achieves better semantic alignment, temporal synchronization, and sound quality performance compared to open-source baselines across multiple datasets.
+            Experimental results provided by Xiaomi show that ControlFoley achieves better semantic alignment, temporal synchronization, and sound quality performance compared to open-source baselines on multiple datasets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             小米给出的实验结果显示，ControlFoley 在多个数据集上对比开源基线取得更好的语义对齐、时间同步和声音质量表现。
@@ -691,19 +698,19 @@
     </item>
     <item>
       <title>腾讯混元发布 Agent 记忆插件 Hy-Memory</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">腾讯混元发布-Agent-记忆插件-Hy-Memory</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/d8c68466-6bcc-433e-afab-20bf51ab4c68.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Tencent Hunyuan released Hy-Memory, positioned as a memory plugin for long-term collaborative agents like OpenClaw, aiming to solve problems such as memory fragmentation, attention dilution, and old preference overwriting that often occur when long-cycle agents run across days and sessions.
+            Tencent Hunyuan released Hy-Memory, positioned as a memory plugin for long-term collaborative agents like OpenClaw, aiming to solve problems such as memory fragmentation, attention dilution, and old preference overwriting that often occur when long-duration agents run across days and sessions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             腾讯混元发布 Hy-Memory，定位为面向 OpenClaw 等长期协作型智能体的记忆插件，旨在解决长周期 Agent 在跨天、跨会话运行中容易出现的记忆碎片化、注意力稀释和旧偏好覆盖问题。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;Hy-Memory's architecture is divided into a 6-layer memory framework, breaking down memories into levels such as facts, profiles, mental models, and forward-looking intentions;&lt;/p&gt;
+&lt;p&gt;Hy-Memory's architecture is divided into a 6-layer memory framework, breaking down memories into levels such as facts, profiles, mental models, and forward intentions;&lt;/p&gt;
 &lt;p&gt;It also introduces a dual-system mechanism, where System 1 is responsible for extracting instant facts and session summaries in milliseconds, and System 2 refines user mental models and knowledge networks in the background;&lt;/p&gt;
 &lt;p&gt;The system also uses supersedes pointers to link new and old memories into an evolutionary chain, allowing retrieval results to retain both the latest conclusions and the path of preference changes.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
@@ -724,34 +731,34 @@
     </item>
     <item>
       <title>下月起，违规乘车拒不补票将被限制购票</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">下月起，违规乘车拒不补票将被限制购票</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/57289d86-7ad0-425a-b483-e6280942c634.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            CCTV News quoted China State Railway Group as saying that the new version of the &quot;China State Railway Group Co., Ltd. Railway Passenger Transport Regulations&quot; will be officially implemented on June 1, for the first time setting ticket purchase restrictions for passengers who violate regulations and refuse to pay for tickets.
+            CCTV News cited China National Railway Group's announcement that the new &quot;China National Railway Group Co., Ltd. Railway Passenger Transport Regulations&quot; will be officially implemented on June 1, for the first time setting ticket purchase restrictions for passengers who violate regulations and refuse to pay for tickets.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新闻联播援引中国国家铁路集团消息称，新版《中国国家铁路集团有限公司铁路旅客运输规程》将于 6 月 1 日正式实施，首次对违规乘车并拒绝补票的旅客设置限制购票规则。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new regulations cover violations including riding without a ticket, using altered, forged, or defaced travel documents, discrepancies between ticket, ID, and passenger, holding a low-fare ticket for a high-fare class, and holding a discounted or preferential ticket without the required reduction certificate or not meeting the reduction conditions.
+            The new regulations cover violations including riding without a ticket, using altered, forged, or tampered travel documents, inconsistencies between ticket, ID, and person, holding a lower-fare ticket for a higher-fare class, and holding discounted or preferential tickets without valid reduction credentials or not meeting reduction conditions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新规覆盖的违规情形包括无票乘车，持用变造、伪造或涂改的乘车凭证乘车，票、证、人不一致，持低票价席别车票乘坐高票价席别，以及持优惠票、优待票但没有规定减价凭证或不符合减价条件。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            When the above situations occur and passengers refuse to pay for tickets, railway station and train staff will inform them on the spot of the irregular travel behavior and subsequent ticket purchase restrictions. When restricted passengers purchase tickets again, railway transport enterprises will prompt the reason for the restriction via 12306 or ticket windows. After passengers pay the outstanding ticket fare and an additional 50% of the outstanding fare, ticket purchase restrictions will be automatically lifted through online or offline methods;
+            When the above situations occur and the passenger refuses to pay for the ticket, railway station and train staff will inform them on-site of the violation and subsequent ticket purchase restrictions. When a restricted passenger purchases a ticket again, the railway transport enterprise will prompt the reason for the restriction via 12306 or ticket windows. After the passenger pays the outstanding fare and an additional 50% of the outstanding fare, the ticket purchase restriction will be automatically lifted through online or offline methods;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             发生上述情形且拒绝补票时，铁路站车工作人员会现场告知违规乘车行为及后续限制购票措施。被限制购票旅客再次购票时，铁路运输企业会通过 12306 或售票窗口提示限制原因。旅客支付应补票款及应补票款 50% 的加收票款后，可通过线上或线下方式自动解除购票限制；
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            After paying for the ticket, a railway electronic invoice can still be issued within 180 days from the end of the original journey. The new passenger regulations also adjusted the student ticket discount range, connecting ticket refund, and lost item delivery rules.
+            After paying for the ticket, a railway electronic invoice can still be issued within 180 days from the end of the original journey. The new passenger regulations also adjusted student ticket discount ranges, connecting ticket refund rules, and lost property delivery rules.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             补票后，自原行程结束之日起 180 日内仍可开具铁路电子发票。新版客规还调整了学生票优惠区间、联程票退票和遗失物品寄递规则。
@@ -760,20 +767,20 @@
     </item>
     <item>
       <title>小红书视频支持杜比全景声</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">小红书视频支持杜比全景声</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0b96c81f-fe1b-4fdc-98f7-ebd654b49f2c.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Dolby Laboratories and Xiaohongshu announced that Xiaohongshu has launched Dolby Atmos content sharing functionality. Both parties had already introduced Dolby Vision to Xiaohongshu in 2024, and with this new audio dimension, creators can now publish video content with both Dolby Vision and Dolby Atmos on supported devices.
+            Yesterday, Dolby Laboratories and Xiaohongshu announced that Xiaohongshu has launched Dolby Atmos content sharing functionality. Both parties had already introduced Dolby Vision to Xiaohongshu in 2024, and with the addition of the audio dimension this time, creators can now publish video content with both Dolby Vision and Dolby Atmos on supported devices.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，杜比实验室与小红书宣布，小红书上线杜比全景声内容分享功能。双方 2024 年已把杜比视界引入小红书，这次新增音频维度后，创作者可以在支持设备上发布同时具备杜比视界和杜比全景声的视频内容。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaohongshu users can preview, share, and enjoy Dolby Atmos content on the Xiaohongshu mobile app via Dolby Atmos-enabled iPhones or Android phones; they can also access the Xiaohongshu web version via Safari browser on Mac or iPad to share and watch.
+            Xiaohongshu users can preview, share, and enjoy Dolby Atmos content on the Xiaohongshu mobile app via Dolby Atmos-enabled iPhones or Android phones; they can also access the Xiaohongshu web version via Safari on Mac or iPad to share and watch.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             小红书用户可通过支持杜比全景声的 iPhone 或安卓手机，在小红书移动端 App 预览、分享和欣赏杜比全景声内容；也可以通过 Mac 或 iPad 上的 Safari 浏览器访问小红书网页端完成分享和观看。
@@ -782,7 +789,7 @@
     </item>
     <item>
       <title>蜜雪冰城推出薄荷系列新品</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">蜜雪冰城推出薄荷系列新品</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/83964c04-5f30-4958-ad8f-b81c4d0cf0ec.jpg&quot;/&gt;
@@ -795,7 +802,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the official introduction, Mint Milk Tea combines mint flavor, jasmine green tea, and milky aroma; Mint Ice Cream offers two options: mint flavor and double swirl flavor; Mint Crispy Sundae consists of mint ice cream, chocolate crispy shell, and Oreo cookie crumbs.
+            According to the official introduction, Mint Milk Tea combines mint flavor, jasmine green tea, and milk aroma; Mint Ice Cream offers two options: mint flavor and double swirl flavor; Mint Crispy Sundae consists of mint ice cream, chocolate crispy shell, and Oreo cookie crumbs.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             官方介绍显示，薄荷奶绿把薄荷风味、茉莉绿茶和奶香组合在一起；薄荷冰淇淋提供薄荷味和双炫味两种选择；薄荷脆皮小圣代由薄荷冰淇淋、巧克力脆皮和奥利奥饼干碎组成。
@@ -804,20 +811,20 @@
     </item>
     <item>
       <title>好想来下架争议 NFC 果汁</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">好想来下架争议-NFC-果汁</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/18dfd6a8-be95-47e9-bc38-7fba004ec8e1.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Jiemian News, after CCTV News exposed the chaos of juice labeling, a series of juice drinks under Haoxianglai attracted attention. The program mentioned that the product's outer packaging prominently stated &quot;100% Juice&quot; and &quot;NFC Not From Concentrate,&quot; but the first two ingredients in the list were water and concentrated juice, indicating that the label information did not match the actual ingredients.
+            According to Jiemian News, after CCTV News exposed the chaos of juice labeling, a series of juice drinks under Hao Xiang Lai attracted attention. The program mentioned that the product's outer packaging prominently displayed &quot;100% Juice&quot; and &quot;NFC Not From Concentrate,&quot; but the first two ingredients in the ingredient list were water and concentrated juice, indicating that the label information did not match the actual ingredients.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据界面新闻报道，央视新闻曝光果汁标签乱象后，好想来旗下一款系列果汁饮料引发关注。节目提到，该产品外包装显著标注「100% 果汁」和「NFC 非浓缩还原」，但配料表前两位为水和浓缩果汁，标签信息与实际成分不符。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The PR representative of Wanchen Group, to which Haoxianglai belongs, responded that the relevant products have label flaws, which consumers might interpret as pure NFC juice. The company has already delisted the products and will redesign the packaging in the future to avoid such ambiguities. The report also listed previous cases involving Beibingyang, Master Kong, and others that sparked controversy over juice content and packaging labels.
+            The PR representative of Wanchen Group, to which Hao Xiang Lai belongs, responded that the relevant products involved label flaws, which consumers might interpret as pure NFC juice. The company has already delisted the products and will redesign the packaging in the future to avoid such ambiguities. The report also cited previous cases where brands like Beibingyang and Master Kong faced controversy over juice content and packaging labels.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             好想来所属万辰集团公关负责人回应称，相关产品涉及标签瑕疵，消费者可能理解为纯 NFC 果汁，公司已先将产品下架，未来会重新制作包装，避免相关歧义。报道还列举了北冰洋、康师傅等此前因果汁含量和包装标识引发争议的案例。
@@ -826,7 +833,7 @@
     </item>
     <item>
       <title>One Fun Thing｜任天堂做了一个会翻你相册的怪游戏</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">One-Fun-Thing｜任天堂做了一个会翻你相册的怪游戏</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/40d4185f-0821-4143-8342-8f6de8d51d09.jpg&quot;/&gt;
@@ -839,7 +846,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Its interesting aspect is that the game uses photos from your phone's album to customize the experience. The Verge mentioned that players will see album content re-inserted into mini-game scenarios during absurd actions like plucking hair, licking lollipops, and peeling bananas.
+            Its interesting aspect is that the game customizes the experience using photos from the phone's album. The Verge mentioned that players will see album content re-inserted into mini-game scenarios during absurd actions like plucking hair, licking lollipops, and peeling bananas.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             它有意思的地方在于，游戏会使用手机相册里的照片定制体验。The Verge 提到，玩家会在拔毛、舔棒棒糖、剥香蕉等荒诞动作里，看到相册内容被重新放进小游戏场景。
@@ -855,13 +862,13 @@
     </item>
     <item>
       <title>周末看什么｜《曼达洛人与古古》</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">周末看什么｜《曼达洛人与古古》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ade688ab-83f4-42a2-9508-9c469866c127.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Star Wars: The Mandalorian &amp;amp; Grogu is the first theatrical film in Disney's The Mandalorian series, with a storyline that continues after the third season. It is directed by Jon Favreau, co-written by Dave Filoni and Noah Kloor, and stars Pedro Pascal.
+            Star Wars: The Mandalorian &amp;amp; Grogu is the first theatrical film in Disney's The Mandalorian series, with a timeline that follows the third season. It is directed by Jon Favreau, co-written by Dave Filoni and Noah Kloor, and stars Pedro Pascal.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《星球大战：曼达洛人与古古》是迪士尼旗下《曼达洛人》剧集系列的首部院线电影，故事时间线接续第三季之后，由乔恩·费儒执导，与戴夫·菲洛尼、诺亚·克鲁尔联合编剧，佩德罗·帕斯卡主演。
@@ -875,14 +882,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film continues the series' core narrative of 'father-son bond,' progressing with a game-like 'level-clearing and monster-fighting' structure. The scope is relatively restrained, not focusing on a grand confrontation between the New Republic and the Imperial remnants.
+            The film continues the series' core narrative of 'father-son bond', progressing with a game-like 'level-clearing and monster-fighting' structure. Its scope is relatively restrained, not focusing on the grand confrontation between the New Republic and the Imperial remnants.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片延续剧集「父子情」这一核心叙事主轴，以游戏式的「通关打怪」结构推进，格局相对克制，并未着力展开新共和国与帝国余孽的宏观对抗。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As of May 29, 2026, the film received a score of 7.4 on Douban (27,407 ratings), outperforming 80% of action films and 83% of sci-fi films.
+            As of May 29, 2026, the film received a rating of 7.4 on Douban (27,407 reviews), outperforming 80% of action films and 83% of sci-fi films.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             截至 2026 年 5 月 29 日，影片在豆瓣获得 7.4 分（27407 人评价），好于 80% 动作片及 83% 科幻片。
@@ -891,34 +898,34 @@
     </item>
     <item>
       <title>买书不读指南｜《大厂病：从个体困境到组织表演》</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">买书不读指南｜《大厂病：从个体困境到组织表演》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7acd077d-94be-4f26-b4bb-7b7c24192bbe.jpg&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xi Fanjun, author of 'Big Tech Sickness,' has over ten years of experience working in large technology companies, having long engaged in strategic communication and technology governance, and now focuses on organizational structure and public narrative research.
+            Xi Fanjun, author of 'Big Tech Syndrome', has over ten years of experience working in large technology companies, having long been engaged in strategic communication and technology governance. Currently, he focuses on organizational structure and public narrative research.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《大厂病》作者席凡君拥有十余年大型科技企业从业经历，长期从事战略传播与技术治理工作，现专注组织结构与公共叙事研究。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This book approaches the topic from a sociological perspective, drawing on theoretical resources from Weber, Foucault, Bauman, Bourdieu, and others, to systematically dissect the structural roots behind contemporary workplace phenomena such as 'involution,' 'lying flat,' and the '35-year-old crisis'.
+            This book approaches the topic from a sociological perspective, drawing on theoretical resources from Weber, Foucault, Bauman, Bourdieu, and others, to systematically dissect the structural roots behind contemporary workplace phenomena such as 'involution', 'lying flat', and the '35-year-old crisis'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             本书以社会学视角切入，援引韦伯、福柯、鲍曼、布尔迪厄等理论资源，系统解剖「内卷」「躺平」「35 岁危机」等当代职场现象背后的结构性根源。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The book's core argument is that individual anxiety and burnout do not stem from insufficient effort, but are the inevitable products of the alienation of modern organizational structures. Xi Fanjun extracts a series of original concepts such as 'liquid person,' 'safe person,' 'performative governance,' and 'the cage of language,' dissecting how big tech companies reshape human behavior and hollow out people's sense of meaning through processes, performance, and rhetoric.
+            The core argument of the book is that individual anxiety and burnout do not stem from insufficient effort, but are an inevitable product of the alienation of modern organizational structures. Xi Fanjun extracts a series of original concepts such as 'liquid person', 'safe person', 'performative governance', and 'cage of language', dissecting how large companies reshape human behavior and hollow out people's sense of meaning through processes, performance, and rhetoric.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             全书核心论点在于：个体的焦虑与倦怠，并非源于努力不足，而是现代组织结构异化的必然产物。席凡君提炼出「液态人」「安全人」「表演性治理」「语言的牢笼」等一系列原创概念，逐一拆解大厂如何以流程、绩效与话术重塑人的行为、掏空人的意义感。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The book points out that when companies evolve into 'self-sustaining systems,' middle managers become 'loyal hostages,' and senior employees face a higher risk of marginalization—'correct process, no one survives' is the core metaphor running through the entire book.
+            The book points out that when companies evolve into 'self-sustaining systems', middle managers become 'loyal hostages', and senior employees face a higher risk of marginalization – 'correct process, no one survives' is the core metaphor running through the entire book.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             书中指出，当公司进化为「自我维持的系统」，中层管理者沦为「忠诚人质」，资深员工反而面临更高的边缘化风险——「流程正确，无人生还」是贯穿全书的核心隐喻。
@@ -927,7 +934,7 @@
     </item>
     <item>
       <title>游戏推荐｜Steam 限免《Drift86》，适合周末试试漂移</title>
-      <pubDate>Sat, 30 May 2026 06:27:35 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 08:44:00 +0000</pubDate>
       <guid isPermaLink="false">游戏推荐｜Steam-限免《Drift86》，适合周末试试漂移</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/5357ca73-dd08-4a3e-abd9-c7a6c723fa24.jpg&quot;/&gt;
@@ -940,7 +947,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            'Drift86' features lightweight drifting gameplay, including over 40 vehicles and more than 30 maps, supporting single-player and multiplayer modes. The game's atmosphere is influenced by 'Initial D,' with Eurobeat music and arcade-style cornering rhythms, focusing on quickly entering drifts, scoring, and repeating routes.
+            'Drift86' features lightweight drifting gameplay, including over 40 vehicles and more than 30 maps, supporting single-player and multiplayer modes. The game's atmosphere is influenced by 'Initial D', with Eurobeat music and arcade-style cornering rhythms, focusing on quickly entering drifts, scoring, and route grinding loops.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《Drift86》主打轻量漂移玩法，收录超过 40 种车辆和 30 多张地图，支持单人和多人模式。游戏氛围受到《头文字 D》影响，搭配 Eurobeat 音乐和街机化过弯节奏，重心放在快速进入甩尾、计分和刷路线的循环。
