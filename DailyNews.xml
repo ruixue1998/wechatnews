@@ -2,251 +2,185 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Sat, 06 Jun 2026 06:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:35:00 +0000</lastBuildDate>
     <item>
       <title>Anthropic 呼吁「暂停研发」AI，自曝 80% 代码由 AI 编写</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">Anthropic-呼吁「暂停研发」AI，自曝-80%-代码由-AI-编写</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f1ad7832-895e-4ca6-a857-772b92ea4167.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Anthropic published a blog post yesterday stating that frontier AI developers should establish a coordinated, verifiable mechanism: when advanced systems begin to self-improve at a rate that society finds difficult to manage, laboratories should slow down or temporarily pause development.
+            Anthropic published a blog post yesterday stating that frontier AI developers should establish a coordinated, verifiable mechanism: when advanced systems begin to self-improve at a rate that poses risks difficult for society to manage, laboratories should slow down or temporarily pause research and development.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Anthropic 昨日发布一篇博客文章表示，前沿 AI 开发者应建立一套协调、可验证的机制：当高级系统开始以社会难以管理风险的速度自我改进时，各家实验室可以放慢或暂时暂停研发。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Anthropic stated that AI capable of &quot;building its own successors&quot; would change the history of technology, but complete recursive self-improvement could also increase the risk of humanity losing control. The company cited an example: as of May, over 80% of the code entering Anthropic's codebase was written by Claude.
+            Anthropic stated in its announcement that AI capable of &quot;building its own successors&quot; would change the history of technology, but complete recursive self-improvement could also increase the risk of humanity losing control. The company cited an example: as of May, over 80% of the code entering Anthropic's codebase was written by Claude.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Anthropic 在声明中称，能够「构建自身后继者」的 AI 会改变技术史，但完整递归式自我改进也可能增加人类失去控制的风险。公司举例称，截至 5 月，进入 Anthropic 代码库的代码中，超过 80% 由 Claude 编写。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Anthropic also emphasized that a unilateral pause could be counterproductive, as less cautious participants would still continue to advance. It proposed that a truly effective pause would require the joint participation of multiple well-resourced laboratories at the forefront of technology, with pre-defined trigger conditions, lifting conditions, and oversight bodies.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             Anthropic 同时强调，单方面暂停可能适得其反，因为更不谨慎的参与者仍会继续推进。它提出，真正有效的暂停需要多个位于技术前沿、资源充足的实验室共同参与，并事先定义触发条件、解除条件和监督方。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/eQHd5EYy9X4dK7_N31xQyA&quot;&gt;
-             Just now, Claude revealed 80% of its code was written by AI, and Anthropic called for a halt to AI research
-            &lt;/a&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/eQHd5EYy9X4dK7_N31xQyA&quot;&gt;
-             刚刚，Claude自曝80%代码AI写的，Anthropic呼吁停止研究AI
-            &lt;/a&gt;
-&lt;/span&gt;
+           &lt;/span&gt;
+&lt;a href=&quot;https://mp.weixin.qq.com/s/eQHd5EYy9X4dK7_N31xQyA&quot;&gt;
+            刚刚，Claude自曝80%代码AI写的，Anthropic呼吁停止研究AI
+           &lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>黄仁勋访韩首站去 T1 网吧，向 Faker 赠送签名版 RTX 5090</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">黄仁勋访韩首站去-T1-网吧，向-Faker-赠送签名版-RTX-5090</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/059f39db-ffa7-477d-9831-973cec7b6648.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Jiemian News citing Yonhap, Nvidia CEO Jensen Huang visited South Korea yesterday, with his first stop at the T1 themed internet cafe &quot;T1 BASE CAMP&quot; near Hongdae in Seoul, where he met with players from the T1 League of Legends team. All 5 team members, including captain Faker (Lee Sang-hyeok), were present. Both parties took a group photo and made the team's classic gesture on site.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             据界面新闻援引韩联社报道，英伟达 CEO 黄仁勋昨日访问韩国，首站前往首尔弘大附近的 T1 主题网吧「T1 BASE CAMP」，与 T1 英雄联盟战队选手会面。队长 Faker（李相赫）等 5 名队员全部出席，双方合影留念，现场比出战队经典手势。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the event, Jensen Huang personally drew and gave away an RTX 5090 signed graphics card, joking to fans, &quot;You need to buy a new graphics card, I need money.&quot; Huang also presented Faker himself with a special edition RTX 5090 graphics card, personally signed by him and described as &quot;the only one in the world.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             活动期间，黄仁勋现场抽送了一块 RTX 5090 签名显卡，并向粉丝开玩笑称：「你得买个新显卡，我需要钱。」黄仁勋还向 Faker 本人赠送了一张由其亲笔签名、被称为「全球仅此一张」的特别版 RTX 5090 显卡。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            T1 official posted on Weibo yesterday, stating that they would use this meeting as motivation to demonstrate their competitive form in upcoming matches.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             T1 官方昨日在微博发文表示，会把此次会面作为动力，在接下来的比赛中展现竞技状态。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>抖音副总裁回应「豆包误判蘑菇导致用户中毒」</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">抖音副总裁回应「豆包误判蘑菇导致用户中毒」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/51d47bc8-b295-4f72-9950-338bd2667aa1.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Li Liang, Vice President of Douyin Group, posted yesterday to respond to the incident where &quot;Doubao misidentified mushrooms leading to user poisoning,&quot; stating that Doubao has contacted the user involved and reviewed the identification response at the time.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             抖音集团副总裁李亮昨日发文回应「豆包误判蘑菇导致用户中毒」一事，称豆包已经联系到当事用户，并复盘了当时的识别回复。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Li Liang, when the user used Doubao to photograph and identify mushrooms picked from the community, Doubao identified them as &quot;chicken leg mushrooms.&quot; However, the same reply also clearly warned that this type of mushroom is very easily confused with the highly toxic Chlorophyllum molybdites, and accidental ingestion can cause severe gastroenteritis symptoms;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             据李亮披露，该用户使用豆包拍照识别从小区摘到的蘑菇时，豆包将其识别为「鸡腿菇」，但同一条回复中也明确提示，这类蘑菇极容易和剧毒的大青褶伞混淆，误食会引发严重胃肠炎症状；
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            If these mushrooms were picked in the wild, it is strongly recommended not to eat them. Doubao also wrote in its reply that the risk of identifying wild mushrooms is extremely high, and it is impossible to 100% rule out the possibility of toxic similar species based on images alone.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             如果这些蘑菇是野外采摘，强烈建议不要食用。豆包还在回复中写到，野生蘑菇辨别风险极高，仅凭图片无法 100% 排除有毒相似种可能。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Li Liang stated that AI is currently in its development stage, and when it comes to issues involving personal safety, AI answers can only serve as a reference and require consultation and verification from multiple sources. He also reminded that mushrooms or other fruits picked in residential areas, even if non-toxic themselves, may contain pesticides or other substances, and are not recommended for consumption.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             李亮表示，AI 目前仍在发展阶段，涉及人身安全的问题时，AI 回答只能作为参考，需要多方咨询求证。他还提醒，小区里摘到的蘑菇或其他果类，即使本身无毒，也可能存在农药等情况，不建议食用。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 回应大量账号被封</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">OpenAI-回应大量账号被封</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260606_%E6%97%A9%E6%8A%A5/b5a05837-590b-44f2-b922-56524522592e.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, multiple OpenAI users reported sudden account suspensions, with the affected scope covering features such as ChatGPT, Codex, API, subscription services, and custom GPTs. Some users stated they received no prior warning or specific explanation; among those who submitted appeals, some reported their appeals were rejected without explanation.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             昨天，多名 OpenAI 用户反映账号遭突然暂停，受影响范围涵盖 ChatGPT、Codex、API、订阅服务及自定义 GPT 等功能。部分用户称未收到任何预警，也未获得具体原因说明；已提交申诉的用户中，有人表示申诉被拒且无解释。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            OpenAI's official status page began investigating at 21:26 (Beijing time) that evening, confirmed the issue at 22:20, and at 23:19, issued an announcement stating that &quot;a system issue caused some user accounts to be incorrectly suspended&quot; and announced that it had begun restoring account access. At 00:09 this morning, OpenAI updated its status to &quot;All affected services have been fully restored.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             OpenAI 官方状态页面于当日晚间 21:26（北京时间）开始调查，22:20 确认问题，23:19 发布公告称「系统问题导致部分用户账号被错误暂停」，并宣布已着手恢复账号访问权限。今天凌晨 00:09，OpenAI 更新状态为「所有受影响服务已完全恢复」。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            However, the restoration work did not end there. In the following hours, OpenAI continuously updated its status, stating that it was still investigating more affected users and addressing related subscription and credit issues. As of 05:19 on June 6, the team stated that affected users would gradually receive explanatory emails and that they would continue to monitor subsequent changes.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             然而，恢复工作并未就此结束。此后数小时内，OpenAI 持续更新状态，表示仍在排查更多受影响用户，并处理相关订阅和信用额度问题。截至 6 月 6 日 05:19，团队表示受影响用户将陆续收到说明邮件，并继续监测后续变化。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>腾讯首席 AI 科学家姚顺雨：AI 下半场真正稀缺的是好问题，不是好方法</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">腾讯首席-AI-科学家姚顺雨：AI-下半场真正稀缺的是好问题，不是好方法</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/abc0ff44-4338-417d-abe1-48cc2adc72c4.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Yao Shunyu, Tencent's Chief AI Scientist, had a public dialogue with Tang Daosheng, Senior Executive Vice President of Tencent Group, at the 2026 Tencent Cloud AI Industry Application Conference, systematically elaborating on his judgment of the &quot;second half of AI&quot; and his core thinking after joining Tencent.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             昨日，腾讯首席 AI 科学家姚顺雨在 2026 腾讯云 AI 产业应用大会上与腾讯集团高级执行副总裁汤道生公开对谈，系统阐述了他对 AI 下半场的判断，以及加入腾讯后的核心思路。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yao Shunyu believes that the core shift in the &quot;second half of AI&quot; is that methodologies have matured, and what is truly scarce are good problems worth solving.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             姚顺雨认为，「AI 下半场」的核心转变在于：方法论已趋于成熟，真正稀缺的是值得解决的好问题。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He likens large models to a universal hammer that can hit any nail, but finding the nail worth hitting is the real challenge today. In his view, Tencent's appeal lies precisely here – its rich product matrix means a sufficient number of &quot;good problems&quot; and the real context needed for model training.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             他将大模型比作一把万能锤子，能砸任何钉子，但找到那颗值得砸的钉子，才是今天真正的挑战。在他看来，腾讯的吸引力正在于此——丰富的产品矩阵意味着足够多的「好问题」，以及模型训练所需的真实 context。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of R&amp;amp;D direction, he characterizes Coding Agent as a &quot;mandatory course&quot; for model vendors, emphasizing that to do coding well, what's needed is far more than just coding data itself; the generalization capability of large models is fundamental. Regarding the token efficiency issue, his judgment is: performance is the prerequisite for cost-effectiveness, and &quot;using a worse model might actually be more expensive.&quot;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             在研发方向上，他将 Coding Agent 定性为模型厂商的「必修课」，强调要把 Coding 做好，需要的远不止 Coding 数据本身，大模型的泛化性才是根本。对于 Token 效率问题，他的判断是：性价比的前提是性能，「用更差的模型反而可能更贵」。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the dialogue, Tang Daosheng also responded to external criticism that &quot;Tencent is slow,&quot; admitting that in a complex organization, different business lines have varying speeds, some fast, some slow, with failures and explorations, and he maintains an open attitude towards external criticism.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             对话中，汤道生也回应了外界「腾讯慢了」的批评，承认在复杂组织中不同业务线速度不一，有快有慢，也有失败与探索，对外界批评持开放态度。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/2pgh-P-fvx4gBBEbGl0iyg&quot;&gt;
-             Just now, Yao Shunyu discussed the &quot;second half of AI&quot; again | Full dialogue attached
-            &lt;/a&gt;
-&lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/2pgh-P-fvx4gBBEbGl0iyg&quot;&gt;
-             刚刚，姚顺雨再谈 AI 下半场 | 附对话全文
-            &lt;/a&gt;
-&lt;/span&gt;
+           &lt;/span&gt;
+&lt;a href=&quot;https://mp.weixin.qq.com/s/2pgh-P-fvx4gBBEbGl0iyg&quot;&gt;
+            刚刚，姚顺雨再谈 AI 下半场 | 附对话全文
+           &lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>三大运营商提醒高考考点将开启信号屏蔽设备</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">三大运营商提醒高考考点将开启信号屏蔽设备</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9878df85-a6f3-4943-aba4-c469f3a44105.jpg&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Red Star News, China Mobile, China Unicom, and China Telecom, the three major operators, have issued network shielding reminders for the college entrance examination period. To maintain exam discipline, during the 2026 National College Entrance Examination, all examination centers will activate radio signal shielding equipment.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             据红星新闻报道，移动、联通、电信三大运营商已发布高考期间网络屏蔽提醒。为维护考场纪律，2026 年全国高考期间，各考点学校将开启无线电信号屏蔽设备。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Operators reminded that users in and around examination areas may experience weakened signals, inability to make or receive calls despite having a signal, dropped calls, slow mobile internet, and failed SMS delivery. Such communication impacts typically occur within and around the examination exclusion zones and will return to normal after the exams.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
             运营商提醒称，考点区域及周边用户可能遇到信号减弱、有信号但无法拨打或接听电话、通话中断、手机上网变慢、短信收发失败等情况。相关通信影响通常发生在考点封闭区及周边，考试结束后会恢复正常。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
       <title>追觅俞浩微博被禁言，内部信称继续做实业</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">追觅俞浩微博被禁言，内部信称继续做实业</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/65199852-de33-470a-8ec4-bf44babf8562.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, the Weibo homepage of Yu Hao, founder and CEO of Dreame Technology, showed 'This user is currently banned due to violating relevant laws and regulations.' Yu Hao's latest Weibo post was published at 23:32 on June 1; his Douyin, Xiaohongshu, and other accounts have also recently stopped updating or have been urged by fans for updates.
+            Yesterday, the Weibo homepage of Yu Hao, founder and CEO of Dreame Technology, showed 'This user is currently banned due to violations of relevant laws and regulations.' Yu Hao's latest Weibo post was published at 23:32 on June 1; his Douyin, Xiaohongshu, and other accounts have also recently stopped updating or have been urged by fans for updates.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             昨天，追觅科技创始人兼 CEO 俞浩的微博主页显示「因违反相关法律法规，该用户目前处于禁言状态」。俞浩最新一条微博发布时间为 6 月 1 日 23:32；他的抖音、小红书等账号近期也出现停更或粉丝催更。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Jiemian News later revealed that Yu Hao posted in a large internal Dreame group yesterday, stating that in the future he would continue to 'focus wholeheartedly on real industry,' adhere to technological innovation, and concentrate his efforts on technology R&amp;amp;D and products.
+            Jiemian News later disclosed that Yu Hao posted in a large internal Dreame group yesterday, stating that he would continue to 'focus wholeheartedly on real industry,' adhere to technological innovation, and concentrate his energy on technology R&amp;amp;D and products.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             界面新闻随后披露，俞浩昨日在追觅内部大群发文，称未来会继续「心无旁骛做实业」，坚持技术创新，并把精力放在技术研发和产品上。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He mentioned in the internal letter that in Q1 2026, Dreame's global sales volume and value for robot vacuum cleaners were both number one; from May 2023 to the present, Dreame has achieved over 30 first-place rankings in more than 120 countries and regions, with market share exceeding half in 10 countries.
+            He mentioned in the internal letter that in Q1 2026, Dreame's robot vacuum global sales volume and value were both number one; from May 2023 to date, Dreame has achieved over 30 first places in more than 120 countries and regions, with market share exceeding half in 10 countries.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             他在内部信中提到，2026 年一季度追觅扫地机全球销量和销额均为第一；从 2023 年 5 月至今，追觅在 120 多个国家和地区市场拿到 30 多个第一，10 个国家的份额超过一半。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yu Hao also stated in the internal letter that Dreame's R&amp;amp;D investment over the past few years has consistently been more than three times the industry average, and subsequent R&amp;amp;D investment will only increase; the company will continue to deeply explore global regional markets and transform temporary first-place positions into more stable regional leadership.
+            Yu Hao also stated in the internal letter that Dreame's R&amp;amp;D investment in the past few years has always been more than three times the industry average, and subsequent R&amp;amp;D investment will only increase; the company will continue to deeply explore global regional markets and convert temporary first places into more stable regional leadership.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             俞浩在内部信中还称，追觅过去几年研发投入一直是行业平均的三倍以上，后续研发投入只会增加；公司会继续深挖全球区域市场，把阶段性第一转化为更稳定的区域领先。
@@ -255,7 +189,7 @@
     </item>
     <item>
       <title>可灵 AI 两年用户突破 1 亿</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">可灵-AI-两年用户突破-1-亿</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/577ad785-eaed-4a9d-a039-0bdfbe994b83.png&quot;/&gt;
@@ -268,7 +202,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            IT Home reported that Keling AI, Kuaishou's video generation business, is undergoing its first round of financing after its spin-off, with a pre-investment valuation of $18 billion, and is progressing at a pace to submit its Hong Kong stock listing application materials by early 2027.
+            IT Home's report mentioned that Keling AI, Kuaishou's video generation business, is undergoing its first round of financing after its spin-off, with a pre-money valuation of US$18 billion, and is progressing at a pace to submit its Hong Kong stock listing application materials by early 2027.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             IT 之家的报道提到，快手旗下视频生成业务可灵 AI 正在进行分拆后的首轮融资，投前估值为 180 亿美元，并按 2027 年年初递交港股上市申报材料的节奏推进。
@@ -277,7 +211,7 @@
     </item>
     <item>
       <title>小米机器人团队拿下 CVPR 和 ICRA 双赛冠军</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">小米机器人团队拿下-CVPR-和-ICRA-双赛冠军</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/43e81a59-7243-4c24-956a-287fc51feb50.png&quot;/&gt;
@@ -290,7 +224,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Specifically, the CVPR 2026 Workshops-GigaBrain Challenge-RoboChallenge Track includes 30 real robot tasks, covering bimanual dexterous manipulation, deformable object manipulation, tool causal reasoning, and cross-platform robustness, requiring 10 consecutive interference-free tests and submission of a unified multi-task model.
+            Specifically, the CVPR 2026 Workshops-GigaBrain Challenge-RoboChallenge Track includes 30 real robot tasks, covering dual-arm dexterous manipulation, deformable object manipulation, tool causal reasoning, and cross-platform robustness, requiring 10 consecutive interference-free tests and submission of a unified multi-task model.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             其中，CVPR 2026 Workshops-GigaBrain Challenge-RoboChallenge Track 包含 30 个真实机器人任务，覆盖双臂灵巧操作、柔性物体操作、工具因果推理和跨平台健壮性，要求连续 10 次无干扰测试并提交统一多任务模型。
@@ -304,14 +238,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaomi stated that 'my16' adopts the WAM (World Action Model) architecture, which includes 'S1 / S2 dual systems + long-short term memory + cross-body pre-training.' The S2 multimodal large model is responsible for high-level role division and sub-goal allocation, while the S1 world model is responsible for modeling future trajectories of dual arms and consistency constraints; long-term memory tracks task progress, and short-term memory captures recent actions and observations.
+            Xiaomi stated that 'my16' adopts the WAM World Action Model architecture, which includes 'S1 / S2 dual systems + long-short term memory + cross-entity pre-training.' The S2 multimodal large model is responsible for high-level role division and sub-goal allocation, while the S1 world model is responsible for dual-arm future trajectory modeling and consistency constraints; long-term memory tracks task progress, and short-term memory captures recent actions and observations.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             小米称，「my16」采用 WAM 世界动作模型架构，包含「S1 / S2 双系统 + 长短期记忆 + 跨本体预训练」。S2 多模态大模型负责高层角色分工和子目标分配，S1 世界模型负责双臂未来轨迹建模和一致性约束；长期记忆跟踪任务进展，短期记忆捕捉最近动作和观测。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In individual tasks, 'my16' achieved a 60% success rate for 'returning books to their place,' 90% for 'opening drawers and placing objects,' and 50% for 'placing objects in a pen holder'; in long-range tasks, it achieved a 90% success rate for 'pressing buttons' and 40% for 'scooping with a small spoon.'
+            In individual tasks, 'my16' achieved a 60% success rate in 'returning books to their place,' 90% in 'opening drawers and placing objects,' and 50% in 'placing pens in a holder'; in long-range tasks, it achieved a 90% success rate in 'pressing buttons' and 40% in 'scooping with a small spoon.'
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             分项任务中，「my16」在「书本归位」成功率 60%，「开抽屉放物」成功率 90%，「放笔筒」成功率 50%；长程任务里，「按按钮」成功率 90%，「小勺舀取」成功率 40%。
@@ -320,7 +254,7 @@
     </item>
     <item>
       <title>华为云把 Token 指标转向生产力</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">华为云把-Token-指标转向生产力</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ef292b39-2558-4d14-a8be-f644161ad50c.png&quot;/&gt;
@@ -333,7 +267,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Zhou Yuefeng also mentioned that Huawei Cloud will focus productivity on industry scenarios. In the direction of embodied intelligence, the CloudRobo development platform shares computing power, data, and models with small and medium-sized enterprises; in the medical direction, the pathology large model jointly developed by Huawei Cloud and Ruijin Hospital has been launched, allowing county-level and municipal hospitals to invoke top-tier diagnostic capabilities via the cloud.
+            Zhou Yuefeng also mentioned that Huawei Cloud will focus productivity on industry scenarios. In the direction of embodied intelligence, the CloudRobo development platform shares computing power, data, and models with small and medium-sized enterprises; in the medical direction, the pathology large model jointly developed by Huawei Cloud and Ruijin Hospital has been launched, allowing county-level and municipal hospitals to call upon top-tier diagnostic capabilities via the cloud.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             周跃峰还提到，华为云会把生产力落点放到行业场景。具身智能方向，CloudRobo 开发平台面向中小企业共享算力、数据和模型；医疗方向，华为云与瑞金医院联合开发的病理大模型已上线，用于让县域、地市级医院通过云端调用三甲水平诊断能力。
@@ -347,20 +281,20 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
 &lt;p&gt;AICS Lingqu Intelligent Computing Cluster: Based on the Lingqu network, it supports a cluster scale of 100,000 cards, with a total computing power of 200 EFLOPS, token generation latency compressed to within 10 milliseconds, a throughput of 5 million tokens per thousand cards per second, and online service availability of 99.95%.&lt;/p&gt;
-&lt;p&gt;CCE Volcano Next: Through shared training-inference pools and fragment integration, it hybrid-schedules general computing power and intelligent computing power. The official statement claims resource utilization is increased by over 30%.&lt;/p&gt;
-&lt;p&gt;AMS Memory Storage Solution and AgentSphere: The former uses NPU direct hardware access to create PB-level memory space, while the latter provides a secure operating environment for agents with 100-millisecond startup.&lt;/p&gt;
+&lt;p&gt;CCE Volcano Next: Through training-inference co-pooling and fragment integration, it hybrid-schedules general computing power and intelligent computing power. The official statement claims resource utilization is increased by over 30%.&lt;/p&gt;
+&lt;p&gt;AMS Memory Storage Solution and AgentSphere: The former uses NPU direct hardware access to create PB-level memory space, while the latter provides a secure runtime environment for agents with 100-millisecond startup.&lt;/p&gt;
 &lt;p&gt;ModelArts Next: MaaS model routing accesses over 15 models. The official statement claims scheduling accuracy exceeds 95%, and invocation costs are reduced by an average of 20%.&lt;/p&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>英特尔与鸿海合作 AI 机柜和边缘 AI 平台</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">英特尔与鸿海合作-AI-机柜和边缘-AI-平台</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/a6bccb29-3399-4ae9-8d74-4af115124967.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Foxconn Technology Group announced a strategic partnership with Intel yesterday. The two parties will combine Intel's capabilities in processors, silicon photonics technology, and software ecosystem with Foxconn's experience in manufacturing, system integration, and AI data center deployment. The scope of cooperation is divided into three layers:
+            Hon Hai Technology Group announced a strategic cooperation with Intel yesterday. The two parties will combine Intel's capabilities in processors, silicon photonics technology, and software ecosystem with Hon Hai's experience in manufacturing, system integration, and AI data center deployment. The scope of cooperation is divided into three layers:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             鸿海科技集团昨日宣布与英特尔展开战略合作，双方会把英特尔在处理器、硅光子技术和软件生态上的能力，与鸿海的制造、系统整合和 AI 数据中心部署经验结合起来。合作范围分为三层：
@@ -371,7 +305,7 @@
 &lt;p&gt;Custom ASIC, SoC, and system integration design services.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Foxconn Chairman Liu Yangwei stated that this cooperation will build an ecosystem around AI Infrastructure, Edge AI, and Physical AI. Intel CEO Chen Liwu said that large-scale inference and agentic AI workloads are redefining modern computing needs, and the cooperation will cover silicon, chip design, rack-level systems, and edge deployment.
+            Foxconn Chairman Young Liu stated that this cooperation will build an ecosystem around AI Infrastructure, Edge AI, and Physical AI. Intel CEO Chen Liwu said that large-scale inference and agentic AI workloads are redefining modern computing needs, and the cooperation will cover silicon, chip design, rack-level systems, and edge deployment.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             鸿海董事长刘扬伟称，这次合作将围绕 AI Infrastructure、Edge AI 和 Physical AI 建立生态。英特尔 CEO 陈立武则表示，大规模推理和代理式 AI 工作负载正在重新定义现代计算需求，合作会覆盖硅晶、芯片设计、机柜级系统到边缘部署。
@@ -380,34 +314,34 @@
     </item>
     <item>
       <title>原力灵机并购物流机器人公司 Atomix</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">原力灵机并购物流机器人公司-Atomix</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1d0e828b-753f-4fa3-8543-f9d8ac555aa1.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 36Kr, embodied AI company &quot;Yuanli Lingji&quot; recently completed a new round of financing, with investors including Zhipu, Jieceng Xingchen, SenseTime, and industrial capital such as Huaqin and SAIC Hengxu. The company also completed a merger with logistics robotics company Atomix through an equity acquisition.
+            According to 36Kr, embodied AI company &quot;Yuanli Lingji&quot; recently completed a new round of financing, with investors including Zhipu AI, StepAhead, SenseTime, as well as industrial capital such as Huaqin and SAIC Hengxu. The company also completed a merger with logistics robotics company Atomix through an equity acquisition.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 36 氪报道，具身智能企业「原力灵机」近期完成新一轮融资，投资方包括智谱、阶跃星辰、商汤科技，以及华勤、上汽恒旭等产业资本。公司还通过股权并购方式，完成与物流机器人公司 Atomix 的合并。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yuanli Lingji was founded by Tang Wenbin, co-founder and CTO of Megvii Technology, in March 2025, positioned as a general embodied large model company; Atomix's four-way pallet shuttle sales have reached second globally, serving over 500 projects, with clients including Uniqlo, Mixue Bingcheng, CATL, etc., and annual revenue approaching one billion yuan.
+            Yuanli Lingji was founded in March 2025 by Tang Wenbin, co-founder and CTO of Megvii Technology, positioning itself as a general embodied large model company; Atomix's four-way shuttle sales have reached second globally, having served over 500 projects, with clients including Uniqlo, Mixue Bingcheng, CATL, etc., and annual revenue approaching one billion yuan.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             原力灵机由旷视科技联合创始人兼 CTO 唐文斌在 2025 年 3 月创立，定位为通用具身大模型公司；Atomix 托盘四向车销量已达全球第二，累计服务超过 500 个项目，客户包括优衣库、蜜雪冰城、宁德时代等，年营收近十亿元。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The focus after the merger is to integrate scenario data into embodied model training. The report mentioned that Atomix's real operational data from over 500 projects in more than 20 countries will become a training source for Yuanli Lingji's models;
+            The focus after the merger is to integrate scene data into embodied model training. The report mentioned that Atomix's real operational data from over 500 projects in more than 20 countries will become a training source for Yuanli Lingji's models;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             合并后的重点是把场景数据接入具身模型训练。报道提到，Atomix 在 20 多个国家、500 多个项目中的真实作业数据，将成为原力灵机模型训练来源；
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yuanli Lingji previously launched the general embodied large model DM0, stating that it enhances cross-body migration capabilities through mixed training with internet semantics, intelligent driving physical rules, and robot operational data.
+            Yuanli Lingji previously launched the general embodied large model DM0, stating that it enhances cross-body transfer capabilities through hybrid training with internet semantics, intelligent driving physical rules, and robot operational data.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             原力灵机此前已推出通用具身大模型 DM0，并称其通过互联网语义、智能驾驶物理规则和机器人实操数据混合训练，提升跨本体迁移能力。
@@ -416,25 +350,25 @@
     </item>
     <item>
       <title>百曜科技完成新融资，继续做 AI 虚拟细胞</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">百曜科技完成新融资，继续做-AI-虚拟细胞</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to 36Kr, AI virtual cell platform company &quot;Baiyao Technology&quot; recently completed a new round of financing worth tens of millions of yuan, led by Guoxin Venture Capital Fund under China Guoxin, with follow-on investments from Daotong Capital, Yunqi Partners, and additional investments from Frees Fund and Baidu Ventures.
+            According to 36Kr, AI virtual cell platform company &quot;Baiyao Technology&quot; recently completed a new round of financing worth tens of millions of yuan, led by Guoxin Venture Capital Fund under China Reform Holdings, with follow-on investments from Daohe Capital and Yunqi Partners, and additional investments from FreesFund and Baidu Ventures.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据 36 氪报道，AI 虚拟细胞平台公司「百曜科技」近期完成数千万元新一轮融资，由中国国新旗下国新创投基金领投，道彤资本、云启资本跟投，峰瑞资本和百度风投追加投资。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Baiyao Technology's founding team relies on the scientific research resources of the Institute of Zoology, Chinese Academy of Sciences, and Beijing Institute of Stem Cell and Regenerative Medicine, and has been building an AI virtual cell foundational large model since 2023.
+            Baiyao Technology's founding team, relying on research resources from the Institute of Zoology, Chinese Academy of Sciences, and Beijing Institute of Stem Cell and Regenerative Medicine, began building an AI virtual cell foundational large model in 2023.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             百曜科技创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院科研资源，自 2023 年起构建 AI 虚拟细胞基础大模型。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The company states that AIVC's goal is to elevate the AI modeling level from molecules to cells, simulating the dynamic response of living systems to perturbations such as drugs, gene editing, or environmental changes.
+            The company states that AIVC's goal is to elevate AI modeling from the molecular level to the cellular level, simulating the dynamic response of living systems to perturbations such as drugs, gene editing, or environmental changes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             公司称，AIVC 的目标是把 AI 建模层级从分子提升到细胞，模拟生命系统对药物、基因编辑或环境变化等扰动的动态响应。
@@ -443,13 +377,13 @@
     </item>
     <item>
       <title>开源数据库 Supabase 完成 5 亿美元 F 轮融资</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">开源数据库-Supabase-完成-5-亿美元-F-轮融资</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/a0627cf9-dc98-4250-998a-1964fba5eb86.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Open-source database Supabase announced yesterday the completion of a $500 million Series F funding round, valuing the company at $10.5 billion post-money. This round was led by Singapore sovereign wealth fund GIC, with participation from Stripe, Georgian, and Salesforce Ventures, among others.
+            Open-source database Supabase announced yesterday the completion of a $500 million Series F funding round, valuing the company at $10.5 billion post-money. This round was led by Singapore's sovereign wealth fund GIC, with participation from Stripe, Georgian, and Salesforce Ventures, among others.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             开源数据库 Supabase 昨日宣布完成 5 亿美元 F 轮融资，投后估值 105 亿美元。本轮由新加坡主权财富基金 GIC 领投，Stripe、Georgian 和 Salesforce Ventures 等参投。
@@ -465,7 +399,7 @@
     </item>
     <item>
       <title>💡 Verizon CEO：AI 会替代大量客服例行请求</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">💡-Verizon-CEO：AI-会替代大量客服例行请求</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fcb61504-a4a3-40cd-9508-82618c1a8aae.png&quot;/&gt;
@@ -478,14 +412,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Schulman mentioned that AI is already suitable for handling routine customer service requests such as billing amounts and plan changes, and can improve customer satisfaction when used. However, he also emphasized that many requests still require AI agents and human customer service representatives to complete together, and customer service work will not be solved solely by an automated entry point.
+            Schulman mentioned that AI is already suitable for handling routine customer service requests such as billing amounts and plan changes, and can improve customer satisfaction when used. However, he also emphasized that many requests still require a combination of AI agents and human customer service, and customer service work will not be solved solely by an automated entry point.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Schulman 提到，AI 已适合处理账单金额、套餐变化等例行客服请求，并且在使用时可以提高客户满意度。但他同时强调，许多请求仍需要 AI 智能体与人工客服共同完成，客服工作不会只靠一个自动化入口解决。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Schulman believes that changes in customer service roles should be differentiated by request type. He divided customer service requests into two categories: standardized issues like billing and plans can be handled faster by AI; requests requiring cross-system judgment, continuous communication, or human authorization will be completed by both AI agents and human customer service representatives.
+            Schulman believes that changes in customer service roles should be differentiated by request type. He divided customer service requests into two categories: standardized issues like bills and plans can be handled more quickly by AI; requests requiring cross-system judgment, continuous communication, or human authorization will be completed by both AI agents and human customer service.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Schulman 认为，客服岗位的变化要按请求类型区分。他把客服请求分为两类：账单、套餐等标准化问题可以交给 AI 更快处理；需要跨系统判断、连续沟通或人工授权的请求，则会由 AI 智能体和人工客服一起完成。
@@ -501,20 +435,20 @@
     </item>
     <item>
       <title>新浪推出 AI 写实相机「啪叽 Paji」</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">新浪推出-AI-写实相机「啪叽-Paji」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/a6dd178f-f7a7-4040-aa3f-f4a49c11334c.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Sina's Wuta Camera officially launched its AI camera App &quot;Paji&quot; yesterday, positioned for realistic portrait output, emphasizing differentiation from traditional beauty cameras.
+            Wuta Camera, under Sina, officially launched its AI camera app &quot;Paji&quot; yesterday. The product is positioned for realistic portrait output, emphasizing differentiation from traditional beauty cameras.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             新浪旗下无他相机昨日正式推出 AI 相机 App「啪叽 Paji」，产品定位是写实人像直出，主打和传统美颜相机的差异化。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is reported that Paji relies on its self-developed AI skin type recognition model to distinguish skin characteristics such as oily, dry, and sensitive skin, performing targeted treatment for acne, dark spots, and fine lines, while retaining pores and skin texture. The intelligent beauty module collects facial structure and blemish points in real-time, then adjusts facial lines, contour proportions, and skin tone brightening.
+            It is reported that Paji relies on its self-developed AI skin type recognition model to distinguish skin characteristics such as oily, dry, and sensitive skin, performing targeted treatment for acne, spots, and fine lines while retaining pores and skin texture. The intelligent beauty module collects facial structure and blemish points in real-time, then adjusts facial lines, contour proportions, and skin tone brightening.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             据悉，啪叽依托自研 AI 肤质识别模型，区分油皮、干皮、敏感肌等肤质特征，针对痘痘、色斑、干纹细纹做定点处理，同时保留毛孔和肌肤颗粒感。智能美颜模块会实时采集脸型结构与瑕疵点位，再做面部线条、轮廓比例和肤色提亮调整。
@@ -523,7 +457,7 @@
     </item>
     <item>
       <title>xAI 开放图转视频预览模型</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">xAI-开放图转视频预览模型</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/98d80098-88f7-484e-81d3-6604b3ab093e.png&quot;/&gt;
@@ -544,7 +478,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Users provide a starting image and describe the motion in natural language. The model can control camera movement, pacing, environmental atmosphere, and physical effects, supporting up to 720p video generation.
+            Users provide a starting image and describe the motion in natural language. The model can control camera movement, shot rhythm, environmental atmosphere, and physical effects, supporting up to 720p video generation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             用户提供起始图片，并用自然语言描述运动方式，模型可控制镜头移动、画面节奏、环境氛围与物理效果，最高支持 720p 视频生成。
@@ -560,27 +494,27 @@
     </item>
     <item>
       <title>阿里开源 Open Code Review</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">阿里开源-Open-Code-Review</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/82102d28-39f8-436d-919e-60a5780832c9.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Alibaba Group open-sourced its AI code review CLI tool, Open Code Review. The tool, formerly Alibaba's internal AI code review assistant, is now available for developers to configure and use with their own AI model endpoints.
+            Alibaba Group open-sourced its AI code review CLI tool, Open Code Review. This tool, formerly Alibaba's internal AI code review assistant, is now available for developers to configure and use with their own AI model endpoints.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             阿里巴巴集团开源发布 AI 代码审查 CLI 工具 Open Code Review。该工具前身是阿里内部 AI 代码审查助手，现已开放给开发者自行配置 AI 模型端点使用。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Open Code Review reads Git Diffs and generates line-level structured review comments through an agent capable of tool invocation. During the review process, the agent can read full files, search code repositories, and inspect other changed files to supplement the review context.
+            Open Code Review reads Git Diffs and generates line-level structured review comments through agents capable of tool invocation. During the review process, agents can read full files, search code repositories, and inspect other changed files to supplement the review context.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             Open Code Review 会读取 Git Diff，并通过具备工具调用能力的智能体生成行级结构化审查意见。审查过程中，智能体可以读取完整文件、搜索代码库、检查其他变更文件，补足审查上下文。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Alibaba summarizes the design of this tool as 'deterministic engineering + agent-hybrid driven': error-prone parts such as file filtering, file packaging, rule matching, comment positioning, and comment reflection are constrained by engineering logic; the agent is primarily responsible for dynamic decision-making and dynamic context recall.
+            Alibaba summarizes the design of this tool as 'deterministic engineering + agent hybrid-driven': error-prone parts such as file filtering, file packaging, rule matching, comment positioning, and comment reflection are constrained by engineering logic; agents are primarily responsible for dynamic decision-making and dynamic context retrieval.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             阿里把这套工具的设计概括为「确定性工程 + 智能体混合驱动」：文件筛选、文件打包、规则匹配、评论定位和评论反思等容易出错的部分由工程逻辑约束；智能体主要负责动态决策和动态召回上下文。
@@ -596,7 +530,7 @@
     </item>
     <item>
       <title>安踏发布 2025 年度 ESG 报告：可持续产品占比 38%，MSCI 评级升至 AA 级</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">安踏发布-2025-年度-ESG-报告：可持续产品占比-38%，MSCI-评级升至-AA-级</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fb9f3c36-bf49-4d0f-b186-373ee7815287.jpg&quot;/&gt;
@@ -608,11 +542,11 @@
             6 月 5 日，安踏集团发布 2025 年度《环境、社会及管治（ESG）报告》，为集团连续第 11 年披露 ESG 进展。
            &lt;/span&gt;
 &lt;/p&gt;&lt;ul&gt;
-&lt;p&gt;The proportion of sustainable products reached 38%, an 8 percentage point increase year-on-year, with over 100 million sustainable products serving global consumers; MSCI rating rose to AA, the highest rating for a Chinese sporting goods enterprise.&lt;/p&gt;
-&lt;p&gt;On the product side, over 25 types of environmentally friendly technologies have been cumulatively applied. Last August, in collaboration with Donghua University, Anta released China's first self-developed mass-produced high-performance fluorine-free waterproof and breathable material – the fluorine-free Anta membrane, with a bio-based content of 20%, which has been widely applied in high-performance fluorine-free jackets.&lt;/p&gt;
+&lt;p&gt;The proportion of sustainable products reached 38%, an increase of 8 percentage points year-on-year, with over 100 million sustainable products serving global consumers; MSCI rating rose to AA, the highest rating for a Chinese sporting goods enterprise.&lt;/p&gt;
+&lt;p&gt;On the product side, over 25 types of environmentally friendly technologies have been cumulatively applied. Last August, in collaboration with Donghua University, Anta released China's first self-developed mass-produced high-performance fluorine-free waterproof and breathable material—fluorine-free Anta membrane, with a bio-based content of 20%, which has been widely applied in high-performance fluorine-free jackets.&lt;/p&gt;
 &lt;p&gt;The Mach 5 running shoes reduced carbon emissions by approximately 36% compared to the previous generation, and the Mach 6, launched this year, further reduced them by about 4%; the Origami running shoes use 100% clean energy in their manufacturing process, reducing overall shoe emissions by about 10%, and achieving carbon neutrality by offsetting remaining emissions through VCS projects.&lt;/p&gt;
-&lt;p&gt;On the retail front, the Shanghai Wukang Road 0 Carbon Mission Store celebrated its second anniversary yesterday, having cumulatively reduced emissions by approximately 51.5 tons over the past year; earlier this year, the second 0 Carbon Mission Store opened in Guangzhou, and both stores simultaneously launched a used clothing recycling program yesterday.&lt;/p&gt;
-&lt;p&gt;On the supply chain side, ESG audits for Tier 1 and Tier 2 suppliers have been fully completed, with over 88% achieving a good rating or higher, and over 130 suppliers adopting renewable energy.&lt;/p&gt;
+&lt;p&gt;On the retail side, the Shanghai Wukang Road 0 Carbon Mission Store celebrated its second anniversary yesterday, having cumulatively reduced emissions by approximately 51.5 tons in the past year; earlier this year, the second 0 Carbon Mission Store opened in Guangzhou, and both stores simultaneously launched a used clothing recycling program yesterday.&lt;/p&gt;
+&lt;p&gt;On the supply chain side, ESG audits for Tier 1 and Tier 2 suppliers have been fully completed, with over 88% achieving a good rating or higher, and over 130 suppliers having introduced renewable energy.&lt;/p&gt;
 &lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
             Anta Group stated that it will continue to advance its '1+3+5' sustainable strategic blueprint, aiming to achieve carbon neutrality by 2050.
@@ -624,7 +558,7 @@
     </item>
     <item>
       <title>One Fun Thing｜虚拟操作系统博物馆：在模拟器里跑遍 600 个经典系统</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">One-Fun-Thing｜虚拟操作系统博物馆：在模拟器里跑遍-600-个经典系统</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0835bd5d-b35a-4924-a650-03f50af988f2.png&quot;/&gt;
@@ -637,14 +571,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In addition to early Mac systems, it also includes classic Mac OS, A/UX, NeXTSTEP, BeOS, Windows 1.0 to early Longhorn betas, PalmOS, Newton OS, Plan 9, IRIX, SunOS, multiple DOS / BSD / Linux versions, as well as earlier mainframe and research systems like EDSAC, CTSS, and Multics.
+            In addition to early Mac systems, it also includes classic Mac OS, A/UX, NeXTSTEP, BeOS, Windows 1.0 to early Longhorn beta versions, PalmOS, Newton OS, Plan 9, IRIX, SunOS, multiple DOS / BSD / Linux versions, as well as earlier mainframe and research systems like EDSAC, CTSS, and Multics.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             除了早期 Mac 系统之外，它还包含 classic Mac OS、A/UX、NeXTSTEP、BeOS、Windows 1.0 到 Longhorn 早期测试版、PalmOS、Newton OS、Plan 9、IRIX、SunOS、多个 DOS / BSD / Linux 版本，以及 EDSAC、CTSS、Multics 等更早的主机和研究系统。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Virtual OS Museum offers two download versions: the full version is about 121GB, with images pre-downloaded for offline operation; the lite version is about 14GB, downloading corresponding images only when a system is launched for the first time.
+            The Virtual OS Museum offers two download versions: the full version is approximately 121GB, with images pre-downloaded for offline operation; the lite version is about 14GB, and downloads the corresponding image when a system is launched for the first time.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             The Virtual OS Museum 提供两个下载版本：完整版约 121GB，镜像预先下载，可离线运行；精简版约 14GB，首次启动某个系统时再下载对应镜像。
@@ -653,20 +587,20 @@
     </item>
     <item>
       <title>周末看什么｜《记忆碎片》</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">周末看什么｜《记忆碎片》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/a14cfa71-4f28-42b9-a0e7-240ac520e294.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Memento is a suspense crime film directed by American director Christopher Nolan in 2000. It first premiered at the Venice Film Festival in September 2000, was released in the UK in October of the same year, in the US in May 2001, and is officially set to debut in mainland Chinese cinemas on May 29, 2026.
+            Memento is a suspense crime film directed by American director Christopher Nolan in 2000. It first premiered at the Venice Film Festival in September 2000, was released in the UK in October of the same year, in the US in May 2001, and will officially land in mainland Chinese cinemas on May 29, 2026.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             《记忆碎片》（Memento）是美国导演克里斯托弗·诺兰于 2000 年执导的悬疑犯罪片，最早于 2000 年 9 月亮相威尼斯电影节，同年 10 月在英国上映，2001 年 5 月于美国公映，并于 2026 年 5 月 29 日正式登陆中国大陆院线。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film revolves around the protagonist Leonard Shelby. Leonard suffers brain damage during a home invasion, his wife is murdered, and he subsequently develops 'short-term memory loss,' unable to form new long-term memories, losing recall of recent events every ten minutes or so.
+            The film revolves around the protagonist, Leonard Shelby. Leonard suffers brain damage during a home invasion, his wife is killed, and he subsequently develops 'short-term memory loss,' unable to form new long-term memories, losing recall of recent events every ten minutes or so.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片围绕主人公莱纳·谢尔比（Leonard Shelby）展开。莱纳在一次入室袭击中脑部受损，妻子遇害，自此罹患「短期记忆丧失症」，无法形成新的长期记忆，每隔十余分钟便会失去对近期事件的记忆。
@@ -680,14 +614,14 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The narrative structure is the most prominent technical feature of this film. Nolan divides the story into two interwoven timelines, color and black-and-white – the color segments present the main investigation in reverse chronological order, while the black-and-white segments record Leonard's past recollections via phone calls in chronological order, with the two timelines converging at the end of the film.
+            The narrative structure is the most prominent technical feature of this film. Nolan divides the story into two interwoven timelines, color and black-and-white—the color segments present the main investigation in reverse chronological order, while the black-and-white segments record Leonard's past recollections via phone calls in chronological order, with the two timelines converging at the end of the film.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             叙事结构是本片最显著的技术特征。诺兰将故事拆分为彩色与黑白两条线索交织推进——彩色段落采用倒叙方式呈现主线调查，黑白段落则以正叙记录莱纳通过电话回忆的往事，两条线索在片尾交汇。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The film received nominations for Best Original Screenplay at the 74th Academy Awards and Best Screenplay at the 59th Golden Globe Awards, and won the 2nd American Film Institute Award for Movie of the Year. This film also served as Nolan's foundational work for entering mainstream Hollywood.
+            The film received nominations for Best Original Screenplay at the 74th Academy Awards and Best Screenplay at the 59th Golden Globe Awards, and won the 2nd American Film Institute Award for Movie of the Year. This film is also a foundational work that brought Nolan into mainstream Hollywood.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             影片获第 74 届奥斯卡金像奖最佳原创剧本提名、第 59 届金球奖最佳编剧提名，并荣获第 2 届美国电影学会奖年度佳片。本片亦是诺兰进入好莱坞主流视野的奠基之作。
@@ -696,27 +630,27 @@
     </item>
     <item>
       <title>买书不读指南｜《拍摄人间》</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">买书不读指南｜《拍摄人间》</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/cc408fd0-30c1-429b-a60e-c5dc5cb67674.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Photographer Ma Hongjie, in &quot;Shooting the Human World - A Work Journal of a Chinese National Geographic Photographer,&quot; reviews over twenty years of his photography experiences traveling across China.
+            Photographer Ma Hongjie, in &quot;Shooting the Human World - A Work Journal of a National Geographic China Photographer,&quot; looks back at over two decades of photography experiences traveling across China.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             摄影师马宏杰在《拍摄人间——一个〈中国国家地理〉摄影师的工作手记》中回顾二十多年行走中国各地的拍摄经历。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The book includes over a hundred photographic works, with subjects ranging from the source of the Yangtze River, China's easternmost point, the South China Sea islands, to tiankeng landforms, as well as folk customs, urban life, and local industrial sites.
+            The book features over a hundred photographic works, with subjects ranging from the source of the Yangtze River, China's easternmost point, the South China Sea islands, to karst sinkhole landscapes, as well as folk customs, urban life, and local industrial sites.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             书中收录一百多幅摄影作品，题材从长江源头、中国最东端、南海群岛到天坑地貌，也包括民俗、市井和地方产业现场。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Ma Hongjie has created thematic photography works such as &quot;The Last Monkey Trainers&quot; and &quot;Wives from the West.&quot; This work journal not only presents natural geography but also retains his concern for social reality.
+            Ma Hongjie has created special photography works such as &quot;The Last Monkey Trainers&quot; and &quot;Wife Seeking in the West.&quot; This work journal not only presents natural geography but also retains his concern for social reality.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             马宏杰曾创作《最后的耍猴人》《西部招妻》等专题摄影作品。这本工作手记既呈现自然地理，也保留他对社会现实的关注。
@@ -725,7 +659,7 @@
     </item>
     <item>
       <title>游戏推荐｜《生化危机 4 重制版》Steam 特卖降至新史低 49.5 元</title>
-      <pubDate>Sat, 06 Jun 2026 06:33:50 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">游戏推荐｜《生化危机-4-重制版》Steam-特卖降至新史低-49.5-元</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
 &lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/50aa7e85-e8f4-49b4-ab43-973565992590.png&quot;/&gt;
@@ -745,7 +679,7 @@
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            While retaining the original's core framework, the remake completely revamped the graphics, controls, and storytelling, and expanded the storyline of supporting character Ada Wong, which is included in the standalone DLC &quot;Separate Ways.&quot;
+            While retaining the original core framework, the remake completely revamped the graphics, controls, and storytelling, and expanded the storyline of supporting character Ada Wong, which is included in the standalone DLC &quot;Separate Ways.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
             重制版在保留原作核心框架的基础上，全面翻新了画面表现、操作手感与故事叙述，并扩充了配角艾达·王的剧情线，收录于独立 DLC「逆命殊途」中。
