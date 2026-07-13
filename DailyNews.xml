@@ -2,784 +2,573 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Sat, 11 Jul 2026 08:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:25:19 +0000</lastBuildDate>
     <item>
-      <title>苹果起诉 OpenAI，指控其硬件团队窃取商业机密</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">苹果起诉-OpenAI，指控其硬件团队窃取商业机密</guid>
+      <title>曝苹果 M8 系列 2028 年登场，制程升级至 1.4 纳米</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">曝苹果-M8-系列-2028-年登场，制程升级至-1.4-纳米</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f1d83945-24c2-4a76-9d2b-5446ac83c350.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据 WIRED 报道，北京时间 7 月 11 日凌晨，苹果在美国加州北区联邦地区法院起诉 OpenAI、OpenAI 首席硬件官 Tang Tan、前苹果电气工程师 Chang Liu 以及 io Products，指控 OpenAI 为开发 AI 硬件设备窃取苹果未发布产品、零部件、制造工艺和供应商关系等商业机密。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            诉状显示，苹果称 Tang Tan 在离开苹果后利用自己熟悉的离职安全流程，指导被 OpenAI 招募的苹果员工规避数据审查，并要求面试者带来电池、SIP、逻辑板等硬件样品或信息。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            苹果还称，Liu 离职后未归还公司笔记本，利用仍可访问内部文件系统的漏洞下载数十份硬件相关机密文件。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            值得注意的是，苹果并未把 Jony Ive 和 Sam Altman 列为被告，也没有把苹果与 OpenAI 在 Siri 中接入 ChatGPT 的合作列为争议事项。苹果要求法院禁止 OpenAI 持有、使用或披露相关技术，并寻求待审判确定的损害赔偿。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>态度大反转，马斯克盛赞 Anthropic 旗下 Mythos/Fable 模型</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">态度大反转，马斯克盛赞-Anthropic-旗下-Mythos/Fable-模型</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4274fa87-c09b-4dab-972a-c3fa4ff80b31.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            埃隆 · 马斯克（Elon Musk）昨日在 X 上公开称赞 Anthropic，称其为「AI 领域的领导者」，并承认自己此前对该公司的判断「明显错误」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            马斯克表示，目前没有任何公司发布过像 Mythos/Fable 这样出色的模型，并预计 Anthropic 很快将推出 Mythos 2。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            这一表态与他此前的立场形成鲜明对比。去年 9 月，马斯克曾断言 Anthropic 不可能获胜；今年年初，他还多次指责该公司的产品导向「反人类（misanthropic）」，调侃其品牌名称。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>曝腾讯拟买回 Manus，成为其最大股东</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">曝腾讯拟买回-Manus，成为其最大股东</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据《金融时报》昨日报道，腾讯正考虑入股 AI 智能体初创公司 Manus，并计划成为该公司的最大股东。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            知情人士透露，腾讯目前正与真格基金、红杉资本（HSG）以及 Manus 管理层进行磋商，计划以 20 亿美元（约合 136 亿元人民币）的价格从 Meta 手中买回 Manus。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            这一收购价格与 Meta 去年 12 月购入该公司的金额大致持平。交易完成后，腾讯预计将持有 Manus 最大比例的股份，但持股比例不会超过 50%。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>努比亚倪飞披露 AI 智能体手机细节，定义「听、干、记、安」四项标尺</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">努比亚倪飞披露-AI-智能体手机细节，定义「听、干、记、安」四项标尺</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/012ae20a-3f40-46e5-a9e2-c60d8d952d29.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            努比亚总裁倪飞昨日在微博发文，提前披露了努比亚 AI 智能体手机的相关细节。该产品被定位为「全球首款 AI 智能体手机」，旨在解决目前 AI 手机功能叠加、操作繁琐的痛点，推动 AI 终端从「功能叠加」向「原生智能体」转型。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            倪飞表示，AI 智能体手机的核心逻辑是让手机主动理解用户需求，而非用户迁就手机。为此，努比亚提出了智能体手机的四项核心能力标尺：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             「听得懂」，支持最自然的表达与流畅交互；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             「能干活」，AI 可代为执行并完成任务；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             「记得住」，能够记忆用户习惯与备忘，实现有序沉淀；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             「够安全」，将隐私防护作为底层地基。
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            倪飞称，该产品不仅面向科技发烧友与商务人群，还致力于为老人、儿童及视障人群提供更便捷的数字生活体验。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            努比亚计划在 7 月 17 日至 7 月 20 日举行的 2026 世界人工智能大会（WAIC）上正式展示该款 AI 智能体手机。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大疆回应无人机吊人救援：不建议模仿，救援受损设备将免费维修</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">大疆回应无人机吊人救援：不建议模仿，救援受损设备将免费维修</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/dcb9c472-19f4-4c82-af77-26389988660f.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据蓝鲸新闻报道，针对近日广西洪灾中出现的无人机「空中吊人」救援行为，大疆官方昨日回应称，原则上无人机严禁载人，吊人仅属救援紧急情况下的特殊操作，后续仍不建议模仿。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            官方信息显示，参与此次救援的多为大疆 FC100 和 FC200 系列运载无人机，售价区间为 77999 元至 170999 元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据《新京报》报道，操作该无人机的飞手赖先生表示，当时因冲锋舟无法靠近且房屋有倒塌风险，才动用平时吊运建筑材料的重型农用机进行紧急避险，飞行时严格控制了高度并避开障碍物。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            针对救援工作，大疆农业及运载系列已推出售后关怀政策，凡在救援期间出现故障或损坏的设备，经核实后由授权服务门店提供免费维修保障。除大疆外，广州云翔、南方电网等单位也调配了大载重无人机参与物资投送与电力抢修。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小米澎程 N90 升降车顶亮相</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">小米澎程-N90-升降车顶亮相</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/70188d4c-0dfb-461a-83a4-8957d4e8c2de.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            昨天，工信部发布第 409 批《道路机动车辆生产企业及产品公告》新产品公示，小米汽车四款澎程系列插电式增程混合动力车型完成申报。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            其中小米澎程 N90 Max 露营版亮相。新车配备升降车顶、车顶床板、边柜、侧边帐接口，还可选装车内投影套装、可拆卸桌板等装置。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            根据申报信息，N90 Max 车身长 5285 mm、宽 1998 mm、高 1825 mm，轴距 3080 mm，提供五座和七座版本。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            车辆采用增程式动力，前后双电机峰值功率分别为 210 kW 和 100 kW，配套 1.5L 涡轮增压发动机作为增程器，发动机只为电池充电，不直接驱动车轮。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大众计划削减一半车型线，全球裁员规模或达 12 万人</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">大众计划削减一半车型线，全球裁员规模或达-12-万人</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/6e1714d9-758f-4279-a38e-1a7e50420b2d.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据彭博社报道，大众汽车集团昨日在沃尔夫斯堡召开监事会会议，讨论新一轮降本计划。为应对利润下滑及竞争加剧，大众计划大幅缩减其车型阵容，并可能在全球范围内裁员 10 万至 12 万人。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            核心方案显示，大众计划将其目前约 150 条车型线削减至多一半，旨在通过降低产品复杂性，将研发资源集中于高回报细分市场。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            此前，大众曾计划到 2030 年前在德国裁减约 5 万个岗位，而新方案提议将裁员规模翻倍，全球裁员最高或达 12 万人。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            受此影响，大众位于德国的茨维考、汉诺威、埃姆登和内卡苏尔姆等工厂均面临关闭风险。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            该计划遭到劳工方的强烈抵制。德国金属工业工会已在多个生产基地组织抗议，反对关闭工厂和进一步裁员。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>扎克伯格否认 Meta 算力过剩：没人会嫌算力太多</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">扎克伯格否认-Meta-算力过剩：没人会嫌算力太多</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/b249ee9a-59c6-4521-bd17-56b4f0e589eb.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据彭博社报道，Meta CEO Mark Zuckerberg 在接受采访时，首次就公司筹划云基础设施业务作出正面回应，并明确否认了外界关于 Meta「算力过剩」的猜测。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            Zuckerberg 直言：「我不知道业内有谁会嫌自己的算力太多的。」他强调，Meta 目前所有的计算资源都在满负荷运转，内部需求依然十分旺盛。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            他表示，之所以考虑探索 AI 云业务，是因为当前市场对算力的出价极高，将部分基础设施对外出租在财务上可能比内部自用更具经济效益。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            在谈及行业竞争时，Zuckerberg 称马斯克旗下 SpaceX 的算力租赁策略「非常有意思」。据悉，SpaceX 将其位于孟菲斯的数据中心以每月 12.5 亿美元（约合 85 亿元人民币）的价格租给 Anthropic，并与 Google 达成了每月 9.2 亿美元的租赁协议。Zuckerberg 指出，这种能够获得高额溢价的短期交易是 Meta 评估的方向之一。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宇树 G1 机器人完成两例活体手术，登上《自然》</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">宇树-G1-机器人完成两例活体手术，登上《自然》</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/dde9b5ae-d7a2-43c9-838c-9a41cc57b964.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            国际学术期刊《Nature》近日发表了一篇题为《人形机器人用于外科手术的活体可行性研究》的论文。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            该研究由加州大学圣迭戈分校（UC San Diego）团队完成，成功利用宇树 G1 人形机器人通过远程操作为两头活猪实施了腹腔镜胆囊切除术，这也是全球首例登上《Nature》的人形机器人活体手术研究。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            研究团队开发了一套基于人形机器人的腹腔镜远程操作框架，使机器人能够握持人类医生使用的普通腹腔镜手术器械进行操作。在活体动物实验中，人形机器人顺利完成了两例手术，术中无需中转常规腹腔镜手术或开腹手术。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            结果显示，第一例手术未出现重大并发症；第二例虽出现轻微胆汁溢出与肝床出血，但经吸引和电凝处理后得到妥善解决。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            论文指出，尽管目前达芬奇等手术机器人系统已广泛应用，但人形机器人具备独特的灵活性和对人类环境的适应潜力。不过，研究团队也强调，人形机器人要在临床部署中真正替代或辅助人类医生，仍需克服一系列技术挑战。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Omdia：全球 PC 市场第二季度出货量同比下降 3.6%</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">Omdia：全球-PC-市场第二季度出货量同比下降-3.6%</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/32a9f3c0-12c0-494e-adb1-f9e6868e0534.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            产业研究机构 Omdia 的最新报告显示，2026 年第二季度全球个人电脑（PC）市场出现下滑。该季度全球台式电脑、笔记本电脑及工作站的总出货量为 6570 万台，同比下降 3.6%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            具体产品类别方面，台式电脑（含台式工作站）出货量为 1390 万台，同比下降 1.3%；笔记本电脑（含移动工作站）出货量为 5170 万台，同比降幅较大，达到 4.2%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             联想以 1660 万台的出货量和 25% 的市场份额蝉联全球第一；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             HP 位居第二，出货量为 1300 万台，同比下滑 9%；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             戴尔以 930 万台的出货量排名第三；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             苹果在顶级厂商中增长最为强劲，凭借 MacBook Neo 的发布和稳健的市场需求，该季度出货量达到 730 万台，市场份额较去年同期增长了 2 个百分点；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             华硕则以 500 万台的出货量位列第五，表现与去年持平。
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            报告还提到，由于供应链压力持续，包括多层陶瓷电容器（MLCC）和印刷电路板（PCB）在内的组件成本也在上涨。目前，超过半数的 B2B 渠道合作伙伴表示客户已推迟硬件更新计划。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            尽管内存和存储成本的涨幅预计在今年下半年有所放缓，但由于前期成本压力尚未完全消化，PC 厂商预计将继续将成本转嫁给消费者，这可能进一步抑制下半年的市场需求。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海力士赴美上市募资 265 亿美元，刷新外国企业在美融资纪录</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">海力士赴美上市募资-265-亿美元，刷新外国企业在美融资纪录</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据彭博社报道，海力士昨日通过发行美国存托凭证（ADR）筹集了 265 亿美元资金。这一规模不仅刷新了外国公司在美国首次公开发行股票的最高纪录，也使其成为全球历史上第三大上市融资项目，仅次于沙特阿美和阿里巴巴。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            根据披露的信息，海力士以每份 149 美元的价格售出了 1.779 亿份 ADR。每份 ADR 相当于首尔上市普通股的十分之一。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据悉，该项目获得了超过 7 倍的超额认购，吸引了包括 Baillie Gifford、Coatue Management 在内的顶级机构参与，申购意向资金一度接近 2000 亿美元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            海力士的 ADR 预计于今日在纳斯达克全球精选市场开始以代码「SKHYV」进行待发行交易，并于 7 月 13 日正式以「SKHY」代码转入常规交易。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax 完成 160 亿港元融资，创始人宣布不领一分工资</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">MiniMax-完成-160-亿港元融资，创始人宣布不领一分工资</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            7 月 10 日，MiniMax 公告完成新一轮 160 亿港元融资。公司拟将募集资金净额的 80% 用于继续加强 AI 基础设施及模型研究与开发。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            同日，MiniMax 创始人兼 CEO 闫俊杰发布内部全员信。他宣布：
-           &lt;/span&gt;
-&lt;/p&gt;&lt;ul&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             自即日起至公司实现 AGI 之日，本人不再从公司领取任何薪酬；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             未来四年将拿出个人名下相当于公司总股本 4% 的股份，用于激励长期与公司并肩作战的团队成员；
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
-&lt;span&gt;
-             拿出 1% 股份设立专项基金，持续支持相关开源社区。
-            &lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            闫俊杰在信中写道，市场会有波动、外界会有杂音，但前进方向不会改变。他称会把全部时间、精力和资源投入公司发展，并将这视为创始人的长期承诺。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>长征十号乙首飞成功，中国实现首次火箭一子级海上回收</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">长征十号乙首飞成功，中国实现首次火箭一子级海上回收</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4bff7eb6-1715-41c7-a443-c0fc6f1389b7.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据中国新闻网报道，长征十号乙运载火箭于昨日 12 时 15 分在海南商业航天发射场成功发射，将卫星送入预定轨道。在火箭一二级分离约 6 分钟后，一子级通过海上回收平台网系捕获方式成功回收。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            此次任务标志着中国首次成功实施运载火箭一子级可控回收，同时也是全球首例运载火箭网系回收案例，代表中国在重复使用火箭技术领域取得历史性突破。长征十号乙运载火箭也由此成为中国首型成功实施回收的重复使用运载火箭。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            长征十号乙运载火箭采用 5 米直径两级串联构型，起飞重量约 760 吨，起飞推力约 890 吨，首飞箭全长约 63 米。在重复使用状态下，其近地轨道运载能力为 16 吨，旨在满足低轨卫星互联网星座部署及大型商业卫星发射需求，可显著降低发射成本。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            研制团队表示，后续将持续优化火箭性能并加快技术迭代，预计将在今年年底前完成一子级火箭的复用飞行任务。本次任务是长征系列运载火箭的第 657 次发射。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>中科曙光全国产 10 万卡 AI 超集群「曙光 8000」落成</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">中科曙光全国产-10-万卡-AI-超集群「曙光-8000」落成</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/47412b38-9b8f-461c-9e13-5465281808aa.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            中科曙光公众号昨日官宣，中国首个全国产 10 万卡 AI 超集群「曙光 8000（登峰）」正式落成，并接入国家超算互联网。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            中科曙光称，该集群采用「超智融合」技术路线，面向高精度科学计算与低精度智能计算复合需求，支持 FP64 到 INT8 全精度，可覆盖科学计算、大模型训练、AI 推理和工业仿真等场景。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            系统具备芯片、计算、存储、网络、散热、应用和服务的全链路自研能力，底层由海光等国产芯片提供支撑，采用 scaleFabric 类 IB 原生 RDMA 高速网络和 ParaStor 分布式存储。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            冷却和部署方面，曙光 8000 使用浸没式相变液冷技术，可支撑单机柜 MW 级高功率密度部署。光合组织 2026 智能计算应用大会期间，中科曙光还与北京科学智能研究院启动第二套全国产十万卡超智融合算力系统研制与建设。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国 NHTSA 局长暗示：将取消自动驾驶汽车强制标配方向盘规定</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">美国-NHTSA-局长暗示：将取消自动驾驶汽车强制标配方向盘规定</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/82e064ac-acc1-4371-be1f-133745e68323.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据 CNBC 报道，美国国家公路交通安全管理局（NHTSA）局长乔纳森·莫里森（Jonathan Morrison）接受采访时表示，他支持自动驾驶技术的创新，并暗示将考虑取消自动驾驶汽车必须配备方向盘和制动踏板等人工操纵装置的法律规定。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            莫里森在采访中提到，如果一辆汽车从设计之初就不是为了由人类操作，那么继续要求其配备手动控制装置并不合理。目前，包括特斯拉、优步在内的多家企业正在开发不设方向盘的自动驾驶出租车。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            移除手动控制装置意味着在车辆发生故障或遇到极端危险情况时，人类将无法在现场接管车辆。对此，莫里森强调 NHTSA 的职责是监管行业而非阻碍技术发展。他表示，虽然这些技术的潜力不可否认，但必须以正确且安全的方式推进。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💡 网络安全公司 CEO：AI 成本需降低 90% 才能实现企业大规模普及</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">💡-网络安全公司-CEO：AI-成本需降低-90%-才能实现企业大规模普及</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f9bad9ad-447d-49e6-9581-a13d866f1f95.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据 CNBC 报道，派拓网络（Palo Alto Networks）CEO Nikesh Arora 昨日在接受采访时表示，为了推动企业大规模采用人工智能，AI 的 Token 成本需要下降 90%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            Arora 指出，高昂的 Token 成本已成为企业预算的重大负担，并成为阻碍 AI 工具广泛落地的主要障碍。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            尽管 OpenAI CEO Sam Altman 此前提到其最新模型在智能体编程（Agentic Coding）方面的 Token 效率提升了 54%，但 Arora 认为这仅是一个开始。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            他预测， Token 效率在未来 12 个月内需要下降至目前的 20%，并在随后的一年内实现 90% 的降幅。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            与此同时，为了支撑大规模的基础设施建设，科技巨头的 AI 投入仍在持续攀升。SpaceX 曾于上月通过债券销售融资 250 亿美元，亚马逊也在本周筹集了 250 亿美元债务。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            Arora 认为，随着技术效率的提升，AI 预算最终会趋于合理，市场也将逐步消化这些巨额开支。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁灵波发布首个具身原生世界动作模型 LingBot-VA 2.0</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">蚂蚁灵波发布首个具身原生世界动作模型-LingBot-VA-2.0</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/35a6ddee-3e31-4bb4-a34d-034074bd0e23.gif&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            昨日，蚂蚁灵波发布 LingBot-VA 2.0，面向机器人在物理世界中的动态建模、因果预测和实时执行需求设计，不再以数字内容生成模型微调作为主要路径。
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/14e25cbc-2deb-4c36-8be2-7130bc42694e.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Bloomberg, Apple has significantly adjusted its Mac chip roadmap for the coming years, with the M7 series chip development accelerated. The M7 Ultra chip, in particular, is designed to support up to 1.5 TB of unified memory.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据彭博社报道，苹果已对未来数年的 Mac 芯片路线图进行大幅调整，M7 系列芯片研发进度被提前，其中 M7 Ultra 芯片的设计目标是支持最高 1.5 TB 统一内存。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            LingBot-VA 2.0 adopts an autoregressive architecture pre-trained from scratch, introducing semantic visual-action tokenizers, a strict causal pre-training paradigm, MoE architecture, and enhanced asynchronous inference mechanisms.
+            In addition, reports also indicate that Apple is developing a new generation of M8 series chips, with the processor codenamed 'Soko' expected to be launched in 2028, making it a key product in Apple's M8 series designed for stronger AI capabilities.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            LingBot-VA 2.0 采用自回归架构从头预训练，并引入语义视觉-动作分词器、严格因果预训练范式、MoE 架构和增强异步推理机制。
+            此外，报道还指出苹果正在开发新一代 M8 系列芯片，代号「Soko」的处理器预计于 2028 年推出，是苹果 M8 系列中面向更强 AI 能力打造的重点产品。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Ant Lingbo stated that this design allows the model to predict future states while the robot performs actions, and to correct subsequent decisions with the latest real observations, achieving a real-time inference efficiency of 150Hz on a single card.
+            The chip is expected to use a 1.4-nanometer process, further improving energy efficiency compared to previous processes. In addition to Soko, Apple is also developing another series of new chips codenamed 'Cardinal' for high-end Macs, also belonging to the 2028 generation of products, and also transitioning to the 1.4-nanometer process.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            蚂蚁灵波称，这套设计让模型可在机器人执行动作的同时预测未来状态，并用最新真实观测校正下一步决策，单卡实时推理效率达到 150Hz。
+            该芯片预计将采用 1.4 纳米制程，相比此前工艺再进一步提升能效表现。除 Soko 外，苹果还在为高端 Mac 开发另一系列代号为「Cardinal」的新芯片，同样归入 2028 年这一代产品，一并转向 1.4 纳米制程。
            &lt;/span&gt;
-&lt;/p&gt;</description>
+&lt;/p&gt;&lt;section&gt;
+&lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
+&lt;/section&gt;</description>
     </item>
     <item>
-      <title>Kimi K2.7 Code 高速版正式登陆 Kimi Code</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">Kimi-K2.7-Code-高速版正式登陆-Kimi-Code</guid>
+      <title>曝苹果计划由英特尔代工 iPhone 芯片</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">曝苹果计划由英特尔代工-iPhone-芯片</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e8d39afd-a821-4a39-a9a5-82d67aecb82a.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/20e1c450-81a5-462d-b2a2-7d21e8fdefe7.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Kimi announced yesterday that the K2.7 Code High-Speed version has exited Beta and become a permanent optional mode for Kimi Code. Users subscribed to Allegretto and above membership plans can directly call K2.7 Code HighSpeed when programming with Coding Plan in Kimi Code CLI or other tools.
+            According to The Wall Street Journal, Apple plans to outsource some of its iPhone and Mac chips to Intel. Sources revealed that this cooperation intention was reached after Apple consulted with relevant parties on supply chain investments.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Kimi 昨日宣布，K2.7 Code 高速版结束 Beta，成为 Kimi Code 常驻可选模式。订阅 Allegretto 及以上会员计划的用户，在 Kimi Code CLI 或其他工具中使用 Coding Plan 进行编程时，可直接调用 K2.7 Code HighSpeed。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the official introduction, the high-speed version uses the same K2.7 Code model as the standard version, with an output speed approximately 5 to 6 times faster than the standard version.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方介绍称，高速版与普通版使用同一个 K2.7 Code 模型，输出速度约为普通版的 5 至 6 倍。
+            据《华尔街日报》报道，苹果计划将 iPhone 及 Mac 的部分芯片交由英特尔代工。知情人士透露，这一合作意向是在苹果与相关方面就供应链投资进行磋商后达成的。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In regular programming scenarios, taking the median input length, the output speed is about 180 Token/s; in short context scenarios, it can reach 260 Token/s. Regarding usage consumption, K2.7 Code HighSpeed is billed at 3 times the rate of the standard model in Coding Plan.
+            Since Pat Gelsinger took over as CEO in March last year, Intel has been committed to revitalizing its foundry business. Currently, Intel has successively attracted orders from several tech giants:
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            常规编程场景下，取输入长度中位数，输出速度约 180 Token/s；短上下文场景可达 260 Token/s。用量消耗方面，K2.7 Code HighSpeed 在 Coding Plan 中按普通版模型的 3 倍计费。
+            自去年 3 月陈立武出任 CEO 以来，英特尔一直致力于重振其晶圆代工业务。目前，英特尔已先后吸引了多家科技巨头的订单：
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In Kimi Code CLI, users can enter
-            &lt;code&gt;
-             /model
-            &lt;/code&gt;
-            and select
-            &lt;code&gt;
-             kimi-for-coding-highspeed
-            &lt;/code&gt;
-            to enable high-speed mode; for third-party tool integration, refer to the Kimi Code documentation for configuration.
+            Nvidia previously announced a $5 billion investment to purchase its custom data center chips, Google Cloud also ordered a large number of Xeon processors in April this year, and Elon Musk's SpaceX also signed a cooperation agreement.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在 Kimi Code CLI 中，用户可输入
-            &lt;code&gt;
-             /model
-            &lt;/code&gt;
-            并选择
-            &lt;code&gt;
-             kimi-for-coding-highspeed
-            &lt;/code&gt;
-            开启高速模式；第三方工具接入则参考 Kimi Code 文档配置。
+            英伟达此前宣布投资 50 亿美元采购其定制数据中心芯片，Google Cloud 也在今年 4 月下单了大量 Xeon 处理器，马斯克旗下的 SpaceX 同样签署了合作协议。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Business progress shows that Intel is betting on 'advanced packaging' technology, attempting to compete with TSMC in the high-end AI chip manufacturing sector.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            业务进展显示，英特尔正押注「先进封装」技术，试图在高端 AI 芯片制造领域与台积电展开竞争。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>懂代码会操作电脑，扎克伯格甩出 Muse Spark 1.1 对标 GPT</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">懂代码会操作电脑，扎克伯格甩出-Muse-Spark-1.1-对标-GPT</guid>
+      <title>海力士 CEO：内存供不应求或持续至 2030 年</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">海力士-CEO：内存供不应求或持续至-2030-年</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/524f78e6-09da-4fc0-bf77-b456be4d9f24.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f86f9e6a-04ed-45c4-acd1-8f46dbb6ab39.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meta Superintelligence Lab (MSL) yesterday released the multimodal inference model Muse Spark 1.1 and simultaneously launched the public beta of Meta Model API. This model focuses on AI agent capabilities, with significant improvements in tool calling, code generation, and computer operations compared to its predecessor.
+            According to Reuters, SK Hynix CEO Kwak Noh-jung recently stated that the global memory industry is facing unprecedented challenges, and is expected to experience the most severe supply shortage situation in history next year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Meta 超级智能实验室（MSL）昨日发布多模态推理模型 Muse Spark 1.1，并同步开启 Meta Model API 公测。该模型主打 AI 智能体能力，在工具调用、代码生成及计算机操作上较初代有大幅提升。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Official information shows that Muse Spark 1.1 supports a 1 million token context window and introduces &quot;master-slave architecture&quot; training, allowing it to act as a primary agent for task planning and distribution. In terms of computer operations, the model supports the combination of automated scripts and interface interaction, capable of autonomously handling long-process tasks.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方信息显示，Muse Spark 1.1 支持 100 万 token 上下文窗口，并引入了「主从架构」训练，可作为主智能体进行任务规划与分发。在计算机操作方面，该模型支持自动化脚本与界面交互结合，能自主处理长流程任务。
+            据路透社报道，海力士 CEO 郭鲁正（Kwak Noh-jung）近日表示，全球内存行业正面临前所未有的挑战，预计明年将迎来史上最严峻的供应短缺局势。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, its multimodal capabilities support &quot;see-and-do&quot; functionality, such as automatically listing second-hand goods by analyzing video information.
+            Although the company is actively expanding capacity, Kwak Noh-jung predicts that customer demand will continue to exceed production capacity,
+            &lt;strong&gt;
+             this supply-demand imbalance may continue beyond 2030
+            &lt;/strong&gt;
+            .
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，其多模态能力支持「边看边干」，例如通过分析视频信息自动完成二手商品上架。
+            尽管公司正积极扩充产能，但郭鲁正预测，客户需求将持续超过生产能力，
+            &lt;strong&gt;
+             这种供不应求的局面可能一直延续到 2030 年以后
+            &lt;/strong&gt;
+            。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding pricing, Meta has adopted an aggressive market strategy, with API input and output prices at $1.25 and $4.25 per million tokens, respectively. To support computing power demands, Meta disclosed that its self-developed AI chip Iris will go into production in September this year.
+            Regarding capacity expansion, Kwak Noh-jung mentioned that the United States, Japan, and Southeast Asia are all on the candidate list for future wafer fab construction, but no final decision has been made yet. Site selection will prioritize regions with sufficient and cost-competitive supplies of electricity, water resources, land, and talent.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            价格方面，Meta 采取了激进的市场策略，API 输入与输出价格分别为每百万 token 1.25 美元和 4.25 美元。为支撑算力需求，Meta 披露自研 AI 芯片 Iris 将于今年 9 月投产。
+            针对产能扩张，郭鲁正提到美国、日本和东南亚均在未来建设晶圆厂的候选名单中，但目前尚未作出最终决定。选址将优先考虑电力、水资源、土地及人才供应充足且具备成本竞争力的地区。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/Zlqb_34lz8zVCIrayMNuiQ&quot;&gt;
-             To steal headlines from GPT-5.6, Zuckerberg uncharacteristically &quot;advertised&quot; on a rival's turf
-            &lt;/a&gt;
-&lt;/span&gt;
+            Currently, SK Hynix plans to invest approximately $4 billion in Indiana to build an advanced packaging plant, and another $10 billion to develop AI solutions business in the United States.
+           &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/Zlqb_34lz8zVCIrayMNuiQ&quot;&gt;
-             为了跟 GPT-5.6 抢头条，扎克伯格破天荒到对手地盘「打广告」
-            &lt;/a&gt;
-&lt;/span&gt;
+            目前，海力士已计划在印第安纳州投资约 40 亿美元建设先进封装厂，并投入 100 亿美元在美国开发 AI 解决方案业务。
+           &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>曝三星开发 AI PC 专用芯片 GAIA</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">曝三星开发-AI-PC-专用芯片-GAIA</guid>
+      <title>马斯克奥特曼再次公开对垒：互相指责对方「诈骗」与「推销谎言」</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">马斯克奥特曼再次公开对垒：互相指责对方「诈骗」与「推销谎言」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9c9ba92b-c43e-465a-b9b5-99981f58d4ec.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0dcd0797-7dd9-4231-b0d7-c5a17cfa30b1.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to The Chosun Ilbo, Samsung Electronics' System LSI division is developing a generative AI accelerator chip specifically designed for AI PCs, codenamed &quot;GAIA.&quot; Samsung has already provided prototype samples to major PC manufacturers such as Lenovo and HP for performance verification, with mass production expected to start as early as next year.
+            SpaceX CEO Elon Musk and OpenAI CEO Sam Altman recently engaged in another fierce public debate.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《朝鲜日报》报道，三星电子旗下系统 LSI 事业部正在开发一款专为 AI PC 设计的生成式 AI 加速芯片，代号为「GAIA」。目前，三星已向联想、惠普等主要 PC 制造商提供原型样品进行性能验证，最快有望于明年启动量产。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report states that the chip uses a 4-nanometer process technology and is positioned as a &quot;memory-centric AI accelerator,&quot; with the core design idea of deploying computing functions as close to memory as possible.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道称，该芯片采用 4 纳米制程工艺，被定位为「存储中心型 AI 加速器」，核心设计思路是将计算功能尽可能靠近内存部署。
+            SpaceX CEO 埃隆·马斯克（Elon Musk）与 OpenAI CEO 山姆·奥特曼（Sam Altman）近日再次爆发激烈公开争论。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Furthermore, Samsung is also advancing the integration of GAIA with next-generation DRAM technology, &quot;Processor-in-Memory (PIM),&quot; enabling memory to perform computations directly while storing data.
+            The conflict stemmed from Apple suing OpenAI for allegedly stealing trade secrets to develop hardware devices. Musk subsequently posted multiple attacks on Sam Altman on social media platform X, calling him 'Scam Altman' and accusing him of taking scams to 'a whole new level'.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，三星还在推进 GAIA 与下一代 DRAM 技术「处理器内存（PIM）」的整合，使存储器具备在存储数据的同时直接执行运算的能力。
+            此次冲突源于苹果公司起诉 OpenAI 涉嫌窃取商业机密以开发硬件设备，马斯克随后在社交平台 X 上多次发文攻击山姆·奥特曼，称其为「诈骗奥特曼」（Scam Altman），并指责其将诈骗提升到了「一个全新的水平」。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Unlike current accelerator chips primarily used for AI training and inference and equipped with GPUs, GAIA has undergone specialized optimization for the Neural Processing Unit (NPU) architecture, specifically targeting generative AI tasks on PCs.
+            In response to Musk's accusations, Sam Altman later posted a rebuttal, stating that Musk was the one 'pitching short-term space data centers to public market investors.' The 'space data center' mentioned by Sam Altman refers to SpaceX's concept of deploying orbital data centers using Starlink and Starship.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            与目前主要用于 AI 训练和推理、搭载 GPU 的加速芯片不同，GAIA 针对神经处理单元（NPU）架构进行了专项优化，专门面向 PC 端的生成式 AI 任务。
+            针对马斯克的指责，山姆·奥特曼随后发帖反击，称马斯克才是那个「向公开市场投资者推销短期太空数据中心的人」。山姆·奥特曼提到的「太空数据中心」是指 SpaceX 计划利用 Starlink 和 Starship 部署轨道数据中心的构想。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Musk responded by saying that SpaceX would begin related flight missions next year, and taunted Sam Altman by saying, 'Perhaps you can come and see if your parole officer approves,' alluding to ongoing legal disputes. Musk further accused Sam Altman of stealing Apple's mobile phone technology after stealing from an open-source AI charity.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            马斯克对此回应称，SpaceX 将于明年开始相关飞行任务，并嘲讽山姆·奥特曼称「如果你的假释官批准，或许你可以来看看」，以此影射相关法律纠纷。马斯克进一步指责山姆·奥特曼在窃取开源 AI 慈善机构后，又窃取了苹果公司的手机技术。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>中国农业银行 × Kimi 全球首张 AI 原生信用卡面世</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">中国农业银行-×-Kimi-全球首张-AI-原生信用卡面世</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1620c75d-5cc4-427d-9afc-c4efa6ebb482.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the National Business Daily, the partners for the world's first AI-native credit card, &quot;Kimi Credit Card,&quot; have been finalized as Agricultural Bank of China and American Express, and it was officially issued yesterday.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《每日经济新闻》报道，全球首张 AI 原生信用卡「Kimi 信用卡」合作方已敲定为中国农业银行与美国运通，并于昨日正式对外发行。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Official information indicates that the core benefits of the Kimi Credit Card are deeply linked to AI computing power. Every daily consumption by the cardholder can be converted into Kimi computing power quota, or directly redeemed for AI agent usage quota and advanced feature permissions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方信息显示，Kimi 信用卡的核心权益与 AI 算力深度挂钩。持卡人的每一笔日常消费均可转化为 Kimi 算力额度，或直接兑换 AI 智能体使用额度及高级功能权限。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Cardholders' consumption points can be redeemed for Kimi membership benefits at a ratio of 1000:1, supporting up to 50% point redemption, and enjoying a 20% discount when redeeming points for Kimi membership benefits.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            持卡人的消费积分可按 1000∶1 的比例兑换 Kimi 会员权益，最高支持 50% 积分兑换，且积分兑换 Kimi 会员权益时可享受八折优惠。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>希音赴港 IPO 获证监会备案，拟发行超 3.4 亿股普通股</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">希音赴港-IPO-获证监会备案，拟发行超-3.4-亿股普通股</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/438eb0dc-d08c-4cbc-863b-979337b11fc2.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The China Securities Regulatory Commission announced that Shein International Holding Limited's application for overseas issuance and listing has been approved. Shein plans to issue no more than 341,613,000 overseas-listed ordinary shares on the Hong Kong Stock Exchange through its domestic operating entity, Guangzhou Shein International Import &amp;amp; Export Co., Ltd.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            证监会发布公告显示，希音国际控股有限公司境外发行上市备案申请已获通过。希音拟通过其境内运营实体广州希音国际进出口有限公司，在香港联合交易所发行不超过 341613000 股境外上市普通股。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小红书官宣 12 个地方足球联赛入驻</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">小红书官宣-12-个地方足球联赛入驻</guid>
+      <title>智谱唐杰发内部信：启动「摸高」计划，不登顶就是失败</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">智谱唐杰发内部信：启动「摸高」计划，不登顶就是失败</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Xiaohongshu announced yesterday that 12 provincial and municipal local football leagues, including Shanghai Street Super, Jiangsu Super, Foshan La Liga, Chu Super, Guizhou Village Super, Chongqing Super, Yunnan Super, Northeast Super, Fujian Super, Sichuan Super, Inner Mongolia Super, and Hunan Super, have officially collectively joined Xiaohongshu.
+            According to 36Kr, Zhipu founder Tang Jie yesterday released an internal letter titled 'The Great Wave Has Arrived' within the company, proposing to launch the 'Touch High' plan. For the next two years, the focus will be on four major directions: long-range task capabilities, autonomous agent systems, complete self-training, and extreme safety governance, with short-term commercial monetization not being the priority.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            小红书昨日宣布，上海街超、苏超、佛山西甲、楚超、贵州村超、渝超、滇超、东北超、闽超、川超、蒙超、湘超等 12 个省市地方足球联赛正式集体入驻小红书。
+            据 36 氪报道，智谱创始人唐杰昨日在公司内部发布题为《巨浪已来》的内部信，提出将启动「Touch High（摸高）」计划，未来两年聚焦长程任务能力、自治智能体系统、完全自我训练与极致安全治理四大方向，暂不以短期商业变现为优先目标。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            平台将为入驻联赛提供流量扶持、内容运营等支持，旨在帮助地方赛事在平台上建立内容生态与球迷社区。
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In the internal letter, Tang Jie summarized the path to achieving AGI as three 'mountains that must be overcome':
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            小红书社区运动户外负责人、世界杯运营负责人草莓在媒体交流会上表示，美加墨世界杯对小红书而言是社区成长边界的探索。此次赛事验证了 UGC 生活兴趣社区能够容纳不同的人群、内容及产品形态。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            内部信中，唐杰将 AGI 的实现路径归纳为三座「必须翻越的山峰」：
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            官方数据显示，受世界杯带动，小红书 App 的使用时长、内容消费及直播业务增长显著。7 月，小红书 App 使用时长环比增速提升了 2 倍，日发布笔记数环比增速达到 6 月的 3 倍。此外，互动直播场景中长时间观播的用户数同比增长近 5 倍。
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Long-range task capabilities, meaning enabling models to plan and execute tasks spanning weeks to years;&lt;/p&gt;
+&lt;p&gt;Fully autonomous agent systems, referring to autonomous collaboration, review, and resource scheduling by a large number of agents with different specialized capabilities;&lt;/p&gt;
+&lt;p&gt;Complete self-training, meaning models evolve by self-writing code and self-synthesizing data.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Tang Jie stated that among the four directions, safety governance is the part he wants to emphasize most. Zhipu plans to invest tens of billions in resources for 'mechanical interpretability' research to clarify the neural logic behind model decisions and promote the transformation of models from black-box systems to interpretable systems.
            &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One Fun Thing｜售价 14.5 万，这款能帮你洗衣服的人形机器人，手指灵活得不像话</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">One-Fun-Thing｜售价-14.5-万，这款能帮你洗衣服的人形机器人，手指灵活得不像话</guid>
-      <description>&lt;div class=&quot;wp-video&quot; style=&quot;width: 640px;&quot;&gt;
-&lt;!--[if lt IE 9]&gt;&lt;script&gt;document.createElement('video');&lt;/script&gt;&lt;![endif]--&gt;
-&lt;br/&gt;
-&lt;video class=&quot;wp-video-shortcode&quot; controls=&quot;controls&quot; height=&quot;360&quot; id=&quot;video-1671681-1&quot; preload=&quot;metadata&quot; width=&quot;640&quot;&gt;
-&lt;source src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/07/3e0df2972ad16b7853d2ec0e8f22874a_raw.mp4?_=1&quot; type=&quot;video/mp4&quot;/&gt;
-&lt;a href=&quot;https://s3.ifanr.com/wp-content/uploads/2026/07/3e0df2972ad16b7853d2ec0e8f22874a_raw.mp4&quot;&gt;
-             https://s3.ifanr.com/wp-content/uploads/2026/07/3e0df2972ad16b7853d2ec0e8f22874a_raw.mp4
-            &lt;/a&gt;
-&lt;/video&gt;
-&lt;/div&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            据《连线》报道，机器人公司 1X 昨日展示了其家用人形机器人 Neo 的最新「绝活」：一双灵巧得甚至有些「鬼畜」的双手。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            Neo 是一款主打家庭陪伴的软体机器人，外形走的是《超能陆战队》里大白（Baymax）那样的亲和路线。但这双新手的性能却一点也不「呆萌」——
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            其内部采用了模拟人体肌腱的执行器设计，拥有 25 个自由度，几乎复刻了人类双手的灵活性。1X 官方甚至表示，它的活动范围在某些角度下能超越人类，实现手指的超伸。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            在官方演示视频中，Neo 在舒缓的爵士乐背景下，动作优雅地拎起高脚杯、拉开夹克拉链，甚至还能轻抚葡萄。在与记者的视频通话中，Neo 更是展示了其惊人的手速：手指在桌面上快速敲击，频率高到在屏幕上留下了残影。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            除了「手速快」，这双机器人手还拥有 IP68 级防水，这意味着它甚至能像人类一样自己洗手。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            目前，这款拥有「freaky fast fingers」的机器人已开启早期接入，售价 20,000 美元（约合 14.5 万人民币）。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            唐杰表示，在四大方向中，安全治理是其最想强调的部分，智谱计划投入百亿级资源用于「机械可解释性」研究，以厘清模型决策背后的神经元逻辑，推动模型从黑盒系统向可解释系统转变。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>周末看什么｜《晒后假日》</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">周末看什么｜《晒后假日》</guid>
+      <title>Claude Fable 5 订阅访问权限再次续杯后，Codex 取消 5 小时使用限制</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">Claude-Fable-5-订阅访问权限再次续杯后，Codex-取消-5-小时使用限制</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/48336a33-7ef5-4d22-a19b-f9fa8b1dca15.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            剧情片《晒后假日》采用「情感自传」的叙事方式，通过 11 岁苏格兰少女苏菲与 31 岁父亲卡伦在土耳其度假的记忆碎片，构建了一场跨越 20 年的心理追溯。
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260713_%E6%97%A9%E6%8A%A5/43cef026-6c40-4ccd-bc80-92be7e1de698.jpg&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic announced today that access to Claude Fable 5 on all paid plans will be extended until July 19, and the measure to increase Claude Code's weekly rate limit by 50% will also remain in effect until the same date.
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            剧情结构通过 DV 摄影机的录像与成年苏菲的梦境蒙太奇交织展开。20 世纪 00 年代初，正值 31 岁生日的卡伦带着女儿苏菲前往土耳其。在阳光与潜水的度假表象下，影片精准捕捉了卡伦隐藏在太极拳练习与心理自助书籍背后的抑郁状态。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 今天宣布，Claude Fable 5 在所有付费计划上的访问权限将延长至 7 月 19 日，同时 Claude Code 每周速率限制提高 50% 的措施也一并保持至相同日期。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            随着剧情推进，成年后的苏菲在与父亲当年相同的年纪，通过翻看旧影像试图重新理解那位「熟悉又陌生」的父亲，以及他在温情拥抱背后所承受的、不曾察觉的忧伤。
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to the original plan, Fable 5 was initially scheduled to be removed from the subscription model and switch to a purely pay-as-you-go model on June 23, then delayed to July 12. Against the backdrop of the upcoming GPT-5.6 release, Anthropic has once again extended the deadline by two days, until July 19.
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            口碑方面，IMDb 数据显示，在全球 13.1 万名用户的评价下，该片维持了 7.6 / 10 的稳健评分，烂番茄新鲜度亦高达 95%。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            按最初计划，Fable 5 原定于 6 月 23 日从订阅制中移除、转为纯按量付费模式，随后延期至 7 月 12 日。在 GPT-5.6 即将发布的背景下，Anthropic 再次将期限延长两天，直至 7 月 19 日。
            &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>买书不读指南｜陈思呈新作《树上南方》解析岭南「草木人间」</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">买书不读指南｜陈思呈新作《树上南方》解析岭南「草木人间」</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/27cdf488-a03f-4ccd-a45e-35aecba04d73.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            《树上南方》是现居广州的非虚构写作者陈思呈撰写的非虚构散文集，作者以潮州、顺德、广州及周边乡村为核心坐标，通过「去滤镜」的非虚构笔法，记录了韩江边、渡口、老街区及城市边界处那些逐渐消失的景物与事件。
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Subsequently, OpenAI engineer Tibo announced on X that the 5-hour usage limit for all Plus, Business, and Pro plans has been temporarily lifted. Meanwhile, OpenAI is rolling out a series of improvements to comprehensively enhance the efficiency of GPT 5.6 Sol, aiming to reduce consumption per task.
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            该书以木棉、油甘、橄榄、阳桃等岭南风物为引，串联起养鹅人、柑农、自梳女、木偶戏艺人及船工等普通人的命运轨迹。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            陈思呈在书中自称「住在边境的人」，旨在表达一种处于变动中且不被主流叙事干扰的敏锐洞察力，尝试在司空见惯的日常路线中挖掘陌生的美学价值与诗意。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            随后，OpenAI 工程师 Tibo 在 X 宣布，已暂时取消所有 Plus、Business 和 Pro 方案的 5 小时使用限制。与此同时，OpenAI 正在推出一系列改进以全面提升 GPT 5.6 Sol 的效率，旨在通过降低单次任务的用量消耗。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>游戏推荐｜《奇异人生：风暴前夕》</title>
-      <pubDate>Sat, 11 Jul 2026 08:14:00 +0000</pubDate>
-      <guid isPermaLink="false">游戏推荐｜《奇异人生：风暴前夕》</guid>
+      <title>OpenAI 应用业务 CEO 因病离职</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">OpenAI-应用业务-CEO-因病离职</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/4b50d2d7-e431-49f5-bfff-9c0770105022.png&quot;/&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            《奇异人生：风暴前夕》是《奇异人生》的前传，于 2017 年起登陆 PC 及各大主机平台。本作舍弃了前作的「时间回溯」超能力，引入「嘴炮」（Backtalk）系统，强调言语交锋的即时性与不可逆性。
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/b3d5e627-76e0-4db6-8e26-4c5ab3afff7b.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Fidji Simo, CEO of OpenAI's application business, recently posted on X that she has decided to step down from her full-time position and transition to a part-time advisor role.
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            剧情聚焦 16 岁的歌露儿·普莱斯（Chloe Price）与瑞秋·安波尔（Rachel Amber）之间迅速建立的羁绊。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            OpenAI 应用业务 CEO Fidji Simo 近日在 X 发文表示，已决定卸任全职职务，转为兼职顾问。
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            正值丧父与好友离去阵痛期的歌露儿，意外卷入瑞秋复杂的家庭秘密——一场涉及亲生母亲塞拉的真相与地方检察官父亲的谎言。两人在逃离阿卡迪亚湾的计划中，被迫应对毒贩威胁与道德抉择。
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Three months ago, she took medical leave due to an acute exacerbation of a chronic illness. She subsequently confirmed that the recovery time needed was far longer than expected, leading to this decision. She mentioned that the illness has been with her for seven years.
            &lt;/span&gt;
-&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;span&gt;
-            本作在 Metacritic 汇总评分均分约 77 ~ 82 分，IGN 中国为首章给出 7.5 分。该作凭借出色的叙事水准斩获 2018 年威比奖最佳编剧及 Games for Change 年度游戏大奖。
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            三个月前，她因慢性疾病急性加重而休医疗假，此后确认康复所需时间远超预期，因此做出这一决定。她提到，该疾病已伴随自己七年。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>问界汽车由盈转亏，赛力斯上半年业绩预告亏损最高 18 亿元</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">问界汽车由盈转亏，赛力斯上半年业绩预告亏损最高-18-亿元</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/cdf08ab8-55bd-4ea9-b953-6f0c3d4e562f.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Seres today issued an announcement, stating that the company expects a net loss attributable to shareholders of listed companies of 1.5 billion to 1.8 billion yuan in the first half of 2026, compared to a profit of 2.941 billion yuan in the same period last year, marking a year-on-year shift from profit to loss. The announcement explained the main reasons for the loss:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            赛力斯今日发布公告，公司预计 2026 年上半年归属于上市公司股东的净利润为亏损 15 亿元至 18 亿元，上年同期为盈利 29.41 亿元，同比由盈转亏。公告解释了亏损的主要原因：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;The company's production costs increased due to the rising prices of major raw materials such as storage chips, industrial metals, and lithium carbonate;&lt;/p&gt;
+&lt;p&gt;Based on the principle of prudence, and to further solidify overall asset quality and align with expected future asset returns, the company adjusted the book value of some existing assets with limited adaptability due to technological iterations and model changes.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Affected by the superposition of these two factors, the performance of the company's core subsidiary, AITO Automobile, fluctuated, turning from profit to loss, which in turn dragged down the company's overall performance.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            受这两方面因素叠加影响，公司核心子公司问界汽车业绩出现波动，由盈利转为亏损，进而拖累公司整体业绩。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 承认 ChatGPT 大改版没处理好、Codex 不会被关闭</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">OpenAI-承认-ChatGPT-大改版没处理好、Codex-不会被关闭</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to The Decoder, OpenAI received a large amount of feedback after the release of ChatGPT Work and GPT-5.6 Sol. OpenAI's Thibault Sottiaux admitted that &quot;not everything was done right&quot; and stated that the team has been reading feedback, analyzing usage patterns, and communicating with users for the past 24 hours.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 The Decoder 报道，OpenAI 在 ChatGPT Work 和 GPT-5.6 Sol 发布后收到大量反馈。OpenAI 的 Thibault Sottiaux 承认「没有把所有事情都做对」，并称团队过去 24 小时一直在阅读反馈、分析用量模式和与用户沟通。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            OpenAI summarized four categories of issues:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            OpenAI 归纳出四类问题：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;High-compute settings are too easily selected, and users are unclear how these settings consume credits;&lt;/p&gt;
+&lt;p&gt;Desktop-side changes were too extensive at once, making familiar entry points like chat and projects harder to find;&lt;/p&gt;
+&lt;p&gt;Some multi-agent workflows experienced degradation;&lt;/p&gt;
+&lt;p&gt;Bugs appeared in plugin submissions and other product stages.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The company has reset Codex and ChatGPT Work usage limits twice in one day and adjusted default settings and model selectors.
+            &lt;strong&gt;
+             Sottiaux also clarified that Codex will not be shut down
+            &lt;/strong&gt;
+            ; next week's update will bring chat and projects back to the sidebar in a more familiar, customizable way, and make usage metrics and reset times more visible.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            公司已在一天内两次重置 Codex 和 ChatGPT Work 用量限制，并调整默认设置和模型选择器。
+            &lt;strong&gt;
+             Sottiaux 还澄清，Codex 不会被关闭
+            &lt;/strong&gt;
+            ；下周的更新会把聊天和项目以更熟悉、可自定义的方式放回侧边栏，并让用量指标和重置时间更可见。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>字节旗下付费小说 App 红烛故事将于 8 月 17 日停止运营</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">字节旗下付费小说-App-红烛故事将于-8-月-17-日停止运营</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/848c5b9f-8c75-4efa-b42e-9e2e9ad23af2.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            ByteDance's paid novel app, Hongzhu Story, has issued an &quot;In-App Service Suspension Notice,&quot; announcing that it will gradually cease relevant operational services from July 9 to August 17, 2026.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            字节旗下付费小说 App 红烛故事发布《站内停服通知》，将从 2026 年 7 月 9 日起至 8 月 17 日逐步停止相关运营服务。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The service suspension will be carried out in phases: starting July 9, the app will stop new user registrations and payment-related services; subsequently, reading, top-up, membership, and account-related functions will be gradually closed; after August 17, the Hongzhu Story App will officially cease operations.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            停服安排分阶段进行：7 月 9 日起，App 停止新用户注册和付费相关服务；后续将逐步关闭阅读、充值、会员和账号相关功能；8 月 17 日后，红烛故事 App 将正式停止运营。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💡 诺兰：年轻观众正在拒绝「AI 垃圾」</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">💡-诺兰：年轻观众正在拒绝「AI-垃圾」</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/bca1442f-c016-4487-bc90-4f72015a190b.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to The Daily Telegraph, Oscar-winning director Christopher Nolan shared the creative inspiration for his new film &quot;Odyssey&quot; in an interview, stating bluntly that the younger generation is rapidly and completely rejecting what he calls &quot;AI slop.&quot;
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据英国《每日电讯报》报道，奥斯卡获奖导演克里斯托弗·诺兰（Christopher Nolan）在访谈中分享了其新片《奥德赛》的创作初衷，并直言年轻一代正在迅速且彻底地拒绝所谓的「AI 垃圾」（AI slop）。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Nolan stated that despite the immense effort the tech industry has put into advancing AI, he was surprised by how quickly young audiences are rejecting this &quot;fundamental technological leap.&quot; Citing his four children as an example, he pointed out that this generation, raised in an online environment, can instantly recognize and see through the essence of AI content:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            诺兰表示，尽管科技行业投入了巨大精力推动人工智能发展，但年轻观众对这种「基础性技术跃迁」的屏弃速度之快令他感到惊讶。他以自己的四个孩子为例，指出这一代生长于网络环境的年轻人能瞬间识别并看透 AI 内容的本质：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;Their judgment of AI garbage is immediate and severe. They can quickly see its true colors—because it was born from the online world they are very familiar with.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Nolan disagrees with external concerns about &quot;young audiences' fragmented attention.&quot; He believes that mysterious, obscure, and even David Lynch-esque works like &quot;The Backrooms&quot; can keep young people entertained, proving they are fully capable of appreciating three-hour, contemplative epic films.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            针对外界对「年轻观众注意力碎片化」的担忧，诺兰持反对意见。他认为，像《后室》这样神秘、晦涩甚至带有大卫·林奇风格的作品能让年轻人乐此不疲，足以证明他们完全有能力欣赏长达三小时、充满沉思的史诗电影。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Furthermore, Nolan reiterated his stance against smartphones. He confessed that if he owned a phone, he would fall into deep addiction, and he prefers to use fragmented time, such as waiting for a car or dining, to advance creative thinking, rather than jumping into the noise of the digital world. He believes this &quot;disconnected&quot; state is key to protecting creative authenticity.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，诺兰再次重申了自己对智能手机的抵制立场。他坦言自己如果拥有手机会陷入深度成瘾，而他更倾向于利用等车、就餐等碎片时间来推进创作思考，而非跳进数字世界的噪音中。他认为这种「断联」状态是保护创作真诚性的关键。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;section&gt;
+&lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
+&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>REDMI Note 17 系列规格曝光，发布会定档 7 月 14 日</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">REDMI-Note-17-系列规格曝光，发布会定档-7-月-14-日</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f5b7f286-5379-4c3c-b837-031f538da490.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Xiaomi REDMI Note 17 series launch event has been scheduled for July 14th. The new phone features a 7-inch large screen and an 8000mAh large battery.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            小米 REDMI Note 17 系列发布会已定档 7 月 14 日。新机主打 7 英寸大屏、8000mAh 大电量。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>海信墨水屏手机 A10 预热：正面墨水屏，背面磁吸 LCD 彩屏</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">海信墨水屏手机-A10-预热：正面墨水屏，背面磁吸-LCD-彩屏</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e3881163-9b4b-4278-9a72-48e2bcbbe8a7.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Hisense E-ink official recently announced the appearance and some parameters of the E-ink phone A10. The front of this phone features a 6.13-inch paper-like E-ink screen, designed for long-term reading, note-taking, and other scenarios; the back is a magnetic LCD color screen for browsing graphics, reading color comics, viewing charts, and daily audio-visual social activities.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            海信墨水屏官方近日公布了墨水屏手机 A10 的外观和部分参数。这款手机正面搭载 6.13 英寸纸质观感墨水屏，面向长时间阅读、批注笔记等场景；背面则是一块可磁吸 LCD 彩屏，用于刷图文、看彩漫、浏览图表和日常影音社交。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WPS 推出 7 月体验版，新增存储管理入口解决 C 盘占用痛点</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">WPS-推出-7-月体验版，新增存储管理入口解决-C-盘占用痛点</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/abeca9a7-3998-4326-93b0-7f8c0e936d73.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Kingsoft Office announced yesterday that WPS has completed preliminary storage management capability optimization and released a &quot;July Experience Version&quot; for users to try. This update aims to address long-standing user feedback such as &quot;large C drive occupation and unclear cleanup entry&quot; pain points. The official stable version is expected to be gradually pushed to all users by the end of July.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            金山办公昨日宣布，WPS 已完成初步存储管理能力优化，发布「7 月体验版」供用户试用。此次更新旨在解决用户长期反馈的「C 盘占用大、清理入口不清晰」等痛点，正式稳定版本预计将于 7 月底陆续向全量用户推送。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Integrated and added a &quot;Storage Management&quot; entry;&lt;/p&gt;
+&lt;p&gt;Implemented categorized settings for installation paths. During the software installation phase, users can separately specify the program installation location, document backup path, and cloud document cache path. These three paths are independent and support personalized allocation based on device hardware space;&lt;/p&gt;
+&lt;p&gt;For path migration, WPS provides real-time progress display and clearly states that the normal migration process will not result in the loss of original files.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding the issue of occupied space increasing after clearing application cache, the official explanation in the Q&amp;amp;A stated that due to the design mechanism of the Windows system, application cache is by default stored in the system drive along with system directories. This type of basic operating data usually cannot be migrated separately and will be regenerated as the program runs.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            针对应用缓存清理后占用空间回升的问题，官方在答疑中解释称，受 Windows 系统设计机制影响，应用缓存默认随系统目录存储于系统盘，这类基础运行数据通常无法单独迁移，且会随程序运行重新生成。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阶跃星辰发布 Step Edge 端侧模型家族</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">阶跃星辰发布-Step-Edge-端侧模型家族</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/aef14ec6-b57e-40dc-b0df-f2e803479be7.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Jiejue Xingchen yesterday released the Step Edge edge-side model family, targeting terminal scenarios such as mobile phones and automobiles, including Step Edge Base Model, Step Edge Audio, Step Edge GUI, and Step Edge Gen.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            阶跃星辰昨日发布 Step Edge 端侧模型家族，面向手机、汽车等终端场景，包括 Step Edge 基础模型、Step Edge Audio、Step Edge GUI 和 Step Edge Gen。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to the official introduction, Step Edge supports edge-side local toolcall execution as fast as 0.1 seconds, and multimodal information such as text, vision, and speech can be processed locally; simple tasks, weak network, or no network tasks are handled by the edge, while complex inference and long-chain tasks are then handed over to the cloud.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            官方介绍，Step Edge 支持低至 0.1 秒的端侧本地 toolcall 执行，文本、视觉、语音等多模态信息可在本地处理；简单任务、弱网或无网任务由端侧响应，复杂推理和长链路任务再交给云端。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Jiejue Xingchen stated that Step Edge achieved first place in 29 internal core evaluation indicators, covering areas such as text vision, audio understanding, speech recognition, GUI, image generation, and editing.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            阶跃星辰称，Step Edge 在 29 项内部核心评测指标中取得第一，覆盖文本视觉、音频理解、语音识别、GUI、图像生成和编辑等方向。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 桌面端加入内置浏览器，支持 AI 自动读网页与填表</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">Claude-Code-桌面端加入内置浏览器，支持-AI-自动读网页与填表</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/74133373-7d43-47e3-9c7e-a79d2e6ee2fd.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Claude Code recently added a built-in browser feature with automation capabilities, able to read page content, click buttons, and fill out forms.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Claude Code 近日加入内置浏览器功能，具备自动化操作能力，能够读取页面内容、点击按钮并填写表单。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of security, Claude will trigger a permission request when operating a specific website for the first time. Users can choose &quot;Allow once,&quot; &quot;Always allow,&quot; or &quot;Deny.&quot; Highly sensitive or complex operations involving purchasing goods, registering accounts, and handling CAPTCHAs still require manual completion by the user.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            在安全性方面，Claude 首次操作特定网站时会触发权限请求，用户可选择「允许一次」、「始终允许」或「拒绝」，涉及购买商品、注册账号及处理验证码等高敏感或复杂操作，仍需由用户手动完成。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;section&gt;
+&lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
+&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Oakley 发布全新 Infiniloop 眼镜</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">Oakley-发布全新-Infiniloop-眼镜</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/48c4163c-1c81-4b44-936f-e072f32e40ec.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Oakley officially released its new eyewear product, Infiniloop. This series draws design inspiration from the geometric concept of &quot;infinity,&quot; showcasing a highly futuristic and avant-garde silhouette.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Oakley 正式发布全新眼镜产品 Infiniloop。该系列以「无限」的几何概念为设计灵感，展现出极具未来感的先锋轮廓。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Infiniloop features a unique composite material design, with the upper part of the frame crafted from titanium and the lower part combining the brand's iconic O-Matter material. The overall frame is connected by minimal contact points, giving the lenses a visually suspended-in-air effect.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Infiniloop 采用了独特的复合材质设计，上半部分镜框由钛金属打造，下半部分则结合了品牌标志性的 O-Matter 材质。镜框整体通过极少的接触点进行连接，使镜片在视觉上呈现出悬浮于空中的效果。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>央视曝光违规售卖信号屏蔽器乱象：部分产品辐射超标 2 倍</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">央视曝光违规售卖信号屏蔽器乱象：部分产品辐射超标-2-倍</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/79d25105-dbbc-41d8-8a01-fee44cd7bed1.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to CCTV News, a domestic airport recently experienced an unexplained interruption of radio signals, seriously affecting flight safety. After investigation by national security agencies in conjunction with relevant departments, it was ultimately discovered that the incident was caused by a nearby farm that privately purchased and installed a signal jammer online.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据央视新闻报道，国内一座机场近期发生无线电信号无故中断事件，严重影响飞行安全。经国家安全机关会同有关部门排查，最终发现系机场附近一家养殖场私自网购并安装信号干扰器所致。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            CCTV News' investigation shows that signal blockers are currently being secretly sold on some e-commerce platforms under keywords such as &quot;anti-recording shield&quot; and &quot;conference shield.&quot; Tests by authoritative institutions revealed that the electromagnetic radiation value of such devices sold on a certain platform has exceeded the national standard by 2 times.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            央视新闻的调查显示，目前在部分电商平台上，信号屏蔽器常被改换为「防录音屏蔽器」「会议屏蔽器」等关键词暗中销售。经权威机构测试，某平台售卖的此类设备电磁辐射数值已超过国家标准 2 倍。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Chinese law explicitly stipulates that no individual is allowed to purchase, sell, or use signal jamming equipment. Legal experts state that both privately selling and using signal jammers are illegal. E-commerce merchants must not cross legal red lines for profit, and ordinary consumers who use them privately will be held legally responsible for administrative penalties or criminal liability depending on the severity of the circumstances.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            我国法律明确规定，严禁任何个人购买、销售和使用信号屏蔽设备。法律专家表示，私自售卖或使用信号屏蔽器的行为均属违法。电商商家不得为牟利触碰法律红线，普通消费者若私自使用，将视情节轻重依法承担行政处罚或刑事责任。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;section&gt;
+&lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
+&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>周星驰《功夫女足》上映 2 天票房破 3.6 亿</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">周星驰《功夫女足》上映-2-天票房破-3.6-亿</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e5a42485-9c91-48c1-bfc8-d5aed4e6cc51.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The film &quot;Kung Fu Soccer,&quot; directed and written by Stephen Chow, officially premiered on the 11th. The movie tells the story of a group of girls who love football pursuing their dreams on the green field through Shaolin kung fu.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            由周星驰执导并编剧的电影《功夫女足》于 11 日正式上映。影片讲述了一群热爱足球的女孩通过少林功夫在绿茵场上追求梦想的故事。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            &quot;Kung Fu Soccer&quot; recorded a box office of 260 million yuan on its opening day, breaking 7 Chinese film history records in one fell swoop; Maoyan Professional Edition real-time data shows that as of yesterday afternoon, &quot;Kung Fu Soccer&quot; has accumulated over 400 million yuan in box office revenue after 2 days of release.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《功夫女足》在上映首日即录得 2.60 亿元票房，一举打破了 7 项中国影史纪录；猫眼专业版实时数据显示，截至昨日下午，《功夫女足》上映 2 天累计票房已突破 4 亿元。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《复仇者联盟 5：毁灭之日》概念图公开，超过二十位角色亮相</title>
+      <pubDate>Mon, 13 Jul 2026 06:25:19 +0000</pubDate>
+      <guid isPermaLink="false">《复仇者联盟-5：毁灭之日》概念图公开，超过二十位角色亮相</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/8fbae6ec-b294-4da4-b5d7-38cba8597f20.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Marvel Studios President Kevin Feige unveiled new concept art for &quot;Avengers 5: Day of Destruction&quot; at BilibiliWorld 2026, showcasing the designs of over twenty characters.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            漫威影业总裁 Kevin Feige 在 BilibiliWorld 2026 现场带来《复仇者联盟 5：毁灭之日》全新概念艺术图，展示了超过二十位角色的造型。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Characters appearing in the concept art include Doctor Doom played by Robert Downey Jr., Captain America, Thor, Loki, original X-Men members, Fantastic Four, Thunderbolts, Hawkeye, new Falcon, Female Black Panther, M'Baku, Ant-Man, and Shang-Chi, among others.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            概念图中出现的角色包括小罗伯特・唐尼饰演的毁灭博士、美队、雷神、洛基、初代 X 战警成员、神奇四侠、雷霆特攻队、鹰队、新猎鹰、女黑豹、姆巴库、蚁人和尚气等。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            &quot;Avengers 5: Day of Destruction&quot; is scheduled to be released in North America on December 18, with the Russo Brothers returning to direct.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《复仇者联盟 5：毁灭之日》定档 12 月 18 日北美上映，由罗素兄弟回归执导。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;/div&gt;</description>
