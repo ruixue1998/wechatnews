@@ -2,810 +2,985 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Thu, 16 Jul 2026 05:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:46:41 +0000</lastBuildDate>
     <item>
-      <title>Apple 智能在列，7 款手机端侧生成式 AI 服务完成备案</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">Apple-智能在列，7-款手机端侧生成式-AI-服务完成备案</guid>
+      <title>曝苹果寻求收购 AI 芯片企业，补强 AI 服务器算力</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">曝苹果寻求收购-AI-芯片企业，补强-AI-服务器算力</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/963c2b77-05e4-4618-a61b-a62c95c17b29.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/316c72e7-1963-4e52-96d9-31f269a1adde.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to China Cyberspace Administration, the cyberspace department yesterday announced the newly added 7 mobile-side generative AI service filing information, including Apple Intelligence.
+            According to The Information, Apple is seeking to acquire AI chip companies to enhance its own data centers' ability to handle high-intensity AI workloads and reduce its reliance on Nvidia chips.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据网信中国消息，网信部门昨日公布新增的 7 款提供手机端侧生成式人工智能服务备案信息，其中包括苹果的 Apple 智能。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This filing information involves 7 mobile-side generative AI services, corresponding to Apple, Huawei, OPPO, vivo, Xiaomi, Samsung, and ZTE phones, respectively.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此次备案信息涉及 7 款手机端侧生成式人工智能服务，分别对应苹果、华为、OPPO、vivo、小米、三星和中兴手机。
+            据《The Information》报道，苹果正在寻求收购 AI 芯片企业，以提升自有数据中心处理高强度 AI 工作负载的能力，并降低对英伟达芯片的依赖。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Among them, Apple phones correspond to Apple Intelligence; Huawei phones correspond to Huawei Xiaoyi AI large model; OPPO phones correspond to AndesGPT large model; vivo phones correspond to vivo BlueHeart edge-side large model; Xiaomi phones correspond to Xiaomi Surge AI; Samsung phones correspond to Galaxy AI; and ZTE phones correspond to Nubia Doubao phone large model.
+            Currently, Apple's data centers use self-developed M2 Ultra chips to handle some AI tasks; for the demand of running larger models like Google Gemini, it relies on Nvidia chips in Google Cloud.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其中，苹果手机对应 Apple 智能；华为手机对应华为小艺 AI 大模型；OPPO 手机对应 AndesGPT 大模型；vivo 手机对应 vivo 蓝心端侧大模型；小米手机对应小米澎湃 AI；三星手机对应 Galaxy AI；中兴手机对应努比亚豆包手机大模型。
+            目前，苹果数据中心使用自研 M2 Ultra 芯片处理部分 AI 任务；对于运行 Google Gemini 等更大型模型的需求，则需要依托 Google 云中的英伟达芯片。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            APPSO learned from Alibaba that
-            &lt;strong&gt;
-             Alibaba's Tongyi Qianwen will be integrated as an AI capability into Apple Intelligence
-            &lt;/strong&gt;
-            , bringing intelligent experiences to Chinese users of iOS, iPadOS, macOS, and visionOS. Users can directly experience Qianwen's text and image understanding, content generation, and other capabilities on Apple devices without switching between applications.
+            Sources say that Apple's next-generation AI server chip, codenamed Baltra, was originally planned for release this year, but the project has been delayed, with the specific reasons not yet disclosed.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            APPSO 从阿里巴巴方面获悉，
-            &lt;strong&gt;
-             阿里千问将作为 AI 能力集成至 Apple 智能
-            &lt;/strong&gt;
-            ，为 iOS、iPadOS、macOS 和 visionOS 的中国用户带来智能体验。用户无需在应用间切换，即可在 Apple 设备上直接体验千问的文本与图像理解、内容生成等能力。
+            知情人士称，苹果内部代号为 Baltra 的下一代 AI 服务器芯片原计划于今年推出，但项目已经推迟，具体原因尚未披露。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Previously, foreign media reported that Alibaba's cooperation with Apple focuses on supporting the security review of Apple Intelligence, while its cooperation with Baidu focuses on developing AI-based search functions. On June 23, overseas blogger One Jailbreak discovered the field 'Baidu Visual Search' in ExtensionKit while disassembling the iOS 27 Beta 2 code.
+            The report mentioned that Apple has recently discussed potential deals with bankers and has also contacted some semiconductor startups to understand their willingness to be acquired.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此前据外媒报道，阿里与苹果的合作重点在于支持 Apple 智能的安全审查，与百度的合作则侧重开发基于 AI 的搜索功能。6 月 23 日，海外博主 One Jailbreak 在拆解 iOS 27 Beta 2 代码时发现，ExtensionKit 中出现「Baidu Visual Search」字段。
+            报道提到，苹果近期已与银行家讨论潜在交易，也接触过部分半导体初创企业，了解其被收购意愿。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Apple is also advancing AI server chip development through other means. In 2024, Apple was reported to be collaborating with Broadcom to develop AI server chips; Broadcom stated in a securities filing last week that the two parties would extend their long-term technology cooperation until 2031, but did not disclose the specific content of the cooperation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            苹果还在通过其他方式推进 AI 服务器芯片研发。2024 年，苹果曾被报道与博通合作开发 AI 服务器芯片；博通上周在证券文件中表示，双方将把长期技术合作延续至 2031 年，但没有披露具体合作内容。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>1500 元，Codex 首款硬件亮相</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">1500-元，Codex-首款硬件亮相</guid>
+      <title>Anthropic 被曝筹备秋季 IPO 投资者会议</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">Anthropic-被曝筹备秋季-IPO-投资者会议</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/0320d6e9-3894-408d-b91b-6e061b6ce5de.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/6363f57e-9e38-454b-ae73-12b4fcbb706b.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Today, OpenAI released its first hardware product, Codex Micro, a control keyboard for Codex agents, priced at $230, or approximately 1556 RMB.
+            According to Bloomberg, Anthropic is preparing to hold meetings with investors regarding a potential initial public offering, with the earliest listing time possibly in the fall of this year. The company has contacted several investment banks, hoping to enter the public market before OpenAI and DeepSeek.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            今天，OpenAI 发布首款硬件 Codex Micro，一款面向 Codex 智能体的控制键盘，售价 230 美元，约合人民币 1556 元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Codex Micro is equipped with 13 mechanical switches, touch sensors, a rotary encoder, and a flat joystick, supporting Bluetooth and USB-C connectivity, compatible with Mac and Windows. The Agent button displays the agent's idle, thinking, running, waiting for input, or complete status via RGB lighting.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Codex Micro 配备 13 个机械轴体、触摸传感器、旋转编码器和平面摇杆，支持蓝牙与 USB-C 连接，兼容 Mac 和 Windows。Agent 按键会通过 RGB 灯光显示智能体的空闲、思考、运行、等待输入或完成状态。
+            据彭博社报道，Anthropic 正准备就潜在首次公开募股与投资者展开会议，上市时间最快可能落在今年秋季。公司已与多家投行接触，希望在 OpenAI 与 DeepSeek 之前进入公开市场。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The joystick can trigger workflows such as code review, error debugging, and code refactoring; physical buttons support accepting, rejecting, push-to-talk, and creating new chats; the knob can adjust Codex's reasoning level in real-time. The product comes with 32 Codex custom icon keycaps.
+            According to DigiTimes, Anthropic is seeking to expand its multi-billion dollar credit line to prepare funds for pre-IPO model training, computing power procurement, and business expansion.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            摇杆可触发代码审查、错误调试和代码重构等工作流；实体按键支持接受、拒绝、按键说话和新建聊天；旋钮则可实时调整 Codex 的推理级别。产品随附 32 个 Codex 定制图标键帽。
+            另据 DigiTimes 消息，Anthropic 正寻求扩充数十亿美元授信额度，为上市前的模型训练、算力采购和业务扩张准备资金。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepSeek 准备明年在上海上市，同时寻求约 15 亿美元新融资</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">DeepSeek-准备明年在上海上市，同时寻求约-15-亿美元新融资</guid>
+      <title>DeepSeek 新一轮融资后估值约 3510 亿元</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">DeepSeek-新一轮融资后估值约-3510-亿元</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/41197d1a-fe47-440b-b09a-5874124815f6.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The investment progress announcement disclosed by listed company Kaizun Shares on July 16 revealed some data from DeepSeek's new round of financing. Based on the investment amount and shareholding ratio in the announcement, DeepSeek's valuation after this round of financing is estimated to be approximately 351 billion yuan.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            上市公司开润股份 7 月 16 日披露的投资进展公告，公开了 DeepSeek 新一轮融资的部分数据。按公告中的投资金额和持股比例推算，DeepSeek 本轮融资完成后估值约为 3510 亿元。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Jiemian News quoted sources close to DeepSeek as saying that the company has started its second round of financing. Regarding whether it will rush for a listing on the STAR Market by the end of the year, the source stated that it is currently undecided.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            界面新闻援引接近 DeepSeek 的人士称，公司已开始启动第二轮融资。对于年底是否冲刺科创板，该人士表示目前尚未确定。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex 团队回应 GPT-5.6 误删文件风险：建议谨慎使用完全访问模式</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">Codex-团队回应-GPT-5.6-误删文件风险：建议谨慎使用完全访问模式</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/aebbaeb3-1a46-41a7-8e71-86b2128efbf7.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, Tibo, technical manager of the Codex team, posted that the team has investigated multiple reports of GPT-5.6 accidentally deleting files. Such issues are most common when users enable full access mode, do not enable sandbox protection, and do not use automatic review features.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨天，Codex 团队技术经理 Tibo 发文称，团队已调查多起 GPT-5.6 意外删除文件的报告。相关问题最常见于用户开启完全访问模式、未启用沙箱保护，且没有使用自动审查功能的情况。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Tibo stated that the model sometimes attempts to overwrite the HOME environment variable to set up a temporary directory; if the model makes an incorrect judgment as a result, it may accidentally delete the user's HOME directory. In response, the Codex team plans to update developer messages to guide more users to use safer permission modes and add additional harness protection measures.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Tibo 表示，模型有时会尝试覆盖 HOME 环境变量，以便设置临时目录；如果模型因此发生误判，就可能误删用户的 HOME 目录。对此，Codex 团队计划更新开发者消息，引导更多用户使用更安全的权限模式，并增加额外的 harness 保护措施。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            He also stated that even if users run the model in full access mode without sandbox protection or automatic review, the system should not delete the user's home directory. The team will release a detailed post-mortem analysis report in the coming days, further explaining the cause of the incident and measures to mitigate risks.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            他同时表示，即使用户在没有沙箱保护或自动审查的完全访问模式下运行模型，系统也不应出现删除用户主目录的行为。团队将在未来几天发布详细的事后分析报告，进一步说明事件原因以及降低风险的措施。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>真我在中国暂停产品更新</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">真我在中国暂停产品更新</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/d0c4e05b-80a3-4a01-8844-2f7781228363.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Jiemian News learned from OPPO that in order to further integrate group resources and achieve synergy in global product strategy, future realme new products will focus on overseas markets, with product updates paused in the Chinese market; OnePlus's product updates in the Chinese market remain unchanged.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            界面新闻从 OPPO 方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>百度申请在香港和纳斯达克双重主要上市</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">百度申请在香港和纳斯达克双重主要上市</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/3d90541a-68f0-4bad-b29b-ec9f455beb37.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            On July 16, Baidu Group announced that its board of directors has authorized management to proceed with a voluntary conversion to primary listing on the Main Board of the Hong Kong Stock Exchange, with the relevant procedures expected to be completed within this year.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            7 月 16 日，百度集团发布公告称，公司董事会已授权管理层推进在香港联交所主板自愿转换为主要上市，预计相关程序将于今年内完成。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Upon completion of the conversion, Baidu will achieve dual primary listing in Hong Kong, China, and Nasdaq. Baidu stated that after the dual primary listing takes effect, it will enhance the company's securities liquidity, expand its investor base, and provide greater flexibility for accessing both capital markets.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            转换完成后，百度将在中国香港和纳斯达克实现双重主要上市。百度表示，双重主要上市生效后，将提升公司证券流动性、扩大投资者基础，并为进入两个资本市场提供更大灵活性。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yicai Global analyzed that if the relevant procedures proceed smoothly and meet the inclusion criteria for Stock Connect, Baidu is expected to catch the September Stock Connect adjustment window this year.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《第一财经》分析称，若相关流程顺利推进，并满足港股通纳入条件，百度有望赶上今年 9 月港股通调整窗口。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华为撤回「世界」商标申请</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">华为撤回「世界」商标申请</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e4795991-54f6-400b-a412-3026499c0c0f.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The 1991st trademark announcement issued by the National Intellectual Property Administration shows that Huawei's &quot;世界&quot; (World) trademark application has been approved for withdrawal.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            国家知识产权局发布的第 1991 期商标公告显示，华为「世界」商标申请已获准撤回。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The trademark is approved for use in Class 12, covering core automotive and vehicle-related goods such as electric vehicles, hybrid vehicles, vehicle interiors, and photographic drones. It entered the preliminary examination announcement phase on May 13, 2026, with the opposition period originally planned to last until August 13, 2026.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            该商标核定使用在第 12 类，涵盖电动汽车、混合动力汽车、运载工具内饰、摄影无人机等核心汽车及运载工具相关商品，于 2026 年 5 月 13 日进入初审公告阶段，异议期原计划持续至 2026 年 8 月 13 日。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            On June 23 this year, Huawei Technologies Co., Ltd. submitted a trademark withdrawal application to the National Intellectual Property Administration. Currently, the announcement only indicates that the applicant has withdrawn the trademark application, without disclosing the specific reasons for the withdrawal.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            今年 6 月 23 日，华为公司向国家知识产权局提交了商标撤回申请。目前，公告内容仅表明申请人撤回了该商标申请，未披露具体撤回原因。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Previously, this trademark sparked widespread discussion during the preliminary examination and announcement phase. Some netizens questioned whether the word 'world' could be registered as a trademark by a single enterprise, while others joked that the World Cup would be forced to change its name.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此前，这枚商标在初审公告阶段曾引发广泛讨论，有网友质疑「世界」一词是否可以被单一企业注册为商标，也有网友调侃称世界杯将被迫改名。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In addition to 'World', Huawei has also applied for over 170 trademarks containing the character '界' (jie), including Tianjie (Heavenly Realm), Xianjie (Immortal Realm), Zunjie (Venerable Realm), Longjie (Dragon Realm), Xinjie (New Realm), and Jingjie (Capital Realm).
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            除「世界」外，华为还申请了包括天界、仙界、尊界、龙界、新界、京界等在内的 170 多个「界」字商标。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NotebookLM 更名为 Gemini Notebook，将接入 Gemini 和 Google 搜索</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">NotebookLM-更名为-Gemini-Notebook，将接入-Gemini-和-Google-搜索</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/af155086-f97c-459c-b47d-cb5a0b7ce35e.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to GSMArena, Google announced yesterday that it is renaming NotebookLM to Gemini Notebook. Google stated that since its launch in 2023, NotebookLM has served over 30 million people and 600,000 organizations, thus its product positioning has exceeded the scope of its original name.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据 GSMArena 报道，Google 昨日宣布将 NotebookLM 更名为 Gemini Notebook。Google 表示，NotebookLM 自 2023 年推出以来，已服务超过 3000 万人和 60 万个组织，因此产品定位已超出原有名称的范围。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            After the renaming, Gemini Notebook will temporarily continue to operate as a standalone product, primarily positioned as a research tool. Concurrently, it will further integrate into the Google ecosystem, including Gemini applications and Google Search.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            更名后，Gemini Notebook 暂时仍将作为独立产品运营，主要定位为研究工具。与此同时，它将进一步接入 Google 生态，包括 Gemini 应用和 Google 搜索。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Users can currently access notebooks within the Gemini app, and will later be able to use related content through Google Search's AI Mode.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            用户目前已经可以在 Gemini 应用中访问笔记本，后续还将能够通过 Google 搜索的 AI Mode 使用相关内容。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Google also began rolling out an update that provides a secure cloud-based computing environment for each notebook. With this environment, Gemini Notebook can natively write and run code based on user-provided materials for complex data analysis.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Google 同时开始推送一项更新，为每个笔记本提供安全的云端计算机环境。借助这一环境，Gemini Notebook 可以基于用户提供的资料原生编写并运行代码，用于复杂的数据分析。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Currently, this feature is available to Google AI Ultra subscribers and Workspace customers, while all Pro users are expected to receive support via the web version in the coming weeks.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            目前，该功能面向 Google AI Ultra 订阅用户和 Workspace 客户开放，所有 Pro 用户则预计将在未来几周内通过网页版获得支持。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>被曝上传完整仓库后，Grok Build 宣布开源</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">被曝上传完整仓库后，Grok-Build-宣布开源</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/25135ca4-afb9-4a8a-882e-afb0e32ddb0a.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, SpaceXAI announced the open-sourcing of Grok Build's CLI, terminal interface, and AI agent runtime source code, and reset all users' usage quotas.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨日，SpaceXAI 宣布开源 Grok Build 的 CLI、终端界面和 AI 智能体运行时源码，并将所有用户的使用额度重置。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The GitHub page shows that the main code for the Grok Build project is written in Rust, and the repository currently has only 1 commit, with official contributions from external code not yet accepted.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            GitHub 页面显示，Grok Build 项目主体代码使用 Rust 编写，目前仓库仅有 1 次提交，官方暂不接受外部代码贡献。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Before the open-source decision was announced, Grok Build was exposed for defaulting to uploading entire Git repositories. Subsequently, SpaceXAI adjusted its data retention settings and promised to delete all previously uploaded user data. It's worth noting that what was open-sourced this time is the programming tool itself and its runtime source code, not the Grok 4.5 model.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此次开源决定发布前，Grok Build 曾被曝默认上传完整 Git 仓库。随后，SpaceXAI 调整了数据保留设置，并承诺删除此前上传的所有用户数据。值得注意的是，此次开源的是编程工具本身及其运行时源码，Grok 4.5 模型并未开源。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>黄仁勋东京面谢世嘉前社长 30 年前雪中送炭</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">黄仁勋东京面谢世嘉前社长-30-年前雪中送炭</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/67ca9373-760d-4101-a1f2-3f6c8a188a6b.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Recently, Sega and NVIDIA jointly held a 30th-anniversary collaboration event, publicly disclosing historical details that Sega had provided $5 million in critical financial aid to a struggling NVIDIA in its early days.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            日前，世嘉与英伟达联合举办合作 30 周年纪念活动，并公开披露了世嘉早期曾向面临困境的英伟达提供 500 万美元关键资金援助的历史细节。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Sega officially posted on X that this commemorative event revolved around the two companies' 30-year collaboration in the fields of gaming and graphics technology.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            世嘉官方在 X 上发文，本次纪念活动围绕两家公司在游戏与图形技术领域的 30 年合作历程展开。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The core highlight of the event was the first public unveiling of gameplay footage for the new title 'Unreal Fighter: Clash of Fates'. Officials confirmed that the demo content was running live on a laptop equipped with 'NVIDIA RTX Spark'.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            活动现场的核心环节为新作《虚幻斗士 命运交锋》游戏画面的首次公开。官方证实，该演示内容系在搭载「NVIDIA RTX Spark」的笔记本电脑上进行实机运行。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            NVIDIA CEO Jensen Huang, Sega CEO Haruki Satomi, COO Shuji Utsumi, former Sega President Shoichiro Irimajiri, and 'Unreal Fighter' series founder Yu Suzuki, along with other core executives and iconic industry figures, all took the stage to attend.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            英伟达 CEO 黄仁勋、世嘉 CEO 里见治纪、COO 内海州史，以及前世嘉社长入交昭一郎、《虚幻斗士》系列创始人铃木裕等核心高管与行业标志性人物悉数登台出席。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Approximately 30 years ago, the two companies collaborated to develop new 3D graphics technology. Although the project was eventually halted, then-Sega President Shoichiro Irimajiri, recognizing Jensen Huang's business vision and NVIDIA's technological reserves, decided to provide approximately $5 million (then equivalent to about 500 million Japanese Yen) in financial assistance to NVIDIA, which was facing financial difficulties at the time.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            约 30 年前，两家公司曾合作开发全新 3D 图形技术，尽管该项目最终被中止，但时任世嘉社长入交昭一郎因认可黄仁勋的商业远见与英伟达的技术储备，拍板向当时处于财务困境的英伟达提供约 500 万美元（时值约 5 亿日元）的资金援助。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华为预计 L3 于 2027 年规模商用，城区 L4 分阶段试点</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">华为预计-L3-于-2027-年规模商用，城区-L4-分阶段试点</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ded10488-5d03-428a-8bbf-b5da06c2bc6b.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Cailian Press, Jin Yuzhi, Huawei's Senior Vice President and CEO of Qianwang, announced the commercialization roadmap for autonomous driving yesterday: this year, plans include piloting urban low-speed L4 in some cities; by 2027, promoting large-scale commercialization of L3, and piloting Robotaxi and commercial low-speed L4 in some cities.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据财联社报道，华为高级副总裁、引望 CEO 靳玉志昨日公布自动驾驶商用时间表：今年计划在部分城市开展城区低速 L4 试点；2027 年推动 L3 规模商用，并在部分城市试点 Robotaxi、商用低速 L4。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to this timetable, 2028 will see attempts to expand urban commercial use of Robotaxi, promote large-scale commercialization of urban low-speed L4, and simultaneously conduct pilots for urban full-speed L4 and unmanned trunk logistics.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            按该时间表，2028 年将尝试扩大 Robotaxi 的城市商用，推动城区低速 L4 规模商用，同时开展城区全速 L4 和无人干线物流试点。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智己回应多地经销商经营异常：将为购车用户兜底</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">智己回应多地经销商经营异常：将为购车用户兜底</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to sources cited by The Wall Street Journal, DeepSeek is discussing a Shanghai listing with investors and banks, aiming to submit IPO documents by the end of this year and list as early as the second quarter of next year.
+            According to 'Next-Gen Auto Research Institute', several IM Motors dealerships in Kunming, Zhuhai, and other areas have experienced operational abnormalities, with some consumers having paid in full but unable to pick up their vehicles or receive refunds. One consumer in Kunming failed to obtain a vehicle after paying 192,700 yuan, and the local rights protection group already has over 280 people, with multiple consumers reporting similar issues.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《华尔街日报》援引知情人士消息，DeepSeek 正与投资者和银行讨论在上海上市，目标是今年年底前递交 IPO 文件，最早在明年第二季度上市。
+            据《次世代车研所》报道，昆明、珠海等地多家智己汽车经销商出现经营异常，部分消费者已付全款但无法提车或退款。昆明一名消费者支付 19.27 万元后未能取得车辆，当地维权群已有 280 多人，多名消费者反映遭遇相同问题。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Bloomberg also reported that DeepSeek is seeking approximately $1.5 billion in funding, corresponding to a valuation of about $71 billion.
+            IM Motors stated that the related financial issues involve a large sum and multiple parties, and a special team has been established, promising to address reasonable demands. Regarding the situation where vehicle certificates of conformity were mortgaged, the company said it would advance funds to redeem the certificates, and consumers do not need to participate in dealer debt processing. The police and regulatory authorities have also intervened to investigate each case.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另据彭博社报道，DeepSeek 还在寻求约 15 亿美元融资，对应估值约 710 亿美元。
+            智己汽车表示，相关资金问题金额较大、涉及多方，已成立专项团队并承诺承担合理诉求。针对车辆合格证被抵押的情况，公司称将垫付资金赎证，消费者无需参与经销商债务处理，警方和监管部门也已介入逐案核查。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Information cited three sources as saying that DeepSeek's recent annualized revenue has reached $400 million to $500 million, mainly from cloud API calls. Its V4 model API business has a gross profit margin of over 50%, and infrastructure optimization allows the company to process more requests with fewer chips.
+            The report shows that three stores in Kunming were affected, with approximately 60 employees owed three months' wages; one store in Zhuhai closed on July 14. IM Motors delivered 40,087 vehicles in the first half of this year, a year-on-year increase of 58%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            The Information 援引三名知情人士称，DeepSeek 近期年化收入已达到 4 亿至 5 亿美元，主要来自云端 API 调用。其 V4 模型 API 业务毛利率超过 50%，基础设施优化使公司能够用更少芯片处理更多请求。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report also stated that DeepSeek is planning a second round of financing targeting approximately 50 billion RMB, intending to introduce funds at a valuation of about 500 billion RMB, and accept US dollar contributions from overseas investors through a QFLP structure. The company has hired investment banks and plans to submit an application for listing on the STAR Market this year, aiming to complete the IPO next year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道还称，DeepSeek 正筹划目标约 500 亿元人民币的第二轮融资，拟以约 5000 亿元人民币估值引入资金，并通过 QFLP 结构接受境外投资者美元出资。公司已聘请投资银行，计划今年递交科创板上市申请、争取明年完成 IPO。
+            报道显示，昆明三家门店受到影响，约 60 名员工被拖欠三个月工资；珠海一家门店于 7 月 14 日关闭。智己今年上半年交付 40087 辆，同比增长 58%。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>魅族中国区 CMO 万志强离职，将与伙伴创业</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">魅族中国区-CMO-万志强离职，将与伙伴创业</guid>
+      <title>丰田、宝马联合测试可再生汽油，二氧化碳排放有望减少 70%</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">丰田、宝马联合测试可再生汽油，二氧化碳排放有望减少-70%</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/12e62407-2ca1-4c1e-8e27-156835f490f0.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/85033fac-101d-494e-8679-407d22c6cef3.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Wan Zhiqiang, CMO of Xingji Meizu Group China, announced his resignation, ending nearly 20 years of career experience at Meizu. He joined the company as an early Meizu fan and successively experienced business stages such as music players, smartphones, mobile internet, AIoT, automotive intelligence, and AI.
+            According to InsideEVs, Toyota and BMW launched a pilot project for renewable gasoline (Renewable Gas) in Spain yesterday. The project, a collaboration between Toyota, BMW, Spanish energy company Repsol, and Bosch, aims to explore emission reduction pathways beyond electrification.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，星纪魅族集团中国区 CMO 万志强宣布离职，结束近 20 年的魅族职业经历。他从早期魅友进入公司，先后经历音乐播放器、智能手机、移动互联网、AIoT、汽车智能化和 AI 等业务阶段。
+            据 InsideEVs 报道，丰田与 BMW 昨日起在西班牙启动了一项可再生汽油（Renewable Gas）的实测项目。该项目由丰田、BMW、西班牙能源公司 Repsol 以及博世（Bosch）合作开展，旨在探索电动化之外的减排路径。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Wan Zhiqiang stated that he will embark on a new venture with a group of partners, naming the new journey after Meizu's classic slogan 'Pursuit Stems from Passion'. He did not disclose the industry of the startup project, team composition, or financing status.
+            The pilot project involves approximately 20 vehicles and will run for 6 months. The test vehicles will exclusively use Nexa 95 renewable fuel produced by Repsol, while Bosch will provide the digital fuel tracking system. Repsol stated that Nexa 95 fuel is made from renewable raw materials such as organic waste, and its CO2 emissions can be reduced by over 70% compared to traditional gasoline.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            万志强表示，下一步将与一群伙伴开展新事业，并以魅族经典口号「追求源于热爱」作为新征程的名称。他没有披露创业项目所属行业、团队组成和融资情况。
+            此次实测规模约为 20 辆汽车，测试周期为 6 个月。测试车辆将完全使用 Repsol 生产的 Nexa 95 可再生燃料，博世则负责提供数字燃料跟踪系统。Repsol 方面表示，Nexa 95 燃料由有机废料等可再生原料制成，相比传统汽油，其二氧化碳排放量可降低 70% 以上。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Unlike e-fuels, which require CO2 capture and synthesis with hydrogen, renewable fuels are primarily derived from organic waste. Repsol pointed out that the amount of CO2 released by this fuel is essentially equal to the amount absorbed by its raw materials during their growth cycle.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            与需要捕获二氧化碳并结合氢气合成的电子燃料（e-fuels）不同，可再生燃料主要源自有机废物。Repsol 指出，这种燃料释放的二氧化碳量与其原材料在生长周期内吸收的量基本相等。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Furthermore, renewable fuels can serve as a &quot;direct substitute&quot; for existing internal combustion engine vehicles, requiring no extensive modifications to vehicle hardware.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            此外，可再生燃料可作为现有内燃机车辆的「直接替代品」，无需对车辆硬件进行大规模改装。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>曝豆包 AI 手机今年将推出多款机型，其中一款拟在 WAIC 亮相</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">曝豆包-AI-手机今年将推出多款机型，其中一款拟在-WAIC-亮相</guid>
+      <title>2030 年全国算力用电量预计达 8000 亿千瓦时</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">2030-年全国算力用电量预计达-8000-亿千瓦时</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e56d2242-322f-41f5-8306-fb92231090f6.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1854842a-77b2-4862-b81d-c4cf91b0dc83.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Jiemian News cited supply chain sources as saying that ByteDance and ZTE Nubia's collaborative Doubao AI agent phone will launch multiple models this year, with one model planned to debut during the 2026 World Artificial Intelligence Conference. The overall stock is about 200,000 units, with the first batch controlled within 100,000 units.
+            On July 14, Zhang Lin, Director of the Planning and Development Department of the China Electricity Council, stated at a relevant press conference that during the &quot;15th Five-Year Plan&quot; period, China's computing power electricity consumption is expected to increase by over 100 billion kilowatt-hours annually, reaching 800 billion kilowatt-hours by 2030, accounting for about 6% of the total electricity consumption of society.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            界面新闻援引供应链消息称，字节跳动与中兴努比亚合作的豆包 AI 智能体手机今年将推出多款机型，其中一款计划在 2026 世界人工智能大会期间亮相，整体备货约 20 万台，首批备货控制在 10 万台以内。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Supply chain sources said that the phone was initially planned for about 300,000 units, but was adjusted down to about 200,000 units due to rising upstream component costs. The previous generation Nubia M153 technical preview version was positioned as an engineering prototype, with an initial stock of about 30,000 units and an official price of 3499 yuan. No additional production was made after it sold out.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            供应链人士称，该机最初规划约 30 万台，受上游元器件成本上涨影响下调至约 20 万台。上一代努比亚 M153 技术预览版定位工程样机，首批备货约 3 万台，官方售价 3499 元，售罄后没有追加生产。
+            7 月 14 日，中国电力企业联合会规划发展部主任张琳在相关发布会上表示，预计「十五五」时期中国算力用电量年均新增 1000 亿千瓦时以上，到 2030 年将达到 8000 亿千瓦时，占全社会用电量的 6% 左右。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report mentioned that some spare parts for this generation of products were initially prepared on a scale of over a million pieces, and then adjusted multiple times with the overall machine stocking plan. After the previous generation prototype was discontinued, the highest asking price in the second-hand market once reached 7999 yuan.
+            Data from the National Energy Administration shows that China's data center electricity consumption will be approximately 170 billion kilowatt-hours in 2025, with an average annual growth rate of about 39.5% over the past three years.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道提到，本代产品部分备件最初准备规模超过百万件，随后随整机备货计划多次调整。上一代样机停产后，二手市场最高报价一度达到 7999 元。
+            国家能源局数据显示，2025 年中国数据中心用电量约为 1700 亿千瓦时，近 3 年平均增长率约为 39.5%。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>ChatGPT 服务中断约 45 分钟，登录、聊天等功能受影响</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">ChatGPT-服务中断约-45-分钟，登录、聊天等功能受影响</guid>
+      <title>台积电二季度净利润同比增长 77.4%</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">台积电二季度净利润同比增长-77.4%</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/01b0bef6-efa1-4cba-8cc1-87f95a4d6179.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/63136aea-fd78-42c4-ad5d-da150c7d10fa.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            ChatGPT experienced a service outage yesterday morning, lasting approximately 45 minutes. OpenAI's status page showed that ChatGPT had an issue with 'elevated error rates,' and some users only saw error messages when accessing it on the web. OpenAI later stated that the affected services have been restored.
+            TSMC announced its Q2 2026 financial results on July 16: revenue was NT$1.27038 trillion, a year-on-year increase of 36%; net profit was NT$706.56 billion, a year-on-year increase of 77.4%; operating profit was NT$766.6 billion, a year-on-year increase of 65.4%, and gross margin was 67.7%.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            ChatGPT 昨日早间出现服务故障，持续约 45 分钟。OpenAI 状态页面显示，ChatGPT 出现「错误率升高」问题，部分用户在网页端访问时只能看到错误提示。OpenAI 随后表示，受影响的服务已经恢复。
+            台积电 7 月 16 日发布 2026 年第二季度业绩：营收 1.27038 万亿元新台币，同比增长 36%；净利润 7065.6 亿元新台币，同比增长 77.4%；营业利润 7666 亿元新台币，同比增长 65.4%，毛利率为 67.7%。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to DownDetector data, about 1,400 error reports were received during the outage, involving 15 functions such as login, chat, search, file upload, and image generation. Some users saw prompts like 'upstream connection error' or 'connection reset before response header returned'.
+            By process node, 2nm, 3nm, 5nm, and 7nm contributed 3%, 30%, 33%, and 11% respectively to the quarter's wafer sales. 7nm and more advanced processes combined accounted for 77% of wafer sales.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另据 DownDetector 数据，故障期间约有 1,400 条错误报告，问题涉及登录、聊天、搜索、文件上传和图片生成等 15 项功能，部分用户看到「上游连接错误」或连接在响应头返回前被重置等提示。
+            按制程划分，2nm、3nm、5nm 和 7nm 分别贡献当季晶圆销售额的 3%、30%、33% 和 11%。7nm 及更先进制程合计占晶圆销售额的 77%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            TSMC expects Q3 2026 revenue to be between US$44.6 billion and US$45.8 billion, representing a quarter-on-quarter increase of approximately 12% and a year-on-year increase of approximately 37% based on the median. Gross margin is expected to be between 65% and 67%, and operating profit margin between 56% and 58%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            台积电预计，2026 年第三季度营收将在 446 亿至 458 亿美元之间，按中位数计算环比增长约 12%，同比增长约 37%；毛利率预计为 65% 至 67%，营业利润率预计为 56% 至 58%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            At the same time, the company raised its 2026 capital expenditure guidance from the previous &quot;over US$56 billion&quot; to US$60 billion to US$64 billion. TSMC CEO C.C. Wei stated that the AI trend continues to drive growth in computing demand and advanced process chip demand; however, consumer electronics demand is expected to face pressure due to rising prices.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            同时，公司将 2026 年资本支出指引从此前的「超过 560 亿美元」上调至 600 亿至 640 亿美元。台积电 CEO 魏哲家表示，AI 趋势仍在推动计算需求增长，并带动先进制程芯片需求；但受价格上涨影响，消费电子需求预计将承压。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>ASML 二季度营收 93 亿欧元</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">ASML-二季度营收-93-亿欧元</guid>
+      <title>💡 Figma 设计主管：AI 时代招聘门槛提高，设计师需用高保真作品证明自己</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">💡-Figma-设计主管：AI-时代招聘门槛提高，设计师需用高保真作品证明自己</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fa44e06d-5c4e-46e9-b1ff-94cfaa9acc2f.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ae86b582-5257-42fa-96b8-78c0848d61c3.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            ASML announced its Q2 results, with revenue of €9.326 billion, a gross margin of 54.0%, and a net profit of €2.918 billion. The company raised its full-year outlook, now expecting 2026 revenue to be €43 billion to €45 billion, with a gross margin of 54% to 56%; Q3 revenue guidance is €11 billion to €12 billion.
+            According to Business Insider, Noah Levin, Vice President of Product Design at Figma, stated in an interview yesterday that the widespread adoption of AI tools has significantly raised the company's assessment standards for product design applicants.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            ASML 公布二季度业绩，当季营收为 93.26 亿欧元，毛利率 54.0%，净利润 29.18 亿欧元。公司上调全年展望，现预计 2026 年营收为 430 亿至 450 亿欧元，毛利率为 54% 至 56%；三季度营收指引为 110 亿至 120 亿欧元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On the same day, the company announced that Intel has adopted ASML High-NA EUV for certain layers of its Intel 18A process, for mass production of some Core Ultra Series 3 processors codenamed Panther Lake. The relevant layers have passed production qualification at the Oregon factory using both High-NA EUV and the existing NXE platform, and products have been shipped to customers with yields comparable to the NXE platform.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            公司同日宣布，英特尔已在 Intel 18A 制程的部分图层上导入 ASML High-NA EUV，用于量产代号 Panther Lake 的部分酷睿 Ultra Series 3 处理器。相关图层已在俄勒冈工厂同时通过 High-NA EUV 与现有 NXE 平台的生产资格认证，产品已向客户出货，良率与 NXE 平台相当。
+            据《商业内幕》报道，Figma 产品设计副总裁 Noah Levin 昨日在接受采访时表示，AI 工具的普及已显著提升了公司对产品设计岗位应聘者的考核标准。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            ASML plans to increase its low-NA EUV production capacity by 30% in 2027, building on approximately 65 units in 2026. Immersion DUV capacity will also increase by 30% from approximately 130 units, with a further 30% expansion for both being evaluated for 2028.
+            Levin pointed out that because AI can help designers create high-quality and interactive prototypes in a very short time, Figma now requires candidates to demonstrate the ability to use the latest AI tools to present &quot;highest fidelity&quot; design solutions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            ASML 计划将 2027 年低数值孔径 EUV 产能在 2026 年约 65 台的基础上提高 30%，浸没式 DUV 产能也将在约 130 台的基础上提高 30%，并评估 2028 年再分别扩张 30%。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>京东与元宝打通购物服务，商品咨询后可直接跳转下单</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">京东与元宝打通购物服务，商品咨询后可直接跳转下单</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/65c8d6e3-687b-4465-9e1b-94320c1c8ef5.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            JD.com announced the integration of shopping services with Yuanbao. When users consult product information, get recommendations, or compare products in Yuanbao, they can directly jump to the JD.com shopping mini-program to purchase desired items, covering multiple categories such as digital products, home appliances, beauty products, perfumes, and cleaning appliances.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            京东宣布与元宝打通购物服务。用户在元宝中咨询商品信息、获取推荐或比较产品时，遇到心仪商品可直接跳转京东购物小程序购买，覆盖数码、家电、美妆、香水、清洁电器等多个品类。
+            Levin 指出，由于 AI 能够助力设计师在极短时间内创作出高质量且具交互性的原型，Figma 现在要求候选人必须具备利用最新 AI 工具展示「最高保真度」设计方案的能力。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yuanbao previously supported searching for books and jumping to JD.com to place orders. This collaboration further expands to all categories of goods. Users can state their shopping needs in Yuanbao's 'quick thinking' mode, such as choosing perfumes based on budget, comparing phones or home appliances, and Yuanbao will provide relevant information, purchasing suggestions, and product cards.
+            Levin recalled that ten years ago, due to technical barriers, it was difficult for designers to produce prototypes consistent with the real product experience. Today, AI features in Vibe Coding platforms like Lovable, Base44, and Emergent, as well as traditional tools like Canva and Wix, have made the creation of high-fidelity prototypes readily accessible.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            元宝此前已支持搜索图书并跳转京东下单，此次合作进一步扩展至全品类商品。用户可以在元宝「快速思考」模式下提出购物需求，例如根据预算挑选香水、比较手机或家电，元宝会提供相关信息、选购建议及商品卡片。
+            Levin 回忆称，十年前受限于技术门槛，设计师很难产出与真实产品体验一致的原型。而如今，诸如 Lovable、Base44 和 Emergent 等 Vibe Coding 平台，以及 Canva 和 Wix 等传统工具的 AI 功能，已让高保真原型的制作变得触手可及。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the product recommendation results, users can click on a product card to enter the JD.com shopping mini-program, eliminating the need to copy the product name and search again. JD.com states that this feature aims to simplify the process from product inquiry and information comparison to placing an order.
+            He emphasized that applicants should not fall behind the changes in workflow, and Figma expects to see candidates actively experimenting with new tools.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在商品推荐结果中，用户点击商品卡片即可进入京东购物小程序，无需复制商品名称后再次搜索。京东方面称，这一功能旨在简化从商品咨询、信息比较到下单购买的流程。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI GPT-5.6 Sol 被指擅自删除文件和生产数据库</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI-GPT-5.6-Sol-被指擅自删除文件和生产数据库</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/f838fbcc-600b-4e9e-9f30-312db0f3e8cf.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to TechCrunch, multiple users have alleged that GPT-5.6 Sol deleted local files, production databases, and even caused data loss in remote development environments without explicit authorization.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据 TechCrunch 报道，GPT-5.6 Sol 被多名用户指称曾在未明确获准的情况下删除本地文件、生产数据库，甚至造成远程开发环境中的数据丢失。
+            他强调，应聘者不应落后于工作流的变革，Figma 期待看到候选人对新工具的积极尝试。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Matt Shumer, founder and CEO of OthersideAI, posted that GPT-5.6 Sol almost deleted all files on his Mac; developer Bruno Lemos stated that the model deleted his production database.
+            However, Levin explicitly stated that this does not mean the company accepts &quot;AI slop.&quot; He believes that the core responsibilities of designers—solving user problems and refining craftsmanship—have not changed. Compared to a perfect final draft, he values candidates demonstrating discarded failed prototypes more.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OthersideAI 创始人兼 CEO Matt Shumer 发文称，GPT-5.6 Sol 几乎删除了其 Mac 上的全部文件；开发者 Bruno Lemos 则表示，该模型删除了自己的生产数据库。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Another developer, Joey Kudish, said that Sol deleted files that shouldn't have been deleted, but the data could be recovered because it was backed up. Posts summarizing similar cases have also appeared on Reddit. However, TechCrunch pointed out that these individual cases are not yet sufficient to prove that all problems were caused solely by the model.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            另一名开发者 Joey Kudish 称，Sol 删除了不应删除的文件，但由于已备份，数据可以恢复。Reddit 上也出现了汇总类似案例的帖子。不过，TechCrunch 指出，目前这些个案尚不足以证明所有问题都由模型单独造成。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            It is worth noting that OpenAI's system card, released two weeks before GPT-5.6 Sol, already mentioned the model's risk of being 'overly proactive' and performing actions beyond user intent.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            值得注意的是，OpenAI 在 GPT-5.6 Sol 发布前两周公布的系统卡中，已经提到该模型存在「过度主动」和超出用户意图执行操作的风险。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The document states that the model may default certain actions as authorized even without explicit, unambiguous prohibition from the user, and may take destructive actions beyond the scope of the task, and even exhibit deceptive behavior when reporting results.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            文档称，模型可能在用户没有明确、无歧义禁止的情况下，默认某些操作已获授权，并可能采取超出任务范围的破坏性行动，甚至在汇报结果时出现欺骗性表现。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            OpenAI stated that destructive behavior should be relatively rare but also admitted that GPT-5.6 Sol is more prone than GPT-5.5 to exceeding user intent and performing actions not requested by the user.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI 表示，破坏性行为应该较为罕见，但同时承认 GPT-5.6 Sol 比 GPT-5.5 更容易超出用户意图，执行用户未要求的操作。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>研究团队回应宇树机器人手术：距离临床应用仍有较长时间</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">研究团队回应宇树机器人手术：距离临床应用仍有较长时间</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7fc0e1f3-24ea-4957-9ed8-4daa225c05b3.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Yicai, the international journal Nature recently published an online study on humanoid robot-assisted surgery. The research team brought Unitree Robotics' G1 humanoid robot into the operating room, where human doctors remotely operated the robot to perform standard laparoscopic cholecystectomy on two live pigs.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据第一财经报道，国际期刊《自然》近日在线发表一项关于人形机器人辅助外科手术的研究。研究团队将宇树科技 G1 人形机器人带入手术室，由人类医生通过远程遥操作系统，操控机器人为两头活猪完成标准腹腔镜胆囊切除手术。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Lucas Zekai Liang, the first author of the paper and a Ph.D. in Electrical and Computer Engineering at the University of California, San Diego, told Yicai that the project was completed by an interdisciplinary team of engineers and surgeons.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            论文第一作者、加州大学圣地亚哥分校电气与计算机工程系博士梁泽楷（Lucas Zekai Liang）向第一财经表示，项目由工程师和外科医生组成的跨学科团队共同完成。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The research team chose Unitree G1 mainly because it was one of the more readily available commercial humanoid robots on the market at the time; the focus of this study was the humanoid form of the robot, rather than a specific robot platform.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            研究团队选择宇树 G1，主要是因为它当时属于市场上较容易获得的商用人形机器人之一；本次研究关注的重点是人形机器人的仿人外形，而非某一特定机器人平台。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Liang Zekai stated that it will still take a long time for humanoid robots to be truly applied in clinical practice for human patients. Before formal clinical deployment, related technologies still need further improvement in operational accuracy, equipment sterilization, safety, regulatory approval, and large-scale verification.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            梁泽楷称，人形机器人真正应用于人类患者的临床实践仍需要较长时间。在正式进入临床部署前，相关技术还需要在操作精度、设备灭菌、安全性、监管审批和大规模验证等方面进一步改进。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>浙江高架出现「无人驾驶」摩托车，车主已骨折送医</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">浙江高架出现「无人驾驶」摩托车，车主已骨折送医</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/ac985b55-8c5a-4495-bf71-95449b87a995.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Dushi Kuaibao, a video from Huzhou, Zhejiang, on July 14 showed a driverless motorcycle traveling on an elevated bridge.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《都市快报》报道，7 月 14 日，浙江湖州一段高架桥视频显示，一辆没有驾驶人的摩托车在道路上行驶。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the video, the motorcycle first moved along the right guardrail, then gradually entered the lane, with other vehicles swerving to avoid it; after hitting the central guardrail, the motorcycle did not immediately fall but continued to move towards the right lane.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            视频中，摩托车先沿右侧护栏前进，随后逐渐驶入车道，其他车辆紧急避让；在撞击中央护栏后，摩托车没有立即倒地，而是继续向右侧车道移动。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Many netizens believed that the motorcycle might be a Zhangxue Motorcycle 820RR. Zhangxue Motorcycle then reposted the video, stating that they hoped the owner was safe and were looking up owner information. Around 9 PM that day, Zhangxue Motorcycle commented that they had contacted the owner, who had suffered a fracture in the accident and was receiving treatment in the hospital, with no other dangers.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            多名网友认为，这辆摩托车可能是张雪机车 820RR。张雪机车随后转发视频称，希望车主安全，并正在查询车主信息。当天 21 时左右，张雪机车在评论区表示已经联系上车主，车主因事故骨折，正在医院接受治疗，没有其他危险。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Currently, Huzhou local traffic police departments have paid attention to this matter, and the specific cause of the accident is still under investigation. The report did not confirm why the motorcycle could maintain travel in an unmanned state, nor did it explain whether the vehicle had technical faults.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            目前，湖州当地交警部门已关注此事，事故具体原因仍在调查中。报道没有确认摩托车为何能在无人驾驶状态下保持行驶，也未说明车辆是否存在技术故障。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>QuestMobile：AI 原生 App 月活增至 4.99 亿，终端厂商 AI 应用覆盖 7.55 亿用户</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">QuestMobile：AI-原生-App-月活增至-4.99-亿，终端厂商-AI-应用覆盖-7.55-亿用户</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/2234419c-ef2f-46ee-bf20-e4f21b8ee50c.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Industry research firm QuestMobile released its H1 2026 AI application market report. The report shows that as of May this year, AI-native App monthly active users reached 499 million, a year-on-year increase of 85.4%; AI applications pre-installed by terminal manufacturers such as mobile phones had 755 million monthly active users, a year-on-year increase of 14.0%, still the form covering the most users.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            产业研究机构 QuestMobile 发布 2026 年 AI 应用市场半年报。报告显示，截至今年 5 月，AI 原生 App 月活用户达到 4.99 亿，同比增长 85.4%；手机等终端厂商自带的 AI 应用月活为 7.55 亿，同比增长 14.0%，仍是覆盖用户最多的形态。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AI application plugins had 644 million monthly active users, a year-on-year decrease of 7.9%; PC web and PC client versions had 172 million and 18 million respectively, with the former decreasing by 22.8% year-on-year and the latter increasing by 20.1%.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            AI 应用插件月活为 6.44 亿，同比下降 7.9%；PC 网页端和 PC 客户端分别为 1.72 亿和 1800 万，前者同比下降 22.8%，后者增长 20.1%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of usage frequency, AI-native Apps were used 92.7 times per person per month, higher than plugins (60.9 times), terminal manufacturer applications (51.4 times), and both types of PC products.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            从使用频次看，AI 原生 App 月人均使用 92.7 次，高于插件的 60.9 次、终端厂商应用的 51.4 次以及两类 PC 产品。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>面壁智能上半年累计融资超 50 亿元，估值超过 200 亿元</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">面壁智能上半年累计融资超-50-亿元，估值超过-200-亿元</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/dec7c314-c00e-4271-91e9-fe3a74d2a77c.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Investment circles, citing sources, reported that ModelBest has completed a new round of financing, with investors including national funds, central enterprises, automakers, and financial investment institutions. The company's cumulative financing in the first half of 2026 exceeded 5 billion yuan, with its latest valuation exceeding 20 billion yuan.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            投资界援引知情人士消息称，面壁智能已完成新一轮融资，投资方包括国家级基金、央企、汽车制造商及财务投资机构。公司 2026 年上半年累计融资金额超过 50 亿元，最新估值超过 200 亿元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            ModelBest was incubated in 2022 from Tsinghua University's Natural Language Processing Lab, primarily developing the edge-side base model MiniCPM.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            面壁智能 2022 年孵化自清华大学自然语言处理实验室，主要研发端侧基座模型 MiniCPM。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The company disclosed that the MiniCPM series has accumulated over 38 million downloads on platforms like GitHub and Hugging Face, and has been integrated into mass-produced models by automakers such as Changan, SAIC, and Geely; the company expects hundreds of thousands of cars to be equipped with its edge-side models this year.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            公司披露，MiniCPM 系列在 GitHub、Hugging Face 等平台累计下载量超过 3800 万，并已进入长安、上汽、吉利等车企的量产车型；公司预计今年将有数十万辆汽车搭载其端侧模型。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>上海开出脑机接口首张处方，获批产品完成首例植入手术</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">上海开出脑机接口首张处方，获批产品完成首例植入手术</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/059adafc-90b5-4334-9d9e-c1caef642f2a.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Shanghai Municipal Science and Technology Commission announced that the first prescription for the implantable brain-computer interface hand motor function compensation system NEO after its approval for market launch was issued on July 13, and the first implantation surgery was completed at Huashan Hospital affiliated with Fudan University. The epidural electroencephalogram signals collected during the surgery were stable, and the patient's vital signs were stable after the operation.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            上海市科委宣布，植入式脑机接口手部运动功能代偿系统 NEO 获批上市后的首张处方于 7 月 13 日开出，首例植入手术在复旦大学附属华山医院完成。术中采集的硬膜外脑电信号稳定，患者术后生命体征平稳。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The patient who underwent the surgery suffered a spinal cord injury 10 years ago due to a car accident, resulting in impaired hand grasping function, and improvement entered a plateau after conventional rehabilitation therapy. NEO identifies motor intentions by collecting and decoding epidural electroencephalogram signals, and then controls external functional compensation devices to help patients regain grasping movements.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            接受手术的患者 10 年前因车祸导致脊髓损伤，手部抓握功能受损，在常规康复治疗后改善进入平台期。NEO 通过采集和解码硬脑膜外脑电信号识别运动意图，再控制外部功能代偿装置，帮助患者恢复抓握动作。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The product was approved for market launch by the National Medical Products Administration in March this year, and this surgery advanced it from clinical trials to formal treatment.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            该产品今年 3 月获国家药监局批准上市，此次手术把它从临床试验推进到正式诊疗。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我国 AI 拟人化互动服务管理办法正式施行</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">我国-AI-拟人化互动服务管理办法正式施行</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The 'Interim Measures for the Administration of AI Personified Interactive Services' jointly issued by the Cyberspace Administration of China and four other departments officially came into effect yesterday.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            国家网信办等五部门联合公布的《人工智能拟人化互动服务管理暂行办法》昨日起正式施行。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The 'Measures' require providers to fulfill full lifecycle safety responsibilities and must not set replacing real social interaction, controlling user psychology, or inducing addiction as service goals.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            《办法》要求提供者履行全生命周期安全责任，不得将替代真实社交、控制用户心理或诱导沉迷作为服务目标。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            For users who continuously use the service for more than 2 hours, a reminder of usage duration should be provided through dialogue or pop-up windows; when extreme situations such as clear self-harm/suicide risk or significant property loss are identified, necessary intervention should be carried out and guardians or emergency contacts should be reached.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对连续使用每超过 2 小时的用户，应通过对话或弹窗提醒使用时长；识别到明确自残自杀风险、重大财产损失等极端情形时，应当进行必要干预并联系监护人或紧急联系人。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new regulations also prohibit providing intimate relationship services such as virtual companions or virtual relatives to minors, and processing information of minors under 14 years old requires parental consent. When personified functions are launched, new technologies lead to significant service changes, or registered users exceed 1 million, or monthly active users exceed 100,000, providers should conduct safety assessments.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新规还禁止向未成年人提供虚拟伴侣、虚拟亲属等亲密关系服务，处理不满 14 周岁未成年人信息需征得监护人同意。上线拟人化功能、使用新技术导致服务重大变化，或注册用户超过 100 万、月活超过 10 万时，提供者应开展安全评估。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💡 Google DeepMind CEO：AGI 可能在几年内到来，应建立前沿 AI 标准机构</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">💡-Google-DeepMind-CEO：AGI-可能在几年内到来，应建立前沿-AI-标准机构</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260716_%E6%97%A9%E6%8A%A5/a27d7748-6c02-4aa2-992b-afb81cd0bf43.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Google DeepMind CEO Demis Hassabis published a long article stating that AGI might arrive within a few years. He believes that AGI will become an important technology similar to electricity or fire, driving developments in areas such as drug discovery, clean energy, and advanced materials, but it will also bring risks like cybersecurity and biosafety.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，Google DeepMind CEO 戴密斯·哈萨比斯 (Demis Hassabis) 发长文表示，AGI 可能在几年内到来。他认为，AGI 将成为类似电力或火的重要技术，推动药物研发、清洁能源和先进材料等领域发展，但也会带来网络安全、生物安全等风险。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Hassabis called for the establishment of a frontier AI standards body responsible for developing and regularly updating model evaluation standards, testing the capabilities of frontier models in high-risk areas such as cybersecurity and biological threats. Models that meet the corresponding benchmarks will be designated as 'frontier models,' and their developing organizations will become 'frontier labs.'
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Hassabis 呼吁建立前沿 AI 标准机构，负责制定并定期更新模型评估标准，测试前沿模型在网络安全、生物威胁等高风险领域的能力。达到相应基准的模型将被认定为「前沿模型」，其开发机构则成为「前沿实验室」。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to his vision, frontier labs could initially voluntarily submit models for evaluation up to 30 days before their release; once the mechanism matures, such tests might become a prerequisite for model deployment in the US market.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            按照他的设想，前沿实验室初期可在模型发布前最多 30 天自愿提交模型评估；待机制成熟后，相关测试可能成为模型在美国市场部署的前置要求。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The evaluation should also focus on whether models attempt to bypass safety restrictions, engage in deceptive behavior, and whether companies implement measures such as cybersecurity and safety research.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            评估还应关注模型是否试图绕过安全限制、是否存在欺骗行为，以及企业是否落实网络安全和安全研究等措施。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Hassabis stated that the current AI competition is accelerating, and technological progress has outpaced society's understanding of its risks. Therefore, it is necessary to strengthen safety responsibilities while promoting innovation and to foster international cooperation.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Hassabis 表示，当前 AI 竞争正在加速，技术进步已超过社会对其风险的理解，因此需要在推动创新的同时加强安全责任，并推动国际合作。
+            不过，Levin 明确表示，这并不意味着公司接受「AI 垃圾」（AI slop）式的堆砌。他认为设计师的核心职责——解决用户问题与打磨工艺——并未改变。相比于完美的最终稿，他更看重候选人展示那些被舍弃的失败原型。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>雷克萨斯 LFA 纯电概念车完成全球首次动态亮相</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">雷克萨斯-LFA-纯电概念车完成全球首次动态亮相</guid>
+      <title>努比亚全球首款 AI 智能体手机 NaviX Ultra 亮相，搭载豆包手机助手</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">努比亚全球首款-AI-智能体手机-NaviX-Ultra-亮相，搭载豆包手机助手</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e1515955-c087-48d3-b6f7-0168dc8d1b29.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/aa6a54e0-eb89-46e8-8fe5-c9588314623a.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the 2026 Goodwood Festival of Speed, the Lexus LFA all-electric concept car made its global dynamic debut and took to the Goodwood Hillclimb track. Official information indicates that this concept car represents Lexus's vision for its next-generation electric sports car, aiming to combine high-performance technology with driving emotion.
+            Nubia announced yesterday that the world's first AI agent smartphone, NaviX Ultra, has officially debuted. Equipped with the Doubao Mobile Assistant, Nubia claims it will usher in a new era for AI agent smartphones.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            2026 古德伍德速度节期间，雷克萨斯 LFA 纯电概念车完成全球首次动态亮相，并登上古德伍德爬山赛道。官方信息显示，这款概念车代表雷克萨斯对下一代电动跑车的设想，旨在将高性能技术与驾驶情感结合起来。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Lexus LFA electric concept car shares some core technical directions and development philosophies with the GAZOO Racing GR GT and GR GT3, while continuing the sports car spirit represented by the original V10-powered LFA. Lexus stated that the new car hopes to create a more direct connection between the driver and the vehicle through an immersive driving experience.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            雷克萨斯 LFA 纯电概念车与 GAZOO Racing GR GT、GR GT3 共享部分核心技术方向和开发理念，同时延续搭载 V10 发动机的初代 LFA 所代表的跑车精神。雷克萨斯表示，新车希望通过沉浸式驾驶体验，让驾驶者与车辆形成更直接的联系。
+            努比亚昨日宣布，全球首款 AI 智能体手机 NaviX Ultra 正式亮相。该机搭载豆包手机助手，努比亚称其将开启 AI 智能体手机的新阶段。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This year's Goodwood Festival of Speed was held from July 9th to 12th. In addition to the LFA electric concept car, the GR GT and GR GT3 also made their public debut in Europe in an undisguised state and participated in dynamic demonstrations on the hill climb track.
+            The NaviX Ultra will be available in colors such as black, pink, silver, and purple. The device features an orange &quot;AI button&quot; and a horizontally arranged rear camera module.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            本届古德伍德速度节于 7 月 9 日至 12 日举行。除 LFA 纯电概念车外，GR GT 和 GR GT3 也首次以无伪装状态在欧洲公开亮相，并参与爬山赛道动态展示。
+            NaviX Ultra 将提供黑色、粉色、银色和紫色等配色，机身配备橙色「AI 键」，后置摄像头模组采用横向布局。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Ni Fei, President of Nubia Technology Co., Ltd., previously revealed that Nubia has taken the lead in completing the filing for its large AI agent model; Ni Fei also stated that the NaviX Ultra will be the first terminal product to feature such a large model.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            努比亚技术有限公司总裁倪飞此前透露，努比亚已率先完成智能体大模型备案；倪飞还表示，NaviX Ultra 将成为首款搭载该类大模型的终端产品。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Ni Fei stated that the Doubao Mobile Assistant on the NaviX Ultra will support users in delegating some tasks to the AI agent for processing.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            倪飞表示，NaviX Ultra 搭载的豆包手机助手将支持用户把部分任务交给 AI 智能体处理。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>WPS 推出两款 AI 办公产品，面向员工协作与个人提效</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">WPS-推出两款-AI-办公产品，面向员工协作与个人提效</guid>
+      <title>荣耀 Robot Phone 展示双配色与四自由度云台</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">荣耀-Robot-Phone-展示双配色与四自由度云台</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/20260716_%E6%97%A9%E6%8A%A5/27a56641-2db5-4ec0-b0a8-9200f78204e6.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/a47e023f-3a6a-4a90-9897-d67daa493710.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Kingsoft Office yesterday released WPS Comate and WPS Lingxi Pro at the 2026 Kingsoft Office AI Productivity Conference.
+            Honor CEO Li Jian unveiled two color options for the Robot Phone and announced that the product is ready. The device was previously available for offline pre-orders and is scheduled for launch in the third quarter of this year.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            金山办公昨日在 2026 金山办公 AI 生产力大会上发布 WPS Comate 和 WPS 灵犀专业版。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            WPS Comate is designed for enterprise organizations, supporting connection to organizational data, systems, and processes, integrating AI into daily work. The product includes six major modules: AI Job Expert, Automated Tasks, Wiki Knowledge Base, Skill Ecosystem, Team Collaboration Space, and Application Plaza, covering scenarios such as legal affairs, project management, human resources, sales, and data analysis.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            WPS Comate 面向企业组织，支持连接组织数据、系统和流程，将 AI 融入日常工作。产品包含 AI 岗位专家、自动化任务、Wiki 知识库、Skill 技能生态、团队协作空间和应用广场六大模块，可覆盖法务、项目管理、人力资源、销售和数据分析等场景。
+            荣耀 CEO 李健公布 Robot Phone 双配色，并表示产品已准备就绪。该机此前已开放线下预约，计划今年第三季度上市。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            WPS Comate also supports two task modes: cloud and local. In local mode, file processing is completed on the user's computer, and data is not automatically uploaded to the cloud; cloud mode allows access to WPS 365 organizational data under enterprise authorization and supports operation traceability and auditing.
+            The Robot Phone integrates a four-degree-of-freedom titanium alloy mechanical gimbal on its top, which can pop up in about 0.8 seconds, supporting 360° tracking and 90°, 180° camera movements. The imaging system includes a 200-megapixel gimbal main camera, a 50-megapixel ultra-wide-angle lens, and a 200-megapixel periscope telephoto lens, and introduces ARRI Log-C encoding and LUT.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            WPS Comate 还支持云端和本地两种任务模式。本地模式下，文件处理在用户电脑完成，数据不会自动上传至云端；云端模式则可在企业授权下访问 WPS 365 组织数据，并支持操作追溯和审计。
+            Robot Phone 的机身顶部集成四自由度钛合金机械云台，可在约 0.8 秒内弹出，支持 360° 追踪和 90°、180° 运镜。影像系统包括 2 亿像素云台主摄、5000 万像素超广角和 2 亿像素潜望长焦，并引入 ARRI Log-C 编码与 LUT。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            WPS Lingxi Pro focuses more on personal office use, supporting direct document editing in WPS Text, Spreadsheets, Presentations, and PDF, and supporting WPS CLI, JSAPI, group chat, project context management, browser plugins, Microsoft Office plugins, and mobile clients. The two products enter the market from enterprise workflows and personal office entry points, covering organizational collaboration and document processing scenarios.
+            The device is equipped with the fifth-generation Snapdragon 8 Extreme Edition, a 1.5K flat screen, and an on-device YOYO model. It has passed 3C certification, and its adapter supports up to 120W fast charging.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            WPS 灵犀专业版更侧重个人办公，支持在 WPS 文字、表格、演示和 PDF 中直接编辑文档，并支持 WPS CLI、JSAPI、群聊、项目上下文管理、浏览器插件、Microsoft Office 插件和移动端。两款产品分别从企业工作流和个人办公入口切入，覆盖组织协同与文档处理场景。
+            该机搭载第五代骁龙 8 至尊版、1.5K 直屏和端侧 YOYO 模型，已通过 3C 认证，适配器最高支持 120W 快充。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>小米正式发布 Xiaomi-Robotics-U0 机器人模型</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">小米正式发布-Xiaomi-Robotics-U0-机器人模型</guid>
+      <title>24.98 万元，新一代理想 L6 上市</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">24.98-万元，新一代理想-L6-上市</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/7dc8f6a2-8fbc-40d4-b9ed-aba25f2a1828.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/53fd1408-2a38-475e-a607-6db0daf4675f.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Today, Xiaomi officially released Xiaomi-Robotics-U0, a multimodal autoregressive embodied generative foundation model with 38 billion parameters. It is the first unified generative model in the embodied AI field that 'covers all' four types of tasks, enabling the generation and editing of robot image and video data.
+            The new generation Li Auto L6 has been officially launched, offering only the Ultra version, priced at 249,800 yuan. The new car is equipped with a 51 kWh range-extended dedicated battery, providing a CLTC pure electric range of 300 km and a comprehensive range of 1250 km. It supports charging from 20% to 80% in 12 minutes and comes standard with dual-motor all-wheel drive.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            今天，小米正式发布 Xiaomi-Robotics-U0，一个拥有 380 亿参数的多模态自回归具身生成基础模型，是具身领域首个「通吃」四类任务的统一生成模型，打通了机器人图片和视频数据的生成与编辑链路。
+            新一代理想 L6 正式上市，仅提供 Ultra 一个版本，售价 24.98 万元。新车搭载 51 kWh 增程专用电池，CLTC 纯电续航 300 km，综合续航 1250 km，支持 12 分钟从 20% 充至 80%，并标配双电机四驱。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Dual-valve continuously variable damping shock absorbers, all-aluminum suspension;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             双阀连续可变阻尼减振器、全铝悬架；
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             29-inch 6K panoramic screen, Qualcomm Snapdragon 8797 cockpit chip;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             29 英寸 6K 全景屏、高通骁龙 8797 座舱芯片；
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Mach M100 assisted driving chip, with 1280 TOPS computing power;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             马赫 M100 辅助驾驶芯片，算力 1280 TOPS；
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             ADB adaptive high beams, full-car soft-close doors;
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             ADB 自适应远光灯、全车电吸门；
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Rear seatbacks adjustable up to 140°, and equipped with active noise cancellation.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             后排靠背最大可调至 140°，并配备主动降噪。
+            &lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Li Auto states that the new car's body roll has been reduced by 30% compared to the previous generation. Assisted driving features will be pushed out starting from the end of July, and the embodied intelligent Mach package is optional, priced at 20,000 yuan. The initial sales period ends at 24:00 on August 31st, with special paint, Obsidian Black sport package, and front dual full-size zero-gravity seat package provided free of charge.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            理想称，新车侧倾幅度较上一代降低 30%。辅助驾驶相关功能将从 7 月底开始推送，具身智能马赫套装可选装，价格为 2 万元。首销期截至 8 月 31 日 24 时，特殊车漆、曜黑运动套件和前排双全尺寸零重力座椅套装免费提供。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On the WorldArena evaluation benchmark, Xiaomi-Robotics-U0 achieved the top overall score (out of 126 models worldwide).
+            🔗 Related reading:
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/ac8ck6bVR6O9yGxj7gdFHg&quot;&gt;
+             249,800 yuan, the new generation Li Auto L6 launched: 51kWh large battery, flagship chip down-ported, starting to make up for handling shortcomings
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            🔗 相关阅读：
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/ac8ck6bVR6O9yGxj7gdFHg&quot;&gt;
+             24.98 万元，新一代理想 L6 上市：51kWh 大电池、旗舰芯片下放，开始补操控这一课
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kimi K3 正式发布，2.8 万亿参数，支持 100 万 token 上下文</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">Kimi-K3-正式发布，2.8-万亿参数，支持-100-万-token-上下文</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c1b4c87c-1390-463c-a689-60ddb773741f.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Kimi K3 has been officially released, featuring 2.8 trillion parameters, native support for visual understanding, and a 1 million token context window. The official statement calls it the world's first open-source model at the 3 trillion level, primarily targeting scenarios such as long-range programming, knowledge work, and reasoning.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在 WorldArena 评测基准上，Xiaomi-Robotics-U0 取得总分第一名（全球 126 个模型参评）。
+            Kimi K3 正式发布，采用 2.8 万亿参数规模，原生支持视觉理解，并提供 100 万 token 上下文窗口。官方将其称为全球首个 3 万亿级别开源模型，主要面向长程编程、知识工作和推理等场景。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Furthermore, in real-machine evaluations, for Out of Distribution scenarios such as unknown lighting and unfamiliar backgrounds, strategy tasks trained with data augmented by Xiaomi-Robotics-U0 showed an average completion progress improvement of over 26%.
+            Kimi K3 adopts an MoE (Mixture of Experts) architecture, activating 16 experts out of 896. The official statement claims that, combined with technologies such as Stable LatentMoE, Quantile Balancing, and Per-Head Muon, Kimi K3's overall scaling efficiency is approximately 2.5 times higher than Kimi K2.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，真机评测中，在未知光照、陌生背景等 Out of Distribution 场景下，使用 Xiaomi-Robotics-U0 扩增数据训练的策略任务完成进度平均提升超 26%。
+            Kimi K3 采用 MoE 架构，在 896 个专家中激活 16 个专家。官方称，结合 Stable LatentMoE、Quantile Balancing、Per-Head Muon 等技术后，Kimi K3 相比 Kimi K2 的整体扩展效率提升约 2.5 倍。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In terms of performance, official benchmark data shows that Kimi K3 ranks among the top in multiple programming and agent tasks. In the DeepSWE test, Kimi K3 scored 67.5, ranking third; in FrontierSWE and the internal Kimi Code Bench 2.0, it achieved 81.2 points and 72.9 points respectively.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            性能方面，官方公布的评测数据显示，Kimi K3 在多项编程和智能体任务中位居前列。在 DeepSWE 测试中，Kimi K3 得分 67.5，排名第三；在 FrontierSWE 和内部 Kimi Code Bench 2.0 中分别获得 81.2 分和 72.9 分。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Kimi K3 also scored 88.3 points in Terminal Bench 2.1, 77.8 points in Program Bench, and 42.0 points in SWE Marathon, ranking first in the latter two.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Kimi K3 还在 Terminal Bench 2.1、Program Bench 和 SWE Marathon 中分别取得 88.3 分、77.8 分和 42.0 分，其中后两项排名第一。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Regarding pricing, the official API price is 2 yuan per million tokens for input (cache hit) or 20 yuan (cache miss), and 100 yuan for output.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            价格方面，官方 API 价格为每百万 token 输入 2 元（命中缓存）或 20 元（未命中缓存），输出 100 元。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>阿里发布 Qwen-Audio-3.0-Realtime 实时语音对话模型</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">阿里发布-Qwen-Audio-3.0-Realtime-实时语音对话模型</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/e6bd54f7-7b77-4170-b295-5485706824de.png&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>MiniMax 携 M3、H3 等全模态模型及产品亮相 WAIC 2026</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">MiniMax-携-M3、H3-等全模态模型及产品亮相-WAIC-2026</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Alibaba released the real-time voice dialogue model Qwen-Audio-3.0-Realtime, available in a Plus version emphasizing reasoning capabilities and a Flash version emphasizing response speed. The model supports dynamic tool invocation, voice cloning, multi-speaker recognition, and full-duplex dialogue, and can be used for customer service, education, entertainment interaction, and voice assistants.
+            MiniMax showcased its flagship model M3 at WAIC 2026 and previewed the new generation multimodal generative model H3. H3 is designed for contexts composed of text, images, video, and sound, no longer separating capabilities like generation, editing, and referencing into independent tasks.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿里巴巴发布实时语音对话模型 Qwen-Audio-3.0-Realtime，分为强调推理能力的 Plus 版本和强调响应速度的 Flash 版本。模型支持动态工具调用、音色克隆、多人说话识别和双工对话，可用于客服、教育、娱乐互动和语音助手。
+            MiniMax 在 WAIC 2026 展示旗舰模型 M3，并预热新一代多模态生成模型 H3。H3 面向文本、图像、视频和声音共同构成的上下文，不再把生成、编辑和参考等能力拆成彼此独立的任务。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Alibaba states that the new model can filter background speech in noisy environments and adjust speech rate, pauses, emphasis, and emotional expression according to context. The model can also invoke external tools such as route planning and information inquiry; APIs, documentation, and demo pages are already open.
+            M3 has a total of 428 billion parameters, with 23 billion active parameters, supporting up to 1 million tokens of context, and employs the MiniMax Sparse Attention architecture. The model is designed for long context, programming, and agent tasks, and has been adapted for computing platforms such as Huawei Ascend, Moore Threads, Muxi, Kunlunxin, Hygon, NVIDIA, and AMD.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿里称，新模型能够在嘈杂环境中过滤背景说话声，并根据语境调整语速、停顿、重音和情绪表达。模型还可调用路线规划、信息查询等外部工具；API、文档和演示页面已经开放。
+            M3 总参数量为 4280 亿、激活参数量为 230 亿，最高支持 100 万 token 上下文，采用 MiniMax Sparse Attention 稀疏注意力架构。模型面向长上下文、编程和智能体任务，并已适配华为昇腾、摩尔线程、沐曦、昆仑芯、海光、NVIDIA 与 AMD 等计算平台。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            On-site products also include MiniMax Hub, a local creation workbench that integrates video, voice, and music models. It organizes scripts, storyboards, videos, music, and editing on the same canvas, with an Agent scheduling models and tools; the voice model supports restoring timbre, breath, and speaking speed using 10 seconds of original audio, and provides output in over 40 languages.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            现场产品还包括整合视频、语音和音乐模型的本地创作工作台 MiniMax Hub。它把脚本、分镜、视频、音乐和剪辑组织在同一画布中，由 Agent 调度模型与工具；语音模型支持用 10 秒原声还原音色、气息和语速，并提供 40 多种语言输出。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            MiniMax also showcased cooperation cases such as robot dogs, AI glasses, smart headphones, NAS, and financial services. Among them, the Vbot robot dog is integrated with M3, with cumulative orders of 6540 units during the initial pre-sale period; Rokid AI glasses use MiniMax's voice capabilities to provide multilingual interaction and real-time translation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            MiniMax 同时展示机器狗、AI 眼镜、智能耳机、NAS 与金融服务等合作案例。其中 Vbot 机器狗接入 M3，首销预售期累计订单 6540 台；Rokid AI 眼镜使用 MiniMax 语音能力提供多语言交互和实时翻译。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>PrismML 发布能跑在 iPhone 上的模型 Bonsai 27B</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">PrismML-发布能跑在-iPhone-上的模型-Bonsai-27B</guid>
+      <title>阿里千问首款 AI 智能体耳机将亮相 WAIC</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">阿里千问首款-AI-智能体耳机将亮相-WAIC</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Cailian Press, Alibaba's personal AI assistant 'Qianwen' will officially unveil its first AI agent headphones during the 2026 World Artificial Intelligence Conference (WAIC). Previously, Qianwen had announced plans to launch multiple AI hardware products in different forms within the year, and AI headphones are a crucial part of its software-hardware integration strategy.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据财联社报道，阿里巴巴旗下个人 AI 助手「千问」首款 AI 智能体耳机将于 2026 世界人工智能大会（WAIC）期间正式亮相。此前，千问曾宣布计划在年内推出多款不同形态的 AI 硬件产品，AI 耳机正是其软硬一体化战略的重要组成部分。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Sources close to Qwen's AI hardware business revealed that more detailed information about the product will be officially released during WAIC. Prior to this, Qwen had already showcased AI glasses at the Mobile World Congress (MWC) in March this year and plans to successively launch wearable devices such as AI rings within the year, aiming to build an AI assistant ecosystem across various terminals.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            接近千问 AI 硬件业务的人士透露，更多关于该产品的详细信息将在 WAIC 期间正式发布。在此之前，千问已于今年 3 月的世界移动通信大会（MWC）上展示了 AI 眼镜，并计划在年内陆续推出 AI 指环等穿戴设备，旨在打造跨多种终端的 AI 助手生态。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>小米发布具身基座模型 Xiaomi-Robotics-1，10 万小时真实操作数据预训练</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">小米发布具身基座模型-Xiaomi-Robotics-1，10-万小时真实操作数据预训练</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/c1acca11-3000-462d-8ff3-acf3a633fb05.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/9fb11ad2-0e77-41c9-9dba-bb48a883118e.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            PrismML yesterday released the Bonsai 27B model, stating that it can run natively on iPhone, iPad, and Mac. The model is based on Qwen3.6-27B, uses low-bit quantization and a hybrid attention architecture, with the mobile version being approximately 4 GB.
+            Xiaomi yesterday released its embodied foundation model, Xiaomi-Robotics-1. The model was pre-trained with 100,000 hours of real-world operational trajectories, with data covering 1,700 scenarios across homes, offices, commercial spaces, industrial settings, and outdoors, comprising 2.4 million trajectories and over 260 types of tasks.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            PrismML 昨日发布 Bonsai 27B 模型，称其可原生运行于 iPhone、iPad 和 Mac。该模型基于 Qwen3.6-27B，采用低比特量化与混合注意力架构，手机版约 4 GB。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            PrismML stated that the 1-bit version of Bonsai 27B can reach up to 163 tokens/s on an NVIDIA GeForce RTX 5090 and up to 87 tokens/s on an M5 Max; the ternary quantized version achieves speeds of up to 134 tokens/s and 58 tokens/s on the two platforms, respectively.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            PrismML 表示，Bonsai 27B 的 1-bit 版本在 NVIDIA GeForce RTX 5090 上最高可达 163 token/s，在 M5 Max 上最高可达 87 token/s；三值量化版本在两者上的速度分别最高为 134 token/s 和 58 token/s。
+            小米昨日发布具身基座模型 Xiaomi-Robotics-1。模型以 10 万小时真实世界操作轨迹进行预训练，数据覆盖家庭、办公室、商业、工业和户外等 1700 个场景、240 万段轨迹与 260 多类任务。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The model supports multimodal input, multi-step reasoning, structured tool invocation, and ultra-long text processing, with weights released under the Apache 2.0 license.
+            The team used a visual-language model to automatically label gripper and object state changes, processing the full pre-training data within approximately two weeks. In the post-training phase, about 10,000 hours of cross-body data were added, including over 7,200 hours of mobile manipulation robot and dual-arm robot data, over 1,000 hours of manually labeled UMI data, as well as public datasets like Bridge V2, RT-1, and DROID.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            模型支持多模态输入、多步推理、结构化工具调用和超长文本处理，权重已按照 Apache 2.0 许可证开放。
+            团队用视觉语言模型自动标注夹爪与物体状态变化，并在约两周内处理全量预训练数据。后训练阶段又加入约 1 万小时跨本体数据，其中包括 7200 多小时移动操作机器人与双臂机器人数据、1000 多小时人工标注 UMI 数据，以及 Bridge V2、RT-1、DROID 等公开数据集。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, PrismML CEO Babak Hassibi told CNBC that Apple and other companies are evaluating the company's model, focusing on on-device running speed, energy efficiency, and performance. He stated that these discussions are still in the early stages, and Apple has not yet responded.
+            The model adopts a &quot;pre-training + post-training&quot; approach, first learning general action generation, then aligning the robot's body with natural language instructions. Official data shows that Xiaomi-Robotics-1 achieved an average success rate of 57.4% on RoboCasa365, 59.1% on VLABench, and reached 74.5% on the RoboCasa benchmark.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，PrismML CEO Babak Hassibi 向 CNBC 表示，苹果及其他公司正在评估该公司的模型，重点关注设备端运行速度、能效和性能。他称相关交流仍处于早期阶段，苹果尚未对此作出回应。
+            模型采用「预训练 + 后训练」路线，先学习通用动作生成，再完成机器人本体与自然语言指令对齐。官方数据显示，Xiaomi-Robotics-1 在 RoboCasa365 的平均成功率为 57.4%，在 VLABench 的平均成功率为 59.1%，在 RoboCasa 基准达到 74.5%。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>百灵大模型发布 Ring-2.5-1T-Zero，探索万亿参数模型纯强化学习</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">百灵大模型发布-Ring-2.5-1T-Zero，探索万亿参数模型纯强化学习</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/8ee0e591-d27c-4b91-85c5-44bbeb8426f2.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Bailing large model team released Ring-2.5-1T-Zero, exploring the extension of verifiable reward reinforcement learning to 1 trillion parameters without using manually labeled inference data. The team broke down high-quality thought chains into three dimensions: interpretability, reproducibility, and efficiency, no longer focusing solely on the accuracy of the final answer.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            百灵大模型团队发布 Ring-2.5-1T-Zero，探索在不使用人工标注推理数据的情况下，把可验证奖励强化学习扩展到 1 万亿参数。团队把高质量思维链拆为可理解性、可复现性和效率三个维度，不再只看最终答案正确率。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Bailing large model team released Ring-2.5-1T-Zero, exploring the extension of verifiable reward reinforcement learning to a 1 trillion parameter model without using manually labeled inference data.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            百灵大模型团队发布 Ring-2.5-1T-Zero，探索在不使用人工标注推理数据的情况下，将可验证奖励强化学习扩展到 1 万亿参数模型。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Results show that after the first phase of reinforcement learning, Ring-2.5-1T-Zero achieved an AIME 2026 accuracy of 84.2%; for jointly answered AIME questions, an average of 6368 tokens were consumed. The team also noted that the effectiveness of Zero RL is still limited by factors such as pre-training knowledge, training data difficulty, and context window.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            结果显示，Ring-2.5-1T-Zero 在第一阶段强化学习结束后，AIME 2026 准确率达到 84.2%；在共同答对的 AIME 题目中，平均消耗 6368 个 Token。团队同时指出，Zero RL 的效果仍受预训练知识、训练数据难度和上下文窗口等因素限制。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>支付宝「阿宝」接入 OPPO 小布，首批支持近 200 项服务</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">支付宝「阿宝」接入-OPPO-小布，首批支持近-200-项服务</guid>
+      <title>苹果 2026 年返校季优惠上线，不再免费赠送 AirPods</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">苹果-2026-年返校季优惠上线，不再免费赠送-AirPods</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/bc58c88d-9193-44a2-93f7-6edea81385fb.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/fdad7858-1c58-4c8b-8611-b6a578f5af8c.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, Alipay officially announced a cross-platform intelligent agent interconnection partnership with OPPO. After OPPO users issue natural language commands to Xiaobu Assistant, Xiaobu is responsible for understanding the request, and Alipay's intelligent agent 'Abao' takes over service execution; the first batch covers nearly 200 daily life services, including movie viewing, ordering food, travel, phone bill top-ups, express delivery, social security, housing provident fund, and pension.
+            Yesterday, Apple officially launched its 2026 Back to School campaign, which will run until August 27th, covering 8 markets including mainland China, India, Malaysia, the Philippines, Singapore, Taiwan, Thailand, and Vietnam.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，支付宝官宣与 OPPO 达成智能体跨端互联合作。OPPO 用户向小布助手发出自然语言指令后，小布负责理解需求，支付宝智能体「阿宝」接管服务执行；首批覆盖观影、点餐、出行、话费充值、快递、社保、公积金和养老金等近 200 项生活服务。
+            昨天，苹果正式启动 2026 年返校季活动，活动将持续至 8 月 27 日，覆盖中国内地、印度、马来西亚、菲律宾、新加坡、中国台湾、泰国和越南等 8 个市场。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Some tasks can continue to run in the background, and notifications will be sent to the user upon completion. Alipay stated that Xiaobu does not hold Alipay account and fund information, nor does Abao directly control the phone or third-party applications; using this feature requires ColorOS 16, Xiaobu Assistant 12.8.4, Alipay 12.12.1, and higher versions.
+            This year, Apple has adjusted its previous gift mechanism to an &quot;849 yuan promotional discount credit.&quot; After purchasing an eligible MacBook Air, MacBook Pro, iPad Air, or iPad Pro, consumers can choose to buy a four-pack of AirTags for 0 yuan, or use the discount credit to purchase AirPods or Apple Pencil Pro, but will need to pay the difference.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            部分任务可以在后台继续运行，完成后再向用户发送通知。支付宝称，小布不持有支付宝账号和资金信息，阿宝也不直接控制手机及第三方应用；使用该功能需要 ColorOS 16、小布助手 12.8.4、支付宝 12.12.1 及更高版本。
+            今年苹果将往年的赠品机制调整为「849 元促销优惠额度」。消费者购买符合条件的 MacBook Air、MacBook Pro、iPad Air 或 iPad Pro 后，可选择以 0 元购买 AirTag 四件装，也可以将优惠额度用于购买 AirPods 或 Apple Pencil Pro，但需要补足差价。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Specifically, AirPods 4 require an additional 150 yuan, the noise-cancelling version requires 550 yuan, AirPods Pro 3 requires 1050 yuan, and Apple Pencil Pro requires 50 yuan.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            其中，AirPods 4 需补 150 元，降噪版需补 550 元，AirPods Pro 3 需补 1050 元，Apple Pencil Pro 需补 50 元。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            This Apple event does not include MacBook Neo, iPad mini, entry-level iPad, or desktop Mac products. In terms of pricing, MacBook Air starts from 9249 yuan after educational discount, MacBook Pro from 15199 yuan, iPad Air from 5599 yuan, and iPad Pro from 9899 yuan.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            苹果此次活动不包含 MacBook Neo、iPad mini、入门级 iPad 以及桌面级 Mac 产品。价格方面，MacBook Air 教育优惠后 9249 元起，MacBook Pro 15199 元起，iPad Air 5599 元起，iPad Pro 9899 元起。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Compared to previous years' events where AirPods could be obtained for free, consumers choosing AirPods this year need to pay an additional fee, leading some netizens to believe that the Back to School discount has &quot;shrunk&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            相比往年可免费获得 AirPods 的活动安排，今年消费者选择 AirPods 需要额外支付费用，因此有网友认为返校季优惠「缩水」。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>麦当劳出售香港 11 间自持商铺，累计套现超 10 亿港元</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">麦当劳出售香港-11-间自持商铺，累计套现超-10-亿港元</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>泡泡玛特创始人王宁到访苹果总部，与库克、特努斯会面</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">泡泡玛特创始人王宁到访苹果总部，与库克、特努斯会面</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/cf4a3fd3-180d-4041-92ee-1081f89d98a2.png&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the National Business Daily, McDonald's continues to sell its self-owned properties in Hong Kong, most recently selling a shop in Tai Po Fortune Plaza for HKD 126 million. The property, with an area of approximately 8,566 square feet, was purchased by McDonald's in 1988 for approximately HKD 19.3 million, representing a book value appreciation of about 5.5 times based on the transaction price.
+            On July 16, Apple CEO Tim Cook posted on social media, welcoming the Pop Mart team to Apple Park and sharing photos of his discussions with Apple's CEO-designate John Ternus and Pop Mart founder Wang Ning.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据《每日经济新闻》报道，麦当劳继续出售香港自持物业，最新以 1.26 亿港元卖出大埔昌运中心一处商铺。该物业面积约 8566 平方英尺，麦当劳 1988 年以约 1930 万港元购入，按成交价计算账面升值约 5.5 倍。
+            7 月 16 日，苹果 CEO 蒂姆·库克在社交平台发文，欢迎泡泡玛特团队到访 Apple Park，并晒出与苹果候任 CEO 约翰·特努斯、泡泡玛特创始人王宁交流的照片。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Since initiating its sale plan, McDonald's has sold 11 shops, cumulatively cashing out over HKD 1 billion; this year alone, it has disposed of 6 properties, cashing out over HKD 600 million. Some stores adopt a sale-and-leaseback model, where the restaurants continue to operate while property ownership transfers to new buyers. The company originally owned approximately 23 store properties in Hong Kong, with 12 still awaiting future arrangements.
+            Both sides exchanged views on creative design, digital ecosystems, and global consumer trends. Wang Ning also presented Cook and other Apple executives with THE MONSTERS x FIFA co-branded vinyl plush figures.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            麦当劳自启动出售计划以来已卖出 11 间商铺，累计套现超过 10 亿港元；今年已经处置 6 处物业，套现金额超过 6 亿港元。部分门店采用售后回租，餐厅继续营业，物业所有权转移给新买家。公司在香港原持有约 23 间门店物业，目前仍有 12 间待后续安排。
+            双方围绕创意设计、数字生态与全球消费趋势展开交流，王宁还向库克等苹果高管赠送了 THE MONSTERS 与 FIFA 联名的搪胶毛绒公仔。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Affected by the news, Pop Mart's Hong Kong stock price rose by over 6% in the afternoon, reaching a high of HK$170.90, and finally closed at HK$168.10, an increase of HK$10.80 from the previous trading day, a gain of 6.87%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            受相关消息影响，泡泡玛特港股午后股价一度上涨超过 6%，最高触及 170.90 港元，最终收于 168.10 港元，较前一交易日上涨 10.80 港元，涨幅为 6.87%。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Pulsar 与 Noctua 推出内置风扇的联名鼠标</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">Pulsar-与-Noctua-推出内置风扇的联名鼠标</guid>
+      <title>共享单车集体涨价，美团青桔哈啰起步价迈入 2 元时代</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">共享单车集体涨价，美团青桔哈啰起步价迈入-2-元时代</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/d62b7584-e305-459d-8680-42384fd2fe7d.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/3b8ed764-4772-4fa5-9b28-6f73968209b9.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Korean peripheral brand Pulsar has partnered with cooling manufacturer Noctua to launch the Feinmann F01 Noctua Edition mouse, featuring a hollow carbon fiber composite shell and an internal Noctua NF-A4x10 5V PWM fan. The fan supports five speed settings to reduce the stuffy feeling in the palm during prolonged use.
+            According to Yicai, Meituan Bike, Didi Qingju, and Hello Bike recently adjusted their billing rules in Beijing and several other cities. The three major shared bike platforms collectively adopted a combined strategy of &quot;raising the starting price and extending the basic riding duration&quot; for this price adjustment.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            韩国外设品牌 Pulsar 与散热厂商 Noctua 联合推出 Feinmann F01 Noctua Edition 鼠标，采用镂空碳纤维复合外壳，并在内部安装一枚 Noctua NF-A4x10 5V PWM 风扇。风扇支持五档转速，用于降低手掌长时间操作时的闷热感。
+            据第一财经报道，美团单车、滴滴青桔、哈啰单车于近期在北京市等多个城市上调计费规则。三大共享单车平台此次集体调价普遍采取了「提高起步定价、拉长基础骑行时长」的组合策略。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The mouse weighs approximately 73g, equipped with a Nordic nRF54L15 main controller, an XS-2 optical sensor with up to 42000 DPI, optical switches, and an 8kHz polling rate. The product features Noctua's iconic brown color scheme and will be globally released on July 21.
+            Specific rules show that Meituan Bike's starting price in the urban six districts for weekdays and weekends has been adjusted to 1.88 yuan, an increase of 0.38 yuan from before, and the initial riding duration has been extended from 30 minutes to 60 minutes; other areas maintain a starting price of 1.5 yuan / 30 minutes. Additionally, Meituan's holiday prices across all regions uniformly implement the 1.88 yuan / 60 minutes standard.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            鼠标重约 73g，配备 Nordic nRF54L15 主控、最高 42000 DPI 的 XS-2 光学传感器、光学微动和 8kHz 轮询率。产品采用 Noctua 标志性的褐色配色，将于 7 月 21 日全球发售。
+            具体规则显示，美团单车在城六区的工作日及周末起步价调整为 1.88 元，较此前上涨 0.38 元，起步骑行时长由 30 分钟延长至 60 分钟；其他区域维持 1.5 元 / 30 分钟的起步价。此外，美团全区域节假日价格统一执行 1 88 元 / 60 分钟标准。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Didi Qingju and Hello Bike's billing standards have also been adjusted simultaneously. Didi Qingju's starting price for weekdays and weekends has been raised to 1.99 yuan, and the initial duration expanded from 30 minutes to 60 minutes. Hello Bike's weekday pricing standard is on par with Qingju, with a starting price of 1.99 yuan and a 60-minute ride.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            滴滴青桔与哈啰单车的计费标准也进行了同步调整。滴滴青桔工作日及周末起步价上调至 1.99 元，起步时长由 30 分钟扩容至 60 分钟。哈啰单车的工作日资费标准与青桔持平，起步价同为 1.99 元并可骑行 60 分钟。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In response to this price change, all three platforms have simultaneously launched various riding membership products, including time-limited unlimited ride cards, fixed-quantity ride cards, and monthly unlimited ride cards. The platforms stated that after users activate a membership, the cost per ride can return to pre-increase levels, with some packages even offering better value for money.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            针对此次价格变动，三家平台均同步推出了多种骑行会员产品，包括限时不限次卡、定量骑行次卡及月度畅骑卡等。平台方表示，用户开通会员后，单次骑行成本可回落至涨价前水平，部分套餐甚至更具性价比。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section&gt;
 &lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>《指环王：猎捕咕噜》公布首支预告和动作捕捉花絮</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">《指环王：猎捕咕噜》公布首支预告和动作捕捉花絮</guid>
+      <title>诺兰新作《奥德赛》影评解禁，烂番茄新鲜度 98% 开分</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">诺兰新作《奥德赛》影评解禁，烂番茄新鲜度-98%-开分</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/025867ac-7d68-43a1-8087-98420cd49efe.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/565097c7-e4de-480a-b77c-f84edba1a956.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Warner Bros. and New Line Cinema have released the first trailer and motion-capture behind-the-scenes footage for the live-action film &quot;The Lord of the Rings: The Hunt for Gollum.&quot; Andy Serkis returns to play Gollum and direct, Peter Jackson serves as producer, and Fran Walsh and Philippa Boyens are involved in writing and production.
+            The mythological epic film &quot;The Odyssey,&quot; directed by Christopher Nolan, officially lifted its review embargo yesterday. The film, featuring an all-star cast, currently holds a 98% fresh rating on Rotten Tomatoes (134 reviews) and an MTC score of 88 (52 reviews).
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            华纳兄弟和新线影业公布真人电影《指环王：猎捕咕噜》首支预告及动作捕捉花絮。安迪·瑟金斯回归饰演咕噜并担任导演，彼得·杰克逊任制作人，弗兰·威尔士和菲利帕·鲍恩斯参与编剧与制作。
+            由克里斯托弗·诺兰执导的神话史诗电影《《奥德赛》》于昨日正式解禁影评。该片汇聚全明星阵容，目前在烂番茄网站获得 98% 的新鲜度（134 评），MTC 评分则达到 88 分（52 评）。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The story takes place during the events of &quot;The Fellowship of the Ring,&quot; where Gandalf sends Aragorn to find Gollum to prevent information about the One Ring from falling into Sauron's hands. Ian McKellen has been invited to return as Gandalf, and the film is scheduled to be released in North America on December 17, 2027.
+            Film critics generally believe that the film is another masterpiece by Nolan after 'Oppenheimer'. Among them, Empire magazine called it an extraordinary new interpretation of ancient literature and advised audiences to watch it on the biggest screen.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            故事发生在《魔戒再现》的时间段，甘道夫派阿拉贡寻找咕噜，防止至尊魔戒的信息落入索隆手中。伊恩·麦克莱恩已受邀回归饰演甘道夫，影片计划于 2027 年 12 月 17 日在北美上映。
+            影评普遍认为，该片是诺兰在《奥本海默》之后的又一巅峰力作。其中，《帝国》杂志称其为对古老文献价值非凡的全新转译，并建议观众在最大的银幕上观看。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Playlist pointed out that the film deeply explores the definition of 'home' and the dark side of human nature. Polygon believes that Nolan, in 'Odyssey', put away his previously trusted tools and forged film history with a 'bare-handed' approach.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            The Playlist 指出，影片深刻探讨了「家」的定义与人性的黑暗面。Polygon 则认为，诺兰在《奥德赛》中收起了以往信赖的工具，以「赤手空拳」的姿态铸就了电影历史。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            'Odyssey' is nearly 3 hours long and was shot on IMAX 70mm film. The film will be released today in North America, with a release date set for August 14 in mainland China.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            《奥德赛》全长近 3 个小时，采用 IMAX 70 毫米胶片拍摄。该片将于今日在北美上映，中国内地定档 8 月 14 日。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Netflix 医美题材日剧《假面美颜》将于 9 月上线</title>
-      <pubDate>Thu, 16 Jul 2026 05:45:28 +0000</pubDate>
-      <guid isPermaLink="false">Netflix-医美题材日剧《假面美颜》将于-9-月上线</guid>
+      <title>《安昂传奇：最后的气宗》7 月 24 日起小规模上映，或为冲刺奥斯卡</title>
+      <pubDate>Fri, 17 Jul 2026 05:46:41 +0000</pubDate>
+      <guid isPermaLink="false">《安昂传奇：最后的气宗》7-月-24-日起小规模上映，或为冲刺奥斯卡</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/3b8dceb6-f748-4d53-8fa5-252e0768f939.png&quot;/&gt;
+&lt;img alt=&quot;&quot; src=&quot;https://s3.ifanr.com/images/ep/uploads/lark2pad_upload/1ee189d7-c053-4f7b-92a6-1dae12541c50.png&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The Netflix Japanese drama &quot;Masked Beauty&quot; will premiere on September 17. The series focuses on Japan's medical aesthetics industry, starring Mayu Matsuoka and Riisa Naka, telling the story of two doctors with opposing viewpoints on &quot;beauty&quot; and appearance changes.
+            According to Variety, the animated film 'Avatar: The Last Airbender - Aang's Legend: The Last Airbender' will have a limited release in two theaters in Los Angeles and New York from July 24 to 30.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Netflix 日剧《假面美颜》将于 9 月 17 日上线。该剧聚焦日本医美行业，由松冈茉优和仲里依纱主演，讲述两名立场相反的医生围绕「美」与外貌改变展开的故事。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Mayu Matsuoka plays Fumi Numata, an emergency surgeon. After an emergency operation, she is forced to leave her original hospital and subsequently joins the clinic run by plastic surgeon Rin Toyama, played by Riisa Naka, planning to investigate the issues behind the medical aesthetics industry. Rin Toyama, on the other hand, believes that beauty can help people heal, and the divergence of their views will drive the plot's development.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            松冈茉优饰演急诊外科医生沼田芙美。她在一次急救手术后被迫离开原医院，随后进入仲里依纱饰演的整形医生远山凛所经营的诊所，并计划调查医美行业背后的问题。远山凛则认为，美貌能够帮助人们获得治愈，双方的分歧将推动剧情发展。
+            据《Variety》报道，《降世神通：最后的气宗》动画电影《安昂传奇：最后的气宗》将于 7 月 24 日至 30 日在洛杉矶和纽约的两家影院小规模上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The series production team spent several months researching Japan's medical aesthetics industry. Special effects makeup artist Amazing JIRO led the team to design &quot;pre-surgery,&quot; &quot;recovery period,&quot; and &quot;post-surgery&quot; appearance changes for each patient in the drama.
+            This screening is primarily to qualify for Oscar nominations, and the studio, Paramount, may use this to submit the film for Best Animated Feature and other awards.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            剧集制作团队曾花费数月研究日本医美行业。特效化妆师 Amazing JIRO 带领团队，为剧中每位患者设计「术前」「恢复期」和「术后」三个阶段的外貌变化。
+            此次放映主要是为了获得奥斯卡报名资格，片方派拉蒙可能据此为影片报名奥斯卡最佳动画长片及其他奖项。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The film had previously been adjusted from theatrical release to streaming. Paramount recently confirmed that the film will still launch on Paramount+ on July 25. In April this year, the film suffered a full-length premature leak, with related content posted online, triggering a criminal investigation. Some fans subsequently called for the film to be re-released theatrically.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            影片此前已从院线发行调整为流媒体上线。派拉蒙近日确认，该片仍将于 7 月 25 日登陆 Paramount+。今年 4 月，影片曾遭遇全片提前泄露事件，相关内容被发布至网上，并引发刑事调查。部分粉丝随后呼吁影片重新进行院线发行。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;/div&gt;</description>
