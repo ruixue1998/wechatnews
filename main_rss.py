@@ -83,6 +83,9 @@ def generate_rss_directly(url, output_filename):
         for s in soup(['script', 'style']): s.decompose()
         for tag in soup.find_all('noscript'): tag.unwrap()
         for img in soup.find_all('img', attrs={'data-cfsrc': True}): img.decompose()
+        # 移除早报特定的分割栏 section (如：大公司、数字潮汐等图标栏)
+        for section in soup.find_all('section', attrs={'data-ifanr-layout': 'morning-section'}):
+            section.decompose()
 
         # 2. 提取新闻条目
         content_area = soup.find('div', class_='entry-content') or soup.body
