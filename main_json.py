@@ -158,6 +158,6 @@ if __name__ == '__main__':
     feed_url = "https://www.ifanr.com/feed"
     target_url = get_latest_morning_post_link(feed_url)
     if target_url:
-        generate_json_directly(target_url, "DailyNews_Bilingual.json")
+        generate_json_directly(target_url, "DailyNews.json")
     else:
         sys.exit(1)
