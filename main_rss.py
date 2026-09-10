@@ -132,7 +132,7 @@ def generate_rss_directly(url, output_filename):
         # 4. 构造 RSS XML
         rss = Element('rss', version='2.0', attrib={'xmlns:content': 'http://purl.org/rss/1.0/modules/content/'})
         channel = SubElement(rss, 'channel')
-        SubElement(channel, 'title').text = "Daily News (Bilingual)"
+        SubElement(channel, 'title').text = "APPSO News"
 
         pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S %z')
         SubElement(channel, 'lastBuildDate').text = pub_date
@@ -167,6 +167,6 @@ if __name__ == '__main__':
     feed_url = "https://www.ifanr.com/feed"
     target_url = get_latest_morning_post_link(feed_url)
     if target_url:
-        generate_rss_directly(target_url, "DailyNews.xml")
+        generate_rss_directly(target_url, "DailyNews_Bilingual.xml")
     else:
         sys.exit(1)
