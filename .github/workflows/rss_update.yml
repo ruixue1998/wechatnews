@@ -22,13 +22,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Direct RSS Generator
+      - name: Run JSON Generator
         env:
           AI_AUTH_TOKEN: ${{ secrets.AI_AUTH_TOKEN }}
-        run: python main_rss.py
+        run: python main_json.py
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'CI: Auto-update RSS (Direct AI)'
-          file_pattern: 'DailyNews_Bilingual.xml'
+          commit_message: 'CI: Auto-update News JSON (Direct AI)'
+          file_pattern: 'DailyNews_Bilingual.json'
