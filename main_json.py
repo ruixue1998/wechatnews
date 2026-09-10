@@ -28,7 +28,7 @@ def call_ai_for_json_refinement(items_batch):
     使用 Gemini 官方 API 协议格式 (AnkiPal 风格)。
     """
     API_URL = "https://genai.thisisray.workers.dev/"
-    MODEL = "gemini-1.5-flash"
+    MODEL = "gemini-3.5-flash"
     AUTH_TOKEN = os.getenv('AI_AUTH_TOKEN')
     if not AUTH_TOKEN:
         print("错误: 环境变量 AI_AUTH_TOKEN 未设置！")
