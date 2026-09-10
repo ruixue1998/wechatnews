@@ -25,8 +25,10 @@ def get_latest_morning_post_link(feed_url):
 def call_ai_for_json_refinement(items_batch):
     """
     分批发送新闻条目给 AI，要求返回精炼后的英文标题和 Markdown 正文。
+    使用 Gemini 官方 API 协议格式 (AnkiPal 风格)。
     """
     API_URL = "https://genai.thisisray.workers.dev/"
+    MODEL = "gemini-1.5-flash"
     AUTH_TOKEN = os.getenv('AI_AUTH_TOKEN')
     if not AUTH_TOKEN:
         print("错误: 环境变量 AI_AUTH_TOKEN 未设置！")
@@ -45,18 +47,34 @@ Each object MUST have these keys:
    - "content_en": The refined English body text in Markdown.
 Do not include any markdown code blocks, explanations, or extra text. Only the raw JSON string."""
 
-    # 只发送 AI 需要处理的字段 (title_zh, content_zh)
+    # 模仿 AnkiPal：将指令和数据合并为一个文本块发送给 Gemini
     input_data = json.dumps([{"title_zh": item["title_zh"], "content_zh": item["content_zh"]} for item in items_batch], ensure_ascii=False)
-    payload = { "input": input_data, "system": system_prompt, "temperature": 0.3, "model": "gemini-2.5-flash" }
-    headers = { "Content-Type": "application/json", "Authorization": f"Bearer {AUTH_TOKEN}" }
+    combined_prompt = f"{system_prompt}\n\nInput Data:\n{input_data}"
+
+    # 官方 Gemini 结构
+    payload = {
+        "contents": [{
+            "parts": [{
+                "text": combined_prompt
+            }]
+        }],
+        "generationConfig": {
+            "temperature": 0.3
+        }
+    }
+
+    headers = { "Content-Type": "application/json" }
 
     try:
-        # 拼接完整路径以避免 404，类似于 AnkiPal 的处理方式
-        full_url = f"{API_URL.rstrip('/')}/api/v1/completion"
+        # 构造官方路径：/v1beta/models/{model}:generateContent?key={apiKey}
+        full_url = f"{API_URL.rstrip('/')}/v1beta/models/{MODEL}:generateContent?key={AUTH_TOKEN}"
         response = requests.post(full_url, json=payload, headers=headers, timeout=300)
         response.raise_for_status()
 
-        raw_text = response.text.strip()
+        # 解析官方嵌套结构
+        res_json = response.json()
+        raw_text = res_json['candidates'][0]['content']['parts'][0]['text'].strip()
+
         if raw_text.startswith("```json"):
             raw_text = raw_text[7:-3].strip()
         elif raw_text.startswith("```"):
