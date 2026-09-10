@@ -129,6 +129,9 @@ def generate_json_directly(url, output_filename):
                     img_tag = sibling.find('img') if hasattr(sibling, 'find') else None
                     if img_tag and img_tag.get('src'):
                         image_url = img_tag['src']
+                        # 优化：将爱范儿默认的 !720 缩略图改为 !360 以加速移动端加载
+                        if "!720" in image_url:
+                            image_url = image_url.replace("!720", "!360")
 
                 # 提取纯文本
                 if sibling.name == 'p':

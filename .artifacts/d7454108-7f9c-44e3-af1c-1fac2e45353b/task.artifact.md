@@ -1,12 +1,10 @@
-# 任务列表 - 转向 JSON 结构化数据实现
+# 任务列表 - 迁移至 Gemini 官方 API 协议
 
-- [x] 创建 `main_json.py`
-    - [x] 实现基础抓取与深度清洗逻辑
-    - [x] 实现新闻条目提取（提取第一张图片、纯文本正文）
-    - [x] 实现分批（每 3 条一组）调用 AI 进行“精炼+排版”的逻辑
-    - [x] 实现 JSON 文件持久化逻辑
-- [x] 修改 `.github/workflows/rss_update.yml`
-    - [x] 更新脚本调用路径
-    - [x] 更新提交文件模式
-- [x] 验证生成的 `DailyNews_Bilingual.json`
-- [x] 编写 Walkthrough 总结成果
+- [x] 重构 `main_json.py` 中的 AI 调用逻辑
+    - [x] 更新 URL 构造方式（拼接 `v1beta/models/...`）
+    - [x] 重构请求体 Payload 为官方 `contents` 结构
+    - [x] 将鉴权从 Header 移至 URL 参数 `key`
+    - [x] 更新响应解析逻辑，适配 `candidates` 嵌套结构
+- [x] 同步代码至 GitHub 仓库
+- [x] 验证生成的 `DailyNews.json` 是否符合预期
+- [x] 编写 Walkthrough 总结
