@@ -26,7 +26,7 @@ def call_ai_for_json_refinement(items_batch):
     """
     分批发送新闻条目给 AI，要求返回精炼后的英文标题和 Markdown 正文。
     """
-    API_URL = "https://genai.thisisray.workers.dev/api/v1/completion"
+    API_URL = "https://genai.thisisray.workers.dev/"
     AUTH_TOKEN = os.getenv('AI_AUTH_TOKEN')
     if not AUTH_TOKEN:
         print("错误: 环境变量 AI_AUTH_TOKEN 未设置！")
