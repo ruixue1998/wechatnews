@@ -38,7 +38,7 @@ def call_ai_for_json_refinement(items_batch):
 Your task:
 1. Understand the core message of each item.
 2. Write a catchy, refined English title.
-3. Write a concise, refined English body text using your own words. Do not just translate word-for-word. Summarize as needed and use multiple paragraphs to improve readability, ensuring the content is professional and clear.
+3. Write a concise, refined English body text in your own words. Avoid literal word-for-word translation. Summarize as necessary, filtering out trivial details to highlight key information. Use multiple paragraphs as much as possible to enhance readability, ensuring the content is professional and clear.
 4. Format the English body text in Markdown.
 5. Return the results ONLY as a valid JSON array of objects.
 Each object MUST have these keys:
