@@ -38,7 +38,7 @@ def call_ai_for_json_refinement(items_batch):
 Your task:
 1. Understand the core message of each item.
 2. Write a catchy, refined English title.
-3. Write a concise, refined English body text using your own words. Do not just translate word-for-word. Summarize and re-paragraph as needed to make it professional and clear.
+3. Write a concise, refined English body text using your own words. Do not just translate word-for-word. Summarize as needed and use multiple paragraphs to improve readability, ensuring the content is professional and clear.
 4. Format the English body text in Markdown.
 5. Return the results ONLY as a valid JSON array of objects.
 Each object MUST have these keys:
@@ -103,7 +103,17 @@ def generate_json_directly(url, output_filename):
         for section in soup.find_all('section', attrs={'data-ifanr-layout': 'morning-section'}):
             section.decompose()
 
-        # 2. 提取新闻条目
+        # 2. 提取发布时间
+        time_tag = soup.select_one('.article-info__category time')
+        publish_date = ""
+        if time_tag:
+            if time_tag.has_attr('data-timestamp'):
+                ts = int(time_tag['data-timestamp'])
+                publish_date = datetime.fromtimestamp(ts, timezone.utc).strftime('%Y-%m-%d %H:%M')
+            else:
+                publish_date = time_tag.get_text(strip=True)
+
+        # 3. 提取新闻条目
         content_area = soup.find('div', class_='entry-content') or soup.body
         if not content_area:
             print("找不到内容区域。")
@@ -142,7 +152,8 @@ def generate_json_directly(url, output_filename):
             extracted_items.append({
                 "title_zh": title_zh,
                 "content_zh": "\n\n".join(body_texts),
-                "image_url": image_url
+                "image_url": image_url,
+                "date": publish_date
             })
 
         print(f"共提取到 {len(extracted_items)} 条新闻。")
@@ -162,6 +173,7 @@ def generate_json_directly(url, output_filename):
                         "title_zh": original["title_zh"],
                         "content_zh": original["content_zh"],
                         "image_url": original["image_url"],
+                        "date": original["date"],
                         "title_en": ai_res.get("title_en", ""),
                         "content_en": ai_res.get("content_en", "")
                     })
