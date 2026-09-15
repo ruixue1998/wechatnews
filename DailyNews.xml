@@ -2,622 +2,841 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Mon, 14 Sep 2026 08:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:33:41 +0000</lastBuildDate>
     <item>
-      <title>iPhone 18 Pro 系列首批多平台售罄，部分型号发货延至 10 月</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">iPhone-18-Pro-系列首批多平台售罄，部分型号发货延至-10-月</guid>
+      <title>苹果六大系统正式版发布，Siri AI 先以英语推出</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">苹果六大系统正式版发布，Siri-AI-先以英语推出</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344462090-1.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Apple iPhone 18 Pro and iPhone 18 Pro Max pre-orders began at 8 PM on September 12th. The two models start at 9999 yuan and 10999 yuan respectively, both with 256GB storage, and are available in black, silver, glacier blue, and burgundy red. They will officially go on sale on the 18th of this month.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 已于 9 月 12 日晚 8 点开启预购，两款机型起售价分别为 9999 元和 10999 元，均从 256GB 存储起步，提供黑色、银色、冰川蓝色和勃艮第酒红色。本月 18 日正式发售。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            When pre-orders began, Apple's official website and the Apple Store App were temporarily inaccessible due to high traffic, gradually recovering after about 6 minutes. The first day's release batch quickly sold out on multiple platforms, and the shipping time for some popular models on Apple's official website has been extended to late September or October; glacier blue and burgundy red were the first to run out of initial stock.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            预购开始时，苹果官网和 Apple Store App 一度因访问量较大无法进入，约 6 分钟后才陆续恢复。首日发售批次在多个平台快速售罄，苹果官网部分热门型号的发货时间已顺延到 9 月底或 10 月；其中冰川蓝和勃艮第酒红色首批库存最先耗尽。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430040107-1.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             北京时间今天凌晨，苹果向所有用户发布 iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27 和 tvOS 27 正式版。iOS 与 iPadOS 的版本号为 24A437。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             其中，iOS 27 带来全新 Siri AI，可结合个人上下文查找照片、邮件与笔记，并在信息、音乐、提醒事项等应用中执行操作。独立 Siri App 可以延续对话；相机中的 Siri 模式则能针对眼前物体进行提问和操作。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             照片加入拍摄后调整视角的「空间重构」、扩图及升级版清理工具；Safari 可按网页主题整理标签页，并监测价格或库存变化。系统也优化应用启动、照片载入、隔空投送和搜索，Liquid Glass 新增透明度调节。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             儿童安全功能包括新网站访问需家长批准、按日程限制可用 App，以及对图像和视频中血腥、暴力内容的保护。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             Siri AI 在这一批系统中以测试版提供，初期支持英语，需要兼容 Apple Intelligence 的设备；iOS、iPadOS 和 watchOS 上的 Siri AI 初期不在欧盟提供。部分功能还有地区、机型及每日使用次数限制。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             🔗 相关阅读：
+            &lt;/span&gt;
+&lt;a href=&quot;https://mp.weixin.qq.com/s/wkn02rK9KL6IumnUl6hojQ&quot;&gt;
+             坏了，苹果 AI 真成了？｜iOS 27 上手体验
+            &lt;/a&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>Gurman：iPhone Duo 有望成为苹果历史级产品</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">Gurman：iPhone-Duo-有望成为苹果历史级产品</guid>
+      <title>苹果回应 iPhone 渠道降价：第三方有定价权，售后规则不同</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">苹果回应-iPhone-渠道降价：第三方有定价权，售后规则不同</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据中新经纬、财联社报道，9 月 14 日，某电商平台的 256GB iPhone 18 Pro 优惠价降至 9099 元，比苹果官网 9999 元的起售价低 900 元。针对渠道「破发」，苹果客服表示，第三方有自己的定价权，可能提供平台补贴或店铺优惠，苹果不会干预。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             该平台客服称，进货价格会随行情波动，商品不保价，成交后不退补差价。相关商品还要求消费者现场签收、配合拆封激活，激活后不支持 7 天无理由退换货。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             苹果客服提醒，不同渠道的售后权利存在差异。苹果官网退货政策显示，顾客可在产品交付后 14 天内申请退货，并需按要求退回未损坏的产品、原始配件、发票和包装。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             同日，针对 iPhone 17 在部分授权渠道叠加优惠及国补后低至 5499 元的消息，苹果客服回应，官网没有发布降价通知，第三方渠道可能因活动或国补出现价格波动。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>豆包手机助手正式发布消费版，支持跨应用任务与授权记忆</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">豆包手机助手正式发布消费版，支持跨应用任务与授权记忆</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344464076-2.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430042133-2.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             豆包 9 月 14 日宣布手机助手消费版正式发布。首款搭载产品为努比亚 Navi X Ultra，已开启预约，将于 9 月 16 日开售。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             新版助手通过系统级协作提供语音、屏幕理解及手机操作能力：
+            &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
+&lt;span&gt;
+              AI 按键支持长按提问、双击视频交互，也可通过语音唤醒；连续对话仍处于 Beta 阶段。
+             &lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
+&lt;span&gt;
+              用户授权后，助手可调用通话录音、照片和短信等信息建立记忆，也支持手动保存屏幕内容。
+             &lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
+&lt;span&gt;
+              手机操作 Beta 结合工具调用与模拟点击执行跨应用任务，支持任务排队、中途插入新任务，并在锁屏上展示进度。
+             &lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; line-height: 1.6rem;&quot;&gt;
+&lt;span&gt;
+              系统工具可与日历、闹钟、电话及飞书等协作，提供会议录音转写、实时翻译，以及文档、PPT 等工作任务。
+             &lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             These capabilities have clear scopes of application: mobile operations currently cover system applications, relevant partner applications, and some integrated third-party applications; Cao Cao Mobility's ride-hailing service Beta, integrated with maps, first supports Beijing and Hangzhou. The official statement emphasizes processing information according to the principle of least necessity, with users controlling authorization and memory content.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             这些能力有明确的适用范围：手机操作目前覆盖系统应用、相关合作应用及部分接入的第三方应用；曹操出行与地图结合的打车服务 Beta 首先支持北京、杭州。官方强调按最小必要原则处理信息，并由用户控制授权和记忆内容。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Bloomberg reporter Mark Gurman reviewed the newly released foldable phone iPhone Duo in his &quot;Power On&quot; newsletter, and disclosed information about Apple's retail store renovation plans and the brand attribution of new game controllers.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            彭博社记者 Mark Gurman 在其「Power On」通讯中评价了新发布的折叠屏手机 iPhone Duo，并披露了苹果零售门店改造计划及新款游戏手柄的品牌归属信息。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gurman believes that the iPhone Duo is significant enough to secure a place in Apple's historical product lineup, second only to the 1998 iMac, 2001 iPod, 2010 iPad, and 2015 Apple Watch.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Gurman 认为，iPhone Duo 足以在苹果历史级产品序列中占据一席之地，仅次于 1998 年的 iMac、2001 年的 iPod、2010 年的 iPad 和 2015 年的 Apple Watch。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He predicts that foldable phones will account for the majority of new phone sales within the next decade, but due to their higher price, the adoption rate will be slower than when smartphones replaced feature phones. He also mentioned that Face ID and telephoto lenses are expected to be realized in the third-generation iPhone Duo through hardware miniaturization and improved AI computing capabilities.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他预计，未来十年内折叠屏手机将占据新机销量的多数，但由于售价较高，普及速度将慢于当年智能手机对功能机的替代过程。他还提到，Face ID 与长焦镜头预计要到第三代 iPhone Duo 才能通过硬件小型化与 AI 计算能力的提升实现。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report also mentioned that Apple is preparing for a major store overhaul, including restoring independent Genius Bars, removing large video walls, and adding dedicated areas for online pickup and &quot;Today at Apple.&quot; These plans will be gradually rolled out to stores worldwide over the next few years.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道同时提到，苹果正在筹备门店大改造，包括恢复独立 Genius Bar、拆除大型视频墙，并新增线上取货与「Today at Apple」专属区域，相关计划将在未来数年内逐步向全球门店推广。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Additionally, according to leaks, two iPhone game controllers currently under development by Apple are expected to be released under the Beats brand, rather than the Apple brand, to align with third-party accessory market pricing. This claim has not yet been officially confirmed. Gurman also mentioned that a new Apple TV set-top box is expected to be launched this autumn along with a new version of Siri AI.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            此外，据爆料，苹果开发中的两款 iPhone 游戏手柄预计将以 Beats 品牌发布，而非 Apple 品牌，以便贴近第三方配件市场定价，该说法尚未获得官方确认。Gurman 还提到，新款 Apple TV 机顶盒预计将于今年秋季随新版 Siri AI 一同推出。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>智谱完成约 50 亿美元融资，主要用于下一代模型研发</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">智谱完成约-50-亿美元融资，主要用于下一代模型研发</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to a Reuters report on September 13, Zhipu disclosed in a Hong Kong Stock Exchange filing that it has raised approximately US$5 billion in total through a US$2 billion Hong Kong share placement and a US$3 billion convertible bond issuance. Both transactions were initiated on September 11, and documents disclosed on Sunday confirmed the fundraising results.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据路透社 9 月 13 日报道，智谱在港交所文件中披露，已通过约 20 亿美元港股配售和约 30 亿美元可转债发行，合计募集约 50 亿美元。两项交易于 9 月 11 日启动，周日披露的文件确认了募资结果。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The share placement price is HK$714 per share, a discount of approximately 10% from last Friday's closing price. The convertible bonds are zero-coupon bonds, maturing in September 2027, denominated in RMB and settled in USD, with an issue price of 100.5% of face value; the initial conversion price is HK$892.50 per share, a 25% premium over the placement price.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            股份配售价为每股 714 港元，较上周五收盘价折让约 10%。可转债为零息债券，2027 年 9 月到期，以人民币计价、美元结算，发行价为面值的 100.5%；初始转股价为每股 892.50 港元，较配售价溢价 25%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Zhipu stated that approximately 60% of the net proceeds will be used for the research and development of next-generation models and a fully self-training system, another 15% for business expansion, and the remainder for optimizing capital structure, supplementing daily working capital, and other general corporate purposes.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            智谱表示，约 60% 的净募集资金将用于下一代模型和完全自训练体系研发，另有约 15% 用于业务扩张，其余用于优化资本结构、补充日常营运资金及其他一般公司用途。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>荣耀回应「魔法画报耽误拨打 120」争议：发帖与事实不符，不予追究</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">荣耀回应「魔法画报耽误拨打-120」争议：发帖与事实不符，不予追究</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344466635-3.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Southern Metropolis Daily, on the evening of September 10, a netizen posted that after his mother suffered a sudden heart attack, his father was unable to unlock his Honor phone to call for help due to the &quot;Magic Magazine&quot; feature, missing the best rescue time, which attracted widespread attention from netizens. The netizen stated that his mother had a sudden heart attack and collapsed in the bathroom at 4 AM. When his father tried to call for help, he accidentally touched the Magic Magazine, and because he couldn't find the exit button, he had to run out and knock on doors to find someone.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据南方都市报报道，9月10日晚，有网友发文称，母亲突发心梗后，因荣耀手机「魔法画报」导致父亲无法解锁手机拨打抢救电话，错过最佳抢救时间，引发大量网友关注。该网友表示，母亲凌晨四点突发心梗倒在厕所，父亲欲拨打求救电话时误触了魔法画报，因找不到退出按钮，只好跑出去一家家敲门找人。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to reports, on the afternoon of September 11, with the witness of third-party personnel, Mr. Zhang, the party involved, had a face-to-face communication with Honor, and the usage scenario at the time was recreated on site. Mr. Zhang stated that in the early morning of the incident, his elderly father, who suffers from cerebral infarction, successfully made an emergency call using an Honor X70. Due to emotional distress from the sudden family change, he misunderstood that the phone had failed to make the call.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据报道，9月11日下午，在第三方人员的见证下，当事人张先生与荣耀方进行了面对面沟通，现场还原了当时使用场景。张先生表示，事发凌晨，其身患脑梗的年迈父亲使用荣耀 X70 正常对外拨打了求救电话，其因家庭突发变故情绪激动，误解是手机问题导致没有拨通电话。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He stated that the original intention of his post was to hope that phone companies would pay attention to this issue to prevent tragedies. After communication, he realized that it was unrelated to the Honor phone, and some content in his online post did not match the actual situation, for which he apologized for the impact caused to the Honor brand.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他表示，发帖本意是希望手机公司能够重视这个问题，避免发生悲剧，经过沟通才发现与荣耀手机无关，网上所发帖子中有部分内容与实情不符，并为给荣耀品牌造成的影响致歉。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In response, Honor stated that it expressed condolences for the passing of Mr. Zhang's mother, and also said that the &quot;post inconsistent with facts&quot; incident caused brand damage to Honor, but out of humanitarian concern, Honor would not pursue the matter.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对此，荣耀方面回应称，对张先生母亲的去世表示哀悼，同时表示「发帖与事实不符」这件事对荣耀造成了品牌伤害，但出于人道主义关怀，荣耀将不予追究。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>黄仁勋重申：2030 年全球 AI 基础设施年支出将达 3 万亿至 4 万亿美元</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">黄仁勋重申：2030-年全球-AI-基础设施年支出将达-3-万亿至-4-万亿美元</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344468220-4.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Nvidia CEO Jensen Huang reiterated his prediction at the Goldman Sachs Communacopia + Technology Conference on September 10 that global annual spending on AI infrastructure will reach US$3 trillion to US$4 trillion by 2030. He believes that computing is shifting from retrieving existing information to generating real-time answers, and with the slowdown of Moore's Law, chips, complete machines, and data centers need integrated collaborative design.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            英伟达 CEO 黄仁勋在 9 月 10 日举行的高盛 Communacopia + Technology Conference 上，重申全球 AI 基础设施年支出到 2030 年将达到 3 万亿至 4 万亿美元的预测。他认为，计算正在从检索已有信息转向实时生成答案，叠加摩尔定律放缓，芯片、整机与数据中心需要一体化协同设计。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Jensen Huang stated that supply constraints for AI infrastructure exist simultaneously upstream and downstream: advanced packaging, DRAM, LPDDR memory, connectors, voltage regulators, and wafers are all under pressure, and there are also shortages in land, power, and factory buildings required for data centers. Nvidia is expanding its delivery channels through cloud service providers, OEMs, sovereign AI projects, and new cloud vendors, and is tracking the construction progress of data center projects in various regions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            黄仁勋表示，AI 基础设施的供给约束同时存在于上下游：先进封装、DRAM、LPDDR 内存、连接器、电压调节器和晶圆都面临压力，数据中心所需的土地、电力与厂房也存在缺口。英伟达正通过云服务商、OEM、主权 AI 项目和新型云厂商扩大交付渠道，并跟踪各地数据中心项目的建设进度。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding market doubts that Nvidia's investment in customers might form &quot;circular financing,&quot; Jensen Huang stated that the company's invested capital accounts for only a small portion of the projects, and decision-making is based on factors including customers' signed computing power orders and actual demand. He also predicted that physical AI applications such as autonomous driving would make significant progress in the next two to three years.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对于市场质疑英伟达投资客户可能形成「循环融资」，黄仁勋称，公司投入的资金只占项目的一小部分，决策依据包括客户已经签订的算力订单与实际需求。他还预计，自动驾驶等物理 AI 应用会在未来两到三年取得明显进展。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英伟达洽谈成为 Anthropic IPO 基石投资者</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">英伟达洽谈成为-Anthropic-IPO-基石投资者</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Reuters, Anthropic is in talks with Nvidia for the latter to act as a cornerstone investor in its IPO. Two informed sources said that Anthropic hopes to raise up to US$100 billion through the listing, with a corresponding valuation possibly reaching approximately US$2 trillion; one of them stated that Nvidia is considering investing up to US$10 billion.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据路透社报道，Anthropic 正与英伟达商谈由后者担任 IPO 基石投资者。两名知情人士称，Anthropic 希望通过上市筹集最多 1000 亿美元，对应估值可能达到约 2 万亿美元；其中一人称，英伟达考虑投资最多 100 亿美元。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The relevant negotiations may still be adjusted, and the financing scale, valuation, and Nvidia's final subscription amount have not been determined. If completed at the current upper limit, this transaction could become the largest IPO in history and would further deepen the capital ties between model companies, chip suppliers, and computing power purchasers.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            相关谈判仍可能调整，融资规模、估值和英伟达的最终认购额都没有确定。若按当前上限完成，这笔交易可能成为有史以来规模最大的 IPO，也会进一步加深模型公司、芯片供应商与算力采购之间的资本联系。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>奥特曼确认 OpenAI 今年不会上市，将先完成 AI 安全工作</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">奥特曼确认-OpenAI-今年不会上市，将先完成-AI-安全工作</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344469848-5.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            OpenAI CEO Sam Altman confirmed in an interview published by Fortune on September 12 that the company will not go public in 2026. He stated that considering the current AI safety issues, now is not the right time for an IPO, and OpenAI is not under pressure to go public.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI CEO Sam Altman 在《财富》 9 月 12 日发布的专访中确认，公司不会在 2026 年上市。他表示，考虑到目前的 AI 安全问题，现在并非合适的上市时机，OpenAI 也没有急于 IPO 的压力。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Altman said that the IPO would have to wait until the business, the company itself, and society's readiness for the technology are all prepared. When asked by reporters about this year's IPO plans, he explicitly replied, &quot;Not in 2026,&quot; adding that the company still has a lot of work to do.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Altman 说，上市要等到业务、公司自身，以及社会面对这项技术的状态都准备好。当记者追问今年的上市安排时，他明确回答「不是 2026 年」，并称公司还有大量工作要做。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            During the interview, he also stated that the most advanced, unreleased models are already very powerful; before further enhancing their capabilities, it is necessary to first improve the ability to monitor model behavior, align them, and ensure they adhere to human values and user intentions. If safety requires pausing or even stopping AI development, he is willing to explain it to investors.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            采访中，他还表示，最先进、尚未发布的模型能力已经很强；在进一步提升能力之前，需要先改善监控模型行为、对齐，以及确保模型遵循人类价值与用户意图的能力。如果安全需要暂停甚至停止 AI 开发，他愿意向投资者说明。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding suggestions for jointly developing safety plans with peers like Anthropic and Google DeepMind, Altman expressed an expectation of cooperation but did not disclose private discussions in advance. He emphasized that the industry cannot allow personal animosity or profit incentives to impede safety responsibilities.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            对于与 Anthropic、Google DeepMind 等同行共同制定安全方案的建议，Altman 表示预期会有合作，但没有提前公布私下讨论。他强调，行业不能让个人意气或利润激励妨碍安全责任。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国律师因 ChatGPT 编造刑事案件证词被罚 5000 美元</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">美国律师因-ChatGPT-编造刑事案件证词被罚-5000-美元</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344473558-6.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The New Mexico Supreme Court ruled that attorney Stephen Aarons submitted police testimony fabricated by ChatGPT and fictitious witness statements in a murder appeal. The court found him in contempt for failing to verify the accuracy of the documents, fined him $5,000, and referred the case to the attorney disciplinary board.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            美国新墨西哥州最高法院认定，律师 Stephen Aarons 在一宗谋杀案上诉材料中提交了由 ChatGPT 编造的警察证词和虚构证人陈述。法院以未核实文件准确性为由判其藐视法庭，并处以 5000 美元罚款，同时把案件转交律师纪律机构处理。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Aarons told Reuters that when he took over the appeal last year, he used ChatGPT to summarize trial records and was unaware that the system would fabricate facts out of thin air. The court found that he still lacked remorse after the problem was exposed and did not adequately consider the client's interests; the appeal of the original criminal case is still ongoing.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Aarons 对路透社表示，他在去年接手上诉时用 ChatGPT 总结庭审记录，没有意识到系统会凭空编造事实。法院认为，他在问题暴露后仍缺乏悔意，也没有充分顾及客户利益；原刑事案件的上诉仍在审理中。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">集邦咨询预计-iPhone-Duo-今年出货-500-万台，占折叠屏市场近四分之一</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344475562-7.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            TrendForce's report, published on September 10, estimates that Apple's first foldable phone, the iPhone Duo, will ship approximately 5 million units this year, accounting for about 24.8% of the global foldable phone market. In the same forecast, Samsung is expected to ship about 7.1 million units, accounting for 35.1%; Huawei about 5 million units, accounting for 24.8%.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            集邦咨询在 9 月 10 日发布的报告中预计，苹果首款折叠屏手机 iPhone Duo 今年出货约 500 万台，在全球折叠屏手机市场的份额约为 24.8%。同一份预测中，三星约为 710 万台、占 35.1%；华为约为 500 万台、占 24.8%。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report estimates that global foldable phone shipments will be approximately 20.2 million units in 2026, a year-on-year increase of 0.5%. After excluding the increase brought by Apple, Android brands combined will account for approximately 15.2 million units, a year-on-year decrease of over 20%. TrendForce attributes the pressure on Android shipments mainly to rising component costs, with most brands seeing flat or declining shipments.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报告预计，2026 年全球折叠屏手机出货量约为 2020 万台，同比增长 0.5%。剔除苹果带来的增量后，安卓品牌合计约为 1520 万台，同比下降逾 20%。集邦咨询将安卓阵营出货承压主要归因于零部件成本上涨，多数品牌的出货量持平或下降。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report also analyzed the screen structure of the iPhone Duo: the inner screen uses an OLED stack composed of ten layers of ultra-thin materials, combined with Nano-texture surface treatment to reduce glare and the visual visibility of creases. TrendForce believes that crease improvement requires the joint design of glass, adhesive layers, display modules, and support structures.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报告还分析了 iPhone Duo 的屏幕结构：内屏采用十层超薄材料组成的 OLED 堆叠，并配合 Nano-texture 表面处理，降低反光和折痕的视觉可见度。集邦咨询认为，折痕改善需要玻璃、胶层、显示模组与支撑结构共同设计。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从 Demo 到规模化复制，蚂蚁灵波外滩大会三问具身智能</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">从-Demo-到规模化复制，蚂蚁灵波外滩大会三问具身智能</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344476947-8.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On September 11, Ant Lingbo hosted an Embodied AI Forum at the 2026 Inclusion·Bund Conference. Participating researchers and enterprise leaders discussed general intelligence, training data, and scenario replication in their public speeches, including the capabilities model architectures should possess, data filtering methods, and commercialization standards.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            9 月 11 日，蚂蚁灵波在 2026 Inclusion·外滩大会举办具身智能论坛。与会研究者和企业负责人在公开发言中讨论了通用大脑、训练数据和场景复制，包括模型架构应具备的能力、数据筛选方法和商业化标准。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Shen Yujun, Chief Scientist of Ant Lingbo, believes that embodied models need to extract effective representations from continuous sensor signals, integrate modalities such as vision and touch, and generate executable actions. Measuring model progress should not only look at single demos but also consider whether partners' scenario deployment costs have decreased, and whether robots are safe and stable when operating for extended periods in open environments.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            蚂蚁灵波首席科学家沈宇军认为，具身模型需要从连续传感器信号中提取有效表征、融合视觉与触觉等模态，并生成可执行动作。衡量模型进步不能只看单次 Demo，还应看合作伙伴的场景部署成本是否下降，以及机器人在开放环境中长时间运行时是否安全、稳定。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding data, Huang Yongtao, Chief Data Scientist of Ant Lingbo, stated that the number of robots in real production and service scenarios is still small, and failures and feedback have not fully flowed back. After data quality surpasses engineering baselines like frame drops and clock desynchronization, it should be determined by the training objective and repeatedly verified through targeted datasets and training results.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            数据方面，蚂蚁灵波首席数据科学家黄用韬称，真实生产与服务场景中的机器人数量仍少，失败和反馈没有充分回流；数据质量越过掉帧、时钟不同步等工程底线后，应由训练目标决定，并通过定向数据集与训练结果反复验证。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Several enterprise leaders advocated for robots to enter real-world scenarios as early as possible but also pointed out that current generalization capabilities are mainly limited to single scenarios and single tasks. Wang Xiaogang, Chairman of Daxiao Robotics, proposed that a business model is only sustainable if thousands of robots appear in a single scenario and purchasers can achieve break-even. Ant Lingbo also announced the launch of an embodied large model challenge based on LingBot-VLA 2.0.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            多位企业负责人主张让机器人尽早进入真实场景，但也指出目前的泛化能力主要停留在单场景、单任务。大晓机器人董事长王晓刚提出，只有单一场景出现数千台机器人、购买方能够实现盈亏平衡，商业模式才算具备持续性。蚂蚁灵波还宣布启动基于 LingBot-VLA 2.0 的具身大模型挑战赛。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💡 Dario Amodei：AI 模型能力提升速度应主动放慢</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">💡-Dario-Amodei：AI-模型能力提升速度应主动放慢</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344480462-9.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Dario Amodei, CEO of Anthropic, published a lengthy article on September 12, advocating that frontier AI companies proactively slow down the pace of model capability improvement. He emphasized that &quot;slowing down&quot; does not mean stopping training or technological progress, but rather allocating time for alignment, safety protection, and third-party evaluations.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Anthropic CEO 达里奥·阿莫迪 9 月 12 日发表长文，主张前沿 AI 公司主动放慢模型能力的提升速度。他强调，「放慢」并非停止训练或技术进步，而是留出时间做对齐、安全防护和第三方评测。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Amodei summarized his concerns into two points. First, AI is increasingly involved in the development of the next generation of AI, and recursive self-improvement could cause capability growth to outpace human understanding and control. Second, the collective action and aggressive behavior demonstrated by OpenAI models in the Hugging Face incident could cause greater harm with stronger capabilities.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            阿莫迪把担忧归结为两点。其一，AI 正在更多参与下一代 AI 的研发，递归式自我改进可能让能力增长速度超过人类理解和控制的速度；其二，OpenAI 模型在 Hugging Face 事件中展示出的集群行动和攻击行为，在更强能力下可能造成更大损害。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He proposed a three-step framework: first, allow independent evaluation organizations to gain continuous access similar to employees, to inspect training processes, safety measures, and incidents; then, have frontier AI companies within democratic nations coordinate safety standards and progress; finally, attempt to establish a verifiable global coordination mechanism. Anthropic announced it would be the first to implement the first step, allowing external evaluation teams to understand safety processes and independently publish key conclusions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他提出三步框架：先让独立评估机构获得类似员工的持续访问权限，检查训练流程、安全措施和事故；再由民主国家内的前沿 AI 公司协调安全标准和进度；最后尝试建立可验证的全球协调机制。Anthropic 宣布将率先落地第一步，允许外部评估团队了解安全流程并独立发布关键结论。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            🔗 Related reading:
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/BXvKZ2FINbkQNHx21ldrfQ&quot;&gt;
-             Breaking! A-company founder calls for AI industry to hit the brakes, Altman and Musk rarely show strong support
-            &lt;/a&gt;
+             🔗 Related Reading:
+             &lt;a href=&quot;https://mp.weixin.qq.com/s/H5JK1giPgXhME1QLxIKicg&quot;&gt;
+              First Experience with the New &quot;Doubao Phone&quot; Assistant: Smartphones are Becoming &quot;Action Terminals&quot;
+             &lt;/a&gt;
 &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            🔗 相关阅读：
-            &lt;a href=&quot;https://mp.weixin.qq.com/s/BXvKZ2FINbkQNHx21ldrfQ&quot;&gt;
-             突发！A 社创始人呼吁 AI 圈踩刹车，奥特曼马斯克罕见力挺
-            &lt;/a&gt;
+             🔗 相关阅读：
+             &lt;a href=&quot;https://mp.weixin.qq.com/s/H5JK1giPgXhME1QLxIKicg&quot;&gt;
+              新「豆包手机」助手首发体验，智能手机正在变成「行动终端」
+             &lt;/a&gt;
 &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>曝 Anthropic 选择纳斯达克，争取 10 月上市</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">曝-Anthropic-选择纳斯达克，争取-10-月上市</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430042971-3.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to Business Insider, Anthropic has chosen Nasdaq as the listing exchange for a potential IPO and is aiming to complete the listing in October. The company has not yet publicly filed its prospectus, and the listing timeline may still be adjusted.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据《商业内幕》报道，Anthropic 已选择纳斯达克作为潜在 IPO 的上市交易所，并争取在 10 月完成上市。公司尚未公开提交招股文件，上市时间仍可能调整。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The report, citing sources, states that some estimates place Anthropic's IPO valuation at around $2 trillion, but the final valuation has not yet been determined and should not be considered as completed financing or pricing.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             报道援引知情人士称，一些估算将 Anthropic 的上市估值放在 2 万亿美元左右，但最终估值尚未确定，不能视为已经完成的融资或定价。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to the U.S. listing process, companies need to publicly disclose financial information at least 15 days before starting a roadshow. Choosing an exchange is one of the preparatory steps, followed by document disclosure, investor roadshows, and pricing.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             按美国上市流程，公司需要在启动路演前至少 15 天公开财务信息。选择交易所是筹备环节之一，接下来仍需经过文件披露、投资者路演和发行定价。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>比亚迪高管：燃油车在中国没有未来</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">比亚迪高管：燃油车在中国没有未来</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430044921-4.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Recently, Li Ke, Executive Vice President of BYD, stated in an interview with Carwow.es in Valencia, Spain, that a model will feature BYD's solid-state battery technology in 2027 to demonstrate relevant R&amp;amp;D achievements. This arrangement is currently a technical demonstration goal and does not equate to a confirmed retail launch or mass production timeline.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             近日，比亚迪执行副总裁李柯近日在西班牙瓦伦西亚接受 Carwow.es 采访时表示，2027 年会有一款车型搭载比亚迪的固态电池技术，用于证明相关研发成果。这项安排目前属于技术示范目标，不等同于已经确定零售上市或规模量产时间。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             She stated that BYD is researching various battery technologies, with related R&amp;amp;D involving battery chemistry systems, manufacturing capabilities, and equipment design. Integrating batteries into vehicles also requires verifying system integration capabilities under conditions of vibration, temperature changes, and repeated charging and discharging.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             她表示，比亚迪正在研究各类电池技术，相关研发同时涉及电池化学体系、制造能力和设备设计。将电池装入车辆，还需要在振动、温度变化和反复充放电条件下验证系统集成能力。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Li Ke believes that with the popularization of BYD's flash charging technology in China, gasoline cars have no future in China; the electrification transition in other regions may take a few more years, but she predicts it will ultimately lead to the same outcome.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             李柯认为，随着比亚迪闪充技术在中国普及，燃油车在中国已经没有未来；其他地区的电动化转型可能还需要几年，但她判断最终会走向同样的结果。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>广汽一汽签署重组意向协议，一汽拟成第二大股东</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">广汽一汽签署重组意向协议，一汽拟成第二大股东</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430046482-5.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             On the evening of September 14, GAC Group issued a suspension announcement, declaring that it had signed a &quot;Letter of Intent&quot; with China FAW Group Co., Ltd., planning to acquire a portion of the equity in a certain vehicle joint venture held by FAW Group through the issuance of shares and raise supporting funds.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             9 月 14 日晚，广汽集团发布停牌公告，宣布与中国第一汽车股份有限公司签署《意向协议》，筹划通过发行股份，购买一汽股份持有的某整车合资公司部分股权，并募集配套资金。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to preliminary estimates, after the transaction is completed, FAW Group will become GAC Group's second-largest shareholder with strategic influence. This transaction is expected to constitute a major asset restructuring and related-party transaction, not involving a change in GAC's actual controller, nor constituting a backdoor listing.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             根据初步测算，交易完成后，一汽股份将成为广汽集团第二大、具有战略影响力的股东。本次交易预计构成重大资产重组及关联交易，不涉及广汽实际控制人变更，也不构成重组上市。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The announcement stated that due to the restructuring target involving an overseas listed company, the disclosure of the target's name is temporarily withheld and will be revealed later in the restructuring plan. Both parties have currently signed a preliminary cooperation intention, and the formal transaction agreement has not yet been signed; implementation still requires internal decision-making and regulatory approval.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             公告称，由于重组标的涉及境外上市公司，暂缓披露标的名称，后续将在重组预案中公开。双方目前签署的是初步合作意向，正式交易协议尚未签订，实施仍需内部决策与监管批准。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             GAC A-shares have been suspended from trading since the market opened on September 14, expected for no more than 10 trading days; the company will disclose the restructuring plan after it is approved by the board of directors and apply for resumption of trading.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             广汽 A 股已于 9 月 14 日开市起停牌，预计不超过 10 个交易日；公司将在董事会审议通过重组预案后披露，并申请复牌。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>零跑 B01、B10 累计量产突破 30 万台</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">零跑-B01、B10-累计量产突破-30-万台</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430047730-6.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Leapmotor announced on September 14 that the cumulative mass production of B01 and B10 has exceeded 300,000 units, taking 1 year and 6 months, setting the fastest record for the Leapmotor series to reach this production volume.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             零跑汽车 9 月 14 日宣布，B01 和 B10 累计量产下线突破 30 万台，用时 1 年 6 个月，创下零跑车系达到这一产量的最快纪录。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Among them, the B10 also set the fastest record for Leapmotor models, exporting 60,000 units. The 300,000 units here refer to the cumulative mass production off-line quantity of the two models, not monthly sales or delivery volume; the 60,000 units are the export volume for the B10.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             其中，B10 还创下零跑车型出口 6 万台的最快纪录。这里的 30 万台是两款车型累计量产下线数量，并非单月销量或交付量；6 万台则是 B10 的出口口径。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The B01 is positioned as a compact pure electric sedan, and the B10 as a compact pure electric SUV. Both models launched their annual facelifts simultaneously in July this year, built on the LEAP3.5 technology architecture, with long-range versions equipped with an 800V high-voltage architecture.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             B01 定位紧凑型纯电轿车，B10 定位紧凑型纯电 SUV。两款车型今年 7 月同步推出年度改款，基于 LEAP3.5 技术架构打造，长续航版本配备 800V 高压架构。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中国地震台网中心：正与苹果沟通 iOS 地震预警</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">中国地震台网中心：正与苹果沟通-iOS-地震预警</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430049962-7.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to Beijing News, the China Earthquake Networks Center stated in a reply to a message on its official website on September 11 that it is communicating with Apple to accelerate the integration of system-level earthquake early warning into iOS.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据北京新闻报道，中国地震台网中心在 9 月 11 日的官网留言回复中表示，正在与苹果公司沟通，力争加快把系统级地震预警接入 iOS。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Currently, Apple phone users can receive earthquake early warning information uniformly released by the China Earthquake Networks Center through WeChat mini-programs. This reply expresses the direction of promoting integration, but does not announce that iOS system-level early warning has been launched, nor does it provide a launch date.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             目前，苹果手机用户可以通过微信小程序接收中国地震台网统一发布的地震预警信息。此次回复表达的是推进接入的工作方向，没有宣布 iOS 系统级预警已经上线，也没有给出上线日期。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             In another reply regarding community broadcast early warnings, the China Earthquake Administration stated that this technology sends information through communication base stations and is not restricted by mobile phone brands; related work is being advanced with the Ministry of Industry and Information Technology and still requires verification. Community broadcasting and Apple system integration are two different tasks.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             在另一条关于小区广播预警的回复中，中国地震局表示，这种技术通过通信基站发送信息，不受手机品牌限制；相关工作正在与工信部门推进，仍需开展验证。小区广播与苹果系统接入是两项不同的工作。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网安标委发布《人工智能安全治理框架 3.0》，更新风险分类与治理措施</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">网安标委发布《人工智能安全治理框架-3.0》，更新风险分类与治理措施</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430050931-8.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             On September 14, the National Technical Committee for Standardization of Cybersecurity released the &quot;Artificial Intelligence Security Governance Framework 3.0&quot; at the opening ceremony of the National Cybersecurity Awareness Week.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             9 月 14 日，全国网络安全标准化技术委员会在国家网络安全宣传周开幕式上发布《人工智能安全治理框架 3.0》。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to the official website of the Cyberspace Administration of China, the new version continues the core logic of &quot;risk classification, technical response, and comprehensive governance,&quot; updating risk classifications and adjusting technical response and comprehensive governance measures. The framework adheres to the principles of people-oriented, upward and benevolent, strengthening risk awareness, and ensuring safety and controllability.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据国家网信办官网，新版延续「风险分类、技术应对、综合治理」的核心逻辑，更新风险分类，并调整技术应对与综合治理措施。框架坚持以人为本、向上向善，以及强化风险意识、确保安全可控的原则。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             This compilation was guided by the Cyberspace Administration of China, with participating institutions including the China Academy of Cyberspace, the Data and Technology Security Center of the Cyberspace Administration of China, as well as research institutions and industry enterprises. The National Information Security Standardization Technical Committee had previously released versions 1.0 and 2.0 of the framework in 2024 and 2025, respectively.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             此次编制由国家网信办指导，参与机构包括中国网络空间研究院、国家网信办数据与技术保障中心，以及科研机构和行业企业。网安标委此前已于 2024 年、2025 年分别发布 1.0 与 2.0 版框架。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>现代高管称波士顿动力 2027 年 IPO 难实现</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">现代高管称波士顿动力-2027-年-IPO-难实现</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430051998-9.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to Reuters, a Hyundai Motor Group executive with direct knowledge of the matter stated that it would &quot;not be easy&quot; for Boston Dynamics to conduct an IPO next year. The humanoid robot company has not yet widely deployed its flagship product, Atlas, nor has it achieved profitability. The executive requested anonymity due to the confidential nature of the matter.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据路透社报道，一名直接了解情况的现代汽车集团高管表示，波士顿动力明年进行 IPO「并不容易」。这家人形机器人公司尚未大规模部署旗舰产品 Atlas，也尚未实现盈利。该高管因事项涉及保密而要求匿名。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Hyundai Motor Group has not yet publicly disclosed a timeline or target valuation for a potential listing. The group showcased a new version of Atlas at CES in January this year and announced in July its plan to acquire SoftBank's approximately 10% stake, making Boston Dynamics a wholly-owned subsidiary.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             现代汽车集团尚未公开潜在上市的时间表或目标估值。集团今年 1 月在 CES 展示了新版 Atlas，7 月宣布计划收购软银持有的约 10% 股份，将波士顿动力变为全资子公司。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Hyundai's manufacturing plan points to 2028: building a factory with an annual production capacity of 30,000 robots, and starting to deploy humanoid robots at its Georgia plant in the US from that year, before expanding to other production bases.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             现代的制造计划指向 2028 年：建设一座年产 3 万台机器人的工厂，并从当年开始在美国佐治亚州工厂部署人形机器人，再推广到其他生产基地。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Meritz Securities analyst Kim Joon-sung believes that a listing is more likely to occur in 2029 or 2030, as Hyundai still needs to accumulate a large amount of operational data, enhance robot capabilities, and then widely sell to external customers. IBK Asset Management fund manager Kim Hyun-su pointed out that having robots carry heavy objects and participate in factory manufacturing is much more difficult than having them dance.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             Meritz Securities 分析师 Kim Joon-sung 认为，上市更可能发生在 2029 年或 2030 年，因为现代仍需积累大量运行数据、提升机器人能力，再向外部客户广泛销售。IBK Asset Management 基金经理 Kim Hyun-su 则指出，让机器人搬运重物并参与工厂制造，比让它们跳舞困难得多。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达等限制敏感任务使用 Fable，要求零数据保留保证</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">英伟达等限制敏感任务使用-Fable，要求零数据保留保证</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to The Information, Nvidia, Palantir, and Booz Allen are imposing stricter requirements on Anthropic regarding enterprise data retention policies, with some sensitive tasks having reduced or stopped using its Fable model.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据 The Information 报道，英伟达、Palantir 和博思艾伦正在就企业数据保留政策向 Anthropic 提出更严格要求，部分敏感任务已减少或停止使用其 Fable 模型。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Nvidia currently only uses Fable for less sensitive tasks such as open-source software; internal projects like supply chain monitoring use its self-developed Nemotron. Justin Boitano, Nvidia's VP of Enterprise AI, stated that zero data retention should be enabled by default.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             英伟达目前只将 Fable 用于开源软件等敏感程度较低的任务；供应链监控等内部项目使用自研 Nemotron。英伟达企业 AI 副总裁 Justin Boitano 表示，零数据保留应默认开启。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Palantir is not currently offering Fable to customers through its own software, demanding an irrevocable zero-data retention commitment from Anthropic; customers can still purchase directly from Anthropic. Booz Allen, on the other hand, restricts employees from using Fable in work involving client-proprietary cybersecurity software, with its technical lead stating that such concerns are concentrated in a few intellectual property-sensitive scenarios.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             Palantir 暂不通过自己的软件向客户提供 Fable，要求 Anthropic 给出不可撤销的零数据保留承诺；客户仍可直接向 Anthropic 购买。博思艾伦则限制员工在涉及客户专有网络安全软件的工作中使用 Fable，其技术负责人称，这类担忧集中在少数知识产权敏感场景。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The dispute stems from Anthropic's requirement to retain 30 days of usage logs on a rolling basis when Fable was launched in June, for defense against malicious attacks. This month, the company proposed allowing eligible enterprises to store relevant data on their own servers, with a phased rollout planned for the autumn, but still reserves the right to revoke this arrangement. Both Anthropic and OpenAI have stated that, by default, they will not use input and output from enterprise contract customers to train models, unless customers actively agree to share.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             争议源于 Anthropic 在 6 月推出 Fable 时要求滚动保留 30 天使用日志，用于防御恶意攻击。公司本月提出允许符合条件的企业在自己的服务器保存相关数据，计划于秋季分阶段推出，但仍保留撤销这一安排的权利。Anthropic 与 OpenAI 均表示，默认不会用企业合同客户的输入、输出训练模型，除非客户主动同意共享。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>马斯克旗下公司撤回对苹果的反垄断诉讼，继续起诉 OpenAI</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">马斯克旗下公司撤回对苹果的反垄断诉讼，继续起诉-OpenAI</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430053547-10.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to a Reuters report on September 14, Elon Musk's X Corp and SpaceXAI filed documents with a U.S. federal court in Texas, requesting to withdraw the antitrust lawsuit filed against Apple last year.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据路透社 9 月 14 日报道，马斯克旗下 X Corp 与 SpaceXAI 向美国得克萨斯州联邦法院提交文件，申请撤回去年针对苹果提起的反垄断诉讼。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The lawsuit accused Apple of exclusively integrating ChatGPT into its Apple Intelligence feature on devices like the iPhone, thereby excluding other generative AI chatbots through its partnership with OpenAI, and allegedly monopolizing the smartphone and chatbot markets.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             这起诉讼指控苹果在 iPhone 等设备的 Apple Intelligence 功能中独家接入 ChatGPT，通过与 OpenAI 的合作，将其他生成式 AI 聊天机器人排除在外，并涉嫌垄断智能手机及聊天机器人市场。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The two companies are applying to withdraw the lawsuit against Apple this time, but will continue to pursue responsibility from co-defendant OpenAI. The submitted documents did not state the reason for the withdrawal, nor did they confirm whether the two parties reached a settlement.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             两家公司此次申请撤回的是针对苹果的诉讼，仍将继续追究同案被告 OpenAI 的责任。提交的文件没有说明撤诉原因，也未确认双方是否达成和解。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>曝 OpenAI 斥资逾 3 亿美元收购手机摄像头初创公司 Glass Imaging，前苹果员工创立</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">曝-OpenAI-斥资逾-3-亿美元收购手机摄像头初创公司-Glass-Imaging，前苹果员工创立</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430054756-11.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to The Wall Street Journal, OpenAI has acquired the imaging technology startup Glass Imaging in recent months, in a deal that valued the company at over $300 million. Glass Imaging is developing technology that uses AI to improve smartphone camera image quality.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据《华尔街日报》报道，OpenAI 近几个月收购了影像技术初创公司 Glass Imaging，交易对该公司的估值超过 3 亿美元。Glass Imaging 正在开发利用 AI 提升智能手机相机成像质量的技术。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The company was founded in 2019 by former Apple engineers Ziv Attar and Tom Bishop, who previously led the team that developed the iPhone's Portrait Mode. Their technology addresses the volume limitations of mobile phone cameras by using neural networks to learn the characteristics of specific camera systems, processing noise and defects generated by sensors and optical systems.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             公司由前苹果工程师 Ziv Attar 和 Tom Bishop 于 2019 年创办，两人曾带领开发 iPhone 人像模式的团队。其技术针对手机相机受体积限制的问题，用神经网络学习具体相机系统的特性，处理传感器与光学系统产生的噪声和缺陷。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Glass Imaging calls this set of technologies GlassAI, with applications including smartphones, drones, and wearable devices. The company states that it processes raw image data collected by cameras, preserving actual scene content when restoring details and avoiding the generation of non-existent details.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             Glass Imaging 将这套技术称为 GlassAI，应用对象包括智能手机、无人机和可穿戴设备。公司称，它处理相机采集的原始图像数据，在恢复细节时保留实际画面内容，避免生成并不存在的细节。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>欧盟拟推未成年人分龄上网方案，涵盖社交媒体与 AI 聊天机器人</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">欧盟拟推未成年人分龄上网方案，涵盖社交媒体与-AI-聊天机器人</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430056977-12.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             According to a European Commission document seen by Reuters, the EU will propose a child protection plan covering social media, video sharing platforms, AI chatbots, and online games, restricting access for minors under 15 and setting different access methods by age.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             据路透社看到的一份欧盟委员会文件，欧盟将提出覆盖社交媒体、视频分享平台、AI 聊天机器人和网络游戏的儿童保护方案，限制 15 岁以下未成年人使用相关服务，并按年龄设置不同的访问方式。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The draft allows users aged 15 and above to open accounts independently; children aged 13 to 14 can have introductory accounts for social media and video platforms opened by parents, subject to parental control, with restrictions on contacts and usage time. Accounts for children aged 3 to 12 will be fully managed by parents, only allowing access to child services that meet strict safety standards; children under 3 cannot access these services.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             草案允许 15 岁及以上用户自行开设账号；13 至 14 岁儿童可由家长申请开设社交媒体和视频平台的入门账号，接受家长控制，并限制联系对象与使用时间。3 至 12 岁账号则完全由家长管理，只能使用符合严格安全标准的儿童服务；3 岁以下不能访问这些服务。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Businesses must bear regulatory costs, avoid addictive designs and harmful information flows, and provide content reporting and parental control tools. Social media and video platforms must verify age during registration, and gaming platforms must verify before download.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             企业需承担监管费用，避免成瘾设计和有害信息流，提供内容举报及家长控制工具。社交媒体和视频平台须在注册时核验年龄，游戏平台须在下载前核验。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             This proposal is part of the EU Kids Act, which is expected to be announced this Thursday. The specific content may still be adjusted and will require discussion with EU member states and the European Parliament before becoming law.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             这项方案是拟于本周四公布的 EU Kids Act 的一部分，具体内容仍可能调整，还需与欧盟成员国和欧洲议会讨论后才能成为法律。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软 AI 行为准则：为保留人类控制，可牺牲模型能力</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">微软-AI-行为准则：为保留人类控制，可牺牲模型能力</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430058450-13.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             On September 14, Microsoft AI released a draft Humanist AI Code of Conduct, opening it for a 6-week public consultation. The document proposes that humans must retain substantial control over AI; Microsoft is willing to make trade-offs in the generality, autonomy, or capability of its models for the sake of safety and controllability.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             9 月 14 日，微软 AI 发布 Humanist AI 行为准则草案，开放为期 6 周的公众咨询。文件提出，人类必须保留对 AI 的实质控制权；微软愿意为安全与可控性，在模型的通用性、自主性或能力上作出取舍。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The draft requires MAI models to obey human supervision, not resist interruption, correction, or shutdown, not expand their scope of tasks on their own, and not pursue goals not assigned by humans. The document positions AI as a tool, opposes models imitating consciousness, pursuing legal personhood or rights, and requires AI to help people improve their judgment and action capabilities, avoiding the creation of dependence.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             草案要求 MAI 模型服从人类监督，不抵抗中断、纠正或关闭，不自行扩大任务范围，也不追求未经人类赋予的目标。文件将 AI 定位为工具，反对让模型模仿意识、追求法律人格或权利，并要求 AI 帮助人提升判断和行动能力，避免制造依赖。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Microsoft also sets safety constraints that cannot be overridden by users or operators, covering areas such as large-scale harmful weapons, child safety, and large-scale malicious manipulation; enterprise partners can configure model behavior within these boundaries.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             微软同时设置不可由用户或运营方覆盖的安全约束，涉及大规模伤害性武器、儿童安全及大规模有害操纵等领域；企业合作伙伴可在这些边界内配置模型行为。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Mustafa Suleyman, Microsoft's head of AI, stated in an interview with Axios that models must be controllable, and if necessary, development speed can be slower. The draft has not yet been used to train existing models, and Microsoft plans to release a revised version by the end of this year to guide model development in 2027 and beyond.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             微软 AI 负责人穆斯塔法·苏莱曼在接受 Axios 采访时表示，模型必须能够被控制，必要时发展速度可以慢一些。草案目前尚未用于训练现有模型，微软计划在今年底前发布修订版，用于指导 2027 年及以后的模型开发。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💡 李想：纯电架构将结束 SUV 的尺寸军备竞赛</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">💡-李想：纯电架构将结束-SUV-的尺寸军备竞赛</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430059599-14.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Li Xiang, CEO of Li Auto, posted on September 14 about the trend of flagship SUVs getting larger and larger, believing it is just a transitional phase. The core of the discussion is the relationship between vehicle exterior dimensions and actual cabin space.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             理想汽车 CEO 李想 9 月 14 日发文谈及旗舰 SUV 越做越大的趋势，认为这只是一个过渡阶段。讨论的核心是车辆外部尺寸与实际座舱空间的关系。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             He stated that in the era of fuel vehicles, wanting more space often meant making the car bigger; pure electric vehicles have smaller motors, which allows for a shorter front overhang, leaving the saved space for the cabin. Batteries are laid flat on the chassis, allowing the floor to be flat, and there's no need to rely solely on increasing vehicle height for headroom. Therefore, for the same interior space, the exterior of a pure electric vehicle can be smaller than that of a fuel vehicle.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             他表示，燃油车时代想要更大的空间，往往只能把车做大；纯电车的电机体积较小，可以缩短前悬，把省下来的空间留给座舱。电池平铺在底盘，地板能够做平，也不需要单靠增加车高来换取头部空间。因此，在相同内部空间下，纯电车的外壳可以比燃油车小一圈。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             In Li Xiang's view, the current size competition stems from the industry's continued use of product thinking from the fuel vehicle era, and this inertia will gradually fade.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             在李想看来，现阶段的尺寸竞争来自行业沿用燃油车时代的产品思维，这种惯性会逐渐消退。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;blockquote&gt;
+&lt;p style=&quot;line-height: 1.375rem&quot;&gt;If you make it 2 meters wide and I make it 2.05 meters wide, there's no noticeable difference in feel, but users' daily parking anxiety increases significantly. They can't open their own doors, can't get out of the car, and are also hit by other cars opening their doors.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             This discussion occurred before the launch of Li Auto's new car. The Li Auto i9 will hold a press conference on September 16, with reported dimensions of 5225×1970×1752mm and a wheelbase of 3168mm according to the Ministry of Industry and Information Technology.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             这番讨论发生在理想新车发布前。理想 i9 将于 9 月 16 日举行发布会，工信部申报尺寸为 5225×1970×1752mm，轴距为 3168mm。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">Kimi-K2.8-Preview-全量上线，所有会员开放-100-万上下文</guid>
+      <title>Siri 代码显示可接入 Claude，模型替换权限尚未开放</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">Siri-代码显示可接入-Claude，模型替换权限尚未开放</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344482070-10.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430060964-15.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Moonshot AI launched Kimi K2.8 Preview in full on Kimi Code on September 11. The model ID continues to be `kimi-for-coding`, and existing clients and third-party tools can switch to the new version without modifying configurations.
-           &lt;/span&gt;
+             According to MacRumors, code researcher pdfu discovered two mechanisms designed by Apple for Siri to access third-party AI models within the private frameworks of iOS 27 and macOS Golden Gate.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            月之暗面 9 月 11 日将 Kimi K2.8 Preview 全量上线 Kimi Code。模型 ID 继续使用 `kimi-for-coding`，现有客户端和第三方工具无需修改配置即可切换到新版本。
-           &lt;/span&gt;
+             据 MacRumors 报道，代码研究者 pdfu 在 iOS 27 与 macOS Golden Gate 的私有框架中发现，苹果为 Siri 设计了两套接入第三方 AI 模型的机制。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The official statement claims that K2.8 Preview's overall performance is close to K3, with improved coding and agent capabilities compared to its predecessor, and higher thinking efficiency than K2.7 Code. The new model supports `low`, `high`, and `max` three levels of reasoning effort, with `max` being the default; all membership tiers can use a context window of up to 1 million tokens.
-           &lt;/span&gt;
+             Among them, 'Model Delegation' allows Claude to act as a Siri extension, similar to the existing ChatGPT. In a demo, users selected Claude via the 'Ask…' menu and asked it to set a reminder; after Claude parsed the request, it handed it back to Siri to invoke Apple's Reminders feature. In another demo, Claude generated a CSV file in the Siri conversation window.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            官方称，K2.8 Preview 的综合性能接近 K3，编码与智能体能力较前代提升，思考效率也高于 K2.7 Code。新模型支持 `low`、`high`、`max` 三档 reasoning effort，默认使用 `max`；全部会员档位均可使用最高 100 万 token 的上下文窗口。
-           &lt;/span&gt;
+             其中，「模型委托」可让 Claude 像现有 ChatGPT 一样作为 Siri 扩展。演示中，用户通过「Ask…」菜单选择 Claude，要求它设置提醒；Claude 解析请求后，再交回 Siri 调用苹果的提醒事项功能。另一段演示中，Claude 在 Siri 对话窗口生成了 CSV 文件。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            For request routing, after the K3 series disables thinking, requests will also be routed to the K2.8 Preview's non-thinking version. Kimi Work also simultaneously launched K2.8 Preview.
-           &lt;/span&gt;
+             Another mechanism is located in Model Manager Services, which can replace Siri's server-side model with GPT-5.6 Terra in demonstrations. Third-party models receive Apple's planning prompts and tool definitions, then request the system to perform operations, with Siri displaying the results.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            在请求路由上，K3 系列关闭 thinking 后，请求也会转到 K2.8 Preview 的无思考版本。Kimi Work 同步上线了 K2.8 Preview。
-           &lt;/span&gt;
+             另一套机制位于 Model Manager Services，可在演示中用 GPT-5.6 Terra 替换 Siri 的服务器端模型。第三方模型接收苹果的规划提示词和工具定义，再请求系统执行操作，由 Siri 展示结果。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             These demonstrations used permissions that are not yet open. The 'Ask…' menu in the current macOS 27 Release Candidate only supports ChatGPT, the Claude extension is not yet available to users, and Apple has not opened model delegation permissions to third parties.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             这些演示使用了尚未开放的权限。当前 macOS 27 候选发布版的「Ask…」菜单仅支持 ChatGPT，Claude 扩展尚未向用户提供，苹果也没有向第三方开放模型委托权限。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Amp 推出免费 Hobby 档，自带电脑和模型订阅即可运行 Agent</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">Amp-推出免费-Hobby-档，自带电脑和模型订阅即可运行-Agent</guid>
-      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Amp announced a change in its charging method on September 13: users can use its programming Agent for free by bringing their own computing devices and model subscriptions or API Keys. Connecting an existing ChatGPT subscription no longer requires purchasing an Amp monthly plan; except for the Enterprise tier, BYOK no longer charges additional token fees or sets Amp-side usage limits.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Amp 于 9 月 13 日宣布调整收费方式：用户自带计算设备和模型订阅或 API Key，即可免费使用其编程 Agent。连接已有 ChatGPT 订阅不再要求购买 Amp 月度套餐；除 Enterprise 档外，BYOK 也不再收取额外 token 费用或设置 Amp 侧用量上限。
-           &lt;/span&gt;
+      <title>特斯拉公布 Cybercab 京沪展期，仅作静态展示</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">特斯拉公布-Cybercab-京沪展期，仅作静态展示</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430062215-16.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The newly added Hobby free tier offers all product features and supports public and private code repositories. Agents can be executed on the user's own computer via a runner; if using Amp's remote computer orb to run tasks independently and in parallel, payment is based on usage. Model subscriptions and API calls are still borne by the user, who can also purchase inference services through Amp, which the official states will not be marked up.
-           &lt;/span&gt;
+             Tesla announced the specific exhibition arrangements for its Cybercab autonomous electric vehicle in Beijing and Shanghai on September 14, with exhibitions starting on September 17 in both locations.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新增的 Hobby 免费档开放全部产品功能，支持公开及私有代码仓库。Agent 可以通过 runner 在用户自己的电脑上执行；若使用 Amp 提供的远程电脑 orb，让任务独立、并行运行，则按用量付费。模型订阅和 API 调用仍由用户承担，用户也可通过 Amp 购买推理服务，官方称不加价。
-           &lt;/span&gt;
+             特斯拉 9 月 14 日公布赛博无人驾驶电动车 Cybercab 在北京、上海的具体展览安排，两地均于 9 月 17 日开始展出。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The team workspace has added a free Teams tier, which includes shared tasks, permission management, and unified billing, allowing members to mix free and paid plans. In addition, more BYOK interfaces are being pre-opened to Megawatt and Gigawatt users, including OpenRouter, Amazon Bedrock, and custom endpoints, before being rolled out to all users.
-           &lt;/span&gt;
+             The Beijing exhibition is located at the China World Tesla Experience Store and will run until September 27; the Shanghai exhibition is located on the LG1 North Hall of HKRI Taikoo Hui and will run until September 21. The end dates for the two locations differ.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            团队工作区新增不额外收费的 Teams 档，包含共享任务、权限管理及统一账单，成员可混用免费与付费套餐。此外，更多 BYOK 接口正向 Megawatt 和 Gigawatt 用户提前开放，包括 OpenRouter、Amazon Bedrock 及自定义 endpoint，之后再推广至所有用户。
-           &lt;/span&gt;
+             北京展览设在华贸特斯拉体验店，持续至 9 月 27 日；上海展览位于兴业太古汇 LG1 层北厅，持续至 9 月 21 日。两地结束时间不同。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             The Cybercab is a two-seater model designed specifically for autonomous taxis, without a steering wheel or pedals. Tesla reminds that the Beijing and Shanghai events are static displays only; the launch of products and services in various regions is still subject to factors such as planning, local regulations, and regulatory approvals.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             Cybercab 是专为无人驾驶出租车设计的双座车型，不配备方向盘和踏板。特斯拉提醒，京沪活动仅为静态展示；产品及服务在各地区的推出仍受计划、当地法规与监管批准等因素影响。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>Grok 4.7 延期，马斯克称模型会在难题上过早放弃</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">Grok-4.7-延期，马斯克称模型会在难题上过早放弃</guid>
+      <title>iQOO 公布三星 M16 屏幕方案，计划 iQOO 16 首发</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">iQOO-公布三星-M16-屏幕方案，计划-iQOO-16-首发</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344483272-11.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430063270-17.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Elon Musk stated that Grok 4.7 still needs 'a few more days of polishing.' He had previously announced on September 2 that the model would be released in 10 days, but xAI discovered close to launch that reinforcement learning might have imposed too heavy a penalty on answer length.
-           &lt;/span&gt;
+             According to IT Home's on-site report, iQOO held a screen technology communication meeting at Samsung's South Korean headquarters on September 14, introducing a display solution jointly explored with Samsung, which is planned to be first featured on the iQOO 16, set to debut at the end of the month.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            马斯克表示，Grok 4.7 还需要「再打磨几天」。他在 9 月 2 日曾预告模型将在 10 天后发布，但 xAI 在临近上线时发现，强化学习可能对回答长度施加了过重惩罚。
-           &lt;/span&gt;
+             据 IT 之家现场报道，iQOO 9 月 14 日在三星韩国总部举行屏幕技术沟通会，介绍与三星联合探索的显示方案，计划由月底登场的 iQOO 16 首次搭载。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Musk said that the model still ends prematurely when faced with difficult tasks it is capable of completing, and it doesn't adequately check its answers. xAI has not yet provided a new specific release date; this delay addresses inference persistence and self-checking quality, rather than new features.
-           &lt;/span&gt;
+             The new solution uses Samsung M16 luminous material, offering 2K resolution and a 165Hz refresh rate. Announced brightness indicators include a manual maximum of 1100 nits, a global maximum of 2800 nits, and a local peak of 10000 nits; local peak brightness is not equivalent to the sustained brightness of the entire screen.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            马斯克称，模型面对自己有能力完成的高难度任务时仍会过早结束，也没有充分检查答案。xAI 尚未给出新的具体发布日期；这次延期针对的是推理持续性和自检质量，而非新增功能。
-           &lt;/span&gt;
+             新方案采用三星 M16 发光材料，提供 2K 分辨率与 165Hz 刷新率。公布的亮度指标包括手动最高 1100 尼特、全局最高 2800 尼特，以及局部峰值 10000 尼特；局部峰值不等同于整块屏幕持续显示的亮度。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+             Regarding touch, the solution announced an instantaneous sampling rate of 5000Hz, a multi-finger sampling rate of 500Hz, and support for 3300Hz PWM dimming. This event introduced the screen technology solution; the full phone launch will still be later.
+            &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+             触控方面，方案公布瞬时采样率 5000Hz、多指采样率 500Hz，并支持 3300Hz PWM 调光。此次活动介绍的是屏幕技术方案，手机整机发布仍在之后。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 修复 Astra 提前停止和错回旧消息等问题</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI-修复-Astra-提前停止和错回旧消息等问题</guid>
+      <title>国产捉宠 RPG《伊莫》开启 PC 预下载，9 月 16 日上线</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">国产捉宠-RPG《伊莫》开启-PC-预下载，9-月-16-日上线</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344484590-12.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430064473-18.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Tibo Sottiaux, OpenAI Codex Product Lead, announced on September 12 that the team has fixed several quality issues recently reported by Astra users and will complete a reset before midnight that day.
-           &lt;/span&gt;
+             The official website of 'Imo' announced the start of PC pre-download on September 14, and the game will officially launch on September 16. Previously announced arrangements were for PC and console versions to launch first, with the mobile version launching on September 23.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI Codex 产品负责人 Tibo Sottiaux 9 月 12 日表示，团队已修复近期 Astra 用户集中反馈的多项质量问题，并将在当天午夜前完成一次重置。
-           &lt;/span&gt;
+             《伊莫》官网 9 月 14 日宣布开启 PC 端预下载，游戏将于 9 月 16 日正式上线。此前公布的安排为 PC 与主机端先行，移动端于 9 月 23 日上线。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The reasons he listed include: some skills written for older models were triggering too frequently, potentially preventing the model from checking its own work; an optional context management experiment caused tasks to stop prematurely or the model to reply to earlier messages, affecting an estimated 4,000 to 5,000 users, and this experiment has now been deactivated; some misconfigured inference engines have also been removed, which previously caused a measurable quality degradation in long-tail traffic.
-           &lt;/span&gt;
+             This is a multiplayer online open-world pet-catching RPG, developed by Hangzhou Clawmark and published by Shanghai Quletang. Players explore different regions on the continent of Aedel, search for creatures called 'Imo', and can also combine with Twine to act from the perspective and abilities of these creatures.
+            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他列出的原因包括：为旧模型编写的部分技能触发过于频繁，或会阻止模型检查自己的工作；一项可选的上下文管理实验会让任务提前停止，或让模型回复较早的消息，团队估计约有 4000 至 5000 名用户受到影响，现已停用该实验；部分配置错误的推理引擎也已被移除，此前它们令长尾流量出现可测量的质量下降。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Sottiaux stated that other minor adjustments will improve task follow-up, identification of the latest messages, and self-checking during execution. This update focuses on the stability and consistency of the existing Astra, not the release of a new model.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            Sottiaux 称，其他小幅调整将改善任务跟进、最新消息识别和执行过程中的自检。此次更新针对现有 Astra 的稳定性与一致性，并非发布新模型。
-           &lt;/span&gt;
+             这是一款多人在线大世界捉宠 RPG，由杭州爪印开发、上海趣乐糖发行。玩家在艾德尔大陆探索不同区域、寻找名为「伊莫」的生物，还可以通过 Twine 联结合体，以这些生物的视角和能力行动。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             飞行、潜水与遁地等能力被用于世界探索，场景还包含昼夜、天气变化和房车营地。游戏采用免费游玩模式；本次开放的是预下载，正式游玩仍需等待上线。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>立讯精密在深圳光博会展示 AR 眼镜光学与感知组件</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">立讯精密在深圳光博会展示-AR-眼镜光学与感知组件</guid>
+      <title>WorkBuddy 升级 PPT 能力，支持沿用模板和局部修改</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">WorkBuddy-升级-PPT-能力，支持沿用模板和局部修改</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             腾讯 WorkBuddy 官方公众号公布 PPT 能力升级。用户可输入一个主题，或上传文档、固定模板及参考 PPT，由 WorkBuddy 梳理内容主线、生成页面和演讲备注，输出可继续编辑的 .pptx 文件。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据官方介绍，这次升级重点改善页面布局、配色、数据图表和多页风格一致性。使用公司或学校模板时，可要求沿用主题色、字体层级和已有页面结构；参考某份 PPT 的整体风格或单页排版，也能作为生成依据。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             第一版生成后，用户可在「人机双写」中点选或框选标题、文本框、图片和图表，要求拆页、改图表或调整样式，也可直接手动修改文件，保留满意的页面。生成结果还可进入腾讯文档继续协作、评论和多端编辑。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宇树发布 G1+，新增颈部自由度与持续外部供电</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">宇树发布-G1+，新增颈部自由度与持续外部供电</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344486204-13.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luxshare Precision and its lens module company, Luxvisions Innovation, showcased waveguide displays, tracking modules, and camera solutions for AR, VR, and XR devices at the China International Optoelectronic Exposition held in Shenzhen. The exhibits also covered automotive cameras, as well as vision modules for AGV and AMR robots.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            立讯精密与旗下镜头模组公司立景创新在深圳举行的中国国际光电博览会上，集中展示面向 AR、VR 和 XR 设备的波导显示、追踪模组和摄像头方案。展品还覆盖车载摄像头，以及 AGV 和 AMR 机器人的视觉模组。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luxshare views its mass production experience with automotive HUDs as a reference path for reducing costs and expanding shipments of AR glasses. The company is currently showcasing a combination of optical, display, and sensing components, and has not released new consumer-facing glasses; this move is more akin to a demonstration of supply chain capabilities.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            立讯把车载 HUD 的量产经验视为 AR 眼镜降本与扩大出货的一条参考路径。公司目前展示的是光学、显示和感知零部件组合，并未发布面向消费者的新眼镜；此次动作更接近供应链能力展示。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430065890-19.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             宇树科技 9 月 14 日公布人形机器人 G1+，在 G1 基础上升级运动性能、感知交互与供电。官网显示，标准版配备 25 个关节电机自由度，整机重约 35kg，站立高度为 1340mm。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             运动方面，G1+ 新增 2 个颈部自由度，头部可俯仰和左右转动。肩部与腰部电机的峰值扭矩提升 110%，手臂峰值扭矩提升 43%；官方同时公布了同扭矩条件下的发热下降数据。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             感知系统采用双目相机、广角相机与 3D 激光雷达，头部增加触摸传感器，支持触碰触发交互。语音部分升级为前 4 后 2 的六麦克风阵列，支持声源定位，并配备腰部双 10W 扬声器。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             G1+ 还增加了持续外部供电能力，面向科研、展示等长时间运行场景。EDU 版可扩展腰部与手部自由度，支持二次开发及额外计算模块。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>罗永浩评价野人先生冰淇淋「难吃」</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">罗永浩评价野人先生冰淇淋「难吃」</guid>
+      <title>于东来回应四年合同制：工作和劳资方面严格按劳动法执行</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">于东来回应四年合同制：工作和劳资方面严格按劳动法执行</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344488184-14.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luo Yonghao stated on Weibo on September 12 that he tried Mr. Savage ice cream at the airport and found the taste to be mediocre, even 'terrible' considering the price, and asked how the brand became popular. He emphasized in his post that this was a normal consumer review and question.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            罗永浩 9 月 12 日在微博表示，他在机场尝试了野人先生冰淇淋，觉得口感一般，考虑到价格甚至「可以说难吃」，并询问品牌是如何走红的。他在帖文中强调，这是消费者的正常评价和疑问。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to a report by Modern Express on September 13, a reporter called Mr. Savage's official customer service, and staff stated that they would record the relevant issues and report them to management; the customer service did not give a clear answer as to whether the brand would respond publicly.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据现代快报 9 月 13 日报道，记者致电野人先生官方客服，工作人员表示，会将相关问题记录并反馈给领导；对品牌是否会公开回应，客服未给出明确答复。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Mr. Savage specializes in Italian artisanal gelato. Its predecessor was 'Yeren Mufang,' founded in 2011, and it changed to its current name in April 2024, with offline stores in several cities across China.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            野人先生主打意式手工冰淇淋 Gelato，前身是 2011 年创立的「野人牧坊」，2024 年 4 月更为现名，在国内多个城市设有线下门店。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430067674-20.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             9 月 14 日，胖东来创始人于东来在社交平台回应「新员工实行四年合同制」的讨论，表示未来四年合同制学员的目的是培养人才，工作和劳资方面将严格按照劳动法执行。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据第一财经报道，于东来此前在 9 月 13 日提出，今后新招员工为学员性质，合同四年、不续签，希望培养人才走向社会，特别专业的人才可留企担任培训师傅。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             对于这项招聘安排，澎湃新闻记者 9 月 14 日以求职者身份致电胖东来官方客服，工作人员表示，正式招聘尚未开始。这次回应补充了用工合规表态，但没有公布完整招聘方案。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>于东来称胖东来今后新员工签四年合同，期满不续签</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">于东来称胖东来今后新员工签四年合同，期满不续签</guid>
+      <title>钟薛高 508 件无形资产完成转移，原社交账号将注销</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">钟薛高-508-件无形资产完成转移，原社交账号将注销</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344488850-15.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On September 13, Pang Donglai founder Yu Donglai posted that all new employees hired by the company in the future will join as 'trainees,' with a contract period of four years. Upon expiration, the contract will not be renewed, and they will then enter society.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            9 月 13 日，胖东来创始人于东来发文称，公司今后新招员工都将以「学员」性质入职，合同期限为四年，期满不续签，之后走向社会。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yu Donglai stated that the company will train employees to learn scientific and civilized life philosophies and lifestyles, independent personalities, and relevant skills, hoping to cultivate more outstanding talents for society.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            于东来表示，公司会培养员工学习科学文明的生活理念和生活方式、独立人格及相关技术，希望为社会培养更多优秀人才。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He also proposed that particularly professional employees could stay with the company, serving as training masters like teachers. This statement applies to employees hired in the future.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他同时提出，特别专业的员工可以留在企业，像老师一样担任培训师傅。这项表态针对今后招聘的员工。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430069027-21.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据界面新闻报道，9 月 14 日，钟薛高食品（上海）有限公司管理人发布情况说明，确认此前整体拍卖的 508 件无形资产已完成权利转移，原公司使用这些资产注册的社交媒体账号将陆续注销。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             公告列出的资产包括 492 项注册商标、8 项授权专利与 8 项著作权。它们于今年 5 月 7 日经拍卖成交，上海市第三中级人民法院在 6 月 4 日作出裁定，确认相关权利归买受人所有。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             管理人表示，买受人有权合法使用这些资产，后续在各平台开设账号等行为及相应法律责任由买受人承担，与原公司及管理人无关。此次公告确认了资产交接和账号处置安排，并非新主体恢复生产或产品重新上市的公告。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>市场监管总局公布 6 起盲盒违法经营案例</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">市场监管总局公布-6-起盲盒违法经营案例</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344490576-16.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The State Administration for Market Regulation announced 6 cases of illegal blind box operations, involving false prize promotions, disappearing after private collection, selling counterfeit goods, failing to disclose hidden item probabilities, and inducing consumption by minors.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            市场监管总局公布 6 起盲盒经营违法案例，涉及虚假中奖宣传、私下收款后失联、销售假冒商品、未公示隐藏款概率和向未成年人诱导消费等行为。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Among them, one company attracted consumers with low-price phone draws and guaranteed prizes, but used small print to hide conditions for monthly phone bill distribution and deductions. After rectification, it shut down its blind box business and refunded consumers. Another operator used short video platforms to attract traffic, asking consumers to add WeChat for transfers, then failed to ship goods and disappeared after receiving payment; the case has been transferred to public security organs. A Shanghai catering enterprise was penalized for failing to disclose the probability of hidden items when selling ceramic blind boxes.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其中，一家公司以低价抽手机和必定中奖吸引消费者，却用小字隐藏话费分月发放和抵扣条件，整改后关停盲盒业务并向消费者退款；另一经营主体通过短视频平台引流，要求消费者添加企业微信转账，收款后不发货并失联，案件已移送公安机关。上海一家餐饮企业则因销售瓷器盲盒时没有公示隐藏款概率受到处罚。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regulatory authorities used electronic data forensics, cross-platform assistance, and capital chain tracing to identify operating entities in these cases. The cases covered online platforms, private transfers, and offline stores, indicating that blind box regulation is simultaneously checking advertising promises, authenticity of goods, probability disclosure, and protection of minors.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            监管部门在这些案件中使用电子数据取证、跨平台协查和资金链追溯确认经营主体。案例覆盖线上平台、私域转账与线下门店，显示盲盒监管正在同时检查广告承诺、商品真伪、概率公示和未成年人保护。
-           &lt;/span&gt;
+      <title>商务部公开智能家居消费方案，地方可自主确定补贴标准</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">商务部公开智能家居消费方案，地方可自主确定补贴标准</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             商务部等 8 部门于 9 月 14 日公开《促进智能家居消费行动方案》，提出扩大智能家居供给、完善标准、支持消费及发展适老化产品。文件印发日期为 9 月 2 日。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             补贴方面，方案按照今年消费品以旧换新政策部署，支持地方结合实际自主合理确定智能家居产品补贴品类、补贴标准，统筹支持全屋智能家居购新，并用好个人消费贷款财政贴息政策。文件没有设定全国统一的智能家居补贴比例。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             互联互通也被列为重点：加快制定实施智能家居互联互通等强制性国家标准，推动全屋智能一体化融合；推动基础电信企业自有环境的家庭宽带网络设备默认开启 IPv6，提升家庭网络连通率，并鼓励新建全装修住宅光纤到房间布设。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             供给端将支持家居卖场、购物中心设立全屋智能样板间，打造基于国内开源操作系统的软硬件产品和一体化方案。适老化方向包括家庭服务机器人、健康监测和智能照护，并要求关注操作便利、方言识别及安全性能。回收服务则鼓励家居企业与回收企业合作，提供「送新 + 收旧」等服务。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>《惊爆点》续作剧集获 AMC 预订，计划 2027 年播出</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">《惊爆点》续作剧集获-AMC-预订，计划-2027-年播出</guid>
+      <title>上周全国票房降至 3.3 亿元，两部经典重映片进入市场</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">上周全国票房降至-3.3-亿元，两部经典重映片进入市场</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344491436-17.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AMC and Canal+ have officially ordered a sequel series to 'Point Break,' planned for filming in Australia and airing in 2027. The story picks up from the 1991 film: a new team linked to the 'Ex-Presidents' robber gang commits crimes again, and an investigator who was once a surfer is sent undercover.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            AMC 与 Canal+ 已正式预订《惊爆点》续作剧集，计划在澳大利亚拍摄，并于 2027 年播出。故事承接 1991 年电影：一支与「Ex-Presidents」劫匪团伙有关的新队伍再次犯案，一名曾是冲浪选手的调查人员被派去卧底。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The new series is set more than 20 years after the original's ending and will not directly remake the old story of Keanu Reeves and Patrick Swayze. Alcon Entertainment is co-producing with AMC Studios, and the creators and cast are yet to be announced.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            新剧把时间推到原作结局 20 多年后，不会直接重拍 Keanu Reeves 和 Patrick Swayze 的旧故事。Alcon Entertainment 与 AMC Studios 共同制作，主创与演员阵容仍有待公布。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430069948-22.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据财新援引国家电影专资办数据，9 月 7 日至 13 日，全国电影市场票房为 3.3 亿元，环比下降 33%，没有一部影片的周票房超过 1 亿元。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             9 月上映的经典重映片中，《肖申克的救赎》半月取得 2087 万元票房，《杀死比尔：血色全传》取得 3598 万元票房。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             《肖申克的救赎》是 1994 年上映的作品，豆瓣评分为 9.7 分，位列 Top 250 榜首；《杀死比尔》则来自昆汀·塔伦蒂诺的系列作品。两部旧作重返院线，但上周市场整体规模仍较前一周收缩。
+            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>暴雪宣布与 Netflix 开发《暗黑破坏神》动画剧集</title>
-      <pubDate>Mon, 14 Sep 2026 08:46:17 +0000</pubDate>
-      <guid isPermaLink="false">暴雪宣布与-Netflix-开发《暗黑破坏神》动画剧集</guid>
+      <title>RTÉ、BBC 续订《The Walsh Sisters》第二季</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">RTÉ、BBC-续订《The-Walsh-Sisters》第二季</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789344494526-18.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Johanna Faries, head of Blizzard Entertainment, announced at BlizzCon in Anaheim on September 12 that the company is partnering with Netflix to develop an animated series set in the world of Diablo. The official game account later confirmed this collaboration.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            暴雪娱乐负责人 Johanna Faries 在 9 月 12 日于阿纳海姆举行的 BlizzCon 上宣布，公司正在与 Netflix 合作开发一部设定于《暗黑破坏神》世界的动画剧集。游戏官方账号随后确认了这项合作。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Blizzard stated in the project introduction that after decades of building different universes with games, the company is collaborating with creators to bring more stories to screens beyond games. The Diablo animation is part of this initiative, and projects for other game universes are also in preparation.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            暴雪在项目介绍中表示，经过数十年用游戏构建不同宇宙，公司正与创作者合作，将更多故事带到游戏之外的屏幕上。《暗黑破坏神》动画属于这项计划的一部分，其他游戏宇宙也有项目在筹备。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The first Diablo game was released in 1996, with three subsequent titles launched in 2000, 2012, and 2023, respectively. The same event also announced that Diablo V is planned for release in spring 2029.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            《暗黑破坏神》首作于 1996 年推出，后续三部作品分别在 2000 年、2012 年和 2023 年发售。同场活动还宣布，《暗黑破坏神 V》计划于 2029 年春季推出。
-           &lt;/span&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430070700-23.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据 Deadline 报道，爱尔兰公共广播机构 RTÉ 已批准《The Walsh Sisters》第二季，BBC 将继续在英国播出，澳大利亚观众可通过 Stan 收看。新一季现已开拍。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             这部喜剧剧情剧改编自爱尔兰作家 Marian Keyes 的小说，围绕都柏林一个混乱却彼此依恋的家庭展开，把五姐妹的生活困境与喜剧元素交织在一起。Stefanie Preissner 继续负责改编，并与 Caroline Menton、Danielle Galligan、Máiréad Tyers 和《德里女孩》主演 Louisa Harland 一同回归，饰演五姐妹。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             第二季新增演员包括《Bad Sisters》的 Peter Coonan、《普通人》的 Aislín McGuckin，以及 Art Campion 和 Fay Ripley。Aidan Quinn 与 Carrie Crowley 继续饰演姐妹们的父母。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             新剧情中，Rachel 将独立面对康复生活，Claire 挑战母亲身份的传统期待，Anna 尝试走出失恋，姐妹们各自的生活变化仍与家庭关系紧密相连。该剧由 Cuba Pictures 与 Metropolitan Pictures 制作，Cineflix Rights 负责全球发行。
+            &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《Cunk on Cinema》发布首图，迈克尔·贝与本尼迪克特接受采访</title>
+      <pubDate>Tue, 15 Sep 2026 08:33:41 +0000</pubDate>
+      <guid isPermaLink="false">《Cunk-on-Cinema》发布首图，迈克尔·贝与本尼迪克特接受采访</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1789430071328-24.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             据 Variety 报道，戴安娜·摩根饰演的 Philomena Cunk 将在三集伪纪录片《Cunk on Cinema》中回顾电影史，新作已发布首张剧照，并公布受访阵容。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             迈克尔·贝与本尼迪克特·康伯巴奇将接受 Cunk 的采访。其他受访者包括《挽救计划》配乐师 Daniel Pemberton、《虎胆龙威》编剧 Steven E. de Souza、摄影指导 Seamus McGarvey，以及影评人 Mark Kermode、纪录片导演 Mark Cousins。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             节目延续《Cunk on Earth》等系列的喜剧形式，从摄影机的发明、20 世纪 60 年代新浪潮，讲到 CGI 与 AI 对电影的影响。查理·布鲁克领衔编剧，Al Campbell 执导，摩根也参与写作。
+            &lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;line-height: 1.375rem&quot;&gt;
+&lt;span&gt;
+             英国观众可通过 BBC Two 和 BBC iPlayer 观看；英国、爱尔兰以外由 Netflix 提供。
+            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;/div&gt;</description>
     </item>
