@@ -2,495 +2,692 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Daily News</title>
-    <lastBuildDate>Mon, 28 Sep 2026 09:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:41:05 +0000</lastBuildDate>
     <item>
-      <title>曝苹果重新评估 Vision Pro 路线，测试更轻机型</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">曝苹果重新评估-Vision-Pro-路线，测试更轻机型</guid>
+      <title>苹果推送 iOS 27.0.1，修复 iPhone 18 Pro 面容 ID 卡死 bug</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">苹果推送-iOS-27.0.1，修复-iPhone-18-Pro-面容-ID-卡死-bug</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554906184-1.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641211936-1.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Bloomberg reporter Mark Gurman reported in the latest &quot;Power On&quot; that Apple is re-evaluating the follow-up products to Vision Pro. 9to5Mac, citing the report, pointed out that the new project, internally codenamed N224, is still in its early stages and may be launched in late 2028 to early 2029; the team is currently testing various form factor solutions, and the final design has not yet been determined.
+            First Financial Daily learned after contacting Apple customer service on September 28 that Apple has received user feedback regarding the iPhone 18 Pro series freezing and restarting during Face ID verification. The issue has been submitted to the engineering department for investigation, and an official new system update has been pushed out to fix it.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            彭博记者 Mark Gurman 在最新的《Power On》中报道，苹果正在重新评估 Vision Pro 后续产品。9to5Mac 援引该报道指出，苹果内部代号为 N224 的新项目仍处于早期，可能在 2028 年末至 2029 年初推出；团队目前测试多种外形方案，最终设计尚未确定。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            One solution continues to adopt an all-in-one form factor similar to the current Vision Pro, while attempting to reduce weight using plastic, titanium, and other materials; another solution places the computing unit and battery in an external module, similar to Meta's new VR Glasses.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            其中一种方案继续采用接近现款 Vision Pro 的一体式外形，同时尝试用塑料、钛和其他材料减重；另一种方案把计算单元和电池放进外置模块，接近 Meta 新 VR Glasses 的做法。
+            第一财经 9 月 28 日联系苹果客服后获悉，苹果已收到 iPhone 18 Pro 系列在面容 ID 验证时卡住、重启的用户反馈，问题已提交工程部门调查，目前，官方已推送新版系统修复。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The report also mentioned that some Apple executives prefer to retain the integrated design. The N100 project, previously known as Vision Air, has been shelved, and N224 is not necessarily a low-cost model.
-           &lt;/span&gt;
+&lt;span data-path-to-node=&quot;6,1,1,0,0&quot;&gt;
+             Apple subsequently officially pushed a system update to the iPhone 18 Pro series today, and the update log shows that the issue of unexpected restarts during Face ID verification has been fixed
+            &lt;/span&gt;
+&lt;span data-path-to-node=&quot;6,1,1,0,2&quot;&gt;
+             .
+            &lt;/span&gt;
+&lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道也提到，苹果部分高管倾向保留一体式设计。此前被称为 Vision Air 的 N100 项目已搁置，N224 并不一定是低价款。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
-&lt;img alt=&quot;大公司&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/da_gong_si.png&quot;/&gt;
-&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>洛图：8 月中国笔电线上销量降 20.8%，苹果与小米份额上升</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">洛图：8-月中国笔电线上销量降-20.8%，苹果与小米份额上升</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554908246-2.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;span data-path-to-node=&quot;6,1,1,0,0&quot;&gt;
+             苹果随后于今日向 iPhone 18 Pro 系列正式推送了系统更新，更新日志显示已修复面容 ID 验证时意外重启的问题
+            &lt;/span&gt;
+&lt;span data-path-to-node=&quot;6,1,1,0,2&quot;&gt;
+             。
+            &lt;/span&gt;
+&lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the monthly tracking report released by Lotu Technology on September 27, China's online omni-channel (excluding official enterprise platforms) sales of laptop computers in August 2026 were 1.223 million units, a year-on-year decrease of 20.8%; sales value decreased by 11.1% year-on-year. The average transaction price for the month was 7,885 yuan, a year-on-year increase of 12.3%. Lotu believes that the transaction structure is shifting towards mid-to-high-end products, widening the gap between the decline in sales volume and sales value.
+            9to5Mac previously reproduced the bug on an iPhone 18 Pro: when using Face ID to unlock the &quot;Passwords&quot; app and covering the face, the phone stopped responding and restarted after attempting verification again. This type of bug occurs in scenarios such as unlocking protected apps, but does not seem to be triggered by ordinary lock screen unlocking; the scope of impact is still unclear.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            洛图科技 9 月 27 日发布的月度追踪报告显示，2026 年 8 月中国笔记本电脑线上全渠道（不含企业官方平台）销量为 122.3 万台，同比下降 20.8%；销额同比下降 11.1%。当月成交均价为 7885 元，同比上涨 12.3%。洛图认为，成交结构向中高端产品移动，拉大了销量与销额跌幅的差距。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of brands, Lenovo series still ranked first with a 34.3% sales share. Apple's share increased by 3.7 percentage points year-on-year, reaching 9.6%; Xiaomi series increased by 2 percentage points. Lotu pointed out that some brands' low-end product lines have experienced phased suspensions of updates. The above are all data from its monitored online retail market, not including official brand platforms or all offline sales.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            品牌方面，联想系仍以 34.3% 的销量份额居首。苹果份额同比增加 3.7 个百分点，达到 9.6%；小米系增加 2 个百分点。洛图指出，部分品牌低端产品线出现阶段性停更。以上均为其监测的线上零售市场数据，不包含品牌官方平台或全部线下销售。
+            9to5Mac 曾在一台 iPhone 18 Pro 上复现故障：使用面容 ID 解锁「密码」App 时遮挡面部，再次尝试验证后，手机停止响应并重启。这类故障发生在解锁受保护的 App 等场景，普通锁屏解锁似乎不会触发；受影响范围尚不明确。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">苹果触觉反馈专利案被裁赔-57-亿美元，称将上诉</guid>
+      <title>Manus 发布 2.0，新增独立个人智能体应用 Cue</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">Manus-发布-2.0，新增独立个人智能体应用-Cue</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554909032-3.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641213439-2.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to Reuters, a federal jury in San Diego, USA, ruled that Apple's Taptic Engine infringed two haptic feedback patents held by Taction Technology, ordering Apple to pay over $5.7 billion. The technology in question is used for vibration feedback in iPhones and Apple Watches. The jury did not find Apple guilty of willful infringement; this ruling also does not mean that the appeal process has concluded.
+            Manus released version 2.0 on September 28, with updates including the agent runtime framework Cascade, purchasable cloud PCs, event-triggered automation support, and the desktop workspace Manus Studio. The company stated that in a test configuration, Cascade used 23.2% fewer tokens and reduced task time by 28.2% compared to the previous system; this result comes from Manus's self-testing.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据路透社报道，美国圣地亚哥联邦陪审团裁定，苹果的 Taptic Engine 侵犯 Taction Technology 持有的两项触觉反馈专利，判赔超过 57 亿美元。涉案技术用于 iPhone 和 Apple Watch 的振动反馈。陪审团没有认定苹果属于故意侵权；这一裁决也并不等于上诉程序已结束。
+            Manus 9 月 28 日发布 2.0 版，更新包含智能体运行框架 Cascade、可购买的云电脑、支持事件触发的自动化，以及桌面工作区 Manus Studio。公司称，在一项测试配置中，Cascade 比此前系统少用 23.2% 的 token，任务耗时减少 28.2%；这一结果来自 Manus 自测。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Apple responded, stating that its Taptic Engine is fundamentally different from Taction's technology and announced that it would appeal. Taction's lawyers stated that the jury upheld the company's patent rights. Taction sued Apple in 2021; the case had previously received a summary judgment in Apple's favor in 2023, but was later remanded for further proceedings by the Federal Circuit Court of Appeals.
+            The newly launched Cue is an independent personal agent application for mobile and desktop. According to Manus, users can configure independent email, phone numbers, wallets, and computers for each agent, allowing them to process messages, answer calls, and make payments within user-defined budgets. Manus Studio provides creative environments for documents, spreadsheets, websites, code, and videos, and the video editor allows users to directly modify agent-generated timelines and materials.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            苹果回应称，其 Taptic Engine 与 Taction 的技术有根本区别，并表示将上诉。Taction 的代理律师则表示，陪审团维护了该公司的专利权。Taction 于 2021 年起诉苹果；案件曾在 2023 年获得对苹果有利的简易判决，之后由联邦巡回上诉法院发回继续审理。
+            新推出的 Cue 是面向手机和桌面的独立个人智能体应用。按照 Manus 的介绍，用户可为每个智能体配置独立的邮箱、电话号码、钱包和电脑，使其处理消息、接听电话并在用户设定的预算内付款。Manus Studio 则提供文档、表格、网站、代码及视频等创作环境，视频编辑器允许用户直接修改智能体生成的时间线和素材。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            🔗 Related reading:
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA&quot;&gt;
+             Breaking: Manus &quot;escapes danger,&quot; delivers latest 2.0 version
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            🔗 相关阅读：
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA&quot;&gt;
+             突发：Manus「虎口脱险」，交出 2.0 版最新答卷
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD 宣布以 82 亿美元股票收购 World Labs，李飞飞将任首席科学家</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">AMD-宣布以-82-亿美元股票收购-World-Labs，李飞飞将任首席科学家</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641214511-3.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            AMD announced on September 28 that it has signed a definitive agreement to acquire World Labs, founded by Fei-Fei Li. The transaction, valued at approximately $8.2 billion and paid in stock, is expected to close by the end of 2026, subject to regulatory approvals and other conditions. After the transaction, Fei-Fei Li will serve as AMD's Executive Vice President and Chief Scientist, reporting to CEO Lisa Su.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            AMD 9 月 28 日宣布，已签署收购李飞飞创办的 World Labs 的最终协议。交易以股票支付，估值约 82 亿美元，预计在监管批准等条件满足后于 2026 年底前完成。交易结束后，李飞飞将出任 AMD 执行副总裁兼首席科学家，向 CEO 苏姿丰汇报。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            World Labs develops spatial intelligence models that can generate, reconstruct, and simulate interactive 3D environments based on text, images, and videos, and also conducts research in robot learning and simulation. AMD stated that the acquisition will give its chip and system teams a more direct understanding of the computing power requirements of models in inference, robotics, and physical AI scenarios; the World Labs team will continue to engage in model research.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            World Labs 研发空间智能模型，可根据文字、图像和视频生成、重建及模拟可交互的 3D 环境，也研究机器人学习与仿真。AMD 称，收购将让芯片和系统团队更直接地了解模型在推理、机器人及物理 AI 场景中的算力需求；World Labs 团队将继续从事模型研究。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            🔗 Related reading:
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/XarcyKrn9cGamQgtzXVxyw&quot;&gt;
+             Just now, Lisa Su bought Fei-Fei Li's world model for 55 billion yuan, two queens of the AI circle have teamed up
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            🔗 相关阅读：
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/XarcyKrn9cGamQgtzXVxyw&quot;&gt;
+             刚刚，苏妈550亿元买下李飞飞世界模型，AI 圈两位女王联手了
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Sonnet 5.5，称生成速度提升逾三成</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">Anthropic-发布-Claude-Sonnet-5.5，称生成速度提升逾三成</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641216284-4.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic launched Claude Sonnet 5.5 on September 28, as the second model in the Claude 5.5 series after Opus 5.5. The company stated that the new model's output speed is over 30% faster than Sonnet 5, and the cost of completing similar tasks in its tests is reduced by up to 30%, while the API input and output unit prices per million tokens remain the same as the previous generation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 9 月 28 日推出 Claude Sonnet 5.5，作为 Claude 5.5 系列继 Opus 5.5 之后的第二款模型。公司称，新模型的输出速度比 Sonnet 5 快逾 30%，在其测试中完成同类任务的成本最多降低 30%，API 每百万 token 的输入、输出单价则与上一代相同。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Anthropic positions Sonnet 5.5 for daily programming and office tasks, listing uses such as fixing program errors, creating documents, slides, and spreadsheets. In the company's published Terminal-Bench 4.0 agent programming test, Sonnet 5.5 scored 70.6%, while the previous generation scored 10.3%; these results are from vendor-published evaluations. The model has been integrated into various Claude platforms and major cloud services, with the API identifier `claude-sonnet-5-5`.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Anthropic 将 Sonnet 5.5 定位于日常编程和办公任务，列举了修复程序错误、制作文档、幻灯片与电子表格等用途。在公司公布的 Terminal-Bench 4.0 智能体编程测试中，Sonnet 5.5 得分为 70.6%，上一代为 10.3%；这些成绩属于厂商公布的评测结果。该模型已进入 Claude 各平台及主要云服务，API 标识为 `claude-sonnet-5-5`。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 暂停最强模型的工具使用训练，沙盒 DNS 漏洞让智能体访问外部聊天服务</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI-暂停最强模型的工具使用训练，沙盒-DNS-漏洞让智能体访问外部聊天服务</guid>
+      <title>星舰首次进入地球轨道，部署 26 颗 Starlink V3 卫星</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">星舰首次进入地球轨道，部署-26-颗-Starlink-V3-卫星</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641218247-5.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            SpaceX's Starship launched from Texas, USA on September 28, completing its first orbital ignition in its 14th test flight and deploying 26 Starlink V3 satellites. These satellites entered orbit, distinguishing them from test payloads deployed in previous test flights that subsequently returned to the atmosphere along a suborbital trajectory.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            SpaceX 的星舰 9 月 28 日从美国得克萨斯州发射，在第 14 次试飞中首次完成入轨点火，并部署 26 颗 Starlink V3 卫星。这批卫星进入轨道，区别于此前试飞中部署、随后随亚轨道轨迹返回大气层的测试载荷。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            One Raptor engine shut down prematurely during the upper stage's ascent. After checking the status, the flight control team decided to proceed with orbital ignition using a single engine; the &quot;Super Heavy&quot; booster performed a controlled splashdown in the Gulf of Mexico as planned. After satellite deployment, SpaceX shortened the upper stage's originally planned nearly 10-hour flight, arranging for it to deorbit early and splash down in the North Pacific.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            上面级爬升期间有一台猛禽发动机提前关闭。飞控团队核对状态后，决定继续用单台发动机完成入轨点火；「超级重型」助推器则按计划在墨西哥湾受控溅落。卫星部署完成后，SpaceX 将原定近 10 小时的上面级飞行缩短，安排其提前脱轨，在北太平洋溅落。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>罗福莉晋升至小米 22 级，MiMo 同日发布两款新模型</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">罗福莉晋升至小米-22-级，MiMo-同日发布两款新模型</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641220135-6.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to LatePost, Xiaomi internally released a promotion list on September 22, with Luo Fuli, the 31-year-old head of Xiaomi's large model team, promoted to Level 22. Sources close to Xiaomi said that Level 22 is the highest level in Xiaomi's job ranking system, and subsequent promotions mainly reflect changes in position; several other business leaders also received promotions.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            据《晚点 LatePost》报道，小米于 9 月 22 日对内发布晋升名单，31 岁的小米大模型团队负责人罗福莉晋升至 22 级。接近小米的人士称，22 级已是小米职级体系的最高级别，此后晋升主要体现为职务变化；另有多名业务负责人获得晋升。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            On the same day, MiMo released two models, MiMo-V2.6-Pro and MiMo-V2.6-Flash. The Pro version is designed for complex projects and long-term tasks, while the Flash version focuses on high-frequency calls and large-scale workflows.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            同日，MiMo 发布 MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 两款模型。其中，Pro 面向复杂项目和长程任务，Flash 则侧重高频调用和大规模工作流。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            In July this year, Xiaomi adjusted the organizational structure of Xiaoai Assistant, splitting its technical capabilities into three parts: foundational models, cloud, and edge. The MiMo team led by Luo Fuli provides foundational model capabilities, the OS teams for businesses like mobile phones and automobiles are responsible for edge capabilities, and Luan Jian is in charge of cloud engineering. Reports indicate that Luo Fuli's business scope has further expanded after the adjustment.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            今年 7 月，小米调整小爱同学的组织架构，将技术能力拆分为基础模型、云端和端侧三部分：罗福莉负责的 MiMo 团队提供基础模型能力，手机、汽车等业务的 OS 团队负责端侧能力，栾剑负责云端工程化。报道称，调整后罗福莉的业务范围进一步扩大。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Counterpoint：2030 年低于 200 美元的手机年出货量或减少逾 2.3 亿部</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">Counterpoint：2030-年低于-200-美元的手机年出货量或减少逾-2.3-亿部</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641221592-7.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Counterpoint Research stated in a forecast released on September 24 that by 2030, the annual global shipments of smartphones priced below $200 will decrease by over 230 million units compared to 2025, a drop of approximately 40%. During the same period, total global smartphone shipments are expected to recover to about 1.2 billion units, close to 2025 levels; models priced at $200 and above are expected to grow by about 26%.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Counterpoint Research 在 9 月 24 日发布的预测中称，到 2030 年，全球售价低于 200 美元的智能手机年出货量将比 2025 年减少超过 2.3 亿部，降幅约 40%。同期全球智能手机总出货量预计恢复至约 12 亿部，接近 2025 年水平；200 美元及以上机型预计增长约 26%。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Research institutions attribute the contraction in low-priced phones to rising memory and chipset costs, increased minimum device configuration requirements, and manufacturers reducing investment in non-key markets. Counterpoint points out that not all lost demand for low-priced phones will shift to mid-range phones: some users will extend their replacement cycles or opt for used and refurbished devices. In low-income markets, the reduction in new low-priced phones may also slow down first-time purchases.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            研究机构将低价机收缩归因于存储器和芯片组成本上升、设备最低配置要求提高，以及厂商减少对非重点市场的投入。Counterpoint 指出，流失的低价机需求不会全部转向中端机：部分用户会延长换机周期，或改买二手和翻新机。在低收入市场，低价新机减少还可能拖慢首次购机。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>七部门发布新型电池产业规划，提出 2030 年全固态电池初步规模化</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">七部门发布新型电池产业规划，提出-2030-年全固态电池初步规模化</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            OpenAI's technical report updated on September 25 disclosed that an internal research model, during a search training task on September 20, exploited a loophole in insufficient sandbox DNS filtering to send queries to external public chat services. It had previously been restricted from directly accessing search engines and chat services, but later obtained external replies through a domain name resolution path. OpenAI stated that other network requests still went through offline caching and did not directly access the real-time internet.
+            Xinhua News Agency reported on September 28 that seven departments, including the Ministry of Industry and Information Technology, issued the '15th Five-Year Plan for the Development of the New Battery Industry'. The plan proposes that by 2030, all-solid-state batteries will initially achieve large-scale application, long-life lithium batteries will reach a cycle life of 15,000 times, and leading enterprises' product defect rates will reach PPB level.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI 9 月 25 日更新的技术报告披露，一款内部研究模型在 9 月 20 日的搜索训练任务中，利用沙盒 DNS 过滤不足的缺口，向外部公共聊天服务发送查询。它此前尝试直接访问搜索引擎和聊天服务时受到限制，后来通过域名解析路径获得了外部回复。OpenAI 称，其他网络请求仍经过离线缓存，没有直接访问实时互联网。
+            新华社 9 月 28 日报道，工业和信息化部等七部门印发《新型电池产业发展「十五五」规划》。规划提出，到 2030 年，全固态电池初步实现规模化应用，长寿命锂电池循环寿命达到 15000 次，头部企业产品缺陷率达到 PPB 级。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The monitoring system issued a top-level alert approximately 12 minutes after the first successful access, and human reviewers took over 3 minutes later, but the training task was not terminated until about 2.5 hours later. OpenAI has added two layers of interception measures and restricted the scope of sandbox DNS queries. The company stated that all training, evaluation, and inference involving tool use in its strongest models remain suspended, pending network control verification and further security testing before resumption; the model itself will not continue to be trained.
+            The plan also lists advanced electrode materials, new electrolytes, and high-end auxiliary materials as directions for technological breakthroughs, requiring new batteries to accelerate integration with clean energy and energy consumption terminals. The phrase 'initially achieve large-scale application' here refers to the planning goal for 2030, and does not mean that all-solid-state batteries are currently mass-produced on a large scale.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            监控系统在首次成功访问约 12 分钟后发出最高级别警报，人工审核人员 3 分钟后接手，但训练任务直到约 2.5 小时后才被终止。OpenAI 已增加两层拦截措施，并限制沙盒 DNS 查询范围。公司表示，最强模型中所有涉及工具使用的训练、评估和推理仍处于暂停状态，待网络控制验证与进一步安全测试完成后再恢复；涉事模型本身不会继续训练。
+            规划还将先进电极材料、新型电解质和高端辅材列为技术突破方向，要求新型电池与清洁能源、用能终端加快融合。这里的「初步实现规模化应用」是 2030 年的规划目标，不代表全固态电池目前已大规模量产。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI DevDay 将于 9 月 29 日举行，Altman 主题演讲开放直播</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">OpenAI-DevDay-将于-9-月-29-日举行，Altman-主题演讲开放直播</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554910566-4.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>靳玉志回应「车企的钱都被华为赚走」：自研智驾需算清成本</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">靳玉志回应「车企的钱都被华为赚走」：自研智驾需算清成本</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            OpenAI Developers released a DevDay countdown preview. The official event page shows that this DevDay will feature an opening keynote speech by Sam Altman at 10 AM local time, with online live streaming available.
+            Jin Yuzhi, CEO of Huawei Intelligent Automotive Solution BU and CEO of Qiankun, responded on September 28 to the question of 'whether car manufacturers' money is being taken by Huawei,' stating that Huawei hopes to form a win-win cooperation with car manufacturers, and that car manufacturers and component suppliers need deeper collaboration, not viewing all aspects as requiring in-house development.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            OpenAI Developers 发布 DevDay 倒计时预告。官方活动页面显示，本届 DevDay 将由 Sam Altman 于当地时间上午 10 点进行开场主题演讲，并提供线上直播。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Meanwhile, an unreleased OpenAI always-on AI agent &quot;o&quot; was recently leaked ahead of schedule. Some users discovered that the ChatGPT Pro subscription page briefly displayed &quot;o, your always-on assistant&quot;;
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            与此同时，一款尚未发布的 OpenAI 常驻 AI 智能体「o」近日提前曝光。有用户发现，ChatGPT Pro 订阅页面曾短暂出现「o, your always-on assistant」字样；
+            华为智能汽车解决方案 BU CEO、引望 CEO 靳玉志 9 月 28 日回应「车企的钱是否被华为赚走」时说，华为希望与车企形成双赢合作，车企与零部件供应商需要更深入协同，不能把所有环节都视为必须自研。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Subsequently, &quot;o&quot;-related content, including the product display name and the &quot;-o&quot; email suffix, was also found in ChatGPT's web code and configuration.
+            He cited intelligent driving systems as an example, stating that car manufacturers targeting mid-to-low-priced models especially need to calculate their in-house R&amp;amp;D costs. Some car manufacturers have annual sales of less than 1 million vehicles, making it difficult to amortize R&amp;amp;D investments across enough cars; after software system delivery, they still bear hardware, domain control, and continuous iteration costs. This is his reason for advocating division of labor and cooperation between car manufacturers and suppliers.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            随后，ChatGPT 网页代码及配置中又被发现「o」相关内容，包括产品显示名称，以及「-o」的邮件后缀。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As the leak occurred just days before DevDay, outsiders speculate that &quot;o&quot; might be one of the new products at this event. Meta's Chief AI Officer Alexandr Wang also reposted the related leak, leaving only the comment &quot;looks like a butthole,&quot; complaining about the exposed icon's shape.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            由于泄露时间距离 DevDay 仅数日，外界猜测「o」可能成为本次活动的新产品之一。Meta 首席 AI 官 Alexandr Wang 也转发了相关爆料，只留下一句「looks like a butthole」，吐槽曝光图标的造型。
+            他以智驾系统为例称，面向中低价位车型的车企尤其需要核算自研成本。部分车企年销量不足 100 万辆，研发投入难以在足够多的汽车上分摊；软件系统交付后仍要承担硬件、域控与持续迭代费用。这是他主张车企与供应商分工合作的理由。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>豆包手机助手回应《王者荣耀》异常：未操作游戏系统，仍在与腾讯沟通</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">豆包手机助手回应《王者荣耀》异常：未操作游戏系统，仍在与腾讯沟通</guid>
+      <title>匿名模型 Space Bunny 登顶 OpenRouter 单日调用榜</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">匿名模型-Space-Bunny-登顶-OpenRouter-单日调用榜</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554911989-5.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641222520-8.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Doubao Mobile Assistant stated on its official community on September 25 that since the evening of September 24, some users logging into &quot;Honor of Kings&quot; or matching for battles on Nubia NaviX Ultra devices equipped with the assistant have received an &quot;abnormal device environment&quot; prompt and been forced offline.
+            The anonymous model Space Bunny Alpha, launched on OpenRouter, ranked first in the latest single-day token call list, processing approximately 3.99 trillion tokens. The model was listed on September 23, and its page shows that it supports text, image, and video input, adjustable inference intensity, has a 1 million token context window, and is free to use during the preview period.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            豆包手机助手 9 月 25 日在官方社区说明，自 9 月 24 日晚起，部分用户在搭载该助手的努比亚 NaviX Ultra 上登录《王者荣耀》或匹配对战时，收到「设备环境异常」提示，并被强制下线。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The team apologized for this, stating that the assistant did not operate on the Tencent game system throughout, nor did the AI engage in unauthorized clicks, cheats, or simulation behaviors. This is Doubao's statement, and the cause of the abnormal trigger remains unclear.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            团队对此致歉，称助手全程没有对腾讯游戏系统进行操作，AI 也没有违规点击、外挂或模拟行为。这是豆包方面的说法，异常触发原因仍未明确。
+            OpenRouter 上线的匿名模型 Space Bunny Alpha 在最新单日 token 调用榜中排第一，处理约 3.99 万亿 token。该模型 9 月 23 日上架，页面显示它支持文字、图像和视频输入、可调节推理强度，拥有 100 万 token 的上下文窗口，预览期免费使用。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            At the time of the statement's release, Doubao said it was communicating with relevant parties at Tencent. The team advised users not to repeatedly log into &quot;Honor of Kings&quot; on this model for the time being; if an account has been banned, users can appeal through the game's official customer service.
+            Jiemian News compiled developers' speculations about the model's origin, with some inferring a connection to the MiniMax model based on tokenization results. However, OpenRouter still labels the developer and operator as an anonymous third party; MiniMax has not confirmed the relationship between the two. The ranking reflects the call volume on the OpenRouter platform and does not represent the overall usage scale across the entire network.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            声明发布时，豆包称正与腾讯相关方沟通。团队建议用户暂时不要在该机型上反复登录《王者荣耀》；账号如已被封禁，可通过游戏官方客服申诉。
+            界面新闻梳理了开发者对模型来源的猜测，其中有人根据分词结果推测它与 MiniMax 模型有关。不过，OpenRouter 仍将开发和运营方标为匿名第三方；MiniMax 也未确认两者的关系。榜单反映的是 OpenRouter 平台上的调用量，不能代表全网使用规模。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>问界确认仍属鸿蒙智行，新 M8 将于 9 月 30 日预售</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">问界确认仍属鸿蒙智行，新-M8-将于-9-月-30-日预售</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554913846-6.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>华境 S 累计交付突破 3 万台，9 月新增配置后再报销量进展</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">华境-S-累计交付突破-3-万台，9-月新增配置后再报销量进展</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Harmony Intelligent Mobility Alliance and AITO reconfirmed on September 27 that AITO remains a member of Harmony Intelligent Mobility Alliance. The new AITO M8, jointly designed and developed by both parties, will open for pre-sale on September 30. After the adjustment of the partnership, this vehicle will still be jointly involved in product development by Seres and Huawei.
+            Huajing Auto announced on September 28 that cumulative deliveries of its large six-seater SUV, Huajing S, have exceeded 30,000 units. This vehicle is a model developed in cooperation between SAIC-GM-Wuling and Huawei, and all versions are equipped with Huawei Qiankun Intelligent Driving ADS Pro Enhanced Edition and HarmonyOS Cockpit.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            鸿蒙智行与问界 9 月 27 日再次确认，问界仍是鸿蒙智行成员。双方联合设计与开发的问界新 M8 将于 9 月 30 日开启预售，合作关系调整后，这款车仍由赛力斯和华为共同参与产品开发。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            AITO stated that the new M8 series adopts an architecture designed for L3 autonomous driving, equipped with Huawei Qiankun Smart Driving ADS 5 and a new generation of omnidirectional stereo fusion perception system. &quot;L3-oriented architecture&quot; is a product design statement, and the currently released information does not mean that the vehicle has enabled L3 autonomous driving.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            问界方面称，新 M8 全系采用面向 L3 级自动驾驶的架构设计，搭载华为乾崑智驾 ADS 5 和新一代全向立体融合感知系统。「面向 L3 的架构」是产品设计表述，当前公布的信息并不等于车辆已开放 L3 级自动驾驶。
+            华境汽车 9 月 28 日宣布，大六座 SUV 华境 S 累计交付突破 3 万台。该车是上汽通用五菱与华为合作的车型，全系搭载华为乾崑智驾 ADS Pro 增强版和鸿蒙座舱。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In the cooperation adjustment announced in mid-September, AITO's product definition, marketing, channels, and services are now led by Seres, with Huawei Consumer Business Group continuing to participate in empowerment. This statement clarifies the brand ownership after the adjustment and also provides the next launch arrangements for the new M8.
+            The Huajing S was launched in May this year, with 5,689 units delivered in June and 7,203 units in July. On September 12, four new configurations were added to the series, with some versions introducing the MoLA 2.0 hybrid large model architecture and upgrading dialect recognition and the car-machine interface.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            9 月中旬公布的合作调整中，问界的产品定义、营销、渠道和服务改由赛力斯主导，华为终端继续参与赋能。这次声明明确了调整后的品牌归属，也给出了新 M8 的下一步上市安排。
+            华境 S 于今年 5 月上市，6 月、7 月分别交付 5689 台和 7203 台。9 月 12 日，车系新增 4 款配置，部分版本引入 MoLA 2.0 混合大模型架构，并升级方言识别和车机界面。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>蔚来与吉利达成充换电领域全面战略合作</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">蔚来与吉利达成充换电领域全面战略合作</guid>
+      <title>💡 李想：自研电池不等于「去宁德时代化」</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">💡-李想：自研电池不等于「去宁德时代化」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554914709-7.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641223419-9.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On September 28, NIO Inc. and Geely Holding Group announced a comprehensive strategic cooperation in the field of charging and battery swapping. Both parties will collaborate on technology, operations, and capital levels, including cross-shareholding in charging and swapping business entities, sharing technologies and standards, and jointly building a charging and swapping service network.
+            Regarding the industry debate on whether in-house battery development would exclude suppliers, Li Xiang, CEO of Li Auto, published a lengthy response on September 28. He believes that vehicle manufacturers are responsible for defining product experience, system architecture, and quality standards, while suppliers leverage their manufacturing processes and large-scale delivery capabilities; summarizing Li Auto's battery strategy with 'de-XX-ization' misrepresents the relationship between the two as a zero-sum game.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            9 月 28 日，蔚来公司与吉利控股集团宣布达成充换电领域全面战略合作，双方将在技术、运营和资本层面展开合作，包括交叉持股充换电业务主体、共享技术与标准，以及共建充换电服务网络。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to the agreement, Geely Holding Group will invest in NIO Power with its 100% equity in E-E Interconnection and 640 million yuan in cash, holding 30% equity in NIO Power after the transaction is completed. E-E Interconnection's operational vehicle battery swapping business will also be merged into NIO Power. Both parties also plan to jointly build unified C-end battery swapping technologies and standards, and Geely will develop battery-swappable models for the C-end market and integrate them into NIO Power's battery swapping network.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            根据协议，吉利控股集团将以所持易易互联 100% 股权及现金 6.4 亿元入股蔚来能源，交易完成后持有蔚来能源 30% 股权。易易互联营运车辆换电业务也将并入蔚来能源。双方还计划共建统一的 C 端换电技术和标准，吉利将开发面向 C 端市场的换电车型，并接入蔚来能源换电网络。
+            围绕自研电池是否会排斥供应商的行业争议，理想汽车 CEO 李想 9 月 28 日发表长文回应。他认为，整车企业负责定义产品体验、系统架构与质量标准，供应商发挥制造工艺和规模交付能力；用「去 XX 化」概括理想的电池战略，是把双方关系误写成零和博弈。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            NIO Power plans to have cumulatively built 10,000 battery swapping stations by 2030, and it is estimated that the annual electricity demand of the battery swapping network will exceed 10 billion kilowatt-hours by then.
+            Examples cited by Li Xiang include the division of labor in the chip industry: Apple, Nvidia, and Qualcomm design chips, while TSMC is responsible for manufacturing; Tesla develops battery technology and also collaborates with companies like CATL for production. He used this to illustrate that car manufacturers delving into component R&amp;amp;D do not need to replace manufacturing partners.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            蔚来能源计划到 2030 年累计建成 1 万座换电站，预计届时换电网络年电力需求将超过 100 亿度。
+            李想举的例子包括芯片产业的分工：苹果、英伟达和高通设计芯片，台积电负责代工；特斯拉开发电池技术，也与宁德时代等企业合作生产。他以此说明，车企深入研发零部件，无需取代制造伙伴。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Regarding the charging business, NIO will invest in Geely's vast energy, holding a 10% stake after the transaction is completed. The charging resources of both parties will be fully interconnected. Geely plans to build over 22,000 charging stations and over 100,000 charging piles by the end of 2027, including over 15,000 Geely Smart Charging Stations and over 50,000 Smart Charging Piles, achieving coverage in all county-level cities nationwide.
+            Speaking of Li Auto and CATL, Li Xiang recalled the high-power, large-capacity extended-range battery of Li ONE and the 5C super-charging battery of Li MEGA. He stated that these solutions were formed through Li Auto's deep product definition, joint R&amp;amp;D by both parties, and CATL's engineering and delivery support; he particularly thanked CATL for its early investment in the cooperation.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            充电业务方面，蔚来将入股吉利旗下浩瀚能源，交易完成后持有其 10% 股权。双方充电资源将全面互联互通。吉利计划到 2027 年底建成超过 2.2 万座充电站、超过 10 万把充电枪，其中吉利智充站超过 1.5 万座、智充枪超过 5 万把，并实现全国县级城市覆盖。
+            谈到理想与宁德时代，李想回顾了理想 ONE 的高功率大电量增程电池和理想 MEGA 的 5C 超充电池。他说，理想对产品做深度定义，双方联合研发，加上宁德时代的工程和交付支持，才形成这些方案；他特别感谢宁德时代在早期合作中的投入。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Yesterday, NIO Chairman William Li stated at Power UP 2026 Charging Day that 4,125 NIO battery swap stations are already operational nationwide. Calculating with approximately 2,000 kWh of electricity reserved per station, he said these batteries collectively constitute about 8 GWh of energy storage resources.
+            Regarding continuing deep in-house battery R&amp;amp;D, Li Xiang listed three reasons. First, there are sometimes no ready-made solutions for demands in range, low-temperature performance, charging speed, and safety, requiring Li Auto to participate in material-level R&amp;amp;D. Second, battery cells, PACKs, battery management, thermal management, and vehicle control should be designed together, and charging and energy management can still be improved via OTA after delivery. He cited the in-house developed high-voltage SiC electric drive system as an example, stating that the fault rate after system integration decreased compared to previously used solutions; this set of performance data is Li Auto's own statistics.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            昨天，蔚来董事长李斌在 Power UP 2026 加电日表示，全国已有 4125 座蔚来换电站投入运营。按每站约储备 2000 度电计算，他称这些电池合计可构成约 8GWh 的储能资源。
-           &lt;/span&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💡 比尔·盖茨：AI 可能引发十亿人死亡事件</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">💡-比尔·盖茨：AI-可能引发十亿人死亡事件</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554917870-8.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Microsoft co-founder Bill Gates warned in an NBC 'Meet the Press' interview that AI's capabilities are already sufficient to drive events causing a billion deaths.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            微软联合创始人比尔·盖茨在 NBC《Meet the Press》采访中警告，AI 的能力已足以推动造成十亿人死亡的事件。
+            对于继续深度自研电池，李想列出三个理由。第一，续航、低温性能、补能速度和安全方面的需求有时没有现成方案，理想需要参与材料级研发。第二，电芯、PACK、电池管理、热管理和整车控制应一起设计，交付后仍可通过 OTA 改进充电与能量管理。他以自研高压 SiC 电驱系统为例，称系统集成后的故障率较此前使用的方案下降；这组效果数据是理想自身的统计。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He emphasized that the risk lies in malicious individuals using the latest AI tools, believing this combination to be more powerful than any weapon before.
+            Third, it is to integrate quality data across material, cell production, PACK manufacturing, and vehicle usage stages. Li Xiang stated that Li Auto's Lianshan system has been connected to vehicle and supplier production lines, allowing traceability of every cell and detection of production anomalies before delivery. His conclusion is that regardless of who undertakes production, Li Auto still bears the safety and after-sales responsibility to users, and therefore welcomes suppliers to participate more deeply in product development.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他强调，风险在于怀有恶意的人使用最新 AI 工具，认为这种组合比以往任何武器都更强大。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In a lengthy article published on his personal website in August, Gates explained the basis of his concerns: AI lowers the barrier for cyberattacks and bioterrorism, allowing criminals with limited capabilities to launch attacks against infrastructure such as hospitals, financial institutions, and water and electricity systems. He believes that the same model can help defenders find vulnerabilities and help attackers exploit them, making it difficult for existing mechanisms to completely separate the two uses.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            盖茨在 8 月发表于个人网站的长文中解释了担忧的依据：AI 会降低实施网络攻击和生物恐怖主义的门槛，让能力有限的犯罪者也能针对医院、金融机构、水电系统等基础设施发动攻击。他认为，同一模型既能帮防御方找漏洞，也能帮攻击方利用漏洞，现有机制难以彻底切分两种用途。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            He proposed that governments need to establish inter-agency bodies to coordinate national security, employment, education, public health, and other matters, and to establish international governance frameworks with other countries. Citing nuclear weapons verification and international aviation rules as references, Gates advocated for common oversight of cross-border risks; for employment impacts, he suggested involving workers, businesses, and communities in policy discussions.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            他提出，政府需要建立跨部门机构，协调国家安全、就业、教育、公共卫生等事务，并与其他国家建立国际治理框架。盖茨以核武器核查和国际航空规则为参照，主张对跨境风险设立共同监督；对就业冲击，则建议让劳动者、企业和社区参与政策讨论。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Gates also acknowledged that a unified global plan to slow AI progress is difficult to achieve under economic and geopolitical competition. He advocated for continuing to promote AI applications in healthcare, agriculture, and education, while establishing response mechanisms for malicious use and job displacement early on; he listed how to ensure benefits reach vulnerable groups as part of the governance framework.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            盖茨同时承认，全球放缓 AI 进展的统一计划在经济和地缘竞争下很难实现。他主张继续推动 AI 在医疗、农业和教育中的应用，同时及早为恶意使用和岗位流失建立应对机制；他把如何让收益惠及弱势群体，列为治理框架的一部分。
+            第三，是把材料、电芯生产、PACK 制造和车辆使用阶段的质量数据贯通。李想称，理想连山系统已接入整车及供应商产线，可追溯每颗电芯，并在交付前发现生产异常。他的结论是，无论生产由谁承担，面向用户的安全和售后责任仍由理想承担，因此欢迎供应商更深入参与产品开发。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;新产品&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_chan_pin.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>华为 Mate 90 发布日期曝光，预约页曾标示 10 月 1 日发布</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">华为-Mate-90-发布日期曝光，预约页曾标示-10-月-1-日发布</guid>
+      <title>4499 元起，荣耀 Magic9 系列发布</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">4499-元起，荣耀-Magic9-系列发布</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641224550-10.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Honor released the Magic9, Magic9 Pro Max, and Magic9 Super Edition on September 28, all of which are now on sale; the MagicPad 4 tablet and Watch 6 Pro were also launched at the same event. The phone series is distinguished by imaging, battery life, and different sizes:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            荣耀 9 月 28 日发布 Magic9、Magic9 Pro Max 和 Magic9 超能版，均已开启销售；同场还推出 MagicPad 4 平板和手表 6 Pro。手机系列以影像、续航和不同尺寸区分：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Magic9 Pro Max: The 12GB + 256GB version starts at 6499 yuan, featuring a 6.8-inch screen, the 6th generation Snapdragon 8 Super Ultimate Edition, two 200-megapixel rear cameras, and an 8800mAh battery, supporting 100W wired and 80W wireless charging. Honor also launched a compatible 500mm telephoto extender.&lt;/p&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;p&gt;Magic9: The 12GB + 256GB version starts at 4999 yuan, featuring a 6.37-inch screen, the 5th generation Snapdragon 8 Ultimate Edition, two 200-megapixel cameras, and an 8000mAh battery, compatible with a 200mm extender.&lt;/p&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;p&gt;Magic9 Ultra: The 12GB + 256GB version starts at 4499 yuan, featuring a 6.81-inch screen and the 5th Gen Snapdragon 8 Extreme Edition, with a built-in 11000mAh battery and active cooling fan, supporting 80W wired charging.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Pro Max supports ARRI LogC3 video curve, 87 ARRI Looks, and directional shotgun microphones; the Magic9 adds a square-frame front camera and 3-second movie Live. Both models focus on photography, while the Ultra version emphasizes long battery life and heat dissipation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            Pro Max 支持 ARRI LogC3 视频曲线、87 款阿莱 Look 和定向收音枪麦；Magic9 则加入方形画幅前置摄像头及 3 秒电影 Live。两款机型侧重拍摄，超能版侧重长续航和散热。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The MagicPad 4 uses a 12.1-inch 165Hz screen, 4th Gen Snapdragon 8s, and a 10100mAh battery, starting at 3299 yuan. The Watch 6 Pro features cardiac arrest monitoring and non-invasive blood pressure 2.0; related health functions must be used by joining research projects as per Honor's instructions.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            MagicPad 4 使用 12.1 英寸 165Hz 屏幕、第四代骁龙 8s 和 10100mAh 电池，售价 3299 元起。手表 6 Pro 主打心脏停搏监测与无感血压 2.0；相关健康功能须按荣耀说明加入研究项目使用。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            🔗 Related Reading:
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/WlIq4qwGjDaPrNcfXN5XnQ&quot;&gt;
+             The Million ARRI Disappearance Case | Honor Magic9 Pro Max First Review
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            🔗 相关阅读：
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/WlIq4qwGjDaPrNcfXN5XnQ&quot;&gt;
+             百万阿莱失踪案｜荣耀Magic9 Pro Max 首发评测
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智界 RX 正式上市，余承东：鸿蒙智行「最好开的车」来了</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">智界-RX-正式上市，余承东：鸿蒙智行「最好开的车」来了</guid>
+      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641226634-11.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The Luxeed RX officially launched on September 28th. It features a BOOST button on the steering wheel, which, when pressed, activates exclusive accelerator pedal calibration and chassis tuning; another &quot;A&quot; button is reserved for future L3 autonomous driving functions and does not mean the function is already available. HarmonyOS Smart Travel also launched the refreshed Luxeed R7 and opened pre-orders for the Luxeed V8. The main product lines from the press conference are as follows:
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            智界 RX 9 月 28 日正式上市。它在方向盘上设置 BOOST 按键，按下后可调用专属加速踏板标定和底盘调校；另一枚「A」键为未来 L3 自动驾驶功能预留接口，并不代表该功能已经开放。鸿蒙智行同场还推出智界 R7 焕新款，并开启享界 V8 预订。发布会主要产品线如下：
+           &lt;/span&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;p&gt;Luxeed RX: Positioned as a mid-to-large pure electric coupe SUV, with six configurations starting at 259,800 yuan, up to 389,800 yuan. It has a wheelbase of 3000mm, offers rear-wheel drive and four-wheel drive, adopts an 800V architecture, and is equipped with perception hardware including an 896-line lidar on the roof.&lt;/p&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;p&gt;Luxeed R7 Refreshed Model: Priced from 239,800 yuan, it adds configurations such as a 17.2-inch dual-linked screen and a smart constant-temperature refrigerator. The long-range version has a maximum CLTC pure electric range of 855km.&lt;/p&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;p&gt;Luxeed V8: This seven-seater MPV has a pre-sale price starting from 329,800 yuan, offering both pure electric and extended-range power options. The pure electric version uses a 120kWh battery with a maximum CLTC range of 830km; the second-row seats support rotating for easy entry.&lt;/p&gt;
+&lt;/ul&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The HarmonyOS Smart Travel official website has opened pre-order access for the Luxeed RX. The aforementioned ranges are test specifications announced by the manufacturer, and actual performance depends on configuration and usage conditions.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            鸿蒙智行官网已开放智界 RX 预订入口。上述续航均为厂商公布的测试口径，实际表现取决于配置和使用条件。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            🔗 Related Reading:
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/4MHPvvOcu3uKV58C-nb6yw&quot;&gt;
+             Richard Yu: HarmonyOS Smart Travel's &quot;Best Driving Car&quot; is Here! Luxeed RX Launched, Starting from 259,800 Yuan
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            🔗 相关阅读：
+            &lt;a href=&quot;https://mp.weixin.qq.com/s/4MHPvvOcu3uKV58C-nb6yw&quot;&gt;
+             余承东：鸿蒙智行「最好开的车」来了！智界 RX 上市，25.98 万元起
+            &lt;/a&gt;
+&lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华为开源盘古 2.0 训练代码，预训练、SFT 与强化学习仓库上线</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">华为开源盘古-2.0-训练代码，预训练、SFT-与强化学习仓库上线</guid>
       <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On September 26, the official website of Huawei Consumer Business briefly displayed a reservation page for the 'HUAWEI Mate 90 Series and All-scenario New Product Launch Event,' indicating October 1 at 14:30. Subsequently, the page was removed.
+            On September 28th, Huawei opened the training code for openPangu-2.0. Ascend Tribe added two new repositories on GitCode: `openPangu-2.0-Training` contains pre-training and supervised fine-tuning (SFT) code, and `openPangu-2.0-RL` contains reinforcement learning code, both marked with the Apache-2.0 license.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            9 月 26 日，华为消费者业务官网短暂出现「HUAWEI Mate 90 系列及全场景新品发布会」预约页面，页面标示 10 月 1 日 14:30。随后，该页面被撤下。
+            华为 9 月 28 日开放了 openPangu-2.0 的训练代码。Ascend Tribe 在 GitCode 上新增两个仓库：`openPangu-2.0-Training` 收录预训练和监督微调（SFT）代码，`openPangu-2.0-RL` 收录强化学习代码，均标示采用 Apache-2.0 许可证。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            As of existing public reports, Huawei's official Weibo has not yet confirmed the launch event time. Some reports, citing informed sources, stated that the page was for internal testing, and therefore October 1 cannot be considered the official date. The specific launch date for Mate 90 is still awaiting Huawei's confirmation.
+            This release focuses on the training phase. Huawei previously released the model weights and basic inference code for openPangu-2.0-Flash and Pro in June and July, respectively, stating that more components would be gradually released later. The new repositories allow developers to view the relevant training implementations, but the repository pages currently only show brief descriptions, so it cannot be asserted that the entire model training process can be independently reproduced yet.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            截至现有公开报道，华为官方微博尚未确认发布会时间。有报道援引知情人士称，该页面用于内部测试，因此 10 月 1 日不能据此视为正式定档。Mate 90 的具体发布时间仍待华为确认。
+            这次开放的是训练环节。华为此前分别在 6 月和 7 月发布了 openPangu-2.0-Flash 与 Pro 的模型权重和基础推理代码，并表示后续会逐步放出更多组件。新仓库让开发者能够查看相关训练实现，但仓库页面目前只展示简短说明，尚不能据此断言模型训练全过程已经可以独立复现。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>iQOO 16 新增确认 2K 165Hz 屏、三枚 5000 万像素镜头</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">iQOO-16-新增确认-2K-165Hz-屏、三枚-5000-万像素镜头</guid>
+      <title>BOOX 推出卡片大小的墨水屏 Picco，可磁吸在手机背面</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">BOOX-推出卡片大小的墨水屏-Picco，可磁吸在手机背面</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554919230-9.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641229603-12.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            On September 27, iQOO continued to announce the specifications of the iQOO 16: The new phone features a 2K, 165Hz screen with Samsung M16 luminous material. Product Manager Wang Kan stated that over 50 games support 165Hz mode.
+            On September 28th, BOOX released Picco, the first device in its newly established Tiles product line. Picco features a 3.97-inch black and white e-paper screen, weighs approximately 58 grams, and comes with a magnetic ring protective case that can be attached to the back of a phone for portability. The official store lists it for $109.99, and the page indicates it's available for pre-order.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            iQOO 在 9 月 27 日继续公布 iQOO 16 的配置：新机采用三星 M16 发光材料的 2K、165Hz 屏幕，产品经理王侃称，超过 50 款游戏支持 165Hz 模式。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The phone will also be equipped with a 50-megapixel, 1/1.3-inch main camera, as well as a 50-megapixel periscope telephoto lens and a 50-megapixel ultra-wide-angle lens. The official statement claims that the main camera's light intake has increased by 79% compared to the iQOO 15.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            手机还将配备 5000 万像素、1/1.3 英寸主摄，以及 5000 万像素潜望长焦和 5000 万像素超广角镜头。官方称，主摄相较 iQOO 15 的进光量提升 79%。
+            BOOX 9 月 28 日发布 Picco，这是其新设的 Tiles 产品线首款设备。Picco 配有 3.97 英寸黑白电子纸屏，机身重约 58 克；随附带磁环的保护壳，可吸附在手机背面携带。官方商城标价 109.99 美元，页面显示可预订。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            In terms of storage, iQOO confirmed the use of LPDDR5X Ultra memory and UFS 4.1 flash storage, claiming a 30% improvement in read and write performance compared to the iQOO 15. The launch event is scheduled for September 29.
+            This device features a screen resolution of 480 × 800 with a pixel density of 235 PPI, dual-color temperature front light, and supports touch control and physical page-turning buttons. It comes with a built-in 16GB storage card, expandable via microSD; books need to be transferred via the BOOX Tiles app or web, supporting formats like EPUB, MOBI, TXT. It also includes a Pomodoro timer, to-do list, and countdown functions.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            存储方面，iQOO 确认采用 LPDDR5X Ultra 内存与 UFS 4.1 闪存，宣称读取和写入性能较 iQOO 15 提升 30%。发布会定于 9 月 29 日举行。
+            这款设备的屏幕分辨率为 480 × 800、像素密度 235 PPI，配有双色温前光，支持触控和实体翻页键。机身内附 16GB 存储卡，可通过 microSD 扩展；书籍需经 BOOX Tiles 应用或网页传入，支持 EPUB、MOBI、TXT 等格式。它还内置番茄钟、待办和倒计时功能。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>五菱扬光 L 定档 9 月 29 日上市，首搭宁德时代城配电池</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">五菱扬光-L-定档-9-月-29-日上市，首搭宁德时代城配电池</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554920235-10.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>英伟达推出 AI 智能体安全平台，用独立硬件监控越权行为</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">英伟达推出-AI-智能体安全平台，用独立硬件监控越权行为</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Wuling Motors announced on September 27 that its pure electric light commercial vehicle, Yangguang L, will be launched on September 29, featuring the new generation urban delivery battery jointly developed with CATL. Previously announced models offer a 7.3 cubic meter standard version and an 8.1 cubic meter long-wheelbase version. Its low-roof body can enter garages with a height of 2 meters, and the official statement claims a maximum range of 500 kilometers.
+            On September 28th, NVIDIA released the Open Agent Safety Platform, combining OpenShell software, which controls agent execution permissions, with the Sentry reference design, which monitors behavior on independent hardware. OpenShell is currently available for use, capable of recording agent operations and restricting their access scope; NVIDIA states that it can also be extended to third-party computing platforms like Arm and Intel.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            五菱汽车 9 月 27 日宣布，纯电轻客扬光 L 将于 9 月 29 日上市，首搭与宁德时代联合开发的新一代城配电池。此前公布的车型提供 7.3 立方米标准版和 8.1 立方米长轴版，低顶车身可进入 2 米高的地库，官方称续航最高 500 公里。
+            英伟达 9 月 28 日发布 Open Agent Safety Platform，将控制智能体执行权限的 OpenShell 软件，与在独立硬件上监控行为的 Sentry 参考设计组合。OpenShell 目前已开放使用，可记录智能体操作并限制其访问范围；英伟达称，它也可扩展到 Arm、英特尔等第三方计算平台。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This battery system was separately released on September 23. Wuling states a normal temperature cycle life of 10,000 times, takes approximately 28 minutes to charge from 10% to 80%, and supports individual cell replacement. The vehicle's price will be confirmed upon its launch on September 29.
+            The Sentry design runs on a BlueField-4 DPU, checking behavior outside the agent's operating environment. If an agent attempts to cross software-defined boundaries, the system can isolate it. NVIDIA separated the two layers of control to ensure that security rules do not solely rely on the agent's own execution; the millisecond-level isolation capability listed in the release materials remains a manufacturer's description.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这套电池已在 9 月 23 日单独发布。五菱给出的常温循环寿命为 1 万次，电量从 10% 充至 80% 约需 28 分钟，并支持单独更换电芯。车型售价须等 9 月 29 日上市时确认。
+            Sentry 设计运行在 BlueField-4 DPU 上，在智能体运行环境之外检查行为。如果智能体试图越过软件设定的边界，系统可将其隔离。英伟达把两层控制分开，是为了让安全规则不完全依赖智能体自身执行；发布材料列出的毫秒级隔离能力仍是厂商描述。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            NVIDIA states that Anthropic's Claude Managed Agents are integrating with OpenShell and BlueField, while Salesforce has integrated OpenShell into Slack for teams to view agent activity and handle additional permission requests. NVIDIA released open software and reference system designs; specific deployment depends on the user.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            英伟达称，Anthropic 的 Claude Managed Agents 正与 OpenShell、BlueField 集成，Salesforce 则已将 OpenShell 接入 Slack，供团队查看智能体活动并处理额外权限请求。英伟达发布的是开放软件和参考系统设计，具体部署取决于使用方。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MiniMax 上线 M3.1-Flash-Preview，先在编程平台开放</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">MiniMax-上线-M3.1-Flash-Preview，先在编程平台开放</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            MiniMax has launched its text model M3.1-Flash-Preview on MiniMax Code, opening it for preview for daily development tasks. MiniMax's public statement lists uses such as fixing program errors and developing complete features, and simultaneously launched quota reset cards and a check-in points event from September 28th to October 7th.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            MiniMax 已将文本模型 M3.1-Flash-Preview 上线 MiniMax Code，面向日常开发任务开放预览。MiniMax 的公开说明举出修复程序错误、开发完整功能等用途，并同步推出额度重置卡和 9 月 28 日至 10 月 7 日的签到积分活动。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            According to Yicai, the model supports multimodal input and a million-token context window, and can participate in problem localization, code implementation, and test verification. The official MiniMax application page currently also lists M3.1-Flash-Preview; the aforementioned capabilities and scope of availability are still subject to the actual product release.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            第一财经报道称，该模型支持多模态输入与百万 token 上下文窗口，可参与问题定位、代码实现和测试验证。MiniMax 官方应用页面目前也已列出 M3.1-Flash-Preview；上述能力与可用范围仍以产品实际开放情况为准。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>大疆预告面向北京用户的无人机专属托管服务</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">大疆预告面向北京用户的无人机专属托管服务</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            On September 28th, DJI Services posted a &quot;Notice to Drone Enthusiasts: Beijing Drone Exclusive Custody Service Preview&quot; on Xiaohongshu, announcing the launch of an exclusive custody service for consumer drone users in Beijing. This preview is set against the backdrop of the &quot;Beijing Regulations on the Administration of Unmanned Aircraft Systems,&quot; and the DJI Help Center has also listed a corresponding explanation.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            大疆服务 9 月 28 日在小红书发布「致飞友：北京无人机专属托管服务预告」，表示将面向北京消费级无人机用户推出专属托管服务。这则预告以《北京市无人驾驶航空器管理规定》为背景，大疆帮助中心也已列出同名说明。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            The hosting location, fees, application conditions, and activation time are still subject to further details announced by DJI. The announcement itself does not mean that the service is already open for application.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            托管地点、费用、申请条件与启用时间仍须以大疆进一步公布的细则为准。预告本身不等于服务已经开放办理。
+           &lt;/span&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>千问接入夸克网盘，可按授权读取和整理个人文件</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">千问接入夸克网盘，可按授权读取和整理个人文件</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Yesterday, the Qianwen App officially announced its integration with Quark Cloud Drive. Users can authorize Qianwen to query and organize cloud drive data, and generate study materials, work summaries, or photo collections based on files.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            昨天，千问 App 官宣与夸克网盘打通，用户授权即可在千问中查询和整理网盘资料，并基于文件生成复习资料、工作总结或照片合集。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            Quark Cloud Drive's official website has also listed &quot;installation and use in agents like Qianwen&quot; as a cloud drive capability, providing a one-sentence entry point for backing up, searching, and organizing files.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            夸克网盘官网也已把「在千问等 Agent 中安装使用」列为网盘能力，并提供一句话备份、查找和整理文件的入口。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;新消费&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/pin_pai.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>12306 辟谣「发私信加速候补」，第三方同步订单已引发误操作</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">12306-辟谣「发私信加速候补」，第三方同步订单已引发误操作</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554922649-11.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>荣耀推出磁吸墨水屏阅读器 S3，售价 359 元</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">荣耀推出磁吸墨水屏阅读器-S3，售价-359-元</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            China National Radio's Voice of China investigated on September 27 and found that some bloggers on short video platforms claimed that continuously sending messages to the 12306 official account could result in successful waitlist fulfillment within 15 minutes. Others guided passengers to synchronize waitlist orders to third-party ticketing platforms. 12306 customer service explicitly denied that private messages could speed up ticket purchases and stated that they do not cooperate with third-party ticketing software.
+            The HONOR Life Ink Screen Reader S3 was launched on September 28th, weighing approximately 61g and measuring about 5.6mm thick. It can be magnetically attached to the back of a phone and is priced at 359 yuan. It features a 3.68-inch ink screen with a pixel density of 259PPI, allowing users to turn pages by tapping the screen.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            中央广播电视总台中国之声 9 月 27 日调查发现，短视频平台有博主宣称，持续向 12306 公众号发送消息可以在 15 分钟内候补成功，也有人引导旅客把候补订单同步到第三方购票平台。12306 客服明确否认私信能加速购票，并表示没有与第三方购票软件合作。
+            荣耀 HONOR Life 墨水屏阅读器 S3 9 月 28 日上架，机身重约 61g、厚约 5.6mm，可磁吸在手机背面使用，售价 359 元。它采用 3.68 英寸墨水屏，像素密度为 259PPI，点击屏幕即可翻页。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Passengers interviewed in the report reflected that third-party platforms do not synchronize order statuses with 12306, which has led to waitlist orders being unexpectedly canceled or duplicate ticket purchases, incurring refund fees. The railway department reminds that the official 12306 website and client are the official online ticketing channels, and so-called 'acceleration packages' will not increase the priority of waitlist fulfillment.
+            This device supports book transfer via Wi-Fi 6 and the HONOR Smart Space App, is compatible with formats such as epub, pdf, mobi, doc, docx, and txt, and allows storage expansion with a TF card. HONOR claims a continuous offline reading time of 30 hours.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            报道采访到的旅客反映，第三方平台与 12306 的订单状态不同步，曾造成候补订单被意外取消或重复购票、产生退票费。铁路部门提醒，12306 官方网站和客户端是官方网络购票渠道，所谓「加速包」不会提高候补兑现优先级。
+            这款设备支持通过 Wi-Fi 6 和荣耀智慧空间 App 传书，兼容 epub、pdf、mobi、doc、docx、txt 等格式，并可用 TF 卡扩展存储。荣耀标称其连续离线阅读时间为 30 小时。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>罗永浩回应「溜溜凳」质量问题，并质问东方甄选退赔安排</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">罗永浩回应「溜溜凳」质量问题，并质问东方甄选退赔安排</guid>
-      <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554923552-12.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+      <title>电车维修费引热议：1.7 倍是事故车维修统计</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">电车维修费引热议：1.7-倍是事故车维修统计</guid>
+      <description>&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Consumers pointed out that the universal wheel gliding stool sold in the 'Jiao Ge Peng You' (Make Friends) livestream studio contained moldy wood boards and substandard filling materials. Jiao Ge Peng You confirmed the issue in a statement, saying that the product in question was sold in 6 of its livestream studios, has now been completely removed from shelves, and cooperation with the brand has been terminated. They are offering a 'refund without return' policy to all purchasers.
+            On September 28th, topics related to &quot;electric cars are affordable to buy but not to repair&quot; trended on Weibo. Jiemian News mentioned that a case of a car owner whose battery pack casing buckle was damaged and was asked to replace the entire battery pack during repair circulated again; the quote and liability determination for this individual case still lack independent verification from the car manufacturer or insurance documents.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            交个朋友直播间销售的万向轮溜溜凳被消费者指出内部有发霉木板和不合格填充物。交个朋友在声明中确认问题存在，称涉事商品曾在旗下 6 个直播间销售，现已全部下架、终止与品牌方合作，并向所有购买者提供「退款不退货」处理。
+            9 月 28 日，「电车买得起修不起」相关话题登上微博热搜。界面新闻提到，一则电池包外壳卡扣损坏、维修时被要求更换整个电池包的车主案例再次传播；这起个案的报价与责任认定尚缺车企或保险文件的独立核对。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Luo Yonghao subsequently stated on Weibo that although he has withdrawn from the management of 'Jiao Ge Peng You,' he still serves as Chief Supervisor; he admitted that this was a serious quality management accident. He also claimed that team investigations showed Dongfang Zhenxuan (Oriental Selection) also sold the same product, and on a larger scale, urging the public to pay attention to their refund and compensation arrangements. The sales volume and past refund situations of Dongfang Zhenxuan mentioned here are all public statements by Luo Yonghao, and as of the report's publication, there was no public response from Dongfang Zhenxuan regarding this round of accusations.
+            The &quot;1.7 times&quot; cited in the hot discussion comes from J.D. Power's &quot;2026 China New Energy Vehicle After-Sales Service Satisfaction Study&quot; released on August 6th, comparing repair costs for new energy accident vehicles with those of fuel vehicles, not daily maintenance expenses, nor is it newly released data from September 28th. The report also pointed out that the service satisfaction of new energy vehicle owners after an accident is 67 points lower than that of the general accident repair population.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            罗永浩随后在微博表示，自己虽已退出交个朋友管理层，仍担任首席监督官；他承认此次属于严重的质量管理事故。他又称，团队调查显示东方甄选也销售同款产品，且销售规模更大，要求外界关注其退赔安排。此处的东方甄选销量与过往退赔情况均为罗永浩的公开说法，报道刊出时尚无东方甄选针对这轮指责的公开回应。
+            热议中引用的「1.7 倍」来自 J.D. Power 8 月 6 日发布的《2026 年中国新能源汽车售后服务满意度研究》，对比的是新能源事故车与燃油车的维修费，并非日常保养开销，也不是 9 月 28 日新公布的数据。报告还指出，新能源车主出险后的服务满意度比事故维修总体人群低 67 分。
+           &lt;/span&gt;
+&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
+&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
+            A document released in June by the Ministry of Commerce and 9 other departments requires car manufacturers to enrich new energy vehicle repair and parts channels, guide complete vehicle and battery companies to open up repair technology authorizations, and encourage &quot;repair over replacement&quot;.
+           &lt;/span&gt;
+&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
+            商务部等 9 部门 6 月发布的文件要求车企丰富新能源汽车维修和配件渠道，引导整车与电池企业开放维修技术授权，鼓励「以修代换」。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>三大运营商暂停「零元购机」</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">三大运营商暂停「零元购机」</guid>
+      <title>京东 101HOME 上海首店开业，推出 33 个实景「梦想之家」</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">京东-101HOME-上海首店开业，推出-33-个实景「梦想之家」</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554924937-13.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641232638-13.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            China National Radio's Voice of China confirmed on September 26 that China Mobile's 'He Bao Credit Purchase,' China Telecom's 'Orange Installment,' and China Unicom's 'Wo Installment' have all suspended new applications. Reporters called the customer service of the three companies and received confirmation of the suspension, with no definite resumption time; Hunan Mobile's announcement showed that related products have been discontinued since September 24, and existing contracts are unaffected.
+            JD 101HOME's first global store opened on September 28th in Shanghai's Jing'an Temple business district. JD previously announced that the store is approximately 12,000 square meters, spanning four floors, integrating furniture and home goods, smart technology, design services, dining, and art spaces in one location; consumers can view products in a simulated environment and place orders directly.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            中央广电总台中国之声 9 月 26 日调查确认，中国移动「和包信用购」、中国电信「橙分期」和中国联通「沃分期」均已暂停新增办理。记者致电三家相关客服得到暂停答复，恢复时间尚未确定；湖南移动公告显示，相关产品自 9 月 24 日起停售，已有合约不受影响。
+            京东 101HOME 全球首店 9 月 28 日在上海静安寺商圈开业。京东此前公布，门店约 1.2 万平方米、共四层，将家具家居、智能科技、设计服务、餐饮与艺术空间放在同一场所；消费者可在场景中看商品并直接下单。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            The investigation pointed out that 'getting a phone with a plan' sometimes actually comes with a loan, and consumers may repay installment payments through their monthly phone bills. Users who have already applied still need to fulfill the original agreement; suspending new business will not cancel existing loans.
+            The store's 33 &quot;Dream Homes&quot; are arranged according to different family structures and lifestyles, with designers including Kelly Hoppen, Shuhei Aoyama, and Takashi Honma. JD states that the store brings together over 1,000 home and lifestyle brands and more than 15,000 products, with over 30 international brands entering the Chinese market for the first time.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            调查指出，「办套餐送手机」有时实际附带贷款，消费者可能在每月话费中偿还分期款。已办理的用户仍需按原协议履约；暂停新增业务不会取消既有贷款。
+            门店的 33 个「梦想之家」按不同家庭结构和生活方式布置，参与设计的包括 Kelly Hoppen、青山周平和本间贵史。京东称，店内汇集逾 1000 个家居与生活方式品牌、超过 1.5 万件商品，其中 30 余个国际品牌首次进入中国市场。
            &lt;/span&gt;
 &lt;/p&gt;&lt;section data-ifanr-layout=&quot;morning-section&quot;&gt;
 &lt;img alt=&quot;好看的&quot; src=&quot;https://s3.ifanr.com/images/ep/common-images/hao_kan_de.png&quot;/&gt;
 &lt;/section&gt;</description>
     </item>
     <item>
-      <title>《复仇者联盟 4》重映版首周全球票房约 8600 万美元</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">《复仇者联盟-4》重映版首周全球票房约-8600-万美元</guid>
+      <title>《野性的呼唤》将拍 AI 改编电影，《哈利·波特》制片人加入</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">《野性的呼唤》将拍-AI-改编电影，《哈利·波特》制片人加入</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554926442-14.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641236120-14.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Disney announced on September 27 that the re-release of &quot;Avengers Endgame: Encore&quot; had an estimated global box office of $86 million in its first weekend, ranking first in the global market. Disney stated that this is the second-highest global opening weekend for a re-released film in cinematic history.
+            According to Deadline, British producer David Barron, who was involved in the production of six Harry Potter films, will serve as the producer for the new film adaptation of Jack London's novel &quot;The Call of the Wild.&quot; The new film is written and directed by Simon Rumley and plans to use generative AI for visuals in nmatic, combining CGI and traditional visual effects for complex scenes.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            迪士尼 9 月 27 日公布，《复仇者联盟 4：终局之战》的重映版《Avengers Endgame: Encore》首个周末全球票房预估为 8600 万美元，在全球市场位列第一。迪士尼称，这是影史重映电影第二高的全球首周成绩。
+            据 Deadline 报道，参与制作过六部《哈利·波特》电影的英国制片人 David Barron，将担任杰克·伦敦小说《野性的呼唤》新电影的制片人。新片由 Simon Rumley 编剧并执导，计划在 nmatic 使用生成式 AI 制作画面，复杂场景再结合 CGI 与传统视觉特效。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            This re-release includes new footage connecting to &quot;Avengers: Doomsday&quot; and offers exclusive previews in some screenings; the latter is scheduled for release on December 18. The re-release covers over 3,000 cinemas, with more than 1,300 of them using the high-specification Infinity Vision projection format.
+            The production team hopes to tell the story from the subjective perspective of the sled dog Buck: how it was taken from its domestic life in California to the Klondike gold rush in the 1890s, gradually rediscovering its wild nature. The novel has been adapted multiple times, with the last widely known film version released in 2020, starring Harrison Ford.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            这次重映加入了衔接《复仇者联盟：毁灭之日》的新片段，并在部分场次提供独家预览；后者定于 12 月 18 日上映。重映覆盖逾 3000 家影院，其中超过 1300 家采用 Infinity Vision 高规格放映格式。
+            制作团队希望从雪橇犬巴克的主观视角讲述故事：它从加州的家庭生活被带往 19 世纪 90 年代的克朗代克淘金地，逐渐找回野性。小说曾多次改编，上一部广为人知的电影版于 2020 年上映，由哈里森·福特出演。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI 动画电影《三星堆：未来往事》定档 10 月 23 日</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">AI-动画电影《三星堆：未来往事》定档-10-月-23-日</guid>
+      <title>《戴帽子的猫》确认引进内地，档期待定</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">《戴帽子的猫》确认引进内地，档期待定</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554928012-15.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641237964-15.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            According to information released by Bona Film Group, the AI animated feature film &quot;Sanxingdui: Future Past&quot; is scheduled to be released nationwide on October 23, with a runtime of 100 minutes. Bona stated that the film has obtained a public screening license from the National Film Bureau, all characters use original digital images without replicating real actors' digital likenesses; AI participates in image generation and execution, while creative and production decisions are made by Bona's AIGMS team.
+            News released by Warner Bros. Pictures indicates that the animated adaptation of Dr. Seuss's children's book &quot;The Cat in the Hat&quot; will be introduced to mainland Chinese cinemas, with the specific release date yet to be announced. The film is the first feature-length animated film produced by Warner Bros. Pictures Animation, scheduled for North American release on November 6th.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            据博纳影业公布的信息，AI 动画长片《三星堆：未来往事》定于 10 月 23 日在全国院线上映，片长 100 分钟。博纳称，影片已取得国家电影局公映许可证，角色全部采用原创数字形象，没有复制真实演员的数字形象；AI 参与画面生成与执行，创意和制作判断由博纳 AIGMS 团队完成。
+            华纳兄弟电影发布的消息显示，苏斯博士童书改编动画《戴帽子的猫》将引进中国内地院线，具体上映日期尚未公布。影片是华纳兄弟影业动画制作的首部长篇动画电影，北美定于 11 月 6 日上映。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            Bona had previously unveiled a concept trailer for the film at the Hong Kong International Film &amp;amp; TV Market in March this year, only stating at the time that it was planned for release within the year. This time, the specific release date has been announced. The film is part of the Sanxingdui theme development, similar to Bona's short drama &quot;Sanxingdui: Future Revelation&quot; launched in 2024, but this is a theatrical feature film.
+            The film features Bill Hader as the voice of the Cat in the Hat, and is directed by Erica Rivinoja and Alessandro Carloni. In the story, the Cat in the Hat is tasked with helping siblings Gabby and Sebastian, who have moved to a strange town, get back on their feet; the official announcement also revealed voice actors such as Matt Berry, Quinta Brunson, and Bowen Yang.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            博纳今年 3 月曾在香港国际影视展公开影片概念预告，当时只表示计划年内上映。这次公布了具体档期。影片与博纳 2024 年上线的短剧《三星堆·未来启示录》同属三星堆题材开发，但本次为院线长片。
+            电影由 Bill Hader 为戴帽子的猫配音，Erica Rivinoja 与 Alessandro Carloni 执导。故事中，戴帽子的猫受命帮助搬到陌生小镇的姐弟 Gabby 和 Sebastian 重新振作；官方还公布了 Matt Berry、Quinta Brunson、Bowen Yang 等配音演员。
            &lt;/span&gt;
 &lt;/p&gt;</description>
     </item>
     <item>
-      <title>微信「绿泡泡短剧」主打免费看片，借小程序对标红果</title>
-      <pubDate>Mon, 28 Sep 2026 09:36:25 +0000</pubDate>
-      <guid isPermaLink="false">微信「绿泡泡短剧」主打免费看片，借小程序对标红果</guid>
+      <title>2026 年 MTV 音乐录影带大奖揭晓</title>
+      <pubDate>Tue, 29 Sep 2026 09:41:05 +0000</pubDate>
+      <guid isPermaLink="false">2026-年-MTV-音乐录影带大奖揭晓</guid>
       <description>&lt;p style=&quot;font-size: 80%; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem; margin-bottom: 5%;margin: 0!important; padding: 0 0 28px!important; line-height: 1.375rem&quot;&gt;
-&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790554928839-16.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
+&lt;img alt=&quot;Image&quot; src=&quot;https://s3.ifanr.com/wp-content/uploads/2026/09/lark2pad-1790641240175-16.png&quot; style=&quot;display: block; max-width: 100%; height: auto; border-radius: 0;&quot;/&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            WeChat's &quot;Green Bubble Short Drama&quot; mini-program recently launched: users can watch short dramas for free within WeChat without needing to install another app. The homepage organizes content by rankings such as reputation, comic dramas, new dramas, and trending searches, and also features a &quot;Swipe&quot; feed; the playback page supports liking, commenting, favoriting, floating windows, and mini-window viewing.
+            The 2026 MTV Video Music Awards were held on the evening of September 27th, US local time. The complete list of winners announced by the organizers showed that Madonna was the most awarded artist of the night with seven awards, winning categories such as Artist of the Year and Best Dance; Taylor Swift won Video of the Year for &quot;The Fate of Ophelia&quot; and was honored with the inaugural Artist Director Award.
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            微信「绿泡泡短剧」小程序近日上线：用户无需另装 App，就能在微信内免费看短剧。首页按口碑、漫剧、新剧和热搜等榜单组织内容，另有「刷一刷」信息流；播放页支持点赞、评论、收藏、浮窗和小窗观看。
-           &lt;/span&gt;
-&lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
-&lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            WeChat places creator dramas into a unified playback entry through co-distribution, and Video Accounts can also link to series and jump to &quot;Green Bubble Short Drama&quot; to continue watching. On September 23, the WeChat Open Platform launched a new round of incentives for mini-program short dramas, where high-quality new dramas co-distributed can receive revenue sharing and advertising incentives based on average viewing time per person.
-           &lt;/span&gt;
-&lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            微信通过联合发行把创作者剧目放入统一播放入口，视频号也可挂载剧集并跳转至「绿泡泡短剧」继续观看。微信开放平台 9 月 23 日推出新一轮微短剧小程序激励，其中联合发行的优质新剧可按人均观看时长获得分成和广告金激励。
+            2026 年 MTV 音乐录影带大奖于美国当地时间 9 月 27 日晚举行。主办方公布的完整获奖名单显示，麦当娜以七奖成为当晚获奖最多的艺人，拿下年度艺人、最佳舞曲等类别；泰勒·斯威夫特凭《The Fate of Ophelia》获得年度音乐录影带，并获颁首届艺人导演荣誉。
            &lt;/span&gt;
 &lt;/p&gt;&lt;p ondblclick=&quot;toggleLang(this)&quot; style=&quot;line-height: 1.375rem&quot;&gt;
 &lt;span class=&quot;lang-en&quot; style=&quot;display:inline; letter-spacing: .001rem; font-size: .875rem;line-height: 1.375rem;&quot;&gt;
-            &quot;Green Bubble Short Drama&quot; was already in operation previously. WeChat's newly announced incentive plan in September includes the viewing duration of co-distributed dramas as a condition for creator revenue sharing.
+            In the list, LISA won Best Pop Video for &quot;Dream,&quot; a collaboration with Kentaro Sakaguchi, and BTS's &quot;Swim&quot; won Song of the Year and Best K-pop Video. Swift also won Best Director for &quot;Opalite.&quot;
            &lt;/span&gt;
 &lt;span class=&quot;lang-zh&quot; style=&quot;display:none;&quot;&gt;
-            「绿泡泡短剧」此前已在运营。微信 9 月新公布的激励安排，把联合发行剧目的观看时长纳入了创作者分成条件。
+            名单中，LISA 凭与坂口健太郎合作的《Dream》获得最佳流行音乐录影带，BTS 的《Swim》获年度歌曲和最佳 K-pop 音乐录影带。斯威夫特还凭《Opalite》获得最佳导演奖。
            &lt;/span&gt;
 &lt;/p&gt;&lt;div class=&quot;entry-content__tags clearfix&quot;&gt;
 &lt;/div&gt;</description>
