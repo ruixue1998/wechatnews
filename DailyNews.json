@@ -1,258 +1,242 @@
 [
   {
-    "title_zh": "iPhone 国行 AI 官宣，11 月 4 日开放测试",
-    "content_zh": "苹果宣布，首批 Apple 智能功能将于 11 月 4 日随 iOS 开发者 Beta 版在中国开放测试，并于 12 月随 iOS 27.3 正式推出。苹果与阿里巴巴合作，在 Siri、写作工具和视觉智能的部分体验中接入千问，支持文本与图像理解。\n\n首批功能包括信息、FaceTime 和电话中的实时翻译，写作工具的改写、校对与摘要，照片消除、自然语言搜索及回忆影片创建，以及智绘表情、通知摘要和优先邮件等。用户登录千问账户或使用「通过 Apple 登录」后，可在系统内调用千问；写作工具中的「创作」功能也可借助千问生成内容。\n\n支持设备包括 iPhone 15 Pro、iPhone 15 Pro Max、iPhone 16 及后续机型、iPhone Duo 和 iPhone Air。此次更新不包含 Siri AI 及苹果在 WWDC 2026 上公布的其他下一代 Apple 智能功能，其他平台需获得必要审批后推出。\n\n面对面对话翻译需配合安装最新固件的 AirPods 5、AirPods 4 主动降噪款、AirPods Pro 2 及后续机型，或 AirPods Max 2 使用。\n\n🔗 相关阅读：突发！iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405301383-1.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Apple Intelligence to Launch Developer Beta in China on November 4 with Alibaba Integration",
-    "content_en": "Apple has officially announced that the first set of Apple Intelligence features tailored for Mainland China will enter developer beta testing on November 4, followed by a public rollout alongside iOS 27.3 in December. To power text and image processing in Siri, Writing Tools, and Visual Intelligence, Apple has partnered with Alibaba to integrate its Qwen AI model directly into the operating system.\n\nKey features in this initial release range from real-time call and message translation to advanced writing utilities, natural language photo search, object removal tools, and priority notifications. Users will be able to invoke Qwen seamlessly within system tools by signing in with their Qwen account or using \"Sign in with Apple.\"\n\nThe beta will support newer hardware, including the iPhone 15 Pro series, iPhone 16 lineup, iPhone Duo, and iPhone Air. However, next-generation Siri AI capabilities unveiled at WWDC 2026 are excluded from this release and remain subject to local regulatory approvals."
+    "title_zh": "曝苹果明年上半年将更新三款 iPad，Air 拟换 OLED 屏",
+    "content_zh": "彭博社记者 Mark Gurman 在最新一期 Power On 中透露，苹果计划在 2027 年上半年更新入门款 iPad、iPad Air 和 iPad Pro。\n\n其中，iPad Air 将转向 OLED 屏幕，与刚更新的 iPad mini 看齐；iPad Pro 将提升性能，高端机型的重要变化可能是加入均热板，改善游戏和高强度 AI 任务中的散热。入门款 iPad 也将迎来升级。\n\nGurman 表示，按他目前获得的信息，若计划没有推迟，明年下半年预计不会再有重大的 iPad 更新。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577657552-1.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Apple to Refresh Three iPad Models in First Half of 2027, iPad Air Set for OLED Display",
+    "content_en": "According to Bloomberg's Mark Gurman in his latest *Power On* newsletter, Apple is planning a major refresh for its tablet lineup in the first half of 2027, covering the entry-level iPad, iPad Air, and iPad Pro.\n\nKey updates include the iPad Air transitioning to an OLED display to align with the recently refreshed iPad mini. Meanwhile, the iPad Pro will receive a performance boost, with high-end models potentially introducing a vapor chamber cooling system to better handle gaming and high-intensity AI workloads. The entry-level iPad is also slated for an upgrade.\n\nGurman noted that if these plans stay on schedule, Apple is unlikely to release any other major iPad updates in the second half of that year."
   },
   {
-    "title_zh": "DeepSeek 千亿融资曝光，腾讯、宁德时代、长鑫等参投",
-    "content_zh": "据 The Information 报道，DeepSeek 本月完成了约 1055 亿元人民币（约 158 亿美元）的第二轮融资，来自近 30 家投资者，投后估值为 6155 亿元人民币。\n\n报道称，腾讯和宁德时代仍是 DeepSeek 的前两大投资者。本轮新加入的投资方包括长鑫存储及其董事长朱一明，以及中芯国际。vivo、美团、美的、立讯精密、吉利、携程和小红书也参与其中，单家出资规模在 10 亿至 30 亿元人民币之间。\n\n国有电信运营商中国移动、中国电信，投行中金公司、中信证券，以及保险公司中国人寿，出资规模在 20 亿至 80 亿元人民币之间。国家人工智能产业发展基金再次出资 10 亿元人民币，与首轮相同，且是直接投资 DeepSeek。\n\nDeepSeek 在约 6 个月内累计融资 1365 亿元人民币，梁文锋另外向公司投入 20 亿元人民币。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405304216-2.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "DeepSeek Secures Landmark $15.8 Billion Funding Round at $92 Billion Valuation",
-    "content_en": "Chinese AI startup DeepSeek has closed a massive Series B funding round totaling approximately 105.5 billion yuan ($15.8 billion), bringing its post-money valuation to 615.5 billion yuan (~$92 billion), according to a report by *The Information*.\n\nThe round attracted nearly 30 prominent corporate and institutional investors. Tech giant Tencent and battery manufacturer CATL remain DeepSeek's largest backers, joined by semiconductor leaders ChangXin Memory Technologies (CXMT) and SMIC. Other notable corporate participants include Meituan, vivo, Midea, Geely, Luxshare, and Xiaohongshu.\n\nState-owned telecom operators China Mobile and China Telecom, along with major financial institutions and the National AI Industry Development Fund, also contributed substantial capital. In total, DeepSeek has raised over 136.5 billion yuan in under six months, supplemented by a 2 billion yuan personal investment from founder Liang Wenfeng."
+    "title_zh": "我国首次载人登月乘组计划由 3 人组成，2 人着陆月球",
+    "content_zh": "10 月 31 日，中国载人航天工程副总设计师兼月球探测工程总设计师王翔在第七届载人航天学术大会上介绍，我国首次载人月球探测任务乘组计划由 3 人组成，其中 2 人着陆月球表面。\n\n据《环球时报》记者现场报道，我国计划在 2030 年前实现中国人登陆月球，采用「两次发射，一次登月」的环月轨道对接方案：先用一枚长征十号运载火箭将着陆器送往月球轨道，再发射载人飞船，与着陆器交会对接。航天员进入着陆器后，与载人飞船分离并着陆月面，开展科学探测。\n\n月面任务完成后，航天员将乘着陆器上升，在月球轨道与载人飞船再次交会对接，随后乘载人飞船返回地球。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577660624-2.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "China Outlines First Crewed Lunar Mission: 3 Astronauts to Orbit, 2 to Land on the Moon",
+    "content_en": "China's first crewed lunar mission will feature a three-person crew, with two astronauts landing on the Moon, announced Wang Xiang, Deputy Chief Designer of China's Manned Space Engineering and Chief Designer of the Lunar Exploration Project, at the 7th Manned Spaceflight Academic Conference.\n\nTargeting a crewed lunar landing before 2030, China plans to utilize a \"two launches, one landing\" lunar orbit rendezvous profile. A Long March 10 rocket will first launch the lunar lander into lunar orbit, followed by a second launch carrying the crewed spacecraft to rendezvous and dock with the lander. Two astronauts will then transfer to the lander, separate from the main spacecraft, and descend to the lunar surface to conduct scientific exploration.\n\nUpon completing their surface activities, the astronauts will ascend in the lander to re-dock with the crewed spacecraft in lunar orbit before making their return journey to Earth."
   },
   {
-    "title_zh": "特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起",
-    "content_zh": "特斯拉在中国推出新一轮 5 年零息购车金融方案，活动时间为 10 月 30 日至 11 月 30 日（含）。据界面新闻，Model 3 和 Model Y 的后轮驱动版、长续航后轮驱动版及长续航全轮驱动版可参加，首付均为 3.99 万元起。\n\n本轮方案采用「首付 + 月付 + 期末尾款」的结构。Model 3 尾款立减 1 万元后，五年月供最高约 2429 元；Model Y 尾款立减 4000 元后，五年月供最高约 2995 元。两者在分期结束时均另有 3.99 万元尾款。\n\nModel Y L 首付为 5.99 万元起，五年月供最高约 3920 元，期末尾款同为 3.99 万元。特斯拉中国 Model 3 订购页也列出了限时 5 年零息和指定版本尾款立减权益。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405306816-3.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Tesla Launches 5-Year Zero-Interest Financing in China for Model 3 and Model Y",
-    "content_en": "Tesla has launched a new limited-time 5-year zero-interest financing campaign in Mainland China, valid from October 30 through November 30. The promotion covers select Rear-Wheel Drive and Long Range variants of the Model 3 and Model Y, with down payments starting at 39,900 yuan (~$5,600).\n\nThe financing plan utilizes a structure consisting of a down payment, monthly installments, and a final balloon payment. Tesla is offering cash discounts on the final balloon payment—10,000 yuan off for Model 3 and 4,000 yuan off for Model Y—bringing maximum monthly payments down to approximately 2,429 yuan and 2,995 yuan, respectively.\n\nAdditionally, the premium Model Y L is included in the program with a down payment starting at 59,900 yuan and monthly payments capped at roughly 3,920 yuan. Both models retain a 39,900 yuan final payment due at the end of the five-year term."
+    "title_zh": "ChatGPT 与 Codex 将从 12 月起共享额度，Instant 聊天不扣额度",
+    "content_zh": "OpenAI 更新帮助中心说明，计划从 12 月起，将 Plus、Pro 和 Business 套餐在 ChatGPT 与 Codex 中的使用额度合并计算。这项调整与 ChatGPT Work 的智能体能力并入 ChatGPT 有关。\n\n两项服务将按 token 统一衡量用量，消耗取决于所选模型和任务复杂度：更强的模型、复杂任务通常会消耗更多额度，Instant 即时聊天不占用这部分额度。\n\n合并后的剩余额度与重置时间将显示在「设置 → 使用量」中。用完后，用户可等待重置、升级套餐，或购买积分继续使用符合条件的功能。\n\n🔗 相关阅读：ChatGPT要和Codex共用额度，免费重置时代结束了",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577662558-3.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "OpenAI to Merge ChatGPT and Codex Usage Quotas Starting December",
+    "content_en": "OpenAI has updated its Help Center to announce that starting in December, usage limits for Plus, Pro, and Business plans will be shared across ChatGPT and Codex. This change is tied to the integration of ChatGPT Work's agentic capabilities into ChatGPT.\n\nUsage across both services will be measured uniformly in tokens, with consumption depending on the chosen model and task complexity. Advanced models and complex requests will consume more of the quota, whereas standard \"Instant\" chats will not count against this limit.\n\nUsers will be able to track their remaining quota and reset times under **Settings → Usage**. Once a limit is reached, subscribers can wait for the scheduled reset, upgrade their plan, or purchase credits to continue accessing eligible features."
   },
   {
-    "title_zh": "于东来建议支持「消费入座」，餐厅可拒绝外带食物就餐",
-    "content_zh": "胖东来创始人于东来发文，建议以制度支持「消费入座」，保护商家及消费顾客的利益，并支持餐厅拒绝顾客携带外带食物就餐。\n\n据界面新闻报道，他将这项建议与培养商业秩序、商业环境及消费习惯联系在一起，同时提到个人的品格修养。\n\n他写道：「培养文明美好的商业秩序和商业环境、良好的消费习惯和推动个人的品格修养！」发文将餐厅入座及外带食物问题，放在商家、在店消费顾客双方利益的讨论中。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405308856-4.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Pangdonglai Founder Advocates 'Pay-to-Sit' Policy and Outside Food Bans in Restaurants",
-    "content_en": "Yu Donglai, the founder of retail giant Pangdonglai, has proposed establishing institutional policies to support a \"pay-to-sit\" rule in restaurants, effectively granting businesses the right to refuse outside food and non-paying visitors.\n\nAccording to Jiemian News, Yu framed the initiative around safeguarding the mutual interests of business owners and paying customers. He emphasized that enforcing such guidelines helps cultivate a civilized commercial environment, fosters healthier consumer habits, and encourages higher standards of personal etiquette."
-  },
-  {
-    "title_zh": "开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本",
-    "content_zh": "开发者 SmuOS 展示了在微软 Surface Duo 2 上运行 iOS 27 的最新进展。这次使用的是 iPhone Duo 版本，系统桌面可以识别折叠设备的内外屏布局。\n\n据其原帖，iOS 27 通过显示类型 31 与 32 区分外屏和展开状态。SpringBoard 检测到这两种类型后，才会启用 Duo 专属桌面布局。开发者还展示了界面缩放过大的画面，显示适配仍在调整。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405311830-5.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Developer Successfully Boots Custom Dual-Screen iOS Build on Surface Duo 2",
-    "content_en": "Developer SmuOS has showcased new progress in running a tailored \"iPhone Duo\" build of iOS on Microsoft's dual-screen Surface Duo 2. The system's desktop interface is now capable of recognizing the device's folded and expanded screen configurations.\n\nAccording to the developer, the system relies on specific display type flags to trigger the Duo-exclusive desktop layout via SpringBoard. While the proof-of-concept works, interface scaling issues remain, indicating that full adaptation is still actively under development."
-  },
-  {
-    "title_zh": "REDMI 回应 K100 选用旧旗舰芯：性能表现胜任游戏",
-    "content_zh": "REDMI 发布 K100、REDMI Book 2027 与 REDMI Clip Neo 的答网友问，回应新产品的芯片、散热及麦克风设计。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405314847-6.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "REDMI Defends Chipset Choice for K100 in Latest Community Q&A",
-    "content_en": "REDMI has released an official Q&A session addressing consumer queries regarding its latest product lineup, which includes the REDMI K100 smartphone, REDMI Book 2027, and REDMI Clip Neo.\n\nAddressing criticism over opting for a previous-generation flagship processor in the REDMI K100, the brand assured users that the chip's performance remains fully capable of delivering a seamless gaming experience. The response also clarified details regarding thermal dissipation systems and microphone configurations across the new devices."
-  },
-  {
-    "title_zh": "张雪称拉黑母亲微信，反对机构把家人当作流量入口",
-    "content_zh": "张雪机车创始人张雪发布视频称，自己已拉黑母亲的微信。他表示，夺冠后母亲频繁接受拍摄和采访，自己曾多次要求停止。\n\n张雪反对机构及个人把家人当作流量入口，并表示：「所有想以我妈为流量入口的机构或者人，我都鄙视你。」\n\n张雪在视频文案中还写道：「所有消耗我的人或事，我会毫不犹豫地砍掉，不管你是谁。」",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405319777-7.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Zhang Xue Blocks Mother on WeChat, Condemning Exploitation of Family for Online Traffic",
-    "content_en": "Zhang Xue, founder of Zhang Xue Motorcycle, revealed in a recent video that he has blocked his mother on WeChat after she repeatedly participated in media interviews and video shoots following a recent championship victory. Zhang stated that he had urged her to stop multiple times without success.\n\nTaking a firm stance against the exploitation of his personal life, Zhang voiced strong opposition to media agencies and individuals attempting to monetize his family for social media clout. He expressed deep disdain for anyone using his mother as a traffic driver and declared that he would cut off anyone or anything draining his energy, regardless of who they are."
-  },
-  {
-    "title_zh": "OpenAI 重构模型规范，将「忠于人类意图」列为首项准则",
-    "content_zh": "近日，OpenAI 更新 Model Spec，以五项价值重新组织模型行为原则：忠于人类意图、减少伤害、诚实透明、保障人的自主选择，以及审慎关怀。规范面向驱动 ChatGPT 和 API 等产品的 GPT 模型，公开说明公司希望如何塑造模型行为。\n\n新版把用户和开发者想完成什么放在核心位置，同时保留指令层级与安全边界。对于目标尚不明确的任务，模型应结合上下文理解意图；对事实、证据、不确定性、能力和实际采取的行动，则应如实说明，让人能够评估其工作。\n\n规范还专门讨论了即时指令与长期目标之间的张力：模型可以提示被忽略的后果、帮助用户思考，但不能把自己预测用户将来会作出的选择，视为用户已经作出的决定。OpenAI 表示，线上模型尚未完全达到规范要求，公司将继续调整训练与系统。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405323072-8.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "OpenAI Overhauls Model Spec, Placing Fidelity to Human Intent at Its Core",
-    "content_en": "OpenAI has released an updated version of its Model Spec, reorganizing its AI behavior principles around five core values: fidelity to human intent, harm reduction, honesty and transparency, respect for human autonomy, and thoughtful care. The framework applies to GPT models powering ChatGPT and OpenAI's API, serving as a public blueprint for shaping AI behaviors.\n\nThe revised specification prioritizes user and developer intentions while preserving instruction hierarchies and safety boundaries. For ambiguous tasks, models are expected to infer context to determine user intent. Furthermore, models must provide truthful disclosures regarding facts, uncertainties, capabilities, and executed actions to help users properly evaluate outputs.\n\nThe document also addresses the tension between immediate prompts and long-term goals. While models may highlight overlooked consequences to assist user decision-making, they are strictly prohibited from assuming predicted future choices as finalized decisions. OpenAI acknowledged that its live models do not yet fully comply with the updated guidelines, promising ongoing refinements to training and systems."
-  },
-  {
-    "title_zh": "米哈游《星布谷地》定档 12 月 4 日公测",
-    "content_zh": "米哈游旗下生活模拟游戏《星布谷地》宣布，公测将于 12 月 4 日开启，官方同步发布定档宣传片，11 月 1 日 19:00 将举办公测前瞻特别节目。\n\n玩家在游戏中扮演「种星人」，经营一颗自己的星球：改造地形、规划区域，采集资源并制作家具；也可以与动物邻居一起采摘、冒险和建房。向外探索时，玩家可驾船前往不同地貌和生态的星屿，寻找资源，并在星空街市与其他玩家相遇。\n\n据巴哈姆特 GNN 报道，游戏将于 12 月 1 日开放预下载，登陆 PC、iOS 和 Android。官网已开放预约，完成预约可获得「星空贴贴手灯」，全球预约里程碑还将解锁「小星苗」套装等奖励。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405327928-9.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "HoYoverse Sets December 4 Open Beta Release for Life-Sim Game 'Astaweave Haven'",
-    "content_en": "HoYoverse has officially announced that its upcoming life-simulation title, *Astaweave Haven*, will enter open beta on December 4. A promotional trailer was released alongside the announcement, and a special pre-launch showcase stream is scheduled for November 1 at 19:00.\n\nIn *Astaweave Haven*, players take on the role of planet managers who customize and develop their own celestial home. Gameplay features terrain customization, resource harvesting, furniture crafting, and home building, as well as adventuring alongside animal neighbors. Players can also sail to various island ecosystems to gather rare resources and socialize with other players at a celestial night market.\n\nPre-downloads will open on December 1 across PC, iOS, and Android. Pre-registration is currently open on the official website, offering exclusive in-game items and milestone rewards for participants."
-  },
-  {
-    "title_zh": "大众 CFO：电动车热销也带来利润压力，须加快降本",
-    "content_zh": "大众集团 CFO 兼 COO Arno Antlitz 在前三季度业绩声明中表示，电动车在欧洲的订单占比达到 40%，但现阶段电动车利润低于燃油车，销量增长也给盈利带来额外压力。\n\n他同时提到美国关税、中国市场收缩和欧洲竞争加剧。大众前三季度剔除特殊项目后的营业销售回报率为 3.8%，他认为这一水平不足以支撑未来的大规模投入。\n\nAntlitz 提出的应对措施包括精简车型、简化组织、降低车辆及管理成本、提高工厂效率，并加快技术开发。他要求迅速、一致地执行这些措施。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405332025-10.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Volkswagen CFO Warns Strong EV Sales Strain Profits, Urges Accelerated Cost Cuts",
-    "content_en": "Volkswagen Group Chief Financial Officer and Chief Operating Officer Arno Antlitz warned that rising electric vehicle sales are squeezing profitability, despite EVs accounting for 40% of the company's orders in Europe. Currently, EVs yield lower profit margins than traditional internal combustion engine vehicles, creating extra earnings pressure as sales volume expands.\n\nAntlitz highlighted a challenging global backdrop, citing U.S. tariffs, a contracting market share in China, and fierce competition across Europe. Volkswagen reported an operating return on sales of 3.8% before special items for the first three quarters—a level he deemed insufficient to sustain the massive investments required for the future.\n\nTo address these headwinds, the executive outlined a comprehensive strategy focused on streamlining vehicle lineups, simplifying organizational structures, cutting production and administrative overhead, boosting plant efficiency, and accelerating technological development."
-  },
-  {
-    "title_zh": "OPPO 调整高管分工：李炳忠统管海外，尹文广负责全系手机",
-    "content_zh": "据界面新闻 10 月 30 日报道，OPPO 发布高管任命与分工调整通知：高级副总裁李炳忠全面负责海外业务，对 OPPO 及子系列在海外市场的经营结果负责；副总裁尹文广负责所有手机产品系列，向首席产品官刘作虎汇报。\n\n李炳忠是 OPPO 早期出海开拓者之一，曾参与一线市场、本土化运营和全球品牌业务；尹文广长期负责产品规划。刘作虎则统筹手机与生态产品的协同体验、技术创新及新品类开拓。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405334406-11.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "OPPO Reshhuffles Executive Roles to Boost Global Expansion and Product Focus",
-    "content_en": "Chinese smartphone maker OPPO has restructured its executive leadership responsibilities to streamline global operations and product development, according to a report by Jiemian News on October 30.\n\nUnder the new arrangement, Senior Vice President Sky Li (Li Bingzhong) will oversee all overseas business, taking full responsibility for the international operational results of both OPPO and its sub-brands. Li, an early pioneer of OPPO's global expansion, brings extensive experience in overseas market operations, localization, and brand building.\n\nMeanwhile, Vice President Yin Wenguang has been appointed to head all smartphone product lines, reporting directly to Chief Product Officer Pete Lau (Liu Zuohu). Yin has a long track record in product strategy and planning. Pete Lau will focus on overarching synergies between smartphones and ecosystem products, driving technological innovation, and expanding into new product categories."
-  },
-  {
-    "title_zh": "亚马逊 CEO：2027 年资本开支将明显高于今年的 2200 亿美元",
-    "content_zh": "亚马逊 CEO Andy Jassy 在第三季度财报电话会上表示，公司仍计划在 2026 年投入 2200 亿美元资本开支，2027 年的支出将「明显更多」。\n\n据 Business Insider 原始报道，亚马逊第三季度现金资本开支为 759 亿美元，主要投向 AWS 与 AI 基础设施；过去 12 个月自由现金流为负 424 亿美元。\n\nJassy 表示，大型客户会提前预订数百兆瓦、甚至吉瓦级的算力容量，公司因此能看到 2027 年、2028 年乃至部分 2029 年的需求。他预计 AWS 在 2027 年和 2028 年的收入增速均可超过 40%。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405338293-12.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Amazon CEO Signals Surge in Capital Expenditure Beyond 2026 Driven by AI Demand",
-    "content_en": "Amazon CEO Andy Jassy revealed during the company's Q3 earnings call that capital expenditures in 2027 will be \"significantly higher\" than the $220 billion planned for 2026, driven by unprecedented demand for cloud and artificial intelligence infrastructure.\n\nThe aggressive spending surge follows a third-quarter cash capex of $75.9 billion, primarily directed toward AWS and AI hardware. Free cash flow over the trailing 12 months dropped to negative $42.4 billion as a result of these massive infrastructure commitments.\n\nJassy emphasized that major enterprise clients are securing massive compute capacity—ranging from hundreds of megawatts to gigawatt levels—well in advance, granting Amazon clear visibility into demand stretching into 2027, 2028, and even 2029. Backed by this momentum, he projects AWS revenue growth to surpass 40% annually in both 2027 and 2028."
-  },
-  {
-    "title_zh": "Reddit CEO：Google AI Mode 没给网站带来流量",
-    "content_zh": "Reddit CEO Steve Huffman 在第三季度财报电话会上表示，Google 的 AI Mode 没有给 Reddit 带来流量；据他所知，其他网站也没有从中受益。\n\n据 The Verge 原始报道，Reddit 在 10 月来自 Google 的平均每周引荐流量减少超过 100 万。Huffman 认为，AI Overview 和 AI Mode 将外部链接推到更靠下的位置，部分美国以外市场的机器翻译内容排名也有所下降。\n\n他同时表示，用户对 Reddit 的搜索需求仍然存在，Google 抓取 Reddit 的活动没有出现相应下降。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405339632-13.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Google's AI Features Drive No Traffic to Web, Says Reddit CEO",
-    "content_en": "During Reddit's Q3 earnings call, CEO Steve Huffman stated that Google's new AI features, including AI Mode and AI Overviews, have failed to drive traffic to Reddit—or virtually any other website, to his knowledge.\n\nAccording to reports citing *The Verge*, Reddit experienced a drop of over one million weekly referral visits from Google in October. Huffman attributed this decline to Google's AI-generated summaries pushing external links further down search result pages, alongside a ranking drop for machine-translated content outside the U.S.\n\nDespite the reduction in referral traffic, Huffman noted that search demand for Reddit content remains strong, and Google has not reduced its web crawling activity on the platform."
-  },
-  {
-    "title_zh": "奇瑞前三季度营收 2412.34 亿元，归母净利润下滑",
-    "content_zh": "奇瑞汽车公布截至 9 月底的未经审计业绩，前三季度收入为 2412.34 亿元，上年同期为 2148.33 亿元；归母净利润为 139.63 亿元，上年同期为 143.65 亿元。\n\n期内毛利润由 294.64 亿元增至 390.04 亿元。研发费用由 78.78 亿元增至 110.46 亿元，销售与行政费用也有所增加。\n\n汇率变化影响了其他收支：本期录得汇兑净损失 31.71 亿元，上年同期则有汇兑净收益 29.74 亿元。",
+    "title_zh": "多家车企公布 10 月成绩单",
+    "content_zh": "多家车企公布 10 月销量或交付数据。零跑连续四个月交付超过 10 万辆，蔚来三品牌合计交付 34,246 辆；上汽集团整车销量同比下降，新能源汽车与海外业务继续增长。",
     "image_url": "",
-    "date": "2026-10-31 08:14",
-    "title_en": "Chery Automobile Reports Revenue Growth but Dips in Net Profit for First Nine Months",
-    "content_en": "Chery Automobile released its unaudited financial results for the first nine months of the year, reporting revenue of 241.23 billion yuan (approx. $33.8 billion), up from 214.83 billion yuan in the same period last year. However, net profit attributable to the parent company dropped slightly to 13.96 billion yuan, down from 14.36 billion yuan year-over-year.\n\nDespite the net profit decline, the automaker's gross profit rose significantly from 29.46 billion to 39.00 billion yuan. The bottom line was primarily weighed down by higher operational investments—such as R&D expenses, which surged from 7.88 billion to 11.05 billion yuan—alongside increased sales and administrative costs.\n\nForeign exchange volatility also severely impacted profitability. Chery recorded a net foreign exchange loss of 3.17 billion yuan during the period, compared to a net exchange gain of 2.97 billion yuan in the prior-year period."
+    "date": "2026-11-02 08:03",
+    "title_en": "Automakers Detail October Results as EV Growth Diverges Across Brands",
+    "content_en": "Several major automakers have released their sales and delivery numbers for October, highlighting shifting performance across Chinese electric vehicle (EV) brands and legacy manufacturers.\n\nRising player Leapmotor maintained strong sales momentum, delivering over 100,000 vehicles across a four-month period. NIO recorded a combined total of 34,246 vehicle deliveries across its three sub-brands. \n\nIn contrast, legacy giant SAIC Motor reported a decline in overall vehicle sales year-over-year, though its new energy vehicle segment and international operations continued to show steady growth."
   },
   {
-    "title_zh": "传音第三季度营收下降 27.45%，前三季度归母净利润仍增长",
-    "content_zh": "传音控股披露第三季度报告：第三季度营业收入为 148.49 亿元，同比下降 27.45%；归母净利润为 8.57 亿元，同比下降 8.40%；扣非归母净利润为 4.36 亿元，同比下降 47.72%。\n\n拉长至前三季度，收入为 502.80 亿元，同比增长 1.49%；归母净利润为 26.30 亿元，同比增长 22.44%。公司在报告中将第三季度扣非利润下降与供应链成本上升、市场容量变化带来的收入减少联系起来。\n\n前三季度经营活动现金流净流出 98.73 亿元。公司称，存储价格上升、备货增加及采购支付增长影响了现金流。",
+    "title_zh": "奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用",
+    "content_zh": "10 月 31 日，OpenAI CEO 萨姆·奥特曼受邀来到韩国龙仁的三星人力开发院，与三星电子、金融、生物医药等业务约 50 名高管举行座谈。三星向韩国媒体介绍，本次主题为「AI 将改变的未来十年：企业的选择」，讨论技术演进、产业应用和新市场机会。\n\n据《每日经济新闻》报道，座谈前，高管还接受了生成式 AI 实操培训，学习整理分散的经营资料、建立个人知识库，并将其用于决策。三星自 6 月起推进覆盖研发、生产、营销和支持部门的 AI 转型，计划将高管培训扩展至普通员工，于 2027 年 2 月完成全员 AI 培训。\n\n双方此前已在 AI 基础设施上展开合作：三星电子与 OpenAI 去年 10 月签署意向书，推进 Stargate 项目的存储芯片供应；三星 SDS 参与 AI 数据中心及企业 AI 服务合作，三星物产和三星重工则推进海上浮式数据中心的共同开发。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577664193-4.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Sam Altman Meets Samsung Leadership to Discuss Commercial AI in the Coming Decade",
+    "content_en": "OpenAI CEO Sam Altman met with roughly 50 senior executives from Samsung’s electronics, financial, and biopharmaceutical divisions on October 31 at the Samsung Leadership Development Center in Yongin, South Korea. The session, titled \"The Next Decade Transformed by AI: Choices for Enterprises,\" focused on technological evolution, industrial applications, and new market opportunities.\n\nPrior to the discussion, Samsung executives underwent hands-on generative AI training to learn how to synthesize operational data and build personal knowledge bases for executive decision-making. This initiative aligns with Samsung's enterprise-wide AI transformation launched in June, which aims to complete AI training for all employees by February 2027.\n\nThe meeting underscores deepening ties between OpenAI and Samsung affiliates. Samsung Electronics previously signed a memorandum of understanding to supply memory chips for OpenAI's Stargate project, while Samsung SDS, Samsung C&T, and Samsung Heavy Industries are collaborating on enterprise AI solutions and floating offshore data centers."
+  },
+  {
+    "title_zh": "TCL 华星 t8 产线设备进场，计划明年底量产印刷 OLED",
+    "content_zh": "TCL 华星 10 月 31 日在广州举行 t8 项目设备搬入仪式，首台核心工艺设备进场，产线由厂房建设转入设备安装与调试阶段。这条 G8.6 印刷 OLED 产线计划于 2027 年第四季度量产。\n\n据 TCL 华星项目新闻稿，t8 总投资约 295 亿元，设计月加工玻璃基板能力约 2.25 万片，主要面向平板、笔记本电脑和显示器，也可延伸至柔性、折叠显示屏。接下来将开展产线安装、动力系统联调和工艺验证。\n\n印刷 OLED 通过喷墨打印，将有机发光材料按需沉积到玻璃基板上。TCL 华星称，相较真空蒸镀，这一路线能提高材料利用率；公司此前已在武汉 t12 的 G5.5 代线上实现印刷 OLED 量产。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577666367-5.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "TCL CSOT Moves to Equipment Installation for 29.5B Yuan Printed OLED Line",
+    "content_en": "TCL CSOT marked a major milestone for its t8 project in Guangzhou on October 31 as the first core process equipment arrived on-site, transitioning the facility from structural construction to equipment installation and commissioning. The Generation 8.6 inkjet printed OLED line is targeted for mass production in the fourth quarter of 2027.\n\nRepresenting a total investment of approximately 29.5 billion yuan, the t8 line is designed with a monthly capacity to process 22,500 glass substrates. The facility will primarily produce displays for tablets, laptops, and desktop monitors, with potential applications extending to flexible and foldable screens.\n\nUnlike conventional vacuum thermal evaporation, inkjet printing deposits organic light-emitting materials directly onto glass substrates on demand, significantly improving material efficiency. TCL CSOT previously achieved mass production of printed OLEDs on its Gen 5.5 t12 line in Wuhan."
+  },
+  {
+    "title_zh": "AI 控制机械臂完成活鼠脑内注射，兽医负责开颅",
+    "content_zh": "生物技术公司 Exin Therapeutics 将 AI 智能体接入实验设备，让它选择基因疗法并控制机械臂，为一只癫痫模型小鼠完成脑内注射。创始人 Gabriel Ocana Santero 向 WIRED 介绍，兽医先完成开颅，AI 再从表格中的 19 个选项选择疗法、脑区和注射坐标，并控制注射量与速度。\n\n团队最初测试 Claude Opus 5.5，它完成了实验规划，但拒绝将针头伸入小鼠大脑；换用 Claude Sonnet 5 后才继续操作。团队要求注射方案先由人类批准，并设置可切断设备电机的紧急按钮，同时禁止智能体改动设备底层代码。\n\n过程中，设备坐标系统出现故障。智能体识别出注射位置计算有误，却因上述限制无法修改代码，团队另用一个 Opus 5 智能体修复。整场实验耗时略超一小时，常规同类操作约需 45 分钟。Santero 称小鼠恢复良好，团队正等待基因疗法起效，再评估对癫痫发作的影响。\n\n🔗 相关阅读：Claude 给活鼠做了场脑部手术，Opus 5.5 却不肯动手",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577667682-6.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "AI-Powered Robotic Arm Performs Brain Injection on Live Mouse",
+    "content_en": "Biotech startup Exin Therapeutics has successfully used an AI agent to control a robotic arm and perform an intracranial injection on a live mouse model of epilepsy.\n\nDuring the procedure, a veterinarian first performed the craniotomy. The AI agent then selected the gene therapy, target brain coordinates, dosage, and speed from a set of predefined parameters before executing the injection. Interestingly, the team initially tried using Claude Opus 5.5, but the model refused to insert the needle into a living animal. Switching to Claude Sonnet 5 allowed the test to proceed under strict human oversight and safety controls.\n\nDespite a minor coordinate calculation error during the operation—which required a secondary AI agent to resolve—the procedure was completed in just over an hour. The mouse is currently recovering well while researchers monitor the long-term effectiveness of the gene therapy."
+  },
+  {
+    "title_zh": "西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型",
+    "content_zh": "10 月 31 日，西湖世界模型研究中心在西湖大学成立，由工学院助理教授、博士生导师于开丞担任主任。这个校级交叉科研平台将以构建通用世界模型为使命，于开丞在接受潮新闻专访时表示，规划在三年内做到 1000 亿参数规模。\n\n他用拿杯子解释世界模型的思路：机器在伸手之前，先预演从正面还是侧面拿、会不会碰到其他物体，再选择把握更大的路径。模型预测的是世界的下一个状态，以便在行动前发现问题；机器人操作、自动驾驶等是他举出的应用场景。\n\n于开丞同时强调，参数量不等于能力，训练数据、架构、训练方法与任务聚焦度同样关键，要「先做对，才能做大」。中心计划联通西湖大学各学院开展跨学科合作，并面向全球招引人才。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577671654-7.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Westlake University Launches World Model Center to Build 100-Billion Parameter AI",
+    "content_en": "Westlake University has officially launched the Westlake World Model Research Center, headed by Assistant Professor Kaicheng Yu from the School of Engineering. The cross-disciplinary platform aims to develop universal world models, targeting a 100-billion parameter scale within three years.\n\nWorld models enable AI systems to predict future environmental states before acting, making them vital for applications such as robotics and autonomous driving. Yu explained that before performing an action—such as reaching for a cup—the model mentally simulates different trajectories to avoid obstacles and select the safest route.\n\nYu emphasized that model size alone does not equal capability, advocating for an approach focused on architectural precision and data quality before scaling up. The center plans to collaborate across university departments and recruit top scientific talent worldwide."
+  },
+  {
+    "title_zh": "Claude Code 限制 Opus 5.5 复刻现有游戏，原创游戏仍可制作",
+    "content_zh": "Anthropic 开发者 Addy Osmani 确认，团队在 Claude Code 使用 Opus 5.5 时的提示词中增加了两句话，引导模型避开复刻他人的某款特定游戏。其依据是，使用 Claude 侵犯知识产权违反公司的使用政策。\n\nOsmani 表示，原创游戏、某一类型的游戏，以及采用用户自有设计和素材制作的游戏，都应继续正常工作。他同时称团队会持续迭代规则，若模型拒绝处理用户自己的内容，可以把案例发给他。\n\n这次说明回应了用户对 Claude Code 新规则的质疑。相关用户展示的规则写明，即使把现有游戏改名，或声称作品是原创，也不应直接复刻。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577673041-8.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Anthropic Restricts Claude Code from Cloning Existing Video Games",
+    "content_en": "Anthropic developer Addy Osmani confirmed that recent prompt updates to Claude Code using Opus 5.5 explicitly instruct the model to avoid replicating existing copyrighted video games, ensuring compliance with the company's intellectual property policies.\n\nThe restrictions target direct clones and attempts to bypass copyright rules by renaming existing titles. However, developers remain free to use Claude Code for creating original games, generic genre titles, or projects using their own custom assets.\n\nOsmani added that Anthropic will continue fine-tuning these rules and invited users to report any false positives where the model mistakenly rejects legitimate, original work."
+  },
+  {
+    "title_zh": "Claude Ultra 取消已验证账户的 5 小时限额，周额度仍保留",
+    "content_zh": "Anthropic 调整 Claude 订阅套餐，将原 Max 20x 更名为 Ultra，并取消已验证 Ultra 账户的 5 小时用量限制。原有订阅者自动转入新套餐，网页订阅价格仍为每月 200 美元。\n\n据官方帮助文档，Ultra 每周用量为 Pro 的 10 倍，所有模型共用周额度，Fable 另有独立的每周限制。用户可以在周额度内自行安排使用节奏。\n\n账户验证由系统依据账户和付款历史自动完成，尚未验证的账户暂时保留限制，验证后自动解除；结账时的手机号验证与这项审核分开。在「设置 — 用量」中看不到当前会话进度条，即表示账户已通过验证。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577674801-9.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Anthropic Rebrands Claude Max 20x to Ultra, Lifts 5-Hour Limit for Verified Users",
+    "content_en": "Anthropic has updated its Claude subscription plans, rebranding the \"Max 20x\" tier as \"Ultra\" and removing the 5-hour usage limit for verified accounts. Existing subscribers have been automatically transitioned to the new tier, with the web subscription remaining at $200 per month.\n\nAccording to official documentation, the Ultra plan provides 10 times the weekly usage limit of the Pro plan. All models share this weekly cap, with the exception of Fable, which maintains a separate weekly limit. Users can pace their usage freely within their weekly allocation.\n\nAccount verification is automated based on account and payment history. Unverified accounts temporarily retain the 5-hour restriction until verified. Users can check their status under \"Settings — Usage\"; the absence of a session progress bar indicates that the account is verified."
+  },
+  {
+    "title_zh": "黑石下调评级预期，预计 Anthropic 上市后或仍处「垃圾级」",
+    "content_zh": "据《金融时报》报道，黑石向投资者表示，预计 Anthropic 在 IPO 后将获得双 B 区间的信用评级，处于投机级、俗称「垃圾级」的较高档位。黑石此前曾预计，这家公司会在 2027 年之前获得投资级评级。\n\nTechCrunch 向 Anthropic 与黑石求证，双方均拒绝置评。黑石是 Anthropic 芯片融资交易的主要投资方，其判断变化涉及这家 AI 公司后续的融资条件。\n\n若评级停留在投机级，Anthropic 为持续扩大的算力支出筹资将更困难，成本也可能更高。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577676536-10.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Blackstone Trims Anthropic Credit Outlook, Expects Post-IPO Junk Status",
+    "content_en": "Blackstone has told investors that AI startup Anthropic is expected to receive a credit rating in the Double-B range—classified as high-grade speculative or \"junk\" status—following a potential IPO, according to the *Financial Times*. This marks a downgrade from Blackstone's prior projection that Anthropic would reach investment-grade status before 2027.\n\nBoth Anthropic and Blackstone declined to comment. As a primary investor in Anthropic's chip financing deals, Blackstone's revised outlook reflects shifting expectations around the AI firm's future borrowing conditions.\n\nRemaining in speculative territory could make it significantly harder and more expensive for Anthropic to secure funding for its rapidly growing compute infrastructure costs."
+  },
+  {
+    "title_zh": "奇瑞回应智界独立：希望团队更像新势力，明年将导入新产品",
+    "content_zh": "在 10 月 31 日的三季度媒体沟通交流会上，奇瑞汽车执行副总裁戚士龙回应智界独立运营时表示，希望智界团队更像新势力企业，避免做成「大一号」的传统车企。\n\n他表示，奇瑞将从组织规模化、产品高端化及品牌逐步优化等方面，提升智界独立运营能力。据界面新闻报道，智界明年还会导入新产品，海外业务仍由奇瑞集团独立运营。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577679336-11.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Chery Addresses Luxeed Independence, Urging Startup-Style Agility Ahead of New Product Launch",
+    "content_en": "At a Q3 media event on October 31, Chery Automobile Executive Vice President Qi Shilong addressed the independent operation of Luxeed (Zhijie), stating that he hopes the team operates more like an EV startup rather than a scaled-up traditional automaker.\n\nQi noted that Chery will strengthen Luxeed's operational independence through organizational scaling, product premiumization, and brand optimization.\n\nAccording to *Jiemian News*, Luxeed plans to introduce new models next year, while Chery Group will continue to independently handle Luxeed's overseas business."
+  },
+  {
+    "title_zh": "Grok API 将默认加入隐形文本水印，团队可按模型关闭",
+    "content_zh": "Grok 开发文档公布，11 月 7 日起，Grok 4.7、4.6、4.5、4.3 及三款 Grok 4.20 模型的 API 文本输出将默认加入隐形水印，覆盖全球及区域端点。团队管理员可在控制台按模型关闭水印。\n\n水印在生成过程中微调 Token 的选择，不向回复添加隐藏字符或标记，普通文本、结构化输出和工具调用参数都在覆盖范围内。开发者无需修改请求，可通过响应中的 x-watermark 标头查看该次输出是否带水印。\n\n官方称，此举是为遵守欧盟《人工智能法案》。检测采用统计方法，文本越长，信号越强；检测 API 需另行申请使用权限。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577681053-12.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "xAI's Grok API to Enable Invisible Text Watermarks by Default",
+    "content_en": "Starting November 7, xAI's Grok API will automatically embed invisible text watermarks across outputs from Grok 4.7, 4.6, 4.5, 4.3, and select 4.20 models. The default setting applies globally to plain text, structured outputs, and tool call parameters, though team administrators can opt out per model via the control console.\n\nUnlike traditional approaches, this watermarking technique subtly adjusts token selection during generation rather than inserting visible markers or hidden characters. Developers can verify watermark status using the `x-watermark` response header without altering their request payloads.\n\nAccording to xAI, the move aims to comply with the European Union's AI Act. Detection relies on statistical methods—yielding higher confidence in longer texts—and access to the detection API will require a separate application."
+  },
+  {
+    "title_zh": "小鹏 MONA 明年将在部分城市开独立门店",
+    "content_zh": "据界面新闻报道，小鹏集团总裁王凤英在巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 独立门店，未来也「不排除 MONA 品牌独立的可能性」。\n\n渠道端已经出现筹备动作。北京一家小鹏门店销售人员向界面新闻表示，小鹏和 MONA 预计会分开销售；新出行 CEO 贺磊则发现，广州海珠区一家商场出现待入驻的「小鹏 MONA 销售中心」。\n\n产品规划也在调整。界面新闻获悉，小鹏近期把原有四条产品线合并为 G、D 两条，MONA 继续独享 D 产品线。贺磊称，明年仅一部分渠道会成为 MONA 独立渠道，现有小鹏门店仍会销售 MONA 车型。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577682910-13.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "XPeng to Open Standalone Showrooms for MONA Sub-Brand Starting 2027",
+    "content_en": "XPeng Motors plans to establish independent retail stores for its MONA series in select cities starting in 2027, according to XPeng President Wang Fengying during the Paris Motor Show. Wang added that the automaker does not rule out eventually spinning MONA off as a fully independent brand.\n\nPreparations across sales channels are already underway. Dealerships in Beijing and Guangzhou have begun laying the groundwork to separate MONA sales operations from XPeng's flagship line. Alongside channel adjustments, XPeng has consolidated its four product lines into two primary series—G and D—with MONA exclusively occupying the D line.\n\nFor the initial rollout next year, standalone MONA sales channels will launch in limited locations, while existing XPeng showrooms will continue to carry MONA models concurrently."
+  },
+  {
+    "title_zh": "TBC 把神经元研究用进视频模型，称生成速度至少提高 5 倍",
+    "content_zh": "The Biological Computing Co.（TBC）发布图生视频模型 Mischief 1。公司 CEO Alex Ksendzovsky 表示，团队把持续四年的活神经元研究转化成了可供外部使用的视频模型，生成速度至少达到基础模型的 5 倍。\n\n他在回复中确认，Mischief 1 基于阿里开源模型 Wan 2.2，下一代模型也已在开发。研究中使用的神经元留在实验室，视频模型运行在普通芯片上。\n\nMischief 1 已在 fal 和 OpenRouter 提供服务，支持以图片生成短视频。Ksendzovsky 还预告，模型将进入 AWS Marketplace。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577684451-14.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "The Biological Computing Co. Launches AI Video Model Informed by Live Neuron Research",
+    "content_en": "The Biological Computing Co. (TBC) has launched Mischief 1, an image-to-video model built on insights from four years of biological neuron research. TBC CEO Alex Ksendzovsky stated that applying these neural insights has boosted video generation speeds by at least five times compared to base models.\n\nMischief 1 is built upon Alibaba's open-source Wan 2.2 model architecture. While live biological neurons were used during lab research, the commercial model runs entirely on standard computational hardware.\n\nThe model is currently available on fal and OpenRouter for short video generation from images, with plans to launch on the AWS Marketplace. TBC confirmed that its next-generation model is already in development."
+  },
+  {
+    "title_zh": "长鑫称已与头部客户协商长协，预计四季度营收继续增长",
+    "content_zh": "长鑫科技在 10 月 31 日披露的投资者关系活动记录中回应长期供货协议进展，称已与多家头部客户协商长协，以锁定中长期确定性需求。\n\n据中新经纬对记录表的报道，公司认为 AI 应用正在推动结构性需求增长，服务器客户第四季度需求仍强劲，DRAM 供不应求的态势将延续，预计第四季度营收继续保持增长。\n\n公司还解释，长鑫新桥与长鑫集电是第三季度营收和利润增长的主要驱动力，但集团在两家子公司的权益比例相对较低，因此归母层面的增长幅度受到影响。公司已在今年 8 月增加对长鑫集电的注资、提高权益比例。",
     "image_url": "",
-    "date": "2026-10-31 08:14",
-    "title_en": "Transsion’s Q3 Revenue Drops 27%, Though Nine-Month Net Profit Stays Up",
-    "content_en": "Transsion Holdings disclosed its third-quarter financial report, showing a 27.45% year-over-year revenue drop to 14.85 billion yuan. Net profit fell 8.40% to 857 million yuan, while non-GAAP net profit dropped sharply by 47.72% to 436 million yuan.\n\nDespite the Q3 slump, overall performance across the first nine months remained positive, with revenue reaching 50.28 billion yuan (up 1.49% YoY) and net profit rising 22.44% to 2.63 billion yuan. The company attributed the Q3 profit squeeze to rising supply chain costs and reduced revenues from shifting market demand.\n\nAdditionally, Transsion recorded a net operating cash outflow of 9.87 billion yuan for the first nine months. The company stated that surging memory component prices, increased inventory stockpiling, and higher procurement payments heavily impacted its cash flow."
+    "date": "2026-11-02 08:03",
+    "title_en": "CXMT Negotiates Long-Term Supply Contracts with Key Clients, Expects Q4 Revenue Growth",
+    "content_en": "ChangXin Technologies (CXMT) revealed in a recent investor disclosure that it has negotiated long-term supply agreements with several top-tier clients to secure medium- to long-term demand.\n\nDriven by structural demand from AI applications, server client demand remains strong in the fourth quarter. With the DRAM market remaining supply-constrained, CXMT expects its Q4 revenue to continue growing.\n\nThe company noted that its third-quarter revenue and profit growth were primarily driven by its subsidiaries, ChangXin Xinqiao and ChangXin Jidian. To address the diluted impact on parent company net profit due to lower equity stakes in these units, CXMT increased its capital injection into ChangXin Jidian in August to boost its ownership share."
   },
   {
-    "title_zh": "火山引擎将商业化列为首要目标，MaaS 上半年收入达 48 亿元",
-    "content_zh": "据《晚点 LatePost》10 月 30 日报道，火山引擎的 MaaS（模型即服务）业务上半年收入达到 48 亿元，毛利率超过 55%，是字节跳动当前收入规模最大的 AI 业务。\n\n报道援引知情人士称，火山引擎从年中开始把商业化定为最重要的业务指标，并上调原定 150 亿元的年度收入目标。此前，业务更重视 Token 调用量；企业按使用量付费，而不同模态的模型计费方式各异，调用量与收入并不总是同步增长。\n\n火山引擎既提供 Seed、Seedance 等自研模型，也接入 DeepSeek、智谱等第三方模型。报道称，目前这些模型推理服务均有正毛利；豆包工作还计划面向企业客户接入更多第三方模型，采用订阅费与按量付费结合的方式。",
+    "title_zh": "💡 DeepSeek Harness 团队：多任务 Agent 的瓶颈在人的注意力",
+    "content_zh": "DeepSeek Harness 团队 10 月 31 日发表 Super-agent 架构探索长文，指出随着模型越来越能独立完成单个任务，多任务协作的瓶颈正在转向人的注意力。团队观察到，一个人通常只能跟进 3 至 5 个活跃会话，因此希望由系统接管会话管理，让用户专注于决策与验收。\n\n团队的方案是将职责分成两层：常驻的 Router 负责跨任务协调与对外交互，上下文隔离的 Worker 并发执行具体任务。同一 GitHub PR 或群聊话题的后续消息可直接送达对应 Worker，减少反复路由；耗时工具在后台运行，前台继续接受新指令。\n\n文章介绍，内部实例已能在 IM 与 GitHub 之间连续推进任务，并在群聊无人 @ 的情况下识别缺陷、尝试修复后提交 PR。为维持长期运行，团队还把计算、会话状态与执行环境分开，并用独立的 Watchdog 检查任务是否取得实质进展。\n\n团队强调，这是一套工程架构探索，部分设计以 dsh-superagent-prototype 原型提供，尚非正式产品。其初步实验采用合成负载与简化环境；更大组织中的上下文隔离、跨 Agent 协作，以及提示词注入与凭据泄露风险，仍是团队列出的开放问题。\n\n🔗 相关阅读：DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577686394-15.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "DeepSeek Harness Team Proposes Super-Agent Framework to Overcome Human Attention Bottleneck",
+    "content_en": "The DeepSeek Harness team has detailed a new \"Super-agent\" architectural framework, asserting that as AI models gain autonomy in executing individual tasks, human attention—typically limited to tracking 3 to 5 active chats—has become the primary bottleneck in multi-task workflows.\n\nTo address this, the architecture splits responsibilities into two layers: a persistent Router for cross-task coordination and context-isolated Workers that execute specific tasks concurrently. Long-running tools operate in the background, allowing the system to accept new commands seamlessly.\n\nIn internal testing, the system autonomously managed workflows across instant messaging platforms and GitHub—even detecting code bugs in group chats without being explicitly tagged, attempting fixes, and submitting pull requests. The design also decouples computing, session state, and execution environments while incorporating a Watchdog component to monitor progress.\n\nThe team emphasized that the project is currently an engineering prototype (`dsh-superagent-prototype`) rather than a formal product. Key challenges, such as context isolation in larger organizations and security risks like prompt injection, remain open areas for research."
+  },
+  {
+    "title_zh": "HomeView 代码出现安防摄像头模式，可按在家、外出和睡眠设置录制",
+    "content_zh": "苹果 HomeView 智能家居中枢可能增加安防摄像头功能。The Verge 报道，Reddit 用户 pdfu 在 HomeView 27.2 代码中发现相关字符串，其中一个设置页面写明，HomeView 可通过 HomeKit Secure Video 用作安防摄像头。\n\n代码描述的功能包括移动侦测、实时视频和录制。视频仅供家庭成员查看；有人查看画面或设备开始录制时，设备会亮起指示灯并播放声音，Secure Video 设置改变也会通知家庭成员。\n\n用户还可根据在家、外出或睡眠状态，分别设置侦测、串流和录制内容。上述信息来自代码线索，苹果尚未宣布这项功能。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577687918-16.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Leaked Code Suggests Apple HomeView Hub May Double as a Home Security Camera",
+    "content_en": "Apple's HomeView smart home hub may soon support security camera functionality, according to code discovered in HomeView version 27.2. The code indicates the device could integrate with HomeKit Secure Video to act as an indoor security camera.\n\nKey capabilities uncovered in the code include motion detection, live streaming, and video recording accessible only to household members. For privacy, an indicator light will illuminate and an audio alert will play whenever the live feed is accessed or recording starts.\n\nUsers will reportedly be able to customize detection, streaming, and recording preferences based on Home, Away, and Sleep modes. Apple has yet to officially announce the feature."
+  },
+  {
+    "title_zh": "ChatGPT 网页和手机端支持双账号切换，聊天与记忆各自独立",
+    "content_zh": "OpenAI 已在 ChatGPT 网页端、iOS 和 Android 推出账号切换功能。用户可同时登录最多两个账号，从账号菜单或设置中切换，无需反复退出再登录；同一时间只有一个账号处于活跃状态。移动端功能正逐步开放。\n\nOpenAI 的帮助文档说明，切换后显示的是对应账号的聊天、记忆、文件和设置，工作区也归属于各自账号。两个账号不会合并对话、订阅、账单或工作区，付费权益仍由各账号自己的订阅决定。\n\n用户可以拥有两个以上的 ChatGPT 账号，但同一设备最多同时保持两个账号登录；已登录两个时，需先退出其中一个才能添加其他账号。移动端还可依照各账号设置和设备权限接收通知，点击另一账号的通知时会切换并打开对应内容。",
     "image_url": "",
-    "date": "2026-10-31 08:14",
-    "title_en": "ByteDance’s Volcengine Shifts Focus to Monetization as H1 MaaS Revenue Hits 4.8 Billion Yuan",
-    "content_en": "Volcengine, the cloud and enterprise service arm of ByteDance, generated 4.8 billion yuan ($670 million) in Model-as-a-Service (MaaS) revenue during the first half of the year, boasting a gross margin exceeding 55%. The performance makes MaaS ByteDance’s largest AI revenue stream to date, according to a report by *LatePost*.\n\nStarting mid-year, Volcengine prioritized commercialization as its primary metric and raised its annual revenue target beyond the original 15 billion yuan. Previously, the business focused heavily on token consumption. However, because enterprise pricing models vary across modalities and token usage does not always scale linearly with revenue, leadership pivoted toward direct monetization.\n\nIn addition to its proprietary models like Seed and Seedance, Volcengine hosts third-party models from providers such as DeepSeek and Zhipu AI, all of which currently operate with positive gross margins. Moving forward, ByteDance’s Doubao enterprise platform plans to integrate additional third-party models using a hybrid subscription and pay-as-you-go pricing model."
+    "date": "2026-11-02 08:03",
+    "title_en": "ChatGPT Introduces Dual-Account Switching with Isolated Chats and Memories",
+    "content_en": "OpenAI has officially launched a multi-account switching feature across ChatGPT’s web, iOS, and Android platforms. Users can now stay logged into up to two accounts simultaneously on the same device, seamlessly toggling between them via the account menu or settings without needing to log out and back in.\n\nThe feature strictly maintains independent environments for each profile. Conversations, memories, files, settings, and workspaces remain completely isolated between accounts, with no merging of subscription perks or billing. While users can own multiple accounts, devices are limited to two active logins at any given time."
   },
   {
-    "title_zh": "长鑫第三季度营收突破千亿元，归母净利润环比增长 3.01%",
-    "content_zh": "长鑫科技 10 月 30 日披露三季报：第三季度营业收入为 1187.14 亿元，同比增长 613.18%、环比增长 19.30%；归母净利润为 544.35 亿元，同比扭亏、环比增长 3.01%。归母净利润的环比增幅低于营收。\n\n公司称，全球算力需求增长、主要厂商产能调配推动 DRAM 供不应求，加上自身产能建设与产品结构调整，带动产品销量和价格上涨。第三季度毛利率为 89.53%，较上季度提高 1.94 个百分点。\n\n前三季度，公司营业收入为 2690.24 亿元，归母净利润为 1320.40 亿元。同期研发投入 110.71 亿元，同比增长 73.03%；基于第六代技术平台开发的 DRAM 产品已完成工程样片验证。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405340698-14.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "ChangXin Memory’s Q3 Revenue Surges Past 100 Billion Yuan Amid Strong DRAM Demand",
-    "content_en": "ChangXin Memory Technologies (CXMT) reported a dramatic surge in third-quarter performance, with revenue jumping 613.18% year-over-year and 19.30% sequentially to 118.71 billion yuan. Net profit attributable to the parent company reached 54.44 billion yuan, representing a 3.01% sequential increase and a complete turnaround from the same period last year.\n\nThe Chinese DRAM maker attributed the strong results to surging global computing demand and tight DRAM supply, which drove up both sales volumes and average selling prices alongside CXMT's own capacity expansion and product mix optimization. The company's gross margin expanded to 89.53%, up 1.94 percentage points from the previous quarter.\n\nFor the first nine months of the year, CXMT recorded 269.02 billion yuan in total revenue and 132.04 billion yuan in net profit. The company invested 11.07 billion yuan in R&D during the period—a 73.03% year-over-year increase—and successfully completed engineering sample verification for DRAM products built on its sixth-generation technology platform."
+    "title_zh": "分析师预测《GTA6》PC 版还需约 6 至 7 个月",
+    "content_zh": "Wedbush 分析师迈克尔·帕赫特在 BBC Business Today 节目中预测，《GTA6》大约还需 6 至 7 个月登陆 PC。相关采访片段于 10 月 28 日在社交平台流传。\n\nRockstar 为主机版公布的发售日是 2026 年 11 月 19 日，首发平台为 PS5 和 Xbox Series X|S。帕赫特给出的是自己的时间判断，Rockstar 尚未公布 PC 版发售日。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577689128-17.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "GTA VI Could Arrive on PC in 6 to 7 Months, Analyst Predicts",
+    "content_en": "Wedbush Securities analyst Michael Pachter predicted during an interview on BBC Business Today that the PC version of *Grand Theft Auto VI* will take approximately six to seven months to arrive.\n\nRockstar Games has officially slated the title's console release on PlayStation 5 and Xbox Series X|S for November 19, 2026. Pachter's timeline reflects his own industry forecast, as Rockstar has not yet formally announced a release date or confirmation for the PC port."
   },
   {
-    "title_zh": "联发科第三季度营收增长 18.3%，归母净利润增长 10.6%",
-    "content_zh": "联发科公布第三季度业绩：收入为 1680.58 亿新台币，同比增长 18.3%、环比增长 10.4%；归属母公司净利润为 278.82 亿新台币，同比增长 10.6%。\n\n公司称，Smart Edge 新项目放量，以及电视系统芯片的 DRAM 含量提高，带动了收入增长。季度毛利率为 46.3%，较上季度提高 0.1 个百分点，较上年同期下降 0.2 个百分点。\n\n期内研发费用为 422.37 亿新台币，占收入 25.1%。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405343083-15.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "MediaTek Posts 18.3% Revenue Growth in Q3 Driven by Smart Edge and TV Chips",
-    "content_en": "MediaTek reported solid financial results for the third quarter, driven by strong market momentum. Revenue reached NT$168.06 billion, representing an 18.3% increase year-over-year and a 10.4% rise quarter-over-quarter. Net profit attributable to the parent company climbed 10.6% year-over-year to NT$27.88 billion.\n\nThe chipmaker attributed its revenue growth to the ramp-up of new Smart Edge projects and increased DRAM content in television System-on-Chips (SoCs). Gross margin stood at 46.3%, up 0.1 percentage points sequentially but down 0.2 percentage points compared to the prior-year period.\n\nMediaTek maintained a strong commitment to innovation, spending NT$42.24 billion on research and development during the quarter, which accounted for 25.1% of total revenue."
+    "title_zh": "高通更新骁龙 X 显卡驱动，分代改进游戏稳定性",
+    "content_zh": "高通发布适用于骁龙 X 系列 Windows PC 的 Adreno 2026.10.1 驱动，更新引入同时支持初代骁龙 X 与骁龙 X2 的安装框架，两代平台各有独立的驱动版本和改进清单。\n\n初代骁龙 X 的更新涉及《永劫无间》《荒野大镖客：救赎 2》和《机械战警：暴戾都市》的稳定性或画质；骁龙 X2 的改进则包括《极限竞速：地平线 6》《侠盗猎车手 5 传承版》《NBA 2K26》等。两代平台均列出 Luminar Neo 等应用的稳定性和性能改进。\n\n官方说明还保留一项 Windows 11 已知问题：在 Build 26100.3915 及更高版本中，插拔外接显示器或切换显示模式、分辨率，可能导致《地铁：离去》《文明 VI》《求生之路 2》崩溃或卡死。",
+    "image_url": "",
+    "date": "2026-11-02 08:03",
+    "title_en": "Qualcomm Updates Snapdragon X GPU Drivers to Boost Gaming and System Stability",
+    "content_en": "Qualcomm has released its Adreno 2026.10.1 graphics driver update for Snapdragon X-powered Windows PCs. The new release introduces an installer framework catering separately to both first-generation Snapdragon X and next-gen Snapdragon X2 platforms, featuring tailored fixes and performance updates for each.\n\nThe driver brings stability and visual improvements to several major gaming titles—such as *Red Dead Redemption 2* on first-gen hardware and *GTA V Legacy Edition* on Snapdragon X2—while boosting performance for creative applications like Luminar Neo across both generations.\n\nAdditionally, Qualcomm noted a known Windows 11 issue where hot-plugging external monitors or changing display modes could cause certain titles, such as *Civilization VI* and *Metro Exodus*, to crash or freeze."
   },
   {
-    "title_zh": "💡 诺奖得主 Acemoglu：AI 应帮助劳动者，别只盯着 AGI",
-    "content_zh": "诺贝尔经济学奖得主、MIT 教授 Daron Acemoglu 在彭博最新专访中表示，他此前低估了智能体 AI 的发展速度，但个人生活中使用聊天机器人，与 AI 进入生产流程，仍是两件需要区分的事。\n\n他反对把通用人工智能（AGI）设为唯一发展方向，认为过度执着于这一目标，会让其他用途得不到充分探索。他提出，如果更多 AI 人才能转向提高劳动者生产力、扩大公民自主权等目标，技术就会沿这些方向发展；他也认为，中国比美国更积极地尝试把 AI 融入生产流程。\n\n谈到自动化激励时，Acemoglu 主张缩小资本收入与劳动收入的税收差别，减少企业以资本替代劳动的额外激励。他同时承认，税负变化可能带来企业外迁等现实顾虑，具体政策需要协商。\n\n对于「AI 将改变生活，却应让少数科技企业家决定方向」的主张，他认为，技术的影响越深，公众就越有责任参与塑造其发展。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405347136-16.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Nobel Laureate Daron Acemoglu Warns Against AGI Obsession, Urges Focus on Empowering Workers",
-    "content_en": "In a recent Bloomberg interview, Nobel laureate and MIT professor Daron Acemoglu urged the tech industry to shift its focus away from an exclusive obsession with Artificial General Intelligence (AGI). While admitting he underestimated the rapid advancement of agentic AI, Acemoglu emphasized that consumer chatbot usage differs fundamentally from integrating AI into core production workflows—an area where he noted China is currently moving more aggressively than the U.S.\n\nAcemoglu called for redirecting top AI talent toward boosting worker productivity and enhancing civic autonomy. To discourage companies from excessively replacing human labor with capital, he advocated narrowing the tax gap between capital and labor income. He also rejected the notion that a small group of tech executives should dictate AI's future, asserting that the public must actively participate in shaping technologies that deeply impact society."
+    "title_zh": "Spotify 拟明年初推出 AI 混音，让歌迷改编已授权歌曲",
+    "content_zh": "据《金融时报》报道，Spotify 正争取在 2027 年第一季度推出 AI 混音与翻唱服务，可能在 2 月格莱美奖前后亮相。付费订阅用户可用它改编已获授权的歌曲，例如把民谣改成舞曲，或制作歌手翻唱其他作品的版本。\n\nSpotify 已与环球音乐、独立厂牌授权机构 Merlin 和 Believe 达成相关协议，仍在与索尼音乐、华纳音乐谈判。即使唱片公司签约，音乐人也可以自行决定是否参与。\n\n按目前方案，粉丝混音产生的版税会流向原作音乐人。Spotify 还在开发配套机制，让这些作品进入播放列表，并把播放量计入原曲榜单成绩。消息人士称，上线时间和定价仍在讨论中。",
+    "image_url": "",
+    "date": "2026-11-02 08:03",
+    "title_en": "Spotify Plans AI Remixing Feature for Subscribers to Reimagine Tracks",
+    "content_en": "Spotify is aiming to launch an AI-powered remixing and cover service as early as the first quarter of 2027, potentially aligning with the Grammy Awards. The feature will allow paid subscribers to reimagine licensed tracks—such as transforming a folk song into a dance track or creating custom cover versions.\n\nThe music streaming giant has secured licensing agreements with Universal Music, Merlin, and Believe, while negotiations with Sony Music and Warner Music are still underway. Even if record labels sign on, individual artists will retain full discretion over whether to participate.\n\nUnder the proposed framework, royalties generated from fan-made remixes will flow back to the original music creators. Spotify is also developing mechanisms to surface these creations in playlists and count their play counts toward the original tracks' chart positions. Launch dates and pricing remain under discussion."
   },
   {
-    "title_zh": "2027 款奕派 007 上市，限时补贴价 10.99 万元起",
-    "content_zh": "2027 款东风奕派 007 在武汉车展上市，推出「550 巡航版」与「675 激光版」，限时补贴价 10.99 万元起。\n\n新车采用后驱平台，车长 4880 毫米、轴距 2915 毫米。675 激光版搭载 73.5 千瓦时电池，CLTC 纯电续航为 675 公里，并配备带激光雷达的天元 T200 辅助驾驶系统。\n\n座舱升级为天元智舱 2.0，采用高通骁龙 8295P 芯片。车辆还提供全温域热泵、半隐藏式机械门把手及电动掀背尾门。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405350375-17.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "2027 Dongfeng eπ 007 Launches in China, Starting at 109,900 RMB",
-    "content_en": "Dongfeng officially launched the 2027 eπ 007 electric sedan at the Wuhan Auto Show, offering two trims: the \"550 Cruise\" and the \"675 LiDAR.\" The vehicle debuts with a limited-time subsidized starting price of 109,900 RMB. Built on a rear-wheel-drive platform, the sedan measures 4,880 mm in length with a 2,915 mm wheelbase.\n\nThe high-end 675 LiDAR edition features a 73.5 kWh battery delivering a CLTC range of 675 km, alongside the Tianyuan T200 driver-assistance system equipped with LiDAR. Inside, the cabin upgrades to the Tianyuan Smart Cockpit 2.0 powered by the Qualcomm Snapdragon 8295P chip. Additional highlights include an all-temperature heat pump, semi-hidden door handles, and a power liftback tailgate."
+    "title_zh": "Meta 与傅利叶造出人形机器人 Max，已着手开发第二版",
+    "content_zh": "据 The Information 报道，Meta 与上海机器人公司傅利叶用约三个月造出人形机器人原型 Max，并于 9 月开始开发第二版 Max 2。Meta 发言人回应称，与傅利叶的工作聚焦内部研究和实验，公司没有出售这些原型的计划。\n\nMax 约高 1.5 米、重 48 公斤，搭载英伟达 Jetson Thor，胸部内置扬声器，面部屏幕可以模拟表情，五指手能抓起小瓶子和玩具。Meta 基于傅利叶前三代机器人的硬件与经验，调整了机身比例、头部、显示屏和摄像头，并增加双手等部件。\n\n报道称，Meta 机器人产品负责人曾在傅利叶上海工厂驻留近两个月，原型于 8 月底在内部峰会上演示。第二版将重做躯干与双手，加入投影仪，以及帮助上下楼梯的传感器；Meta 内部将人形机器人视作其 Muse AI Agent 执行家务等任务的实体载体。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577690499-18.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Meta and Fourier Intelligence Unveil Humanoid Robot Prototype 'Max'",
+    "content_en": "Meta has collaborated with Shanghai-based Fourier Intelligence to develop a humanoid robot prototype named \"Max\" in roughly three months, with work on a second version already underway since September. Meta confirmed that the project is focused entirely on internal research and experimentation, with no current plans for commercial release.\n\nStanding approximately 1.5 meters tall and weighing 48 kilograms, Max is powered by NVIDIA's Jetson Thor chip. The robot features a chest-mounted speaker, a facial display for digital expressions, and five-fingered hands capable of manipulating small items. Meta customized the hardware design—including body proportions, head display, cameras, and hands—leveraging Fourier's foundation.\n\nMeta views humanoid robotics as a physical carrier for its \"Muse AI Agent\" to carry out real-world tasks like housework. The upcoming \"Max 2\" iteration will feature a redesigned torso and hands, an integrated projector, and new sensors to assist with navigating stairs."
   },
   {
-    "title_zh": "Google Antigravity 上线插件市场，接入 Figma、Jira 与生产日志",
-    "content_zh": "Google 为 Antigravity App 和 CLI 上线统一插件市场，把外部服务连接、领域操作指引及自动化规则打包安装。首发集成覆盖设计、项目协作、云服务、数据分析和安全等工作场景。\n\n插件可以包含 Skills、MCP 服务配置、规则、Hooks 和自定义智能体，随同一版本一起安装、更新和启停。过去分别配置的接口、环境变量与指令，因而可以作为一个完整组件共享；涉及账号授权的集成会在设置时要求相应认证。\n\n例如，Figma 插件可读取设计上下文并向画布写入内容；Atlassian 集成连接 Jira、Confluence 和 Bitbucket 等工作信息；Datadog 插件则可搜索日志、链路与告警，辅助定位线上故障。用户可从 App 的 Customizations 面板浏览插件，也可通过 CLI 安装。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405351013-18.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Google Launches Plugin Marketplace for Antigravity with Figma, Atlassian, and Datadog Integrations",
-    "content_en": "Google has launched a unified plugin marketplace for the Antigravity App and CLI, streamlining how developers integrate external services, domain instructions, and automation workflows. Accessible via the app's Customizations panel or command line, the marketplace simplifies setup by bundling previously separate configurations—such as interfaces, environment variables, and instructions—into unified installable components.\n\nEach plugin can package skills, Model Context Protocol (MCP) configurations, rules, hooks, and custom agents that update together. Initial launch integrations cover essential developer workflows: Figma reads design context and writes to canvases, Atlassian connects Jira, Confluence, and Bitbucket data, and Datadog enables real-time searching of logs, traces, and alerts for production troubleshooting."
+    "title_zh": "开源安卓助手 Mika 可在后台操作 App，主屏仍能继续用",
+    "content_zh": "独立开发者王赞开源了安卓 AI 助手 Mika。用户用自然语言交代任务后，它可以在独立的后台屏幕上打开 App、点击、输入和滚动，主屏幕仍留给用户使用。\n\n项目展示了后台翻阅微信群聊并总结、向文件传输助手发消息，以及在购物 App 中筛选商品的用法。Mika 通过读取界面操作应用，不要求每个 App 额外提供接口；登录、验证码和付款等环节会交还用户。\n\n跨 App 操作要求 Android 12 或更新系统，首次使用需完成无线调试配对。项目推荐 Android 14 及以上版本，虚拟屏幕可拥有独立输入焦点，减少后台任务对主屏输入的干扰。用户可以接入自己的模型 API，也可通过支持的模型服务账号登录；项目采用 Apache 2.0 许可。",
+    "image_url": "",
+    "date": "2026-11-02 08:03",
+    "title_en": "Open-Source Android AI Assistant 'Mika' Automates App Tasks in the Background",
+    "content_en": "Independent developer Zan Wang has released Mika, an open-source Android AI assistant capable of operating apps on a virtual background screen. Upon receiving natural language instructions, Mika can navigate apps, click, type, and scroll seamlessly without disrupting the user's main screen experience.\n\nRather than requiring dedicated app APIs, Mika operates by analyzing and interacting with the user interface directly. It can perform tasks like summarizing chat histories, sending messages, or filtering items on e-commerce platforms. For security-sensitive steps such as logins, CAPTCHAs, and payments, control is automatically handed back to the user.\n\nLicensed under Apache 2.0, Mika requires Android 12 or higher, with Android 14 recommended for superior virtual screen focus management. Users can plug in their own AI model APIs or authenticate through supported model provider accounts."
   },
   {
-    "title_zh": "百度搜索 API 推出活动价：增强版每千次 4.9 元",
-    "content_zh": "百度智能云搜索 API 开启限时活动。10 月 30 日至 12 月 31 日，增强版调用包活动价为每千次 4.9 元；旗舰版为每千次 9.9 元，购买需使用邀请码。\n\n服务可检索网页、图片和视频，返回标题、原始链接及内容片段，并提供智能摘要，供智能体或知识库应用接入。\n\n增强版活动包累计购买上限为 100 万次。已购调用包用完后，将自动按对应产品的刊例价计费；调用包有效期以商品详情为准。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405352931-19.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Baidu AI Cloud Slashes Search API Prices, Offering Enhanced Tier at ¥4.9 per 1,000 Calls",
-    "content_en": "Baidu AI Cloud has launched a limited-time promotional campaign for its Search API, running from October 30 through December 31. During the event, the Enhanced version package is priced at ¥4.9 per 1,000 API calls, while the Flagship tier is available for ¥9.9 per 1,000 calls via an invitation code.\n\nDesigned to seamlessly integrate with AI agents and knowledge base applications, the API allows retrieval across web pages, images, and videos. It delivers structured responses including page titles, original URLs, content snippets, and AI-generated summaries.\n\nThe promotional Enhanced package is subject to a cumulative purchase limit of 1 million calls per user. Once the promotional package is consumed, standard catalog pricing will automatically apply."
+    "title_zh": "小米澎程 N70 现车新增 3 年 0 息，定制新车继续提供低息方案",
+    "content_zh": "小米汽车公布 11 月购车权益，澎程 N70 的少量现车新增「3 年 0 息」金融方案，定制新车则提供「5 年低息」或「限时轻松还」。两类权益均适用于 11 月 1 日至 11 月 30 日 24 点前下定的订单。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577692445-19.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Xiaomi EV Introduces 3-Year Zero-Interest Financing for N70 Model",
+    "content_en": "Xiaomi EV has launched its November sales incentives, introducing attractive financing options for its Pengcheng N70 model.\n\nCustomers purchasing select in-stock vehicles can now take advantage of a 3-year zero-interest financing plan. Meanwhile, custom-ordered vehicles continue to offer low-interest choices, including a 5-year low-interest plan and limited-time flexible payment terms.\n\nThese incentive schemes are available for all eligible orders placed between November 1 and November 30, 2024."
   },
   {
-    "title_zh": "《哈克小天地》发售，用微缩景观迎接动物居民",
-    "content_zh": "Wonderscope Games 开发、Team17 发行的《哈克小天地》（Hokko Spaces）现已在 Steam 发售，支持简体中文。它延续《哈克小镇》的温馨风格，把重点放在小尺度的沙盒造景。\n\n玩家可以布置林间角落、野餐场地与庭院，调整时间、天气和季节，完成轻量目标后解锁动物居民。居民会在场景中散步、打理花园，并与摆放的物品互动。\n\n拍照模式提供滤镜、构图和对焦工具，可将搭好的微缩空间保存成照片。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405354121-20.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Cozy Diorama Builder 'Hokko Spaces' Launches on Steam",
-    "content_en": "Developer Wonderscope Games and publisher Team17 have officially released *Hokko Spaces* on Steam, featuring Simplified Chinese language support. Building upon the wholesome vibe of *Hokko Life*, the new title narrows its focus to micro-scale sandbox landscaping and scene design.\n\nPlayers can craft detailed miniature scenes—ranging from woodland corners and picnic grounds to courtyard spaces—while controlling time, weather, and seasonal settings. Completing light objectives unlocks charming animal residents who roam the dioramas, tend to gardens, and interact with decorative items.\n\nThe game also features a dedicated Photo Mode with filters, framing controls, and focus adjustments, allowing players to capture and showcase their custom miniature environments."
+    "title_zh": "泰国高山咖啡 Akha Ama 在东京开出第三家店",
+    "content_zh": "来自泰国北部山区的 Akha Ama Coffee 在东京目黑区开出日本第三家咖啡店。据日经亚洲 10 月 31 日报道，品牌希望以高品质、可持续种植的泰国咖啡豆，进一步打开日本市场。\n\n创始人 Lee Ayu Chuepa 来自阿卡族，「Akha Ama」在族语中意为「阿卡母亲」。品牌创办于 2010 年，从泰北农户处采购咖啡豆，其中包括创始人的母亲和姐姐，再加工、烘焙，供应清迈和东京的门店。农户在高海拔种植阿拉比卡咖啡，并与水果、坚果等作物混种，采用农林复合种植方式。\n\n创始人表示，品牌重视品质和产地故事，正在通过减少化肥及化学品使用来提高品质。目前约九成咖啡豆在泰国销售，其余一成出口日本；品牌于 2020 年在东京神乐坂开出日本首店，2024 年再开第二家。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577697038-20.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Thai Specialty Brand Akha Ama Coffee Opens Third Location in Tokyo",
+    "content_en": "Thai specialty coffee brand Akha Ama Coffee has expanded its presence in Japan by opening its third Tokyo outlet in Meguro Ward, according to a Nikkei Asia report. The brand aims to strengthen its market position with high-quality, sustainably grown beans sourced from northern Thailand.\n\nFounded in 2010 by Lee Ayu Chuepa, a member of the indigenous Akha tribe, the brand takes its name from \"Akha Mother.\" Akha Ama sources Arabica beans directly from highland farmers—including the founder's own family—who practice agroforestry by intercropping coffee trees with local fruits and nuts. The brand actively reduces chemical fertilizers to enhance bean quality and support environmental sustainability.\n\nCurrently, around 90% of Akha Ama's coffee is sold locally in Thailand, with the remaining 10% exported to Japan. Following its Tokyo debut in Kagurazaka in 2020 and a second store opening earlier in 2024, the Meguro location marks another key step in the brand's international expansion."
   },
   {
-    "title_zh": "清华等团队让 96 台机器人共享经验，手机包装成功率升至 98.3%",
-    "content_zh": "清华大学、智元机器人及无问芯穹提出群体经验学习（CEL）方案，让机器人将部署中完成任务的经验汇总起来，改进共同使用的策略。\n\n在专家完成初始指导后，系统利用失败前的场景，检索其他机器人做成功的相似片段，再用于微调。后续学习不再需要新增专家示范或纠错动作；人类仍负责结果标注及环境复位。\n\n团队在插花、叠衣、手机充电、凳子组装及手机包装五项任务上测试。手机包装实验使用 96 台机器人采集经验，另在两台未参与采集的同型号机器人上完成 120 次评估，成功率由 79.2% 升至 98.3%。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405355517-21.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "96 Robots Share Experience to Drive Smartphone Packaging Success Rate to 98.3%",
-    "content_en": "Researchers from Tsinghua University, AgiBot, and Infinence have developed Collective Experience Learning (CEL), a framework that enables fleets of deployed robots to pool task experiences and refine a shared control policy.\n\nAfter initial expert demonstrations, the system detects potential failure scenarios during operation and retrieves successful execution clips from other robots to fine-tune the baseline model. This approach eliminates the need for ongoing human demonstrations or corrective actions, leaving humans responsible only for outcome labeling and environment resets.\n\nThe team validated CEL across five complex tasks, including flower arranging, clothes folding, and stool assembly. In the smartphone packaging benchmark, experience collected by 96 robots enabled two unexposed evaluation units to boost their task success rate from 79.2% to 98.3% across 120 trials."
+    "title_zh": "教室照明新国标实施，新增频闪与采光均匀度要求",
+    "content_zh": "11 月 1 日，强制性国家标准《中小学校教室采光和照明卫生标准》正式实施，教室采光和灯具照明的评价指标进一步细化。\n\n据央视新闻报道，新标准增加采光均匀度、冬至日满窗日照时间、玻璃颜色透射指数和可见光透射比等要求，也将闪变指数、频闪效应可视度纳入指标。采光方向、采光系数、眩光控制、照明色温、显色指数及测量方法均有修订。\n\n报道采访的首都医科大学附属北京同仁医院眼科医生田磊介绍，光源看起来稳定，视觉系统仍可能不断适应光线变化，长期处在这类频闪环境中容易出现眼睛疲劳。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577699321-21.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "China Implements Stricter Classroom Lighting Standards to Tackle Eye Strain",
+    "content_en": "China's new mandatory national standards for classroom daylighting and lighting hygiene in primary and secondary schools officially came into effect on November 1, establishing stricter evaluation metrics for learning environments.\n\nThe updated guidelines introduce specific requirements for daylight uniformity, window sunlight exposure during the winter solstice, visible light transmittance, flicker index, and stroboscopic effect visibility. Existing rules on glare control, color temperature, and color rendering have also been revised.\n\nMedical experts highlight the importance of these changes. According to Dr. Tian Lei, an ophthalmologist at Beijing Tongren Hospital, even subtle light flickering that seems imperceptible to the naked eye forces the visual system to constantly adjust, leading to chronic eye fatigue over time."
   },
   {
-    "title_zh": "智元发布 GO-3 Preview，以统一框架连接推理、预测与动作",
-    "content_zh": "智元在 10 月 29 日的创新日发布具身基础模型 GO-3 Preview，采用 WRAM 框架，将推理、环境预测和动作执行连接起来。\n\n公司展示了零样本和少样本任务能力，希望机器人在执行前预测动作结果，并在环境变化时调整，而非只复现固定流程。其训练路线覆盖预训练、后训练，以及部署后的持续改进。\n\n据智元现场公布的评测，GO-3 Preview 在 RoboDojo 的任务成功率和过程评分、RoboTwin 及 RoboColiseum 的综合评分上取得第一名。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405357367-22.gif!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "AgiBot Unveils GO-3 Preview: A Unified Embodied AI Framework Linking Reasoning, Prediction, and Action",
-    "content_en": "AgiBot introduced its latest embodied AI foundation model, GO-3 Preview, during its Innovation Day event on October 29. Built on the World-Reasoning-Action Model (WRAM) framework, the system seamlessly unifies reasoning, environmental prediction, and real-time action execution.\n\nDesigned for zero-shot and few-shot task adaptation, GO-3 Preview enables robots to anticipate action outcomes and adjust dynamically to shifting environments, moving past rigid, pre-programmed routines. The underlying training pipeline encompasses pre-training, post-training, and continuous post-deployment optimization.\n\nAccording to benchmark results released at the event, GO-3 Preview achieved top rankings across several robotic performance evaluations, leading in task success rate and process scoring on RoboDojo, as well as overall scores on RoboTwin and RoboColiseum."
+    "title_zh": "《Hidari》导演谈基努·里维斯加盟：看完木偶短片，一周后约了视频会",
+    "content_zh": "日本定格动画长片《Hidari》的导演川村真司在东京国际电影节透露，基努·里维斯看过项目先导短片后，团队约一周便收到回复，安排双方视频通话。里维斯为主角配音的消息已于今年 5 月在戛纳公布；这次导演进一步讲述了邀请过程和长片筹备进展。\n\n川村表示，作品受黑泽明电影影响，制作主角木偶时，他就希望将三船敏郎与里维斯的形象结合，再让角色显得更年长。《Hidari》采用木雕、定格动画与时代剧的组合，团队将它定位为动作片，并曾带着手工雕刻的木偶向海外发行商展示项目。\n\n据 Variety 现场报道，团队约三年前自筹资金并借助众筹拍摄概念短片，上传 YouTube 后累计获得约 530 万次观看。长片目前仍在寻求补助和海外发行合作；制作人此前透露，一家美国公司曾提出承担全部预算并换取全部版权，相关谈判已陷入停滞。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577700996-22.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "Keanu Reeves Joins Stop-Motion Samurai Feature 'Hidari' After Viral Concept Short",
+    "content_en": "Director Masashi Kawamura revealed at the Tokyo International Film Festival how Hollywood star Keanu Reeves signed on to voice the lead in *Hidari*, an upcoming stop-motion animation feature. After viewing a self-funded concept short, Reeves' team reached out within a week to schedule a video call with the filmmakers.\n\nInspired by the legendary cinema of Akira Kurosawa, *Hidari* blends traditional wood carving with period action and stop-motion filmmaking. Kawamura explained that the main protagonist's design visually combines the iconic features of Toshiro Mifune and Keanu Reeves, aged up for a battle-hardened aesthetic.\n\nThe project originated three years ago as a crowdfunded short that quickly amassed over 5.3 million views on YouTube. While the feature film is actively seeking grants and global distribution partners, negotiations with a U.S. studio—which offered to cover the full budget in exchange for complete ownership—have currently stalled."
   },
   {
-    "title_zh": "小米推出 8 亿参数 OCR 模型，打通文档解析、抽取与问答",
-    "content_zh": "小米技术 10 月 30 日推出文档理解模型 Xiaomi-OCR-0，用 8 亿参数统一文档解析、关键信息抽取与视觉问答。模型可把正文、表格和公式转成 Markdown、LaTeX，按指定字段提取票据、卡证信息并输出 JSON，也能围绕图表内容回答问题。\n\n在官方公布的两阶段文档解析评测中，模型在模拟扫描、纸张弯曲、屏幕翻拍等干扰的 Real5-OmniDocBench 上取得 95.24 分，在页面列出的模型比较中排名第一；OmniDocBench v1.6 得分为 96.83。\n\n小米称，相关技术正用于超级小爱的取餐码识别、账单记账、日程创建等场景。模型权重、推理代码、浏览器 Demo、MCP 服务和 Agent Skill 工具包已开放，开发者可以接入自己的文档处理流程。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405364622-23.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Xiaomi Open-Sources Xiaomi-OCR-0: An 800M Parameter Model for Unified Document Parsing and Visual QA",
-    "content_en": "Xiaomi Technology released Xiaomi-OCR-0 on October 30, a compact 800-million-parameter document understanding model that unifies document parsing, key information extraction, and visual question answering (VQA). The model converts body text, tables, and mathematical formulas into Markdown or LaTeX, extracts structured JSON data from receipts and IDs, and answers queries directly from visual chart contents.\n\nDemonstrating strong robustness against visual noise such as skewed scans, paper creases, and screen captures, Xiaomi-OCR-0 achieved top-ranking scores of 95.24 on the Real5-OmniDocBench benchmark and 96.83 on OmniDocBench v1.6.\n\nXiaomi confirmed that the model's core technologies are already integrated into its Super XiaoAI assistant, powering features like pickup code recognition, automated bill tracking, and schedule creation. To support developer adoption, Xiaomi has open-sourced the model weights, inference code, browser demo, Model Context Protocol (MCP) service, and Agent Skill toolkit."
+    "title_zh": "《Godzilla Minus Zero》将于 11 月 3 日在日本上映，故事接续前作两年后",
+    "content_zh": "山崎贵执导的《哥斯拉 -1.0》续作《Godzilla Minus Zero》将于 11 月 3 日在日本上映。神木隆之介、滨边美波在东京国际电影节活动上透露，新片延续敷岛浩一家人的故事，时间设在前作约两年后，刚恢复日常生活的家庭再度面临哥斯拉的威胁。\n\n两位主演继续饰演敷岛浩一与典子，永谷咲也回归饰演明子。神木隆之介表示，上一部中主要以哭泣或单词表达的明子，这次有了完整对白。\n\n据 Variety 现场报道，主创刚从洛杉矶首映活动返回日本，观众曾在红毯高喊导演的名字。新片也是首部获得「Filmed for IMAX」认证的日本电影。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577702506-23.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "'Godzilla Minus Zero' Sets Japanese Premiere, Picking Up Two Years After Hit Prequel",
+    "content_en": "Director Takashi Yamazaki's highly anticipated sequel, *Godzilla Minus Zero*, is set to release in Japan on November 3. Speaking at the Tokyo International Film Festival, lead actors Ryunosuke Kamiki and Minami Hamabe shared that the new story takes place approximately two years after the events of *Godzilla Minus One*, following the Shikishima family as their newly rebuilt lives are threatened once again by the iconic monster.\n\nKamiki and Hamabe reprise their roles as Koichi and Noriko, alongside young actress Saku Nagatani as Akiko. Kamiki highlighted that Akiko, who mostly communicated in cries and single words in the first film, now has complete spoken dialogue in the sequel.\n\nFresh off a high-profile Los Angeles premiere, the film marks a significant technical milestone as the first Japanese production to earn the prestigious \"Filmed for IMAX\" certification."
   },
   {
-    "title_zh": "hololive 推出服装品牌 holoSynQ，首系列围绕 FLOW GLOW 展开",
-    "content_zh": "VTuber 企业 COVER 与日本纺织商社 MN Inter-Fashion 合作推出服装品牌「hololive – holoSynQ」，首个系列以旗下组合 FLOW GLOW 为主题，将角色元素融入日常街头服饰。\n\nCOVER 负责品牌概念与设计方向，MN Inter-Fashion 负责面料、服装制作及品质管理。首波设计使用中性版型，包含运动外套、连帽上衣和可搭配布章的卫衣；官网还展示了长裤、图案 T 恤、帽子和包袋等单品，部分设计通过刺绣和发泡印刷呈现图案。\n\n品牌官网于 10 月 30 日上线。首波商品计划在 11 月 6 日至 2027 年 1 月 14 日，于东京东急 Plaza 表参道 OMOKADO 的 KIDDY LAND 4 楼快闪店率先销售，地点邻近 hololive 原宿官方商店。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405365900-24.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "COVER Partners with MN Inter-Fashion to Launch Apparel Brand 'hololive – holoSynQ'",
-    "content_en": "VTuber agency COVER Corporation has partnered with Japanese textile trading company MN Inter-Fashion to launch a new apparel brand, \"hololive – holoSynQ.\" The debut collection takes inspiration from the VTuber unit FLOW GLOW, seamlessly integrating character motifs into versatile everyday streetwear.\n\nIn this collaboration, COVER directs the brand concepts and visual styling, while MN Inter-Fashion oversees fabric sourcing, production, and quality control. The initial unisex lineup includes track jackets, hoodies, patch-customizable sweatshirts, graphic tees, trousers, caps, and bags, featuring visual accents executed through embroidery and puff printing.\n\nFollowing the launch of the brand's official website on October 30, the first product drop will be available exclusively at a pop-up store located on the 4th floor of KIDDY LAND in Tokyu Plaza Omotesando OMOKADO, Tokyo. The store will run from November 6 through January 14, 2027, situated conveniently near the official hololive Harajuku store."
-  },
-  {
-    "title_zh": "日本松屋会员数据遭入侵，涉及逾 237 万条记录",
-    "content_zh": "日本餐饮连锁松屋披露，会员系统遭未授权访问，涉及约 237.7 万条会员记录，可能包含会员编号、姓名、地址、电话号码及积分信息。\n\n据 Impress Watch 原始报道，另一部分约 2000 条、最多可能约 3000 条记录还涉及出生日期、电子邮箱和加密密码。公司称，系统没有保存信用卡信息。\n\n松屋于 10 月 28 日发现异常，随后展开调查，并向个人信息保护委员会报告，计划联系受影响会员。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405367194-25.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Matsuya Cyberattack Exposes Data of Over 2.37 Million Loyalty Members",
-    "content_en": "Japanese fast-food chain Matsuya has reported a data breach affecting approximately 2.377 million customer accounts following unauthorized access to its member system. Exfiltrated data potentially includes member IDs, names, physical addresses, phone numbers, and reward point balances.\n\nAccording to reports, a smaller subset of 2,000 to 3,000 records also exposed birth dates, email addresses, and encrypted passwords. The company clarified that payment card details were not compromised, as financial data is not stored on the affected servers.\n\nUnusual activity was first detected on October 28. Matsuya has since launched a forensic investigation, notified Japan's Personal Information Protection Commission, and begun reaching out to impacted customers."
-  },
-  {
-    "title_zh": "One Fun Thing｜合上 iPhone Duo，烤一份虚拟芝士吐司",
-    "content_zh": "Toastie 把折叠手机变成了烤吐司机。先选面包，再铺上黄油、芝士和其他配料，合上 iPhone Duo，就开始加热；重新展开时，吐司也到了出炉时刻。\n\n开得太早会夹生，放得太久则会烤焦。游戏会结合配方、摆盘、烘烤程度和准备时间评分，制作过程也包含真实等待的节奏。\n\n应用由 Tomasz Szykulski 开发。其他 iPhone 和 iPad 可以操作虚拟烤盘盖，Duo 则将合盖动作直接交给手机铰链。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405369688-26.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "'Toastie' Uses Foldable Phone Hinges to Cook Virtual Grilled Cheese",
-    "content_en": "A playful new mobile game called *Toastie* turns foldable smartphones into interactive sandwich presses. Players choose their bread, spread butter, layer cheese, and add toppings before folding the device shut to start grilling. Reopening the phone reveals the freshly toasted creation.\n\nTiming is crucial to the gameplay: opening the device too early leaves the toastie undercooked, while waiting too long burns it to a crisp. Players are scored on recipe choice, arrangement, toastiness level, and prep time, with real-time waiting periods baked directly into the experience.\n\nDeveloped by Tomasz Szykulski, the game utilizes hardware hinges on dual-screen or foldable concepts like the fictional \"iPhone Duo\" to simulate closing a toaster lid. Traditional iPhones and iPads can also play using a virtual lid interface."
-  },
-  {
-    "title_zh": "周末看什么｜《艾泽拉斯星球》把鱼人和狗头人拍成自然纪录片",
-    "content_zh": "英国喜剧演员兼音乐人 Bill Bailey 化身矮人探险家，走进《魔兽世界》的生态环境。《艾泽拉斯星球》（Planet Azeroth）借用自然纪录片的讲述方式，把鱼人、狗头人等游戏生物变成观察对象，由 Bailey 配音介绍它们的生活。\n\n系列共计划三集，将穿过艾尔文森林、冬泉谷等地区。首集已上线 World of Warcraft 官方 YouTube 频道，时长 6 分 47 秒，官方简介列出的主角包括鱼人和狗头人。\n\nTechRadar 的评论将其描述为一部「纪录片失控」式伪纪录片，并认为它可以为《World of Warcraft: Forever》预热，同时保留对新作的观望。Bailey 则在公开介绍中说，自己一直着迷于自然世界，这次探索艾泽拉斯时终于不用担心被咬或弄湿衣服。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405373250-27.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "'Planet Azeroth' Turns World of Warcraft Creatures into a Nature Mockumentary",
-    "content_en": "Blizzard has launched *Planet Azeroth*, a wildlife mockumentary series that observes *World of Warcraft* creatures like Murlocs and Kobolds through the lens of a nature documentary. British comedian and musician Bill Bailey stars as a dwarf explorer, narrating the daily lives and behaviors of these fictional beasts.\n\nThe three-part series takes viewers through iconic regions such as Elwynn Forest and Winterspring. The debut episode, clocking in at just under seven minutes, is now streaming on the official *World of Warcraft* YouTube channel.\n\nDescribed by reviewers as a delightfully unhinged parodic documentary, the project serves as a creative warm-up for fans following recent franchise updates. Bailey shared his enthusiasm for the project, noting that exploring Azeroth allowed him to indulge his passion for nature reporting without the real-world risk of getting wet or bitten."
-  },
-  {
-    "title_zh": "买书不读指南｜《群鸟》从秋日乡野写到无法解释的恐怖",
-    "content_zh": "达芙妮·杜穆里埃的《群鸟》（The Birds）从英国康沃尔的秋日乡野出发，让熟悉的自然环境逐渐变成威胁。这个故事后来被希区柯克改编成同名电影；原著以写实细节累积恐惧，而非为鸟群的行为给出清楚的解释。\n\nHachette 旗下 Virago 推出的英文电子版可作为免费试读获取，发行于 2025 年 8 月 11 日，ISBN 为 9780349021096。它也是杜穆里埃短篇合集《After Midnight》的试读篇目，合集配有斯蒂芬·金新写的导言。\n\n出版社收录的《卫报》评论认为，故事从近乎田园式的康沃尔场景，逐步进入难以理解的恐怖；作家 Sarah Waters 则把这批短篇描述为自然失常、日常与诡异边界模糊的故事。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405376656-28.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Book Spotlight: Daphne du Maurier’s 'The Birds' Delivers Unexplained Terror from the Countryside",
-    "content_en": "Daphne du Maurier's classic story *The Birds* opens in the quiet autumn countryside of Cornwall, England, gradually transforming a familiar natural setting into an inescapable threat. Adapted into Alfred Hitchcock's iconic film, the original tale builds dread through realistic detail rather than offering a convenient explanation for the flocks' uncanny behavior.\n\nA free ebook sample is currently available from Virago (an imprint of Hachette), published on August 11, 2025 (ISBN: 9780349021096). The piece serves as a sampler for du Maurier's short story collection *After Midnight*, which features a new introduction by Stephen King.\n\nAccording to *The Guardian*, the narrative masterfully shifts from pastoral scenes into incomprehensible horror. Author Sarah Waters similarly described the collection as eerie tales where nature goes awry and the boundary between the ordinary and the uncanny blurs."
-  },
-  {
-    "title_zh": "游戏推荐｜《无人深空》在星际送快递，也能直接飞向邻近恒星",
-    "content_zh": "Hello Games 的《无人深空》让玩家在程序生成的宇宙中探索星球、采集资源、升级飞船并建造基地。每颗星球有自己的地貌和生命，玩家可以独自远行，也可以与其他玩家分享发现、合作建设。Steam 简体中文商店页目前的近期评测和简体中文评测均为「特别好评」。\n\n新上线的 Forsaken 7.10 更新增加了太空快递任务：拥有轻型护卫舰和引力线圈的玩家，可从深空前哨接取包裹运送委托。飞行途中，邻近星系的恒星也能直接选中并跃迁，无需先打开银河地图；废弃货船、感染前哨与深空残骸中则能收集奇异纪念物，换取生物机械风格的舰船模块。\n\n完整游戏现已登陆 iOS，界面针对触控重新设计，官方称移动版针对电池续航和发热作了优化。PC 版由 Hello Games 开发并发行，Steam 页面记录的发行日期为 2016 年 8 月 13 日。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/10/lark2pad-1793405379776-29.jpg!360",
-    "date": "2026-10-31 08:14",
-    "title_en": "Game Spotlight: 'No Man's Sky' Introduces Interstellar Courier Missions and Direct Star Jumping",
-    "content_en": "Developed and published by Hello Games, *No Man's Sky* lets players explore procedurally generated planets, gather resources, upgrade starships, and build bases. Whether traveling solo or collaborating with others, players can explore unique worlds with distinct landscapes and ecosystems. The title continues to hold a \"Very Positive\" rating on Steam.\n\nThe newly launched Forsaken 7.10 update introduces interstellar delivery missions. Players equipped with light frigates and gravity coils can accept parcel delivery contracts from deep-space outposts. Pilots can now target and warp directly to neighboring stars during flight without opening the galaxy map. Additionally, strange mementos recovered from derelict freighters, infested outposts, and space debris can be exchanged for biomechanical ship modules.\n\nFurthermore, the full game is now available on iOS with a redesigned touch interface and performance optimizations tailored for battery efficiency and thermal control."
+    "title_zh": "《银魂》导演谈重制吉原炎上篇：为新版重修 200 多个镜头",
+    "content_zh": "《银魂》动画电影《吉原炎上》在意大利卢卡漫画游戏展亮相。导演安藤尚也与制片人在 Variety 采访中透露，团队在今年 2 月日本上映的版本之后，借影碟发行的机会重新打磨了 200 多个镜头。\n\n这部电影重访原作中的人气篇章。安藤尚也表示，为了让动作场面适合大银幕，团队采用 CinemaScope 超宽画幅，并利用 3D 技术增加摄影机运动与构图变化，也制作了大量新音乐。相比电视动画，电影还真正呈现了吉原燃烧的场面。\n\n谈到《银魂》的幽默，他说团队安排了一位导演主要负责喜剧部分；他们希望让角色自然地互相开玩笑，让观众听见并感受到趣味。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1793577704544-24.jpg!360",
+    "date": "2026-11-02 08:03",
+    "title_en": "'Gintama' Director Polishes Over 200 Shots for 'Yoshiwara in Flames' Feature Adaptation",
+    "content_en": "At the Lucca Comics & Games festival in Italy, director Naoya Ando and his producing team detailed their extensive revamp of the *Gintama* feature film, *Yoshiwara in Flames*. Following its initial theatrical run in Japan earlier this February, the team painstakingly polished more than 200 shots specifically for the upcoming home video release.\n\nRevisiting one of the franchise's most celebrated story arcs, the cinematic adaptation adopts a CinemaScope ultrawide aspect ratio and leverages 3D animation techniques to enhance camera mobility and dynamic compositions. The theatrical version also features an original musical score and fully renders the dramatic burning of Yoshiwara—a spectacle that was previously constrained by television broadcast standards.\n\nAddressing the series' signature humor, Ando revealed that a dedicated director was brought in specifically to oversee comedy beats, ensuring character banters feel natural and deliver the effortless wit fans expect on the big screen."
   }
 ]
