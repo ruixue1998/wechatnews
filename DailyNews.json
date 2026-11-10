@@ -1,210 +1,162 @@
 [
   {
-    "title_zh": "曝特努斯要求加快 AI 研发，推动 Siri 主动处理任务",
-    "content_zh": "据彭博社报道，苹果新任 CEO John Ternus 正推动软件负责人 Craig Federighi 在 AI 上采取更激进的路线，希望将 Siri 进一步改造为能自主完成任务的 AI 智能体。\n\n彭博社记者 Mark Gurman 称，Ternus 近几周与 Federighi 举行了闭门会议，对苹果 AI 的推进速度不满，要求加快路线图，不要止步于对 Siri 的必要改进。\n\nTernus 在上周的首次财报电话会上表示，Siri 目前主要仍是基于请求的模式，但其基于编排器驱动的现代架构，为未来扩展能力留出了空间。\n\n对于智能体能力，他称这是有前景的工具，但需要确保用户清楚自己授予了哪些权限，并保护安全和隐私。\n\nGurman 认为，Siri 与 ChatGPT Dots、Meta Muse 和 Grok 等仍有明显差距，后者可接手持续性任务、跨对话记忆并主动推送信息；苹果也尚未推出类似「计算机使用」的功能。他预计苹果最早可能在明年让 Siri 更接近智能体。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184260042-1.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Apple CEO John Ternus Pushes to Accelerate AI Roadmap for Autonomous Siri Agent",
-    "content_en": "Apple CEO John Ternus is reportedly urging software chief Craig Federighi to adopt a more aggressive stance on artificial intelligence. According to Bloomberg's Mark Gurman, Ternus held closed-door meetings with Federighi to express dissatisfaction with Apple's current AI progress, demanding a faster roadmap aimed at transforming Siri into an autonomous AI agent.\n\nDuring a recent earnings call, Ternus acknowledged that Siri currently operates primarily on a request-based model. However, he emphasized that its modern orchestrator-driven architecture lays the groundwork for expanding future capabilities. He noted that while autonomous AI agents are promising, ensuring user security, privacy, and clear permission management remains essential.\n\nGurman highlighted that Siri still trails competitors such as ChatGPT Dots, Meta Muse, and Grok, which can manage persistent tasks, retain cross-conversation memory, and proactively push notifications. Apple is expected to bring Siri closer to an agentic model by next year at the earliest."
+    "title_zh": "Apple 智能备案新增 iPad 和笔记本",
+    "content_zh": "网信上海 11 月 9 日发布公告，Apple 智能生成式人工智能服务新增苹果平板和笔记本电脑两类适用场景，已完成备案。变更后的适用范围包括苹果手机、平板和笔记本电脑。\n\n公告所列备案主体为苹果技术开发（上海）有限公司，原备案日期为 7 月 8 日，此次场景变更日期为 11 月 9 日。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271447791-1.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Apple Intelligence Expands Regulatory Approval in China to Cover iPads and MacBooks",
+    "content_en": "Apple Intelligence has expanded its official generative AI registration in China to include iPads and Mac laptops, according to a notice released by the Cyberspace Administration of Shanghai on November 9.\n\nWith this update, the regulatory filing officially covers iPhones, iPads, and MacBooks. The registered entity remains Apple Technology Development (Shanghai) Co., Ltd., which originally received approval on July 8 before updating its scope in November."
   },
   {
-    "title_zh": "苹果称超 10 万款应用已适配 iPhone Duo",
-    "content_zh": "苹果在 11 月 6 日宣布，上市约两周的折叠屏 iPhone Duo 已有超过 10 万款应用完成优化。据 MacRumors 向苹果求证，这一数字指基于 iOS 27.1 SDK 或更高版本构建的应用，可铺满内外屏全宽，并将控件移至状态栏。\n\n苹果此前在新闻稿提到，微博、爱奇艺、WPS Office、高德地图、小红书、淘宝和 Xmind 已针对 iPhone Duo 做了优化。\n\n不过，仍有大量应用尚未适配。MacRumors 列出的未适配应用包括 Google 办公套件、Microsoft Teams、Steam、PayPal 和 YouTube Music，苹果自家的 Apple Store 应用也在其中。\n\n适配程度分为三档：\n\n苹果称，使用标准 SwiftUI 和 UIKit 组件的应用可自动适配，每天仍有数千款优化后的应用上架。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184262692-2.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Over 100,000 Apps Optimized for Foldable iPhone Duo, Apple Reports",
-    "content_en": "Apple announced that over 100,000 apps have been optimized for the foldable iPhone Duo within two weeks of its release. According to *MacRumors*, Apple confirmed this figure refers to applications built with the iOS 27.1 SDK or higher, enabling them to expand across both inner and outer displays while shifting controls to the status bar.\n\nKey applications optimized so far include popular platforms such as Weibo, iQIYI, WPS Office, Amap, Xiaohongshu, Taobao, and Xmind. Apple noted that apps utilizing standard SwiftUI and UIKit components auto-adapt to the new display, with thousands of updated titles arriving daily.\n\nHowever, a significant number of high-profile apps have yet to adapt to the foldable form factor. Unoptimized software includes Google Workspace, Microsoft Teams, Steam, PayPal, YouTube Music, and even Apple's own Apple Store app."
+    "title_zh": "英伟达逆势大跌 4.27%，一夜蒸发 1.29 万亿元",
+    "content_zh": "美东时间 11 月 9 日，英伟达股价收跌 4.27%，报 178.67 美元，单日市值缩水约 1921 亿美元，折合人民币约 1.29 万亿元。目前，英伟达总市值约为 4.31 万亿美元。\n\n当天美股三大股指集体上涨，其中纳斯达克综合指数涨幅达 2.74%，英伟达却逆势下跌。盘中其股价一度跌至 170.24 美元，较前一交易日收盘价跌幅接近 9%。\n\n此次股价下跌正值英伟达管理层面临调查。据路透社报道，英伟达董事会于 11 月 8 日宣布启动独立调查，以核实 CEO 黄仁勋是否曾成为外国情报活动的目标。调查由独立董事委员会及外部法律顾问负责。\n\n英伟达在官方声明中强调，目前没有理由认为美国国家安全或公司商业机密受到损害。董事会仍对黄仁勋及其管理团队保持信心，黄仁勋本人也承诺配合调查。\n\n路透社指出，调查可能加剧投资者对英伟达管理层稳定性的担忧。与此同时，市场对 AI 基础设施投资可持续性的疑虑也持续影响科技股表现。\n\n此前，英伟达股价已于 11 月 5 日大跌 9.26%，虽然次日反弹 2.78%，但最新一轮下跌使其股价再度承压。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271448531-2.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Nvidia Shares Fall 4.27% Bucking Market Rally Amid Board Investigation into CEO Jensen Huang",
+    "content_en": "Nvidia stock bucked a broader market rally on November 9, closing down 4.27% at $178.67 and wiping out roughly $192.1 billion in market capitalization in a single day. The sharp decline occurred even as the Nasdaq Composite rose 2.74%, with Nvidia's stock plummeting nearly 9% intraday to a low of $170.24.\n\nThe pullback follows an announcement by Nvidia's board of directors initiating an independent investigation to determine whether CEO Jensen Huang was targeted by foreign intelligence activities. The probe, led by an independent board committee and external counsel, comes with reassurances from Nvidia that there is no indication of compromised national security or trade secrets. The board reaffirmed its full confidence in Huang, who committed to cooperating fully with the inquiry.\n\nThe investigation has intensified investor concerns over executive stability, while ongoing market skepticism regarding the long-term sustainability of AI infrastructure spending continues to weigh heavily on tech stocks."
   },
   {
-    "title_zh": "英伟达 1140 万美元货物被盗",
-    "content_zh": "据洛杉矶时报报道，美国加州奥克兰警方正在调查一起涉及英伟达货物的重大盗窃案，被盗物品为AI芯片和计算机硬件，价值高达1140万美元（约合7610万元人民币）。\n\n报道称，6 托盘英伟达货物原定从奥克兰运往得克萨斯州沃思堡，但在 8 月 29 日被一辆卡车提走后，卡车随后失联。\n\n警方曾尝试追踪该车辆，最终在圣贝纳迪诺县失去踪迹。奥克兰警方确认，该盗窃案已于 9 月 13 日报案，目前仍在调查中，但拒绝公布更多细节。\n\n另据央视财经消息，这辆卡车途中曾多次停靠，单次停留长达数小时。专家称，相关芯片在美国境外的售价接近美国本土的两倍，不排除赃物已被转运出境。\n\n央视财经称，这并非英伟达首次遭遇货物被盗。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184264462-3.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "$11.4 Million Worth of Nvidia AI Chips Stolen in California Transit Theft",
-    "content_en": "Oakland police in California are investigating a major heist involving $11.4 million worth of Nvidia AI chips and computer hardware, according to the *Los Angeles Times*. Six pallets of high-value equipment bound for Fort Worth, Texas, disappeared after being loaded onto a transport truck on August 29.\n\nAuthorities attempted to track the vehicle but lost its signal in San Bernardino County. The theft was formally reported on September 13 and remains under active investigation. Reports indicate the truck made several long stops lasting hours along its route, leading experts to suggest the chips—which command nearly double their U.S. retail price abroad—may have already been smuggled out of the country.\n\nThis incident is not the first time Nvidia's supply chain has been targeted by high-value thefts amid global demand for AI hardware."
+    "title_zh": "曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能",
+    "content_zh": "据彭博社 Mark Gurman 报道，苹果已调整下一代操作系统 iOS 28 的开发流程，首个开发阶段（M1）留出六周用于编码、探索和功能开发，随后仅有两周用于整合。\n\n报道称，苹果目前已深入推进明年的新系统开发，其中 iOS 28 和 iPadOS 28 代号为 Bell，macOS 28 代号为 Poppy。\n\n按照惯例，苹果每年的新系统开发分为 M1、M2、M3 三个主要阶段，每个阶段持续八周，包含四周编码和四周整合，整合指的是将各项功能集成进操作系统。\n\n此次 M1 阶段，苹果没有沿用两个四周的常规安排，而是让工程师先用六周进行编码、探索和功能开发，再用两周完成整合。报道提到，有员工表示喜欢这一变化，认为这样能在功能锁定前留出更多时间构思和尝试。\n\n报道同时提到，苹果新任 CEO John Ternus 对公司 AI 进展并不满意，近几周已与软件负责人 Craig Federighi 举行闭门会议，希望其加快 AI 路线图。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271450827-3.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Apple Adjusts iOS 28 Development Schedule to Boost Feature Exploration Amid AI Push",
+    "content_en": "Apple has revised its software development workflow for next year's major operating system updates, including iOS 28 (codenamed \"Bell\") and macOS 28 (codenamed \"Poppy\"), according to Bloomberg's Mark Gurman. Under the new approach, the initial development stage (M1) allocates six weeks for coding and feature exploration, followed by a condensed two-week integration phase.\n\nTraditionally, Apple structures its software development into three eight-week cycles (M1, M2, and M3), usually splitting time evenly with four weeks for coding and four weeks for integrating features into the core OS. Engineers reportedly welcome the new schedule, as the extended timeframe provides more flexibility to test creative ideas before features are locked down.\n\nThe shift comes amid reported pressure from Apple management to accelerate artificial intelligence development. CEO John Ternus has held closed-door meetings with software chief Craig Federighi to push for a faster AI roadmap after expressing dissatisfaction with the company's progress."
   },
   {
-    "title_zh": "Anthropic 拟于本周启动 IPO 路演",
-    "content_zh": "据《The Information》当地时间 11 月 6 日报道，Anthropic 计划在 11 月 9 日当周启动 IPO 路演。此前路透社援引知情人士称，潜在投资者曾对原定的路演和上市时间表提出疑问。\n\n《The Information》此前报道，Anthropic 的目标是在美国感恩节前挂牌。\n\n公司已于当地时间 11 月 2 日更新招股文件。此次披露的是筹备进度，路演将用于向潜在投资者介绍发行安排。\n\nAxios 报道称，投资者在近期科技股下跌后重新评估 Anthropic 的上市估值。《华尔街日报》和彭博社援引的投资者讨论给出了不同预期，仍处在发行定价前的讨论阶段。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184267867-4.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Anthropic Set to Launch IPO Roadshow Ahead of Thanksgiving Target",
-    "content_en": "AI startup Anthropic is planning to launch its IPO roadshow during the week of November 9, targeting a public debut before Thanksgiving, according to a report by *The Information*. The company recently updated its prospectus filings to outline its preparation progress and present offering arrangements to prospective investors.\n\nThe upcoming roadshow follows questions raised by potential investors regarding the original timeline, alongside broader market shifts. Following a recent pullback in tech stocks, investors are re-evaluating Anthropic's debut valuation, with pricing discussions still ongoing."
+    "title_zh": "曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+    "content_zh": "据第一财经 11 月 9 日报道，玛莎拉蒂母公司 Stellantis 正与华为、江淮推进一项名为「玛莎拉蒂 Design」的新车项目。报道称，新车外观已经确定，计划在 2027 年第四季度迎来进一步的量产进展。\n\n知情人士称，项目将由江淮负责制造，华为参与提供支持。新车计划在国内由尊界销售，在海外沿用玛莎拉蒂标识。",
+    "image_url": "",
+    "date": "2026-11-10 08:47",
+    "title_en": "Stellantis Reportedly Partnering with Huawei and JAC Motors for 'Maserati Design' EV",
+    "content_en": "Stellantis, the parent company of Maserati, is reportedly advancing a new vehicle project named \"Maserati Design\" in collaboration with Huawei and JAC Motors, according to a report by Yicai on November 9. The exterior design has already been finalized, with mass production expected to progress further in the fourth quarter of 2027.\n\nUnder the reported arrangement, JAC Motors will handle manufacturing while Huawei provides technical support. The upcoming vehicle is planned to be sold in China under Huawei's MAEXTRO brand, while retaining the Maserati badge in overseas markets."
   },
   {
-    "title_zh": "马斯克：SpaceX 明年 12 月年化营收或超 5000 亿美元",
-    "content_zh": "马斯克在 11 月 6 日的巴伦投资大会上表示，按 SpaceX 目前的计划，他个人估计，公司到 2027 年 12 月的年化营收可能超过 5000 亿美元。这是按届时营收速度折算的年化规模，马斯克把它称为自己的估计。\n\n谈到增长从何而来，马斯克把地面数据中心和轨道算力放在同一套规划里。他认为，地面扩张首先受制于供电和芯片供应，数据中心建设并非只要拿到芯片就能启动。\n\nSpaceX 希望用可重复使用的星舰降低发射成本，为把计算设备送入轨道创造条件。\n\n他还谈到特斯拉在中国的业务。以 Model Y 为例，他说上海工厂生产的这款车在中国市场取得销量成绩并不容易，原因是中国车企的竞争力很强。他也说自己喜欢去中国，觉得在中国旅行让人受到启发。\n\n巴伦在访谈中将营收估计与 SpaceX 历史规模作比较。两人口中的年化营收是特定时点的收入速度，不能直接与公司过去完整年度的营收作同口径比较。\n\n谈及更近的时间点，马斯克还预计第四季度营收增幅将超过五成。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184269158-5.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Elon Musk Forecasts SpaceX Annualized Revenue Could Exceed $500 Billion by 2027",
-    "content_en": "Speaking at the Baron Investment Conference, Elon Musk outlined an ambitious growth trajectory for SpaceX, estimating its annualized revenue run rate could exceed $500 billion by December 2027. For the immediate future, he projects fourth-quarter revenue growth to top 50%.\n\nMusk tied the company's long-term growth to expanding computing capacity, bridging terrestrial data centers with orbital computing. He noted that ground-based data centers face bottlenecks due to power constraints and chip shortages. SpaceX aims to utilize its reusable Starship rocket to drastically lower launch costs, making orbital compute deployment viable.\n\nDuring the event, Musk also addressed Tesla's business in China, acknowledging the fierce competition from local automakers while praising the country's dynamic environment."
+    "title_zh": "Anthropic 发布 Claude Fable 和 Mythos 5.2，两款模型 API 降价",
+    "content_zh": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2。两款产品共用同一个底层模型，开放范围由安全设置区分：Fable 会拦截渗透测试、漏洞利用代码生成及多数生物研究类请求，符合条件的网络安全或生命科学研究机构可申请使用 Mythos。\n\nAnthropic 称，新模型生成速度较 5.1 版最高快 30%。标准 API 价格降至每百万输入 token 8 美元、每百万输出 token 40 美元。Fable 5.2 已登陆 Claude 平台及 AWS、Google Cloud 和 Microsoft Azure。\n\n在发布前测试中，Anthropic 用模型把费马大定理的既有证明写成了可由程序检查的形式化证明。在公司的 FrontierSWE v2 编程评测中，Fable 5.2 得分为 69.9%，Fable 5.1 为 56.3%。\n\n🔗 相关阅读：刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271452819-4.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2 with Lower API Pricing",
+    "content_en": "Anthropic has released Claude Fable 5.2 and Mythos 5.2, two models built on the same underlying architecture but differentiated by safety guardrails. Fable 5.2 restricts requests involving penetration testing, exploit code generation, and most biological research, while verified cybersecurity and life sciences organizations can apply to access Mythos 5.2.\n\nThe updated models deliver up to 30% faster generation speeds compared to version 5.1. Standard API pricing has been reduced to $8 per million input tokens and $40 per million output tokens. Fable 5.2 is currently available on the Claude platform as well as AWS, Google Cloud, and Microsoft Azure.\n\nDuring pre-release testing, Fable 5.2 achieved a score of 69.9% on Anthropic's FrontierSWE v2 coding benchmark, up from 56.3% on Fable 5.1. Anthropic also showcased the model's math reasoning by converting existing proofs of Fermat's Last Theorem into machine-verifiable formal proofs."
   },
   {
-    "title_zh": "Meta 首席战略官将离职，出任 Fireworks 首席财务官",
-    "content_zh": "Meta 首席战略官戴夫·韦纳将离开公司，出任 AI 推理平台 Fireworks 的首席财务官。Fireworks 联合创始人兼 CEO 林乔已确认这项任命。\n\n韦纳 2012 年加入 Facebook，2014 年升任首席财务官。2022 年，他成为 Meta 首位首席战略官，负责公司战略和企业发展，首席财务官一职由苏珊·李接任。\n\nFireworks 为企业提供模型训练和推理服务。林乔在宣布任命时提到，公司希望企业能用自己的数据、知识和业务经验打造专用 AI，并将模型训练和推理一并设计。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184271675-6.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Meta Chief Strategy Officer Dave Wehner Steps Down to Join Fireworks AI as CFO",
-    "content_en": "Dave Wehner, Chief Strategy Officer at Meta, is leaving the social media giant to join AI platform Fireworks as Chief Financial Officer. The executive move was confirmed by Fireworks co-founder and CEO Lin Qiao.\n\nWehner joined Facebook in 2012 and served as Chief Financial Officer from 2014 until 2022, when he transitioned into Meta's first Chief Strategy Officer. At Fireworks, he joins a rapidly growing startup dedicated to helping enterprises build and run customized AI models using their own proprietary data."
+    "title_zh": "谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理",
+    "content_zh": "谷歌 11 月 9 日公布 TPU 8i Max 和 TPU 8tx，扩充今年 4 月亮相的第八代 TPU 阵容。两套系统沿用现有芯片，分别调整了芯片封装和配套硬件。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271453898-5.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Google Expands 8th-Gen TPU Lineup with TPU 8i Max and TPU 8tx",
+    "content_en": "Google announced two new hardware systems, the TPU 8i Max and TPU 8tx, on November 9 to expand its eighth-generation TPU family introduced earlier this year in April.\n\nTargeting long-context processing and confidential inference respectively, both systems utilize Google's existing TPU silicon while featuring redesigned chip packaging and tailored supporting hardware."
   },
   {
-    "title_zh": "比亚迪李柯回应玛莎拉蒂收购传闻",
-    "content_zh": "比亚迪执行副总裁李柯在阿布扎比接受《提契诺邮报》采访时，再次被问到是否有意收购玛莎拉蒂。\n\n她表示，几年前可能更感兴趣，现在比亚迪已经走出自己的路，发展自有品牌更容易，也更能体现公司对技术的判断。她今年 5 月曾表示玛莎拉蒂这样的老牌车企很有吸引力，当时没有开展具体收购操作。\n\n采访是在仰望 U9 Xtreme 庆祝刷新速度纪录期间进行的。这辆车由德国车手马克·巴森驾驶，在阿联酋封闭道路上单向跑出 503.17km/h。李柯说，高压架构等在这辆车上展示的技术，今后可以用到比亚迪其他量产车型。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184274792-7.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "BYD Executive Dismisses Maserati Acquisition Rumors, Highlighting Focus on In-House Growth",
-    "content_en": "BYD Executive Vice President Stella Li has addressed rumors regarding a potential acquisition of luxury automaker Maserati, stating that the Chinese EV giant is focused on its own path. Speaking during an interview in Abu Dhabi, Li noted that while buying legacy brands might have seemed appealing years ago, developing in-house brands is now more effective and better reflects the company's technological expertise.\n\nLi's comments coincided with the celebration of BYD's Yangwang U9 Xtreme setting a record speed of 503.17 km/h on a closed road in the UAE. She highlighted that high-performance innovations demonstrated in the hypercar, such as its high-voltage architecture, will eventually be integrated into BYD's mass-production passenger vehicles."
+    "title_zh": "迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型",
+    "content_zh": "迪士尼与 Adobe 宣布达成多年合作。Adobe 将向迪士尼提前开放最新的创作和媒体工具，并提供工程与研究资源。双方将用 Firefly Foundry 开发迪士尼专用的生成模型，把角色特征、场景和视觉风格纳入模型训练。\n\n迪士尼的幻想工程研发团队已在主题乐园开发中使用这套工具，例如将手绘草图转成完整的二维概念图。合作还覆盖华特迪士尼影业的 StudioLAB 和 ESPN Edge，后者将探索用 AI 整理和利用体育档案，并尝试新的内容呈现方式。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271456908-6.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Disney Partners with Adobe to Build Custom AI Models for Iconic IP",
+    "content_en": "Disney and Adobe have announced a multi-year partnership to build custom generative AI models tailored to Disney's vast library of intellectual property. Powered by Adobe’s Firefly Foundry platform, the models will be trained on specific character traits, set designs, and visual styles, supported by dedicated engineering and research resources from Adobe.\n\nDisney Imagineering is already utilizing these tools to streamline theme park development, such as automatically converting hand-drawn sketches into fully realized 2D concept art. The collaboration also encompasses Walt Disney Studios' StudioLAB and ESPN Edge, with ESPN exploring AI to organize sports archives and create innovative content experiences."
   },
   {
-    "title_zh": "成都一男子戴 AI 眼镜考驾照作弊，现场演示多选题全错",
-    "content_zh": "据央视新闻报道，10 月 16 日，成都一名男子在增驾摩托车驾照的理论考试中使用 AI 眼镜和智能戒指作弊。驻场民警发现他反复摆弄眼镜和戒指，上前核查，男子承认设备是他从网上买来辅助答题的。他此前申领汽车驾照时，理论考试考了 4 次才通过。\n\n调查中，男子自己在手机上刷题，正确率超过 85%。民警另行随机抽题，让他用设备演示，抽到的多选题全部答错。成都交警对他作出罚款处罚，一年内不得再次申领机动车驾驶证。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184276403-8.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Driver Cheats on License Exam with AI Glasses—Only for the Tech to Fail Horribly",
-    "content_en": "A man in Chengdu was caught using AI-powered smart glasses and a smart ring to cheat during a motorcycle driver's license written exam on October 16. On-site police officers grew suspicious after observing him repeatedly adjusting his accessories. Upon confrontation, the man admitted to buying the devices online to assist with his exam.\n\nIn an ironic twist, an investigation revealed that the man actually knew the material, scoring over 85% accuracy when tested manually on his phone. However, when police asked him to demonstrate how the AI gadgets worked on a set of random questions, the high-tech cheating setup answered every single multiple-choice question incorrectly.\n\nChengdu traffic police fined the driver and barred him from applying for any motor vehicle driver's license for one year."
+    "title_zh": "詹姆斯·古恩将卸任 DC 影业联席 CEO，前漫威高管接掌创意",
+    "content_zh": "Skydance 宣布，曾参与搭建漫威电影宇宙的杰里米·拉查姆将于 12 月 1 日出任 DC 影业总裁兼首席创意官，统筹电影、电视和动画业务。詹姆斯·古恩与彼得·萨夫兰将卸下管理职务，回归创作和制片。\n\n拉查姆曾参与制作《钢铁侠》《复仇者联盟》和《银河护卫队》。古恩编剧并执导的超人续集《Man of Tomorrow》目前处于后期制作，计划于 2027 年 7 月 9 日上映，古恩和萨夫兰仍共同担任制片人。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271458585-7.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Ex-Marvel Executive Jeremy Latcham Takes Lead at DC Studios as James Gunn Steps Down",
+    "content_en": "Skydance has announced that former Marvel Studios executive Jeremy Latcham will become President and Chief Creative Officer of DC Studios on December 1, taking charge of film, television, and animation divisions. Co-CEOs James Gunn and Peter Safran will step down from corporate management to return to hands-on writing and producing.\n\nLatcham played a key role in launching the Marvel Cinematic Universe, with producing credits on blockbuster hits including *Iron Man*, *The Avengers*, and *Guardians of the Galaxy*. Meanwhile, Gunn's upcoming sequel *Man of Tomorrow*, which he wrote and directed, is currently in post-production and slated for release on July 9, 2027, with Gunn and Safran remaining attached as producers."
   },
   {
-    "title_zh": "中国移动启动 6G 智能应用共创行动，上海将办 6G 发展大会",
-    "content_zh": "11 月 6 日，中国移动总工程师王晓云在广州举行的移动网络大会上宣布启动 6G 智能应用共创行动。据 C114 通信网报道，中国移动将开放一套跨城市、跨站点的网络试验装置，供合作伙伴孵化应用、开发产品并做端到端验证。首批方向包括网联机器人、AI 终端、沉浸式通信和工业智能等，计划推动百项研发任务并聚合千家伙伴。\n\n同日，2026 年 6G 发展大会新闻通气会公布，大会将于 11 月 24 日至 25 日在上海松江举行。据第一财经报道，会议将讨论 6G 标准制定，并展示基站原型、智能体核心网样机等研发成果。上海还将在开幕式上揭牌 6G 概念验证平台。\n\n上海智联信息技术研究院和上海大学计划在大会上发布一套使用国产算力的 6G 基站原型系统，以及包含新频谱和多模态信道测量的数据集。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184277306-9.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "China Mobile Launches 6G Co-Creation Initiative as Shanghai Prepares for 6G Conference",
-    "content_en": "China Mobile has officially launched a 6G intelligent application co-creation initiative to accelerate next-generation communications technology. Speaking at the Mobile Network Conference in Guangzhou, Chief Engineer Wang Xiaoyun announced that China Mobile will open a multi-city, multi-site network testbed for ecosystem partners. The initiative focuses on connected robotics, AI terminals, immersive communications, and industrial intelligence, aiming to rally 1,000 partners around 100 core R&D projects.\n\nMeanwhile, Shanghai is set to host the 2026 6G Development Conference from November 24 to 25 in Songjiang. The conference will focus on 6G standardization and display advanced technical breakthroughs, including base station prototypes and AI-agent core network models. Shanghai will also officially unveil a municipal 6G proof-of-concept platform during the event.\n\nAdditionally, the Shanghai Institute of Intelligent Communications and Shanghai University plan to release a 6G base station prototype powered by domestic computing resources, alongside datasets covering new spectrums and multimodal channel measurements."
+    "title_zh": "💡 瑞银 CEO：AI 股回调前，市场一直按「完美情景」定价",
+    "content_zh": "据路透社报道，瑞银首席执行官塞尔吉奥·埃尔莫蒂 11 月 9 日在悉尼出席瑞银会议时表示，过去数周 AI 股票的明显回调，反映出投资者此前对行业的预期过高。他仍看好 AI 带来的经济收益，但认为市场高估了这些收益兑现的速度。\n\n埃尔莫蒂提到，美国中期选举结果，以及全球围绕 AI 基础设施建设影响的争论，都可能拖慢行业取得成果的进度。\n\n他也以瑞银为例说明企业落地的速度。瑞银在 2023 年同意收购瑞信，埃尔莫蒂表示，随后的整合工作拖慢了瑞银内部部分 AI 应用的落地。",
+    "image_url": "",
+    "date": "2026-11-10 08:47",
+    "title_en": "AI Stocks Were Priced for 'Perfection' Before Recent Pullback, Warns UBS CEO",
+    "content_en": "Speaking at a UBS conference in Sydney, UBS Chief Executive Sergio Ermotti stated that the recent pullback in artificial intelligence stocks indicates investors had set unrealistic expectations. While Ermotti remains confident in the long-term economic upside of AI, he cautioned that markets have overestimated how quickly those financial returns will materialize.\n\nErmotti highlighted several factors that could delay widespread AI adoption, including political uncertainty following U.S. midterm elections and global debates over infrastructure costs. He pointed to UBS's own experience as an example, noting that the integration of Credit Suisse following its 2023 acquisition has temporarily slowed down internal AI deployment within the bank."
   },
   {
-    "title_zh": "上纬新材两款消费级机器人累计下线 1 万台",
-    "content_zh": "上纬新材 11 月 8 日公告，9 月 20 日发布的两款消费级具身智能机器人启元 Q1 和启元 T1，合计已有 1 万台下线。公司称，目前产能正在爬坡，良率表现良好。\n\n这次披露的是生产端进度。上纬新材在公告中称，消费级机器人业务仍处于起步期，目前营收占比较低，产能、良率和推广进度均会影响后续业务表现。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184281081-10.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Shangwei New Materials Hits 10,000-Unit Milestone for Consumer AI Robots",
-    "content_en": "Shangwei New Materials announced on November 8 that combined production of its two consumer-grade embodied AI robots, the Qiyuan Q1 and Qiyuan T1, has reached 10,000 units following their launch on September 20. The company reported that manufacturing capacity is currently ramping up, accompanied by favorable yield rates.\n\nDespite achieving this production landmark, Shangwei New Materials highlighted that its consumer robotics division remains in its early stages and currently accounts for a minor share of total revenue. The company cautioned that future performance will largely depend on ongoing capacity expansion, yield stability, and market adoption."
+    "title_zh": "比亚迪第 1900 万辆新能源汽车下线，方程豹钛 9 同日开订",
+    "content_zh": "11 月 9 日，比亚迪第 1900 万辆新能源汽车在西安工厂下线，下线车型为方程豹钛 9。同一天，方程豹开启钛 9 的全国预订，并公布顶配版配置。\n\n钛 9 是一款采用方正车身的大六座插混 SUV，搭载比亚迪 DMS 混动平台和第二代刀片电池，配备云辇-A 车身控制系统。顶配版增加了 1.1 米全景抬头显示和 30 英寸座舱屏。新浪汽车报道称，新车将于 11 月内正式上市。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271461582-8.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "BYD Hits 19 Million NEV Milestone with Rollout of Fangchengbao Tai 9 SUV",
+    "content_en": "BYD achieved a major production milestone on November 9 as its 19 millionth new energy vehicle (NEV)—a Fangchengbao Tai 9—rolled off the assembly line at its Xi'an plant. On the same day, the company opened nationwide pre-orders for the flagship model and revealed details of its top-tier configuration.\n\nThe Tai 9 is a large, boxy six-seater plug-in hybrid SUV built on BYD’s DMS hybrid platform. It features the company's second-generation Blade Battery and the DiSus-A intelligent body control system. The high-end variant comes equipped with advanced cabin tech, including a 1.1-meter panoramic head-up display (HUD) and a 30-inch cockpit screen. The SUV is scheduled for an official market launch later this month."
   },
   {
-    "title_zh": "NASA 推进核动力月球车项目，目标 2028 年底发射",
-    "content_zh": "NASA 将推进核动力月球车 PROMISE 的研制，目标在 2028 年底发射，计划在月面执行为期 18 个月的任务。蓝色起源将用 Mark 1 着陆器把这辆六轮月球车送到月球南极。\n\n月球车将把钻头伸到月面下约 1 米，分析月壤中的冰和其他资源。车上还会搭载光谱仪、温度和辐射传感器及可见光相机，收集可用于后续着陆点和基地选址的数据。核动力允许它在漫长月夜及可能含冰的永久阴影区工作。\n\n负责建造的 NASA 喷气推进实验室将复用「好奇号」和「毅力号」火星车的飞行备件及工程测试样机，缩短整车集成和测试所需时间。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184282887-11.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "NASA Advances Nuclear-Powered Lunar Rover 'PROMISE' for Late 2028 Launch",
-    "content_en": "NASA is advancing the development of PROMISE, a nuclear-powered lunar rover targeted for launch by late 2028. Designed for an 18-month mission at the Moon’s south pole, the six-wheeled rover will be transported to the lunar surface aboard Blue Origin’s Mark 1 lander.\n\nThe rover is equipped to drill approximately one meter into the lunar surface to analyze ice and other subsurface resources. Featuring spectrometers, radiation and temperature sensors, and visible-light cameras, PROMISE will gather critical data to support candidate landing site evaluations and base location planning. Its nuclear power source allows continuous operation through long, freezing lunar nights and within permanently shadowed craters.\n\nTo compress development timelines, NASA’s Jet Propulsion Laboratory (JPL) will reuse flight spares and engineering prototypes from the Curiosity and Perseverance Mars rovers to streamline vehicle integration and testing."
+    "title_zh": "千问办公 2.0 发布，团队可共享资料并让 AI 按消息触发任务",
+    "content_zh": "千问办公 11 月 9 日发布 2.0 版。团队可以在协作空间里关联钉钉群聊、听记、表格和文档，管理并指派任务。成员通过即时通讯交办后，数字员工「小 Q」可以结合空间里的资料梳理项目进展、设置待办。成员也可以查看、纠正或停用空间记忆。\n\n新版支持按消息触发自动任务，首批规则包括收到指定联系人发来的消息，以及在指定群里被 @。纯云端任务在电脑关机后仍可运行，用户可以在网页端或桌面端修改、停用规则，并查看执行结果和失败原因。\n\n修改 AI 生成的内容时，用户可以选中具体的段落、单元格、幻灯片或应用区域，一次提交多处修改意见，由 AI 在原有成果上直接修改。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271462463-9.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Qwen Office 2.0 Launches with Automated Workflows and Shared Workspace Intelligence",
+    "content_en": "Qwen Office released version 2.0 on November 9, introducing enhanced collaborative capabilities for teams. Users can now link DingTalk group chats, meeting transcripts, spreadsheets, and documents within a shared workspace. Its digital AI assistant, \"Xiao Q,\" leverages this unified data to track project progress, manage to-do lists, and execute assigned tasks, while team members retain full control to view, correct, or pause the AI's workspace memory.\n\nThe update also introduces message-triggered workflow automation. Tasks can now automatically execute when specific contacts send messages or when users are tagged in group chats. These cloud-based rules continue to run even after shutting down a computer, complete with execution logs accessible via desktop or web interfaces.\n\nAdditionally, the new version refines AI content editing by allowing users to select specific paragraphs, cells, slides, or interface areas to submit batch feedback for direct AI revisions."
   },
   {
-    "title_zh": "文远知行韩旭谈 Robotaxi 规模化，希望未来可从广州直达香港",
-    "content_zh": "文远知行创始人兼 CEO 韩旭在香港金融科技周接受 CNBC 采访时说，公司认为硬件、软件和配套生态已基本具备扩大 Robotaxi 车队的条件，接下来要解决的是监管如何跟上。他希望四、五年内能坐 Robotaxi 从广州直达香港。\n\n韩旭说，文远知行已经在超过 13 个国家试运营或开展小规模运营。要把车队做大，监管机构需要有工具持续监测车辆及其算法。香港方面，文远知行已与吉利远程和冠忠巴士集团合作推进右舵自动驾驶车型。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184286128-12.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "WeRide CEO Targets Cross-Border Robotaxi Trips Between Guangzhou and Hong Kong Within 5 Years",
-    "content_en": "Speaking at Hong Kong FinTech Week, WeRide Founder and CEO Tony Han stated that the hardware, software, and supporting ecosystem required to scale Robotaxi operations are now largely mature. He noted that the key remaining challenge is regulatory adaptation, expressing hope that passengers will be able to take a Robotaxi directly from Guangzhou to Hong Kong within four to five years.\n\nWeRide has already launched pilot tests or small-scale operations in over 13 countries. Han emphasized that scaling fleet sizes will require regulatory bodies to adopt effective tools for continuously monitoring autonomous vehicles and their algorithms.\n\nTo accelerate local deployment, WeRide has partnered with Geely's Farizon Auto and Kwoon Chung Bus Group to introduce right-hand drive autonomous models tailored for the Hong Kong market."
+    "title_zh": "英伟达推出 GR00T 2，让机器人从人类示范中学习精细操作",
+    "content_zh": "英伟达在 11 月 9 日的机器人学习大会 CoRL 上公布 GR00T 2、训练框架 Isaac Lab 3.0，以及两套面向工业操作的开放评测。新模型基于 NVIDIA Cosmos，能从人类示范中学习，也能把技能迁移到不同的机器人本体上。\n\n英伟达称，在其评估的 50 项任务中，GR00T 2 没看过对应任务示范时，有 40 项至少成功完成过一次。每项提供一次示范后，平均成功率为 71%，增加到五次示范后为 95%。\n\nIsaac Lab 3.0 可用 AI 智能体搭建训练环境，并在 PhysX 和 Newton 两套物理求解器之间切换。同期公布的 DexBench 覆盖零售、物流、制造和酒店服务四类场景，VABAR 则为六项工业任务提供标准化的条件变化、难度和成功指标。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271464126-10.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "NVIDIA Unveils GR00T 2 to Advance Robotic Manipulation via Human Demonstration",
+    "content_en": "NVIDIA announced GR00T 2 alongside its Isaac Lab 3.0 training framework and two industrial benchmark suites at the Conference on Robot Learning (CoRL) on November 9. Built on NVIDIA Cosmos, the new foundation model enables robots to learn fine manipulation skills from human demonstrations and transfer those capabilities across different robot hardware.\n\nGR00T 2 showed high learning efficiency across 50 evaluated tasks. Without prior demonstrations, the model achieved at least one successful attempt in 40 of the tasks. Providing a single human demonstration raised the average success rate to 71%, which climbed to 95% with five demonstrations.\n\nAccompanying the model, Isaac Lab 3.0 allows AI agents to construct training environments and seamlessly switch between PhysX and Newton physics engines. NVIDIA also introduced DexBench, covering retail, logistics, manufacturing, and hospitality scenarios, as well as VABAR, which provides standardized evaluation metrics for industrial tasks."
   },
   {
-    "title_zh": "SpaceX 公布星舰第 15 次试飞窗口，拟用发射塔接住两级火箭",
-    "content_zh": "SpaceX 为星舰第 15 次试飞设定了发射窗口。按目前计划，星舰最早将于美国中部时间 11 月 13 日下午 4 点 45 分（北京时间 11 月 14 日早上 6 点 45 分）从得州星际基地升空，发射仍需监管部门批准。\n\n这次试飞拟让超重型助推器和星舰上面级都飞回发射场，由发射塔机械臂接住。按计划，助推器将在升空约 6 至 8 分钟后尝试返回，上面级则将在飞行约 22 小时后尝试返回。两次回收都要满足飞行安全条件才会执行。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184287810-13.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "SpaceX Targets Next Starship Test Launch with Ambitious Dual-Stage Catch Attempt",
-    "content_en": "SpaceX has established a launch window for the next test flight of its Starship rocket, targeting a liftoff as early as November 13 at 4:45 p.m. CST from its Starbase facility in Texas, pending final regulatory approval.\n\nIn a major operational milestone, the upcoming mission aims to recover both the Super Heavy booster and the Starship upper stage back at the launch pad using the mechanical arms of the launch tower.\n\nAccording to current flight plans, the booster will attempt its return roughly 6 to 8 minutes after liftoff, while the upper stage is scheduled to attempt its pad recovery after approximately 22 hours in orbit. Both recovery attempts will proceed only if strict safety criteria are satisfied during the flight."
+    "title_zh": "字节跳动发布 Seedream 5.5，生成图片可直接带透明背景",
+    "content_zh": "字节跳动 Seed 团队 11 月 9 日发布图像模型 Seedream 5.5。新模型可直接生成带 Alpha 通道的图片，透明和半透明的部分可以保留下来，生成的元素可直接用作独立设计素材。\n\n团队也展示了同一张人物图连续编辑 100 轮的结果。每轮以前一张图为底稿，先后修改服装、配饰和桌面物件，到后段仍能单独调整戒指、镜框等细节。Seed 称，这一版针对局部编辑做了专项训练，以减少未修改区域在反复生成中的偏色和细节流失。\n\n新版也改善了光照、材质、皮肤纹理和密集小字的渲染，正陆续在即梦、豆包、豆包工作和火山方舟上线。\n\n🔗 相关阅读：谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271465868-11.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "ByteDance Unveils Seedream 5.5 with Native Transparency and Multi-Round Precision Editing",
+    "content_en": "ByteDance's Seed team has released Seedream 5.5, an upgraded image generation model that natively supports Alpha channel transparency. The model preserves transparent and semi-transparent elements directly, allowing generated outputs to be used immediately as standalone graphic design assets.\n\nThe update significantly enhances local editing capabilities. In internal testing, the model maintained visual consistency across 100 consecutive editing rounds on a single base image. It allowed precise adjustments to fine details—such as rings, eyeglass frames, and clothing—without causing color shifts or degrading unmodified areas.\n\nSeedream 5.5 also improves rendering for lighting, material textures, skin details, and dense small text. It is currently rolling out across ByteDance's platform suite, including Jimeng, Doubao, Doubao Workspace, and Volcengine Ark."
   },
   {
-    "title_zh": "亚马逊组建新团队开发家用机器人，招聘涉及家庭交互与售后",
-    "content_zh": "据 CNBC 报道，亚马逊过去数月组建了一支团队开发新的家用机器人。该团队一份已下架的工程岗位曾写到，产品需要能在布局和物品不断变化的家里导航，并在家人身边自主运行。\n\n亚马逊今年 3 月收购了开发人形机器人 Sprout 的 Fauna Robotics，将其纳入个人机器人部门。亚马逊官网上仍可看到 Fauna 的交互设计和软件开发岗位，分别涉及让机器人通过动作和对话传达意图，以及为机器人设备群搭建云端服务。CNBC 还发现了负责客户支持和现场维修的招聘信息。\n\n亚马逊上一款家用机器人 Astro 能在家中移动并用摄像头巡视，一直采用邀请制销售。亚马逊发言人向 CNBC 表示，公司仍在为 Astro 用户提供支持。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184288655-14.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Amazon Assembles New Team to Develop Autonomous Home Robots",
-    "content_en": "Amazon has formed a dedicated team over recent months to develop a new consumer household robot, according to reports from CNBC. Engineering job listings indicate the upcoming product is designed to autonomously navigate dynamic home environments and interact smoothly alongside family members.\n\nThe initiative follows Amazon’s acquisition in March of Fauna Robotics—developer of the humanoid robot Sprout—which has been integrated into the company's personal robotics division. Active job postings reveal ongoing hiring for interaction design involving gestures and dialogue, cloud service development for robot fleet management, as well as customer support and field repair roles.\n\nWhile Amazon's previous home robot, Astro, remains available exclusively on an invite-only basis, an Amazon spokesperson confirmed that the company continues to support existing Astro users while expanding its broader robotics portfolio."
+    "title_zh": "LG 免费开放 K-EXAONE 2.5 模型 API",
+    "content_zh": "LG AI 研究院 11 月 9 日在 EXAONE API Platform 开放 K-EXAONE 2.5。开发者、初创公司、企业及研究机构可以申请 API 密钥，免费调用模型，用于开发服务和研究。\n\nK-EXAONE 2.5 是在 LG 今年 8 月公布的版本上追加训练的技术验证模型，面向代码编写、网页检索和工作流自动化等任务。LG 公布了基于公开数据集的自测结果，其中评估真实软件开发任务的 SWE-Bench Pro 得分为 59.2，评估网页信息检索的 BrowseComp 得分为 78.0。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271467833-12.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "LG AI Research Opens Free API Access for K-EXAONE 2.5 Model",
+    "content_en": "LG AI Research has officially opened free API access to K-EXAONE 2.5 via the EXAONE API Platform. Developers, startups, enterprises, and research institutions can now apply for API keys to leverage the model for service development and academic research at no cost.\n\nK-EXAONE 2.5 is a technical verification model built upon the foundation LG unveiled in August, specifically optimized for automated coding, web retrieval, and workflow execution. \n\nAccording to LG's public benchmark evaluations, the model achieved a score of 59.2 on SWE-Bench Pro (measuring real-world software engineering tasks) and 78.0 on BrowseComp (evaluating web information retrieval capabilities)."
   },
   {
-    "title_zh": "猫王权利方与 Eminem 音乐出版商分别起诉 Suno",
-    "content_zh": "猫王埃尔维斯·普雷斯利的权利方和管理 Eminem 部分歌曲版权的出版商 Eight Mile Style，分别向美国加州北区联邦地区法院起诉 AI 音乐生成平台 Suno。两起诉讼均于当地时间 11 月 6 日提交。\n\n猫王权利方指控，Suno 未经授权使用其管理的作品训练模型，并让用户生成模仿猫王嗓音的歌曲。原告援引田纳西州保护声音及形象的《ELVIS 法案》，诉状还附有平台生成的音频示例。Eight Mile Style 与共同原告则称，Suno 未经授权复制其管理的 269 首 Eminem 作品用于训练，生成的歌词还会复现原作品内容。\n\nSuno 在给 Variety 的声明中表示，平台禁止未经授权使用艺人作品，不允许在提示词中指定艺人或歌曲，并与第三方合作筛查上传的音频和歌词。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184290593-15.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Elvis Presley Estate and Eminem’s Publisher Sue AI Music Generator Suno",
-    "content_en": "The estate of Elvis Presley and Eight Mile Style, the publisher managing part of Eminem’s music catalog, have filed separate copyright infringement lawsuits against AI music generation platform Suno in a California federal court.\n\nThe Elvis estate accuses Suno of using copyrighted recordings without authorization to train its AI models and enabling users to generate voice clones of Elvis, citing Tennessee’s ELVIS Act protecting artist voice and likeness. Meanwhile, Eight Mile Style alleges that Suno illegally copied 269 Eminem tracks for training, producing AI outputs that replicate original lyrics.\n\nIn a statement to *Variety*, Suno defended its platform, stating that its terms prohibit unauthorized use of artist material, restrict artist names in user prompts, and employ third-party tools to screen audio and lyric submissions."
+    "title_zh": "百度披露 ERNIE Evolve，已用于优化文心 5.5 Flash 推理",
+    "content_zh": "百度文心 11 月 9 日公开了自动研究系统 ERNIE Evolve，并披露已用它优化文心 5.5 Flash 的推理效率。系统会根据历史实验结果提出研究方向，再由多个智能体分工选择代码起点、修改代码。每轮改动须通过独立评测和复核，实验代码和结果会留给后续研究使用。\n\n百度在技术博客中列出了三类实际研发任务，包括昆仑芯 P800 上的低时延推理、GPU 上的确定性推理吞吐，以及单并发解码速度。在 P800 的低时延任务中，团队限定改动范围为芯片适配插件，保持模型和部署方式不变。系统先后尝试融合算子、投机解码以及调度和通信优化，最优版本的生成速度达到初始基线的 623.6%，并通过了团队的正确性检查。\n\n百度称，接下来计划将这套方法用于训练系统优化、模型能力研究和评测体系迭代，并继续限制系统的权限和资源范围。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271471240-13.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Baidu Discloses ERNIE Evolve System, Boosting ERNIE 5.5 Flash Inference Efficiency",
+    "content_en": "Baidu's ERNIE team has revealed ERNIE Evolve, an automated research system currently used to optimize the inference efficiency of ERNIE 5.5 Flash. The system utilizes a multi-agent framework to propose research hypotheses, select code starting points, and execute modifications, with every iteration subject to independent evaluation and verification.\n\nIn practical application tests, Baidu tasked the system with low-latency inference optimization on its native Kunlunxin P800 chips. Confined to adapting plugin code without altering the underlying model, ERNIE Evolve implemented operator fusion, speculative decoding, and scheduling enhancements. The resulting optimal iteration boosted generation speed to 623.6% of the initial baseline while passing all correctness checks.\n\nBaidu plans to expand ERNIE Evolve into training system optimization, core capability research, and evaluation iterations, while maintaining strict controls over the system's permissions and resources."
   },
   {
-    "title_zh": "💡 腾讯姚顺雨谈大模型的壁垒：谁更懂用户，谁更值得托付",
-    "content_zh": "据第一财经报道，在 2026 未来科学大奖的一场对话中，张亚勤问腾讯首席 AI 科学家姚顺雨，当开发者可以换用其他模型，甚至把几个智能体搭配起来用时，模型公司靠什么留住用户？\n\n姚顺雨认为，更持久的壁垒来自产品掌握的独有数据、对用户情境的理解，以及用户愿意交给它多少事。\n\n他以微信举例。假如用户能直接在微信里用 AI，日程、联系人和活动信息可以帮助它理解用户的需求。即使另一款模型能力更强，缺少这些信息也很难提供同样的服务。\n\n姚顺雨还提到，AI 开始替用户执行任务后，用户是否愿意开放个人信息，取决于用户对产品处理数据和执行任务的信任。\n\n谈到模型开源，他以网络安全为例，指出通用推理和编程能力提升后，模型即便没有专门学习攻击内容，也可能学会利用漏洞。他主张在发布前做自动化与人工评估，上线后继续监测有害调用。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184291293-16.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Tencent Chief AI Scientist Highlights User Trust and Context as Key Moats for LLMs",
-    "content_en": "During a recent panel at the Future Science Prize event, Tencent’s Chief AI Scientist Yao Shunyu shared insights on how AI companies can build sustainable competitive moats in an era where developers easily swap models and combine AI agents.\n\nAccording to Yao, a lasting competitive edge stems from proprietary product data, a deep understanding of user context, and the degree of trust users place in an AI to manage their tasks. Using WeChat as an example, he explained that an AI embedded directly within the platform can leverage schedule, contact, and event data to understand user needs. Even if a competing standalone model boasts superior raw capabilities, it cannot deliver the same tailored experience without this rich contextual data.\n\nAddressing AI safety and open-source models, Yao noted that enhanced reasoning and coding skills enable models to exploit vulnerabilities even without explicit training in cybersecurity attacks. To mitigate these risks, he advocated for rigorous pre-release evaluations—combining automated and manual testing—alongside continuous post-launch monitoring for malicious usage."
+    "title_zh": "Meta 推出小模型 Muse Ember，专门处理 AI 助手的重复任务",
+    "content_zh": "Meta 发布多模态模型 Muse Ember，面向需要反复执行的任务，例如编程中的小步骤、工具调用、文档摘要和字段提取。它是 Meta 首个使用 Muse Wonder Full 训练的模型，已在 Muse Code 和 Meta Model API 上线，支持 Responses API。\n\nMuse Ember 支持 100 万 token 的上下文。提示不超过 20 万 token 时，API 每百万输入 token 收费 0.10 美元，每百万输出 token 收费 0.50 美元。",
+    "image_url": "",
+    "date": "2026-11-10 08:47",
+    "title_en": "Meta Launches Muse Ember, a Lightweight AI Model for Repetitive Tasks",
+    "content_en": "Meta has unveiled **Muse Ember**, a lightweight multimodal AI model specifically designed to automate routine tasks such as micro-coding steps, tool invocation, document summarization, and data extraction. It marks the first model trained using Meta's Muse Wonder Full framework and is now accessible via Muse Code and the Meta Model API, supporting the Responses API.\n\nThe model offers a substantial 1-million-token context window. For prompts under 200,000 tokens, API pricing is set at $0.10 per million input tokens and $0.50 per million output tokens."
   },
   {
-    "title_zh": "仰望首款行政旗舰轿车鼎曜在阿布扎比亮相",
-    "content_zh": "仰望首款行政旗舰轿车鼎曜在阿布扎比首发，海外名为 YANGWANG ALTIOR。比亚迪公布的技术资料显示，新车搭载第二代刀片电池，CLTC 综合工况纯电续航超过 1000 公里。仰望中国官网已开放上市前订购。\n\n新车采用四座布局，车长 5.6 米、轴距 3.5 米，前后车门对开。右后座乘客可一键折叠前排副驾座椅，腾出视野和腿部空间。两张后排零重力座椅配有机械按摩装置，可联动腿托、遮阳帘和氛围灯。\n\n易四方平台用 4 台独立电机调节各轮扭矩，每秒可调整驱动力超过 100 次，支持原地掉头，也用于高速爆胎时的车辆稳定控制。主动悬架会感知前方路面并实时调整，抑制颠簸和过弯时的车身摆动。\n\n辅助驾驶方面，鼎曜搭载天神之眼 A，支持车位到车位领航、高速和城区领航以及泊车辅助。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184292548-17.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "BYD Unveils Yangwang Altior Executive Flagship Sedan in Abu Dhabi",
-    "content_en": "BYD's luxury brand Yangwang has officially debuted its first executive flagship sedan, the Yangwang Altior (known as Dingyao in China), in Abu Dhabi. Pre-orders are now open on Yangwang’s official website in China.\n\nEquipped with BYD's second-generation Blade battery, the ultra-luxury sedan achieves a CLTC electric range exceeding 1,000 kilometers. Built with a 5.6-meter body and a 3.5-meter wheelbase, the four-seater features coach-style doors and premium zero-gravity rear seats equipped with mechanical massage, leg rests, ambient lighting, and automated sunshades. Passengers in the rear right seat can fold the front passenger seat with a single touch to maximize legroom and visibility.\n\nUnder the hood, the Altior is powered by the e4 quad-motor platform, capable of adjusting wheel torque over 100 times per second. This enables signature capabilities such as tank turns and high-speed tire-blowout stabilization. An active suspension system scans the road ahead to reduce body roll and smooth out bumps. For autonomous driving, the sedan features the \"God's Eye A\" system, supporting parking-spot-to-parking-spot navigation, highway and urban pilot assist, and automated parking."
+    "title_zh": "门店贴出「买烟优先结账」，零食有鸣客服称会核实",
+    "content_zh": "近日，一家零食有鸣门店贴出「购买香烟者优先结账」的告示，引发消费者对排队规则的质疑。11 月 9 日，零食有鸣客服向界面新闻表示，公司没有就此出台文件，客服会把线索转交相应监督部门核实。\n\n客服还介绍，门店售卖卷烟须先取得烟草专卖零售许可证，货源由门店向当地烟草公司采购，品牌总部不参与进货。对于加盟门店的经营问题，品牌方有权介入管理。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271473110-14.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Chinese Snack Chain Investigates Store Granting Priority Checkout to Cigarette Buyers",
+    "content_en": "Chinese snack retail chain *Snack Youming* has drawn public controversy after one of its franchise outlets posted a sign giving priority checkout to cigarette buyers. In response to consumer complaints regarding unfair queuing rules, customer service clarified on November 9 that headquarters never issued such a rule and has referred the incident to internal oversight departments for investigation.\n\nThe company added that while franchise stores independently obtain tobacco licenses and procure stock from local suppliers without central involvement, headquarters retains the authority to intervene in and manage franchisee operational issues."
   },
   {
-    "title_zh": "腾讯元宝搜索开放独立网页入口，支持 AI 问答和普通搜索",
-    "content_zh": "腾讯的「元宝搜索」已开放独立网页入口。按「产品笔记」实测，首页默认进入 AI 搜索，用户可以输入问题，也可以上传图片后继续提问。结果页并排显示回答和参考资料，方便打开网页核对。\n\n切换到普通搜索后，可以按关键词浏览常规网页结果，也能单独查找公众号文章。学术问答可按要求列出论文资料。10 月 20 日，腾讯云已先向开发者提供元宝搜索 API 和 MCP 接入，检索范围包括公开网页和腾讯生态内容。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184294420-18.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Tencent Launches Standalone Web Portal for Yuanbao Search",
-    "content_en": "Tencent has launched a dedicated web portal for its AI-powered search tool, Yuanbao Search, offering both conversational AI answers and traditional search capabilities.\n\nBy default, the platform opens in AI Search mode, allowing users to submit text queries or upload images. Search results display AI-generated answers side-by-side with source references, enabling easy cross-checking. Users can also switch to traditional web search mode to browse standard web pages, filter specifically for WeChat Official Account articles, or use an academic search mode that curates relevant research papers.\n\nThis rollout follows Tencent Cloud’s release of the Yuanbao Search API and Model Context Protocol (MCP) integration to developers on October 20, granting access to data across public web pages and Tencent’s proprietary ecosystem."
+    "title_zh": "12 月起，进口小客车可在「交管 12123」网上办结上牌",
+    "content_zh": "公安部交通管理局宣布，自 12 月 1 日起，购买进口小客车的车主可通过「交管 12123」App 在线办结新车选号、登记上牌业务，无需前往窗口。交管部门将在共享车辆销售发票、购置税和保险信息的基础上，接入进口小客车预查验信息。\n\n同批措施还允许汽车生产企业网上申领试验车临时号牌。企业出示电子营业执照，即可办理新车上牌、二手车过户等业务，并可通过 App 网上注册，查询企业名下车辆状态及违法事故信息。\n\n直辖市、省会城市、自治区首府及计划单列市将试点 App 智能客服「交管小安」，支持边咨询边办理业务。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271474450-15.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "China to Enable Fully Online Vehicle Registration for Imported Passenger Cars Starting December",
+    "content_en": "Starting December 1, owners of imported passenger vehicles in China will be able to complete license plate selection and registration entirely online via the \"Traffic Management 12123\" app, bypassing the need to visit physical service counters. The platform will integrate shared sales invoices, purchase tax, insurance details, and imported vehicle pre-inspection data to streamline registration.\n\nAs part of the new policy package, automakers will also be allowed to apply online for temporary test-vehicle plates. Using electronic business licenses, corporate entities can register new cars, transfer used vehicles, and track fleet status and traffic violation records directly through the app.\n\nAdditionally, major cities across China will pilot an AI customer service assistant called \"Jiaoguan Xiao'an,\" enabling users to get real-time assistance while completing transactions inside the app."
   },
   {
-    "title_zh": "微软更新 Windows 11，优化 8G 内存电脑表现",
-    "content_zh": "微软介绍了 Windows 11 对 8GB 内存电脑的优化。系统调整了压缩内存和把数据换出到存储设备的时机，最多能多保留 2GB 活跃数据在内存里，减少切回应用或网页时重新读取的情况。\n\n微软用一台配备 8GB 内存和骁龙 X Plus 的惠普 OmniBook 3 做了对照测试。依次打开 20 个 Edge 标签页、一个 4K 视频、体积较大的 Word、PowerPoint 和 Excel 文件，再打开 Outlook 和文件资源管理器，全程保持已打开的程序运行。这套流程在新版上的完成速度最多比 1 月的版本快 40%。\n\n微软也把 8GB 及以下电脑的小组件改为打开时才加载，关闭时约少占用 200MB 的已提交内存。用户可通过 Windows Update 检查更新，并分别更新 Edge、Microsoft 365 和 Teams。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184296615-19.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Windows 11 Update Boosts Performance on 8GB RAM PCs by Up to 40%",
-    "content_en": "Microsoft has introduced a new Windows 11 update tailored to enhance performance on devices with 8GB of RAM. By optimizing memory compression and paging routines, the operating system can now retain up to 2GB more active data in system memory, significantly reducing reload delays when switching between applications and browser tabs.\n\nIn benchmark tests on an 8GB RAM HP OmniBook 3 powered by a Snapdragon X Plus processor, Microsoft reported performance gains of up to 40% over its January build. The stress test involved running a heavy multitasking workload, including 20 Edge tabs, 4K video playback, large Office files, Outlook, and File Explorer simultaneously.\n\nAdditionally, Windows Widgets on 8GB systems now load on demand rather than remaining persistently in memory, freeing up approximately 200MB when closed. Users can access these optimizations via Windows Update, alongside app updates for Edge, Microsoft 365, and Teams."
+    "title_zh": "Netflix 推进《卡坦岛》真人电影，据报将由尼兄弟编剧执导",
+    "content_zh": "据 Deadline 报道，曾执导《迷失之城》的亚伦·尼和亚当·尼将为 Netflix 编剧并执导《卡坦岛》真人电影。这是 Netflix 去年拿下这款桌游的全球改编权后，首个披露主创阵容的真人电影项目。\n\n《卡坦岛》由德国桌游设计师克劳斯·托伊伯创作，玩家在岛上争取有限资源、结盟交易并建设定居点。Netflix 此前宣布与桌游发行商 Asmodee 合作，开发以《卡坦岛》为基础的真人、动画和非虚构内容。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271476390-16.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Netflix Taps The Nee Brothers to Write and Direct Live-Action 'Catan' Film",
+    "content_en": "Netflix is officially moving forward with its live-action film adaptation of the iconic board game *Catan*, bringing on Aaron and Adam Nee (*The Lost City*) to write and direct the feature, according to *Deadline*. This marks the first major creative development disclosed since the streaming giant acquired global rights to the franchise last year.\n\nOriginally created by German designer Klaus Teuber, *Catan* challenges players to compete for scarce resources, negotiate trades, and build thriving settlements. The feature film is part of a broader collaboration between Netflix and board game publisher Asmodee to produce live-action, animated, and non-scripted content based on the beloved property."
   },
   {
-    "title_zh": "腾讯游戏陪伴应用「鹅次元」开放首测",
-    "content_zh": "腾讯面向端游玩家的 AI 陪伴应用「鹅次元」开放首测。Windows 版可用 QQ 或微信登录，首测提供 4 个虚拟角色，音色和性格各不相同。\n\n玩家可以一边打游戏一边和角色实时通话。应用通过画面识别理解受支持游戏中的场景，首测覆盖《影之刃零》等作品。对话也能通过文字、语音消息和图片进行，实时通话中可以打断角色的发言。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184298576-20.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Tencent Launches First Beta Test for AI Gaming Companion App 'E-Dimension'",
-    "content_en": "Tencent has kicked off the initial beta test for \"E-Dimension\" (鹅次元), an AI companion application designed specifically for PC gamers. Available on Windows with QQ or WeChat authentication, the initial release features four distinct virtual companions, each boasting unique personalities and voice profiles.\n\nThe app allows players to engage in real-time voice calls with AI companions while playing supported PC titles such as *Phantom Blade Zero*. Powered by visual recognition, the AI can analyze active gameplay screens to understand context and react dynamically. Players can also communicate via text, voice notes, and images, with real-time calls featuring the ability to interrupt character dialogue."
-  },
-  {
-    "title_zh": "DaVinci Resolve 更新，支持触屏 MacBook Pro",
-    "content_zh": "Blackmagic Design 发布 DaVinci Resolve 21.2，免费版和 Studio 版均加入对搭载 PROLED XDR 触屏的 MacBook Pro 的支持。CineD 指出，Blackmagic 的更新说明只列出了触屏兼容，尚未列出可以直接操作的页面和控件。\n\n两版都加入第六代色彩科学 LUT 和胶片风格。剪辑时，多机位片段可在源时间线中打开，提取音频后可保留源时间码。Studio 版的伪色工具新增对第五代和第六代色彩科学的支持，并更新了 Fusion 的 AI 助手和脚本接口。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184300652-21.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Blackmagic Design Releases DaVinci Resolve 21.2 with Touchscreen Support and New Color Tools",
-    "content_en": "Blackmagic Design has released DaVinci Resolve 21.2 for both its free and Studio editions, introducing support for touchscreen-equipped MacBook Pro models. While the release notes confirm touchscreen compatibility, specific details regarding supported pages and control elements have not yet been fully detailed.\n\nBoth versions receive Generation 6 color science LUTs and film looks. Editing workflows have also been streamlined, allowing multicam clips to open directly in the source timeline while ensuring extracted audio retains its original source timecode.\n\nIn DaVinci Resolve Studio, the false color tool gains support for Generation 5 and 6 color science, alongside improvements to the Fusion AI assistant and scripting API."
-  },
-  {
-    "title_zh": "太古可口可乐在进博会公布中国十年战略",
-    "content_zh": "太古可口可乐在进博会上公布面向中国市场的「致胜 2035」十年战略。公司计划按聚餐、社交和居家等场景调整产品，继续和零售客户做定制，并把数字工具用于门店服务、仓储与供应链。\n\n展会上给出的案例包括与万辰集团合作的 420ml 定制汽水和 150ml 酷儿饮料。仓储环节，公司展示了可按订单识别货品、拣选并混合码垛的机器人。生产端，太古可口可乐称，其热水中心方案已覆盖中国内地八成汽水工厂，前两代方案合计减少约 35% 的蒸汽用量。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184302909-22.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Swire Coca-Cola Unveils 10-Year Growth Strategy for China at CIIE",
-    "content_en": "At the China International Import Expo (CIIE), Swire Coca-Cola officially introduced its \"Winning 2035\" 10-year strategy for the Chinese market. The company plans to refine its product offerings around specific consumption scenarios—such as dining out, social gatherings, and home consumption—while expanding customized products for retail partners and deploying digital tools to upgrade store services, warehousing, and supply chain management.\n\nShowcased highlights included customized beverage sizes developed in partnership with Wanchen Group, alongside automated warehouse solutions featuring intelligent picking and mixed-palletizing robots. On the manufacturing front, Swire Coca-Cola revealed that its energy-efficient hot water system now covers 80% of its sparkling beverage plants in mainland China, achieving a 35% reduction in steam consumption across its first two generations."
-  },
-  {
-    "title_zh": "4.8 万元，保时捷与 La Marzocco 推出 911 联名咖啡机",
-    "content_zh": "保时捷与 La Marzocco 再度联名，推出以 1972 年的 911 Carrera RS 2.7 为设计灵感的 Linea Micra 意式咖啡机和 Pico 磨豆机。\n\n咖啡机顶部的杯架取形自原车的鸭尾扰流板，手柄刻有「RS」和「2.7」，压力表用红绿指针呼应车身配色。\n\n两款主力配色为大奖赛白配绿和橘色配黑，咖啡机各限量 911 台。大奖赛白配蓝是德国专供，限量 150 台。Linea Micra 保留可在单嘴、双嘴和无底之间切换的手柄，水箱容量 2 升，可用手机 App 调整温度和定时。\n\n其中，磨豆机单卖 12800 元，咖啡机为 48200 元，二者组合套装为 61000 元。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184304289-23.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Porsche and La Marzocco Team Up for 911-Inspired Luxury Espresso Machine",
-    "content_en": "Porsche has partnered once again with Italian espresso machine maker La Marzocco to release a co-branded Linea Micra espresso machine and Pico grinder, inspired by the legendary 1972 Porsche 911 Carrera RS 2.7.\n\nThe machine features distinctive design accents paying homage to the classic sports car, including a top cup warming rack shaped like the iconic \"ducktail\" rear spoiler, handles engraved with \"RS\" and \"2.7,\" and pressure gauges styled with matching red and green needles.\n\nThe Linea Micra machine is limited to 911 units each for the Grand Prix White/Green and Slate Grey/Orange colorways, with an exclusive Grand Prix White/Blue edition limited to 150 units for Germany. Priced at 48,200 RMB (approx. $6,700) for the espresso machine and 12,800 RMB for the grinder, the set is available together for 61,000 RMB."
-  },
-  {
-    "title_zh": "Wendy’s 推出像素 RPG，打赢首领有机会解锁餐食优惠",
-    "content_zh": "美国快餐连锁 Wendy’s 推出免费像素 RPG《WendyQuest》，登陆 iOS、Android 和 Steam。玩家扮演品牌吉祥物 Wendy，穿过以森林、沙漠和雪山等食物主题布置的 5 个区域，对抗让当地居民染上「机械化」诅咒的反派 Dr. MechBorg。\n\n战斗采用回合制，按对时机可以提高伤害。美国玩家打赢首领后有机会解锁餐食优惠，需在 Wendy’s App 内兑换，部分优惠须与商品同购。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184306283-24.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Wendy’s Launches Pixel RPG ‘WendyQuest’ with Redeemable Meal Rewards",
-    "content_en": "Fast-food chain Wendy’s has released a free pixel-art RPG titled *WendyQuest*, now available on iOS, Android, and Steam. Players control the brand's iconic mascot, Wendy, as she journeys through five food-themed realms—ranging from forests to snowy mountains—to defeat the villainous Dr. MechBorg and save the local inhabitants from a cybernetic curse.\n\nThe game features turn-based combat with timing mechanics that boost attack power. U.S.-based players who defeat in-game bosses can unlock exclusive food discounts redeemable directly within the Wendy’s app."
-  },
-  {
-    "title_zh": "Take-Two CEO 谈《GTA 6》盗版风险：必要时会用法律和技术手段处理",
-    "content_zh": "Take-Two 首席执行官施特劳斯·泽尔尼克接受《华尔街日报》采访时表示，盗版是娱乐行业长期面对的问题。如果盗版造成实际影响，公司会同时采取法律和技术手段。\n\n泽尔尼克认为，游戏受盗版影响可能小于电影和音乐。他提到，游戏文件往往更大，内容也更复杂，部分体验还依赖与服务器的连接。按 Rockstar 公布的安排，《GTA 6》将于 11 月 19 日登陆 PS5 和 Xbox Series X|S。\n\n另外，前 Rockstar 技术总监奥贝·维尔梅伊近日表示，随着 AI 模型在游戏反编译和移植方面能力提升，Rockstar 可能需要重新考虑《GTA 6》长期以来「先主机、后 PC」的发行策略。\n\n由于《GTA 6》此前已经发生过多次大规模泄露，他认为，一旦主机平台游戏包流出，爱好者利用 AI 进行移植的速度可能超过 Take-Two 法务团队处理相关问题的速度。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184307768-25.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Take-Two CEO Addresses GTA 6 Piracy Risks, Warning of Legal and Tech Countermeasures",
-    "content_en": "Take-Two Interactive CEO Strauss Zelnick recently addressed concerns regarding video game piracy during an interview with *The Wall Street Journal*. While acknowledging piracy as a persistent challenge across the entertainment sector, Zelnick emphasized that Take-Two is prepared to deploy both legal and technological countermeasures if piracy actively impacts the company's bottom line.\n\nZelnick noted that the gaming industry generally faces lower piracy risks than film or music. He attributed this to the massive file sizes, inherent complexity of modern games, and reliance on online server connectivity. *Grand Theft Auto VI* is currently scheduled to launch on PlayStation 5 and Xbox Series X|S.\n\nHowever, emerging technologies may complicate piracy defense strategies. Former Rockstar technical director Obbe Vermeij recently suggested that advances in AI-driven decompilation and code porting could force Rockstar to rethink its traditional \"console-first, PC-later\" release strategy. Given *GTA 6*'s history of high-profile leaks, Vermeij warned that if a console build were to leak, fan-driven AI porting efforts could move faster than Take-Two's legal team can respond."
-  },
-  {
-    "title_zh": "宝可梦动画制作公司 OLM 展示 AI 上色工具",
-    "content_zh": "制作《宝可梦》电视动画和电影的日本动画公司 OLM 在台北展示了一套上色工具。按 OLM Digital 董事四仓达夫在台湾创意内容大会上的介绍，画师先手工完成 3 帧，系统用约 90 秒学习这部作品的线条与配色，再用约 15 秒处理一帧。增加手工样本可以提高准确度。\n\n每部作品只用自己的画面训练。遇到新角色或生物，画师可以先画少量样本，让系统适应该角色。四仓达夫估计，在概念验证阶段，这套工具让上色工作量减少约三成，负责逐帧检查的人员工作量则有所增加。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794184309619-26.jpg!360",
-    "date": "2026-11-09 08:34",
-    "title_en": "Pokémon Anime Studio OLM Unveils AI Tool to Streamline Animation Coloring",
-    "content_en": "OLM, the Japanese animation studio behind the *Pokémon* television series and feature films, showcased an AI-powered coloring tool at the Taiwan Creative Content Fest.\n\nAccording to Tatsuo Yotsukura, a director at OLM Digital, the tool significantly streamlines the traditional animation pipeline. An artist first manually completes three reference frames, allowing the system to analyze the artwork's line style and color scheme in roughly 90 seconds. It can then color subsequent frames in about 15 seconds each, with accuracy increasing as more manual samples are provided.\n\nTo preserve stylistic integrity, the tool is trained strictly on footage from the specific project at hand. For new characters or creatures, animators simply provide a small batch of initial drawings for adaptation. OLM estimates that the tool reduced coloring workloads by around 30% during proof-of-concept testing, though it has increased the workload for review staff tasked with inspecting each frame."
+    "title_zh": "郑雨盛主演武打片《杀生簿》国际销售权由 Finecut 拿下",
+    "content_zh": "据 Deadline 和 Variety 报道，韩国电影销售公司 Finecut 拿下武打片《杀生簿》（The Hit List）的国际销售权。影片由执导过《狼狩猎》和《伦敦黑帮》第三季的金泓善执导，已于今年 10 月开拍。\n\n影片改编自 Kakao 平台一部浏览量超过 1.2 亿次的网漫。故事发生在朝鲜王朝，《首尔之春》演员郑雨盛饰演权臣韩明浍，《鱿鱼游戏》演员魏嘏隽饰演首阳大君，后者借韩明浍之力争夺年幼侄子的王位。\n\n《伦敦黑帮》第三季的摄影指导拉斯·考克斯和灯光师基兰·韦茨也加入了本片。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794271480108-17.jpg!360",
+    "date": "2026-11-10 08:47",
+    "title_en": "Finecut Lands Global Sales Rights for Jung Woo-sung and Wi Ha-jun Action Epic 'The Hit List'",
+    "content_en": "South Korean sales outfit Finecut has nabbed international sales rights for *The Hit List*, an upcoming period action feature directed by Kim Hong-sun (*Project Wolf Hunting*, *Gangs of London* Season 3). Filming officially began in October.\n\nAdapted from a hit Kakao webtoon with over 120 million views, the film is set during the Joseon Dynasty. *Squid Game* star Wi Ha-jun plays Prince Suyang, who aligns with powerful courtier Han Myeong-hoe, played by Jung Woo-sung (*12.12: The Day*), in a high-stakes plot to seize the throne from his young nephew.\n\nThe project also reunites director Kim with key crew members from *Gangs of London* Season 3, including Director of Photography Lars Cox and gaffer Kieran Weitz."
   }
 ]
