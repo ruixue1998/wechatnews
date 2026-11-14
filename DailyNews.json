@@ -1,226 +1,194 @@
 [
   {
-    "title_zh": "黄仁勋辞去英伟达 CEO，特朗普推荐库克接任",
-    "content_zh": "英伟达昨晚突然宣布，联合创始人黄仁勋辞去公司总裁、CEO 及董事职务，即刻生效。\n\n公司向美国证券交易委员会（SEC）提交的文件显示，董事会已于当地时间 11 月 11 日接受辞呈，并任命现任首席财务官科莱特·克雷斯（Colette Kress）出任临时 CEO。\n\n与此同时，自 1993 年起担任英伟达董事的哈维·琼斯（Harvey Jones）获任公司首任董事会主席。琼斯曾担任芯片设计软件企业新思科技（Synopsys）的 CEO 及执行董事长。董事会已启动正式 CEO 遴选程序，将同时考虑内部和外部候选人。\n\n据 The Verge 报道，克雷斯在发给员工的内部邮件中承认，公司近期经历了一段「异常艰难的时期」，并表示管理层将在未来几天进一步说明后续安排。英伟达计划于当地时间 11 月 18 日举行全员大会。\n\n琼斯则强调，公司运营、客户承诺和产品路线图将按原计划推进。英伟达仍将于 11 月 17 日公布 2027 财年第三季度业绩，并举行财报电话会议。\n\n黄仁勋自 1993 年参与创立英伟达以来，一直担任公司 CEO。此次离任结束了其长达 33 年的领导生涯。\n\n据路透社报道，黄仁勋目前仍持有英伟达约 3.61% 的股份，是英伟达第四大股东，也是最大的个人股东。\n\n🔗 相关阅读：突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527289234-1.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Jensen Huang Steps Down as Nvidia CEO; CFO Colette Kress Named Interim Chief",
-    "content_en": "Nvidia has unexpectedly announced that co-founder Jensen Huang has resigned as President, CEO, and board member, effective immediately. Following the board's acceptance of his resignation on November 11, Chief Financial Officer Colette Kress has been named interim CEO, while long-time director Harvey Jones assumes the role of Nvidia’s first Chairman of the Board. A formal search for a permanent successor is underway, evaluating both internal and external candidates.\n\nIn an internal memo, Kress acknowledged that the company has recently navigated an \"exceptionally difficult period\" and stated that executive leadership will provide further details during an all-hands meeting on November 18. Meanwhile, Jones emphasized that Nvidia’s daily operations, customer commitments, and product roadmap remain on track, with Q3 FY2027 financial results scheduled for release on November 17.\n\nHuang’s departure concludes a 33-year tenure at the helm of Nvidia since co-founding the semiconductor giant in 1993. He remains the company’s largest individual shareholder and fourth-largest overall stakeholder, holding approximately 3.61% of Nvidia's outstanding shares."
+    "title_zh": "英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论",
+    "content_zh": "据《连线》查阅的内部通信，一位英伟达资深工程师在黄仁勋辞职前通过公司内网「建议箱」发帖，要求董事会先听取员工意见。报道发布时，帖子已有逾 1600 条评论，多数支持黄仁勋复职。还有员工向全公司发邮件，要求董事会解释他的离职经过。\n\n英伟达此前已宣布由首席财务官科莱特·克雷斯担任临时 CEO，董事哈维·琼斯出任董事会主席。董事会正从公司内外遴选正式 CEO。《连线》就员工的呼吁向英伟达和琼斯求证，报道刊发时尚未收到回应。\n\n换帅消息公布前，有网友在 X 上建议马斯克聘用黄仁勋，马斯克回应「那将是我的荣幸」。13 日，他又转发了 a16z 发布的一段有关黄仁勋的对谈片段，只配了一个词「Jensen」。\n\n美东时间 11 月 13 日，英伟达收报每股 162.85 美元，下跌 2.01%，盘中一度跌至 158.39 美元。公司市值约为 3.92 万亿美元，收盘时重新超越微软，位居美股第二，仅次于苹果的约 5.18 万亿美元。\n\n英伟达本周累计下跌 12.7%，市值蒸发超过 5730 亿美元，连续第六周下跌，创下 2012 年以来最长连跌纪录。\n\n🔗 相关阅读（APPSO）：黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645705701-1.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Nvidia Employees Push Board to Reinstate Jensen Huang Amid Market Turbulence",
+    "content_en": "An internal post on Nvidia’s employee forum calling for the board of directors to reinstate former CEO Jensen Huang has gathered over 1,600 comments, with a vast majority of staff voicing support for his return. The internal outcry follows Nvidia's recent announcement appointing Chief Financial Officer Colette Kress as interim CEO and board member Harvey Jones as chairman while a search for a permanent successor is underway.\n\nThe leadership shift coincides with severe stock market headwinds for the AI chip giant. Nvidia's stock fell 2.01% on November 13 to close at $162.85 per share, capping off a 12.7% weekly decline that wiped out over $573 billion in market capitalization. This marks the company's longest weekly losing streak since 2012, even as it maintains its position as the second most valuable U.S. company behind Apple.\n\nThe high-profile leadership change has also captured attention across the tech industry. In response to suggestions on social platform X that Tesla should hire Huang, Elon Musk commented that it \"would be an honor.\""
   },
   {
-    "title_zh": "谷歌发布 Gemini 4 Hydrogen，接入搜索和免费开发工具",
-    "content_zh": "谷歌 11 月 12 日发布 Gemini 4 Hydrogen，面向日常编程和需要反复调用工具的多步任务。模型开始在全球推送：Google 搜索向所有用户开放，Gemini 应用的免费用户会在系统自动选中 Hydrogen 时用到它，开发者可以在 Google AI Studio 的各个层级试用。\n\nHydrogen 提供低、中、高和最高四档推理强度，默认使用高档。谷歌称，在 Artificial Analysis Intelligence Index 上，默认档得到 51 分，高于同系列 Argon 的 50 分；最高档达到 54 分。在 Google Antigravity 中，新推出的 Orchestrator 还能在同一个任务里切换 Carbon 和 Hydrogen，分别处理复杂判断和执行步骤。\n\nGemini API 在 100 万 token 的上下文窗口内统一计价：每百万输入 token 1.50 美元，每百万输出 token 7.50 美元。Antigravity 中使用 Hydrogen 面向 Google AI Pro 和 Ultra 付费订阅者。\n\n🔗 相关阅读：刚刚，Gemini 4 新模型叒来了，终于人人可用",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527290137-2.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Google Rolls Out Gemini 4 Hydrogen for Coding and Multi-Step Workflows",
-    "content_en": "Google has officially unveiled Gemini 4 Hydrogen, a specialized model designed for daily programming tasks and complex multi-step agentic workflows. The model is currently rolling out globally across Google Search for all users, automatically integrated for free users in the Gemini app, and available for developer testing across all tiers in Google AI Studio.\n\nHydrogen features four reasoning intensity settings—Low, Medium, High (default), and Maximum. According to Google, the model scored 51 on the Artificial Analysis Intelligence Index under its default setting—outperforming the 50 scored by Gemini Argon—and reached 54 at maximum intensity. In addition, Google's Antigravity framework introduces a new Orchestrator that dynamically switches between Carbon and Hydrogen models within a single task to balance decision-making with execution.\n\nAPI pricing for Gemini 4 Hydrogen is set at $1.50 per million input tokens and $7.50 per million output tokens within a 1-million-token context window. Integration within Antigravity is accessible to Google AI Pro and Ultra subscribers."
+    "title_zh": "余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工",
+    "content_zh": "问界新 M8 于 11 月 13 日在重庆赛力斯超级工厂上市。华为终端 BG 董事长余承东与赛力斯集团董事长张兴海同台出席。余承东说，华为主导的工作有赛力斯参与，赛力斯主导的工作也有华为参与。\n\n据鞭牛士现场报道，余承东在会上介绍，华为负责新 M8 的核心技术、产品定义和设计，赛力斯负责工程落地、整车制造及销售服务。双方在 9 月签署了新的五年合作协议，问界仍在鸿蒙智行体系内，并组建专属团队运营。\n\n新 M8 有增程和纯电两种动力，各提供五座和六座布局。新车搭载华为乾崑智驾 ADS 5，全系配备 800V 平台和双腔闭式空气悬架。发布会公布的增程版 CLTC 综合续航最高 1385 公里，纯电版 CLTC 续航最高 800 公里。\n\n🔗 相关阅读：余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645706871-2.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Huawei and Seres Launch Aito New M8, Reaffirming Joint Partnership Roles",
+    "content_en": "Huawei and Seres officially launched the Aito New M8 at the Seres Super Factory in Chongqing. Sharing the stage, Huawei Terminal BG Chairman Yu Chengdong and Seres Group Chairman Zhang Xinghai reaffirmed their strategic division of labor under a newly signed five-year partnership agreement.\n\nUnder the collaboration framework, Huawei is responsible for core technologies, product definition, and vehicle design, while Seres manages engineering execution, manufacturing, sales, and customer service. The Aito brand will continue to operate under a dedicated team within Huawei's Harmony Intelligent Mobility Alliance (HIMA) ecosystem.\n\nThe Aito New M8 is offered in both extended-range (EREV) and pure electric (BEV) powertrains with five- and six-seat configurations. Equipped with Huawei's Qiankun ADS 5 autonomous driving system, an 800V high-voltage platform, and dual-chamber air suspension, the SUV achieves up to 1,385 km of combined range for the EREV model and 800 km of CLTC range for the pure electric version."
   },
   {
-    "title_zh": "微信「看一看」小范围测试短剧入口，可找回最近看过的剧",
-    "content_zh": "据《科创板日报》报道，接近腾讯的知情人士透露，微信「看一看」正在小范围测试短剧入口，用户可以从入口查看最近看过的短剧。该人士称，测试也希望让用户更容易找到感兴趣的作品，让创作者的内容获得更多曝光。\n\n今年 10 月，微信生态上线了「绿泡泡短剧」免费小程序。据《羊城晚报》此前实测，该小程序有剧场和上下滑动的推荐流，剧集来自第三方小程序、制作方及授权发行方。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527291329-3.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "WeChat Tests Dedicated Short-Drama Hub in 'Top Stories' Feature",
-    "content_en": "Tencent's WeChat is conducting small-scale testing of a dedicated short-drama portal within its \"Top Stories\" (Kan Yi Kan) section, according to sources close to the company. The feature enables users to view their watch history and easily resume recently viewed short dramas, aiming to improve content discovery and increase exposure for creators.\n\nThis test follows the October launch of the \"Green Bubble Short Drama\" mini-program within the WeChat ecosystem. The platform features a curated theater directory alongside a vertical-swipe recommendation feed, with content sourced from third-party mini-programs, production studios, and licensed distributors."
+    "title_zh": "DeepSeek 开放 App 工具接口，开发者可接入搜索、文件和语音",
+    "content_zh": "DeepSeek 11 月 13 日开放一组应用 API，把官方 App 和网页端使用的联网搜索、文件输入、链接阅读等工具接入现有对话接口。开发者在 V4.1-Flash 的 Messages、Responses 或 Chat Completions 接口启用相应工具后，服务端会处理工具调用，并把结果放回对话上下文。\n\n普通模式可按问题搜索网页或图片，并在回答中附上引用。思考模式可以在多步推理中继续搜索、打开链接。上传 PDF、Office 文档或图片时，接口可提取文本或解析图文混排内容，再交给模型回答。\n\n网页搜索和抓取、图片文字识别、语音识别及语音合成也可单独调用。DeepSeek 同时开源了一个静态聊天页面，用来演示附件、语音和链接阅读，并支持导入 DeepSeek 历史对话。\n\n🔗 相关阅读：刚刚，DeepSeek 开放全家桶 API，人人都能打造自己的超级 App",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645709332-3.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "DeepSeek Opens Application APIs for Web Search, File Processing, and Voice Integration",
+    "content_en": "DeepSeek has officially opened a suite of application APIs, allowing developers to integrate native web search, file processing, and link reading capabilities directly into standard conversational interfaces using its V4.1-Flash endpoints.\n\nThe new tool integration allows the model to autonomously invoke web searches and extract contextual citations during standard conversations or complex multi-step reasoning. Additionally, the system supports parsing text and mixed content from uploaded PDFs, Office documents, and images via optical character recognition (OCR), alongside standalone speech-to-text and text-to-speech services.\n\nTo help developers get started, DeepSeek has also open-sourced a static chat interface demo that showcases features such as file attachment handling, audio processing, and history log imports."
   },
   {
-    "title_zh": "接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线",
-    "content_zh": "据界面新闻 11 月 12 日报道，接近腾讯的知情人士称，网传「腾讯裁员 50%」的说法不实。消息人士透露，腾讯管理层在公司 28 周年的 Linktime 内部直播中谈到，要加快面向 AI 的组织变革。\n\n管理层用「陆军」和「海军」比喻两类任务：约一半人继续经营现有核心业务、提高效率，另一半探索 AI 原生业务。知情人士认为，这一说法可能是外界误读的来源。\n\n据该人士转述，管理层还希望一线员工主动提出新业务方向，并压平中间管理层级，让团队能更快响应。",
+    "title_zh": "Microsoft 365 故障仍在恢复，微软将邮件超时窗口延长至 48 小时",
+    "content_zh": "Microsoft 365 故障从美国当地时间 11 月 12 日延续至 13 日。微软在 13 日下午的更新中称，部分基础设施已出现早期趋稳迹象，但服务容量尚未恢复正常。为保护积压的邮件，微软将投递超时窗口延长至 48 小时。\n\n此前，部分服务器恢复接收流量后再次失去响应。微软为上游身份验证和路由配置组件应用了补丁，工程团队正逐批卸下流量、重启和修复服务器，再分阶段接回。故障从 Exchange Online 扩展到依赖邮件服务的功能，涉及 Outlook 邮件收发、Teams 日历和会议安排、SharePoint Online 及 Microsoft 365 Copilot 的部分功能。\n\n澳大利亚上拉克伦郡议会称，故障导致部分州政府业务无法在柜台办理，普通缴费仍可受理。菲律宾最高法院表示，邮件回复等工作受到影响。美国商用车公司 Workhorse 将原定 12 日举行的三季度财报电话会推迟到 16 日。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645711246-4.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Microsoft 365 Outage Persists: Email Timeout Extended to 48 Hours Amid Global Disruptions",
+    "content_en": "Microsoft is continuing to address a widespread Microsoft 365 outage that began on November 12. While early signs of infrastructure stabilization have emerged, full service capacity has not yet been restored. To protect backlogged messages from bouncing, Microsoft has temporarily extended its email delivery timeout window to 48 hours.\n\nThe service disruption stemmed from issues with upstream authentication and routing configuration components, which engineering teams are resolving by patching and restarting servers in stages. Initially affecting Exchange Online, the outage extended to dependent services, including Outlook email delivery, Teams calendar and meeting features, SharePoint Online, and aspects of Microsoft 365 Copilot.\n\nThe widespread technical issues have impacted operations globally. Australia's Upper Lachlan Shire Council reported disruption to local government counter services, while the Supreme Court of the Philippines experienced delays in handling email inquiries. In the United States, commercial EV maker Workhorse was forced to postpone its Q3 earnings call."
+  },
+  {
+    "title_zh": "OpenAI 撤销独立机器人团队，研究人员并入通用模型团队",
+    "content_zh": "OpenAI 向《财富》证实，公司已撤销独立机器人团队。机器人研究人员将并入由首席研究官马克·陈领导的研究部门，机器人应用和硬件团队则转入总裁格雷格·布罗克曼负责的应用部门。\n\nOpenAI 表示，研究人员年初曾计划沿着 Sora 等视频生成模型的路线推进机器人研究，随后发现 GPT-6 Astra 等通用模型可以直接用于执行部分机器人任务。公司将机器人研究并入更广泛的模型研发工作，硬件和应用继续由另一部门负责。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645713360-5.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "OpenAI Dissolves Dedicated Robotics Unit to Focus on General-Purpose AI Integration",
+    "content_en": "OpenAI has disbanded its standalone robotics research unit, reassigning team members to core divisions across the company, as confirmed to *Fortune*. Under the restructuring, robotics researchers have joined the central research department led by Chief Research Officer Mark Chen, while hardware and applications personnel have transferred to the application division under President Greg Brockman.\n\nThe strategic shift comes after researchers realized that general-purpose AI models, such as GPT-6 Astra, could directly perform certain robotics tasks. OpenAI had originally planned to advance robotics using video generation architectures similar to Sora, but ultimately determined that integrating robotics directly into broader general-model development yields greater synergy."
+  },
+  {
+    "title_zh": "两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时",
+    "content_zh": "国家发展改革委、国家能源局 11 月 13 日公开《「十五五」新型储能实施方案》，提出到 2030 年全国新型储能装机达到 3 亿千瓦，平均储能时长约 3 小时。其中，可在用电高峰承担保供任务的电网侧独立新型储能规模目标为约 1.4 亿千瓦。\n\n方案提出，在实行清单管理的前提下，建立电网侧独立新型储能的容量电价机制。电力现货市场连续运行后，有序建立可靠容量补偿机制。用电侧则鼓励产业园区和 5G 通信基站等按实际需求配置储能。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645714511-6.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "China Unveils 2030 Energy Storage Plan Targeting 300 GW Capacity and 3-Hour Duration",
+    "content_en": "China's National Development and Reform Commission and the National Energy Administration have jointly released the *Implementation Plan for New Energy Storage under the 15th Five-Year Plan*. The strategy sets a target for China to reach 300 million kilowatts (300 GW) of installed new energy storage capacity by 2030, maintaining an average storage duration of approximately 3 hours.\n\nUnder the framework, independent grid-side storage designed to support peak demand is targeted to reach 140 million kilowatts. The government plans to introduce a capacity pricing mechanism for independent grid-side storage and establish a reliable capacity compensation system as continuous spot electricity market operations mature.\n\nOn the demand side, the policy encourages industrial parks, 5G base stations, and other key facilities to deploy energy storage systems tailored to their specific operational requirements."
+  },
+  {
+    "title_zh": "LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元",
+    "content_zh": "AI 智能体开发平台 LangChain 宣布完成 3 亿美元 C 轮融资，估值为 30 亿美元。老股东 CapitalG 领投，GIC、DFJ Growth 首次参投，IVP 和 Sapphire Ventures 等老股东跟投。\n\nLangChain 表示，已有逾 7000 家机构使用其 LangSmith 平台。平台支持部署由不同模型驱动的智能体，记录每次运行中的模型和工具调用，并让企业统一管理工具权限和模型预算。LangChain 称，Workday 用这套平台将部署新智能体的时间从五个月缩短到不到一天。公司计划于 11 月 20 日公布 LangSmith 新功能。",
     "image_url": "",
-    "date": "2026-11-13 08:00",
-    "title_en": "Tencent Denies 50% Layoff Rumors, Outlines Dual-Track AI Transformation Strategy",
-    "content_en": "Sources close to Tencent have debunked recent rumors claiming that the tech giant plans to lay off 50% of its workforce, according to a report by Jiemian News on November 12.\n\nThe rumors appear to stem from a misunderstanding of comments made by executive management during the company's 28th-anniversary internal livestream. Leadership outlined an accelerated organizational shift toward artificial intelligence, using an \"Army\" and \"Navy\" metaphor to divide business focus. Under this framework, roughly half the workforce (\"Army\") will focus on optimizing existing core operations, while the other half (\"Navy\") will pioneer AI-native businesses.\n\nManagement also encouraged front-line employees to proactively initiate new business ideas and announced plans to flatten middle management layers to enable faster team responses."
+    "date": "2026-11-14 08:00",
+    "title_en": "LangChain Secures $300M Series C at $3B Valuation to Expand AI Agent Platform",
+    "content_en": "LangChain, the AI agent development platform, has announced a $300 million Series C funding round at a $3 billion valuation. The round was led by existing investor CapitalG, with participation from new backers GIC and DFJ Growth, alongside returning investors including IVP and Sapphire Ventures.\n\nThe company revealed that over 7,000 organizations currently use its LangSmith platform. Designed to manage agents powered by various LLMs, LangSmith records model and tool calls during execution while offering centralized control over permissions and model budgets. Notably, enterprise software giant Workday reduced its agent deployment time from five months to under a day using the platform.\n\nLangChain plans to unveil new platform capabilities for LangSmith on November 20."
   },
   {
-    "title_zh": "百度推出大模型交易平台「词元所」，首月日均调用超 7000 亿词元",
-    "content_zh": "11 月 12 日，百度创始人李彦宏在百度世界大会上正式介绍大模型交易平台「词元所」。企业和个人可以在平台上比较不同供应商提供的模型，并购买所需的调用额度。\n\n李彦宏把它比作证券交易所。模型资源上架前，平台会做模型指纹比对、能力和可用性测试，上架后继续监测服务质量。平台还会给供应商做信用评级，评级下降时向用户发出提醒。\n\n据李彦宏披露，词元所上线首月接入了超过 100 项模型供应资源，日均模型调用超过 5000 万次，日均处理的词元超过 7000 亿。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527292515-4.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Baidu Launches AI Model Marketplace 'Token Exchange', Processing 700 Billion Tokens Daily",
-    "content_en": "Baidu Founder Robin Li officially launched \"Token Exchange\" (Ci Yuan Suo), a dedicated trading platform for large language models, at the Baidu World Conference on November 12. The marketplace enables businesses and individuals to compare models across different providers and purchase API invocation quotas.\n\nComparing the platform to a stock exchange, Li explained that model resources undergo rigorous pre-deployment checks, including model fingerprinting and usability testing, alongside continuous quality monitoring post-launch. The platform also maintains supplier credit ratings, sending alerts to users if a provider's score declines.\n\nIn its debut month, Token Exchange integrated over 100 model resources, averaging more than 50 million model calls and processing over 700 billion tokens per day."
-  },
-  {
-    "title_zh": "张雪：今年已经挣到了「一个小目标」",
-    "content_zh": "11 月 11 日，张雪机车第 10 万台整车下线，提前达到年末生产目标。据看看新闻报道，创始人张雪在社交平台公布的 10 月成绩单显示，品牌单月售出近 5000 台，其中四缸仿赛 500RR 售出 2697 台。\n\n张雪在视频中称，今年已经挣到了「一个小目标」。他还给品牌定下了下一个目标，冲击年度销量第三。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527293811-5.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Zhang Xue Motor Hits 100,000-Unit Milestone as Founder Announces Profit Benchmark",
-    "content_en": "Chinese motorcycle maker Zhang Xue Motor rolled off its 100,000th vehicle on November 11, reaching its year-end production target ahead of schedule.\n\nAccording to Kankan News, founder Zhang Xue recently shared October performance metrics on social media showing that the brand sold nearly 5,000 units in a single month. The four-cylinder sportbike 500RR led sales, accounting for 2,697 units.\n\nIn a video update, Zhang stated that the company has already hit a major financial milestone this year—earning a \"small target\" (slang in China for 100 million RMB). He set his sight on the company's next objective: pushing into the top three for annual sales volume."
-  },
-  {
-    "title_zh": "Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini",
-    "content_zh": "Claude 的网站访问量在 10 月环比增长 23.78%，增幅超过 OpenAI 的 ChatGPT 和谷歌的 Gemini。Similarweb 的全球网站榜单显示，同期 ChatGPT 增长 2.15%，Gemini 下降 0.15%。\n\nClaude 官网当月获得约 12.53 亿次访问，创自身纪录，升至全球网站第 25 位。据《福布斯》援引 Similarweb 的数据，今年 5 月至 9 月，Claude 每月的网站访问量大致在 9.5 亿至 10 亿次之间。\n\n同期 ChatGPT 和 Gemini 的网站访问量分别约为 60 亿次和 26.4 亿次。Similarweb 的统计覆盖全球桌面和移动网页。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527294656-6.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Claude Traffic Surges 24% in October, Outpacing ChatGPT and Gemini",
-    "content_en": "Anthropic’s AI assistant Claude saw a 23.78% month-over-month surge in global web traffic in October, outperforming competitors ChatGPT and Gemini, according to data from Similarweb. During the same period, OpenAI’s ChatGPT grew by 2.15%, while Google’s Gemini experienced a slight decline of 0.15%.\n\nClaude’s website recorded approximately 1.253 billion visits during the month, setting a company record and climbing to 25th place among global websites. Data cited by *Forbes* shows that Claude previously averaged between 950 million and 1 billion monthly visits from May to September.\n\nDespite Claude's rapid growth, competitors still maintain larger overall volumes. In October, ChatGPT recorded around 6 billion visits, while Gemini logged approximately 2.64 billion visits across desktop and mobile web platforms."
-  },
-  {
-    "title_zh": "消息称 SpaceX 与特斯拉合并谈判推进，最早 12 月公布协议",
-    "content_zh": "据彭博社 11 月 12 日报道，SpaceX 和特斯拉的合并谈判取得进展。知情人士称，两家公司最早可能在今年 12 月宣布协议，也讨论过把公告时间推到 2027 年初。\n\nSpaceX 此前在提交给美国证券交易委员会的季报中披露，董事会已设立特别委员会，评估与特斯拉合并的可能性。马斯克 10 月在 SpaceX 财报会上表示，两家公司均已成立由独立董事组成的委员会，并提到双方在芯片、机器人和轨道数据中心方面有合作空间。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527296100-7.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "SpaceX and Tesla Merger Talks Advance, Deal Could Be Announced as Early as December",
-    "content_en": "Merger negotiations between SpaceX and Tesla are progressing, with an agreement potentially being announced as early as December this year, Bloomberg reported on November 12, citing sources familiar with the matter. However, discussions have also considered pushing the announcement timeline to early 2027.\n\nPreliminary steps toward a potential deal are already underway. SpaceX previously disclosed in a quarterly filing with the U.S. Securities and Exchange Commission that its board had formed a special committee to evaluate a combination with Tesla.\n\nDuring SpaceX's earnings call in October, Elon Musk confirmed that both companies had established independent board committees to assess the merger. Musk highlighted significant potential synergies between the two entities, particularly in areas such as chips, robotics, and orbital data centers."
-  },
-  {
-    "title_zh": "苹果详解 iPhone 18 Pro 隐私提示点，确认亮起后才向系统放行音视频",
-    "content_zh": "苹果安全研究团队 11 月 12 日公开了 Secure Exclaves 的设计。苹果称，在后台感知模式下，摄像头和麦克风的原始数据留在独立的运行环境里，主系统只能收到识别结果等有限信息。\n\n以 iPhone 18 Pro 的「嘿 Siri」为例，低功耗协处理器先识别可能的唤醒词，再交给隔离环境二次确认。此时主系统只会收到唤醒信号。屏幕上的麦克风提示点通过颜色、形状和显示时长检查后，隔离环境才会把包含唤醒词和用户请求的音频交给 Siri。\n\n苹果称，这套架构也用于 iPhone 18 Pro Max 和 iPhone Duo 的屏幕隐私提示，以及 HomeView 的人物识别和 MacBook Neo 的摄像头提示。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527299177-8.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Apple Details Secure Exclaves Architecture for iPhone Privacy Indicators",
-    "content_en": "Apple’s security research team disclosed the architecture of its Secure Exclaves on November 12, explaining how hardware-level protections prevent unauthorized sensor access. In background sensing modes, raw camera and microphone data remains isolated in a secure execution environment, leaving the main operating system with only limited processed signals.\n\nUsing the iPhone 18 Pro's \"Hey Siri\" feature as an example, a low-power coprocessor first identifies potential wake words before passing data to the isolated environment for secondary confirmation. The main OS receives only a wake trigger, and full audio data is released to Siri only after the screen's privacy indicator dot passes visual validation checks involving color, shape, and display duration.\n\nApple stated that this security architecture is also implemented for privacy indicators on the iPhone 18 Pro Max and iPhone Duo, person recognition in HomeView, and camera indicators on the MacBook Neo."
-  },
-  {
-    "title_zh": "美联航将禁止未经授权的第三方 AI 助手代订机票",
-    "content_zh": "当地时间 11 月 11 日，美国联合航空宣布，将限制未经授权的第三方个人 AI 助手访问订票系统。措施覆盖美联航自有数字平台，也会通过旅行社和聚合平台执行。美联航将更新预订、出票及分销政策。\n\n美联航称，向个人 AI 助手提供账户凭据可能暴露敏感信息，助手也可能擅自购买、改动账户或动用 MileagePlus 里程。航司还以值机为例，旅客需要亲自确认行李中没有禁运品，这类操作交由 AI 自动完成可能带来监管合规问题。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527300992-9.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "United Airlines to Block Unauthorized AI Assistants from Booking Flights",
-    "content_en": "United Airlines announced on November 11 that it will restrict unauthorized third-party personal AI assistants from accessing its booking systems. The policy covers United's digital platforms, as well as third-party travel agencies and aggregators, prompting updates to the airline's booking, ticketing, and distribution policies.\n\nThe carrier cited significant privacy and security risks associated with sharing account credentials with personal AI tools. Such access could lead to unauthorized flight purchases, reservation modifications, or misuse of MileagePlus miles.\n\nAdditionally, United raised regulatory compliance concerns. For instance, flight check-in requires passengers to personally verify that their luggage contains no prohibited items—an obligation that automated AI agents cannot legally perform on behalf of travelers."
-  },
-  {
-    "title_zh": "马斯克回应 Anthropic 算力租约传闻：SpaceX 乐意收回算力",
-    "content_zh": "针对社交平台流传的 Anthropic 可能于 2027 年年中停止租用 SpaceX 算力的说法，马斯克当地时间 11 月 11 日在 X 上回应称，SpaceX 乐意收回算力，但他认为情况会相反。这则说法来自一份在 X 上流传的卖方会议转述。\n\nAnthropic 在 11 月 10 日提交的招股文件中披露，两份算力协议的期限延续至 2029 年，初始不可取消期分别于 2027 年 1 月和 3 月结束。此后，双方均可提前 90 天书面通知终止相应协议。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527302718-10.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Elon Musk Responds to Rumors of Anthropic Ending SpaceX Compute Lease",
-    "content_en": "Elon Musk addressed social media rumors on November 11 regarding claims that AI startup Anthropic might end its compute lease agreement with SpaceX by mid-2027. Replying on X (formerly Twitter), Musk stated that SpaceX would be happy to reclaim the compute capacity, though he expects demand to move in the opposite direction.\n\nThe rumors originated from sell-side meeting notes shared on X. However, regulatory filings submitted by Anthropic on November 10 paint a clearer picture of the arrangement.\n\nAccording to the prospectus, Anthropic holds two compute agreements with SpaceX extending through 2029. The initial non-cancellable terms for these contracts conclude in January and March 2027, respectively, after which either party may terminate the agreements with a 90-day written notice."
-  },
-  {
-    "title_zh": "前字节、美团招聘负责人魏小康谈 AI 人才泡沫：高薪要看能解决什么问题",
-    "content_zh": "在《晚点 LatePost》的访谈中，曾参与搭建字节跳动招聘体系、负责过美团招聘的魏小康说，衡量大模型人才的薪酬，应该先看他们能解决什么问题。基座模型训练需要大量算力，少数核心研究者做的决定，会影响训练资源的使用效率，甚至决定模型能不能做出来。\n\n魏小康回忆，早期「百模大战」推高了研究员薪酬，一些公司花高价组队，招来的人却无法完成大模型研发。他认为，这类投入才是人才泡沫。随着基座模型竞争收敛到少数公司，即使有顶级论文和头部模型厂实习经历，毕业生也可能更难拿到面试机会。\n\n谈到资源有限的团队如何把基座做出来，魏小康给出三项做法：由懂模型的人决定实验方向，允许试错但保持过程可检验；让算法、数据和基础设施人员一起工作；单独把训练数据的质量做好。\n\n谈到应用团队时，魏小康主张缩小产研团队，让擅长使用 AI 的成员承担更大范围的工作。他认为，过去依靠大量招聘扩大组织的办法，在 AI 应用创业中会逐渐失去优势。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527304380-11.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Former ByteDance Recruitment Head Wei Xiaokang on the AI Talent Bubble and Real-World Value",
-    "content_en": "In a recent interview with *LatePost*, Wei Xiaokang—former recruitment leader at ByteDance and Meituan—emphasized that compensation for AI talent should be driven by actual problem-solving capacity rather than market hype. He noted that in foundation model training, decisions made by a few core researchers directly dictate compute efficiency and the overall success of the project.\n\nReflecting on the early market rush where companies aggressively outbid each other during China's \"war of a hundred models,\" Wei pointed out that many high-priced teams failed to deliver viable foundation models, creating a true talent bubble. As foundation model development now consolidates among a few tech giants, even graduates with top-tier papers and elite internships face a far tougher job market.\n\nFor resource-constrained teams striving to build foundation models, Wei recommended three key practices:\n- Let model experts set experimental directions while permitting verifiable trial-and-error.\n- Ensure tight, cross-functional collaboration among algorithm, data, and infrastructure engineers.\n- Rigorously optimize training data quality.\n\nRegarding AI application startups, Wei advocated for leaner product and R&D teams. He advised empowering AI-proficient employees to take on broader roles, noting that the traditional playbook of scaling organizations through aggressive headcount expansion is losing its edge in the AI era."
-  },
-  {
-    "title_zh": "奔驰暂停德国工厂新增投资，开始评估关厂选项",
-    "content_zh": "据路透社报道，梅赛德斯-奔驰管理层 11 月 12 日告知员工，将暂停在德国生产基地的所有进一步投资，并详细评估关闭部分工厂的选项。公司与职工委员会、德国金属工业工会就降低用工成本的谈判仍在进行。\n\n德国《每日新闻》援引奔驰内网采访称，负责生产的董事会成员迈克尔·席贝说，如果双方无法达成协议，新车型将只在德国以外生产。负责人力资源的董事会成员布丽塔·泽格表示，管理层正研究哪些德国基地能够继续维持运营；谈判涉及工时、奖金及部分集体协议福利。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527305700-12.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Mercedes-Benz Freezes German Investments and Assesses Plant Closures Amid Labor Talks",
-    "content_en": "Mercedes-Benz has informed employees that it is freezing all new investments in its German manufacturing facilities while evaluating the potential closure of select plants, according to Reuters. The automaker is currently locked in negotiations with its works council and the IG Metall union to curb labor costs.\n\nIn an internal interview cited by German media, Production Chief Michael Schiebe warned that upcoming vehicle models will be manufactured exclusively outside Germany if no agreement is reached. Human Resources Chief Britta Seeger added that management is analyzing the long-term viability of each domestic site, with talks covering working hours, bonuses, and contractual benefits."
-  },
-  {
-    "title_zh": "微软 365 出现服务故障，Outlook 邮箱和 Teams 连接受影响",
-    "content_zh": "微软 11 月 12 日通报，部分用户无法连接 Microsoft 365 的多项服务，涉及 Exchange Online 邮箱、Teams、SharePoint Online 和 Microsoft 365 Copilot 等。邮箱故障影响的连接方式包括网页版 Outlook 和 Exchange ActiveSync。\n\n微软称，多台服务器意外无法提供服务，增加了剩余服务器的负载。团队已将部分连接流量转移到其他基础设施，并在一部分服务器上测试配置调整，目标是恢复未通过自动健康检查的服务器。",
+    "title_zh": "💡 灵光产品经理谈个人 AI 助手：团队开始数用户愿意托管多少件事",
+    "content_zh": "蚂蚁集团旗下 AI 应用灵光在 10 月底上线 2.0 版。灵光产品经理寺二近日接受《晚点》采访时说，团队把「托管量」作为衡量个人 AI 助手的核心指标，统计用户交给应用持续跟进的事项。\n\n寺二举例，点一杯咖啡是一次任务，持续盯着机票价格才是一项托管事务。应用在云端持续运行，在价格变动或需要用户作决定时主动提醒。团队也会看提醒发出后用户是否回来，以及用户是否愿意继续补充情况，让助手把事情往下办。\n\n寺二说，目前的托管更多集中在监测和提醒。要让助手进一步完成实际操作，还要打通不同互联网平台的数据和接口。",
     "image_url": "",
-    "date": "2026-11-13 08:00",
-    "title_en": "Microsoft 365 Outage Disrupts Outlook, Teams, and Copilot Services",
-    "content_en": "Microsoft reported a service outage on November 12 that prevented users from accessing several core Microsoft 365 applications, including Exchange Online, Teams, SharePoint Online, and Microsoft 365 Copilot. The email disruptions specifically affected connections via Outlook on the web and Exchange ActiveSync.\n\nThe company stated that an unexpected server failure placed an excessive load on the remaining active servers. Engineering teams are rerouting traffic to alternative infrastructure and testing configuration adjustments to restore servers that failed automatic health checks."
+    "date": "2026-11-14 08:00",
+    "title_en": "Ant Group's Lingguang AI Focuses on 'Delegated Tasks' as Core Metric for Personal Assistants",
+    "content_en": "Following the release of version 2.0 in late October, Si Er, a product manager for Ant Group's AI application Lingguang, shared key product strategy insights in a recent interview with *LatePost*. The team has adopted \"delegated tasks\" as its primary metric to evaluate personal AI assistants, focusing on ongoing responsibilities users entrust to the app rather than one-off actions.\n\nTo illustrate, Si Er contrasted ordering a coffee—a single task—with continuously monitoring flight prices, which constitutes a delegated task. The application runs in the cloud to track changes and proactively alert users when decision-making is required. The team monitors whether users re-engage after alerts and if they provide additional context to keep tasks moving forward.\n\nCurrently, delegated tasks primarily focus on monitoring and notifications. Expanding the assistant's capabilities to execute full end-to-end actions will require deeper data and API integrations across various internet platforms."
   },
   {
-    "title_zh": "思科季度营收增长 24%，上调云厂商 AI 基础设施收入预期",
-    "content_zh": "思科公布截至 10 月 24 日的 2027 财年第一季度业绩。季度营收为 185.17 亿美元，同比增长 24%；按美国通用会计准则（GAAP）计算，净利润为 45.52 亿美元。\n\n网络产品是增长最快的产品组，收入为 111.32 亿美元，同比增长 43%。思科同时将 2027 财年来自超大规模云服务商的 AI 基础设施收入预期上调至 90 亿美元，预计超过上一财年这一客户群实际收入的两倍。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527307960-13.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Cisco Posts 24% Revenue Surge and Raises AI Infrastructure Target to $9 Billion",
-    "content_en": "Cisco Systems reported a 24% year-over-year revenue increase to $18.517 billion for its first fiscal quarter ending October 24, achieving a GAAP net income of $4.552 billion.\n\nThe company's growth was led by its networking segment, which surged 43% to $11.132 billion. Buoyed by strong demand, Cisco raised its fiscal 2027 AI infrastructure revenue projection from hyperscale cloud providers to $9 billion—more than double its actual revenue from this customer segment in the previous fiscal year."
+    "title_zh": "荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知",
+    "content_zh": "荣耀宣布，荣耀 700 系列发布会定于 11 月 23 日 14:30，歌手、演员鞠婧祎担任该系列代言人。系列目前已开放预约。\n\n荣耀公布了背屏的几项玩法：把表情包、GIF 或静态图片拖到背屏，抬手查看通知，以及在背屏上玩小游戏。官方预热还提到骁龙芯片、9000mAh 青海湖电池和 4K 动态照片。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645717499-7.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Honor 700 Series to Launch Nov 23 Featuring Interactive Rear Display and 9,000mAh Battery",
+    "content_en": "Honor has officially scheduled its Honor 700 series launch event for November 23 at 14:30. Singer and actress Ju Jingyi has been named the brand ambassador for the new smartphone line, which is currently open for pre-orders.\n\nA key highlight of the series is its interactive rear display. Users can customize the back screen with static images, GIFs, or emojis, check notifications with a wrist lift, and play mini-games directly on the secondary panel.\n\nOfficial teasers also reveal high-end hardware specifications, including Snapdragon processors, a massive 9,000mAh Qinghai Lake battery, and support for 4K dynamic photos."
   },
   {
-    "title_zh": "应用材料季度营收增长 53%，DRAM 与先进封装业务创纪录",
-    "content_zh": "半导体设备厂商应用材料公布截至 10 月 25 日的 2026 财年业绩：全年营收为 344.46 亿美元，同比增长 21%；GAAP 净利润为 100.88 亿美元，同比增长 44%。\n\n增长在第四财季进一步加快：营收为 104.09 亿美元，同比增长 53%。应用材料在财报会上表示，当季 DRAM 和先进封装收入均创公司纪录，沉积、刻蚀、化学机械抛光及制程控制业务也达到各自的收入新高。公司计划到 2028 年将设备产量较本财季水平翻倍。",
+    "title_zh": "东风日产 NX7 亮相，车内展示可拆卸磁吸垃圾桶",
+    "content_zh": "东风日产在 11 月 13 日的珠海 NISSAN DAY 上展示了插电混动 SUV NX7。发布会现场展示了一款车载磁吸垃圾桶。会场大屏上的演示图把它放在车内的固定位置，清理时可以直接取下。\n\nNX7 属于日产在中国开发的新能源 N 序列。日产在活动预告中把它列为当天全球首秀的车型，此前这一序列已推出纯电轿车 N7 和新能源 SUV NX8。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645718468-8.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Dongfeng Nissan Debuts NX7 Plug-In Hybrid SUV Featuring Detachable Magnetic Trash Can",
+    "content_en": "Dongfeng Nissan unveiled the NX7 plug-in hybrid SUV during its Nissan Day event in Zhuhai on November 13. A key interior detail highlighted during the presentation was a detachable magnetic trash can, designed to lock into a fixed spot in the cabin and easily detach for hassle-free cleaning.\n\nThe NX7 belongs to Nissan's new energy \"N\" series developed specifically for the Chinese market. Making its global premiere at the event, the NX7 joins Nissan's expanding electrified portfolio alongside the previously introduced N7 electric sedan and NX8 SUV."
+  },
+  {
+    "title_zh": "索尼新一代 Walkman 开启国行预售，ZX900 售 10999 元",
+    "content_zh": "索尼京东自营旗舰店已上架新一代醇音系列 Walkman。三款机型分别是 NW-WM1ZM3、NW-WM1AM3 和 NW-ZX900。京东商品页显示，NW-ZX900 预售价为 10999 元，11 月 15 日中午结束定金阶段，当天 12:30 开始付尾款。\n\n三款机器均搭载安卓 16，支持 aptX Adaptive 和 LE Audio。索尼在数字放大器中加入了前瞻式噪声整形器。系列中体积较小的 ZX900 用铝合金主机身搭配镀金无氧铜后盖；索尼给出的约 38 小时续航对应原生播放器通过平衡接口播放 96kHz/24bit FLAC 文件的场景。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645720800-9.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Sony Launches Next-Gen Walkman Pre-Orders in China, ZX900 Priced at 10,999 Yuan",
+    "content_en": "Sony has officially opened pre-orders for its latest high-end Walkman series on its flagship JD.com store. The new lineup comprises three models: the NW-WM1ZM3, NW-WM1AM3, and NW-ZX900. The NW-ZX900 is available for pre-order at 10,999 RMB, with the deposit phase ending at noon on November 15 prior to final payment processing.\n\nAll three players run on Android 16 and support modern audio codecs, including aptX Adaptive and LE Audio. Sony has upgraded the digital amplifier with a feedforward noise shaper. The compact ZX900 features an aluminum main chassis paired with a gold-plated oxygen-free copper back cover, offering approximately 38 hours of battery life during balanced 96kHz/24bit FLAC playback."
+  },
+  {
+    "title_zh": "保时捷 CEO 谈 Mission S：瞄准比 911 更高的市场",
+    "content_zh": "据彭博社报道，保时捷 CEO 迈克尔·莱特斯 11 月 11 日在柏林的一场汽车行业会议上谈到 Mission S。他说，保时捷想展示消费者能实际感受到的工程创新。他把自家的 Mission S 和特斯拉 Roadster 放在一起谈，认为两款车面向不同的买家。\n\nMission S 是一款中置发动机概念跑车，保时捷计划把它放在 911 之上。彭博社报道，该车的设计可容纳混动或内燃机动力系统。两款车都在 10 月 15 日公开展示，当时特斯拉演示了利用压缩气体推进器让 Roadster 短暂腾空。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645721488-10.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Porsche CEO Positions Mission S Concept Above Iconic 911",
+    "content_en": "Porsche CEO Michael Leiters shared insights into the Mission S concept sports car during an automotive conference in Berlin on November 11, emphasizing Porsche's focus on practical, feelable engineering innovations. Comparing the Mission S to the Tesla Roadster, Leiters stated that both vehicles cater to fundamentally different customer bases.\n\nThe mid-engine Mission S concept is intended to sit above the iconic 911 in Porsche's hierarchy. Designed to accommodate both hybrid and internal combustion powertrains, the vehicle debuted alongside the Tesla Roadster on October 15, where Tesla notably demonstrated a compressed-gas thruster system."
+  },
+  {
+    "title_zh": "虾米音乐关停五年后，阿里上线 AI 写歌应用「快乐虾米」",
+    "content_zh": "据界面新闻报道，阿里旗下「快乐虾米」11 月 13 日登陆 iOS 和安卓应用商店。输入一段故事、想表达的情绪或指定曲风，应用可以生成带歌词和演唱的完整歌曲，也支持生成纯音乐。\n\n应用里有一个「做同款」入口。用户在音乐信息流刷到喜欢的作品时，可以沿用它的创作思路，再换成自己的故事或主题。界面新闻举例，整理后的聊天记录也可以当作写歌素材，由应用提取内容生成歌词和歌曲。\n\n原来的虾米音乐于 2021 年停止服务。「快乐虾米」由阿里 ATH 团队开发，今年 8 月先推出网页测试版，这次把创作和分享入口带到了手机上。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645723689-11.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Alibaba Revives Xiami Brand with \"Happy Xiami\" Mobile AI Songwriting App",
+    "content_en": "Alibaba has launched \"Happy Xiami\" on iOS and Android app stores, reviving the dormant Xiami brand—whose original music streaming service shut down in 2021—as an AI-powered music creation platform.\n\nDeveloped by Alibaba's ATH team following a web-based beta in August, the mobile app allows users to generate full songs complete with lyrics and vocals, as well as instrumental tracks, simply by providing stories, emotions, or genre preferences. Users can even convert structured chat histories into lyric prompts.\n\nThe app also features a \"Make Similar\" function, enabling creators to borrow the structure of existing community tracks while customizing the content with their own personal stories."
+  },
+  {
+    "title_zh": "宁德时代发布巧克力电池管家，换电时可查电池健康状况",
+    "content_zh": "据界面新闻报道，宁德时代 11 月 13 日发布「巧克力电池管家」，把电池检测分到车上和换电站。车端可做 53 项自检，换电站可做 66 项深度检测。\n\n宁德时代承诺，巧克力换电网络内的在网电池可享终身监测、终身质保和免费维修、更换。公司计划到 2027 年累计建成 6000 座巧克力换电站，覆盖 297 座城市。",
     "image_url": "",
-    "date": "2026-11-13 08:00",
-    "title_en": "Applied Materials Posts Record Q4 Revenue Up 53%, Driven by DRAM and Advanced Packaging",
-    "content_en": "Semiconductor equipment leader Applied Materials reported strong financial results for its fiscal year ended October 25. Full-year revenue reached $34.45 billion, up 21% year-over-year, while GAAP net income surged 44% to $10.09 billion.\n\nGrowth accelerated sharply in the fourth fiscal quarter, with revenue jumping 53% year-over-year to $10.41 billion. During its earnings call, the company highlighted record quarterly revenues in both its DRAM and advanced packaging segments. Core product lines—including deposition, etch, chemical mechanical planarization (CMP), and process control—also achieved record revenues.\n\nLooking ahead, Applied Materials announced plans to double its equipment manufacturing output by 2028 compared to current quarterly levels."
+    "date": "2026-11-14 08:00",
+    "title_en": "CATL Debuts \"Chocolate Battery Butler\" Diagnostic Tool and Outlines Swap Station Expansion",
+    "content_en": "CATL has officially launched the \"Chocolate Battery Butler,\" a comprehensive battery diagnostic system that splits health monitoring between electric vehicles and battery swap stations.\n\nUnder the new system, in-vehicle technology performs 53 self-diagnostic checks, while swap stations conduct 66 deep diagnostic inspections. CATL pledged that all active batteries within its swapping network will receive lifetime monitoring, a lifetime warranty, and free repairs or replacements.\n\nLooking ahead, the battery manufacturing giant aims to build 6,000 \"Chocolate\" battery swap stations across 297 cities by 2027."
   },
   {
-    "title_zh": "💡 李彦宏对话杨元庆：AI 还替代不了 CEO 出差",
-    "content_zh": "在 11 月 12 日的百度世界大会上，刚从欧美出差回来的联想集团董事长兼 CEO 杨元庆说，AI 还替代不了他去见客户。谈到供应链，杨元庆举例说，联想已经用 AI 辅助预测需求和安排生产，但需求预测只是第一步。接下来如何调整采购、生产和供应，还需要人来判断。\n\n百度创始人李彦宏则用无人驾驶的经历解释具身智能还处在哪个阶段。他把当前的具身智能比作 2016 年前后的无人驾驶，并认为无人驾驶系统需要芯片、云、模型和应用各层协同优化。谈到百度内部使用 AI，他提到，过去各业务部门自行微调模型，基础模型一升级，先前的工作很快就会落后。百度后来把模型训练集中交给专门团队。\n\n他还举例说，智能体应用刚兴起时，百度各业务部门都想跟着热点做新应用，分到每个方向的资源随之变少。百度后来通过月度会议收缩各部门同时推进的项目。杨元庆谈到联想的做法时说，公司要先划定 AI 的使用边界，再鼓励员工在研发、销售和服务等环节尝试。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527309433-14.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Baidu’s Robin Li and Lenovo’s Yang Yuanqing Discuss AI Limits and Enterprise Strategy",
-    "content_en": "At the Baidu World conference on November 12, Baidu founder Robin Li and Lenovo Chairman and CEO Yang Yuanqing discussed the current limitations of AI and strategic approaches to corporate deployment.\n\nYang emphasized that AI cannot replace face-to-face executive interactions with clients. While Lenovo utilizes AI to forecast demand and plan production, human decision-making remains critical for procurement and supply chain adjustments. He added that Lenovo defines clear operational guardrails before encouraging employees to experiment with AI across R&D, sales, and customer service.\n\nComparing embodied AI to autonomous driving around 2016, Li stressed that the technology still requires deep, cross-layer optimization across chips, cloud infrastructure, foundational models, and applications. Sharing internal lessons, Li revealed that Baidu centralized model training to eliminate redundant work across business units and consolidated AI agent initiatives to concentrate key resources."
+    "title_zh": "Gemini 接入 Google 钱包，可以整理账单和查找订阅扣款",
+    "content_zh": "谷歌开始向美国 Gemini 用户推送 Google 钱包连接功能，覆盖网页版和 Android、iOS 应用。用户主动开启连接后，可在聊天里用「@Google Wallet」查询消费记录，也可选择通过 Plaid 把银行或信用卡账户接入钱包。\n\nGemini 可根据已有账单生成支出图表，找出跨账户的定期扣款并标注涨价项目，或用去年的旅行、礼物开支辅助制定今年预算。连接权限仅限读取账户数据，用户可在设置里随时断开。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645725794-12.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Google Integrates Gemini with Google Wallet for Smart Financial Tracking",
+    "content_en": "Google has begun rolling out a Google Wallet integration for Gemini users in the U.S. across web, Android, and iOS platforms.\n\nOnce opted in, users can type \"@Google Wallet\" in chat prompts to query transaction histories or connect bank and credit card accounts via Plaid. Gemini can analyze bills to generate spending charts, track recurring subscriptions across multiple accounts, flag price hikes, and assist with budgeting based on past expenditure.\n\nThe integration operates on read-only permissions, allowing users to disconnect access at any time through their settings."
   },
   {
-    "title_zh": "26.99 万元起，全新腾势 N8 上市，先推出纯电五座版",
-    "content_zh": "比亚迪旗下全新腾势 N8 于 11 月 12 日上市。本次公布六款配置，包含四款纯电和两款插混。纯电版售价为 26.99 万元至 32.99 万元，将于上市一周后陆续交付。插混版预计晚约两个月交付。\n\n全新 N8 采用五座布局，同系列 N8L 为六座。新车搭载第二代刀片电池和闪充技术，车内配有 30 英寸全景屏和抬头显示系统。腾势此前在预订发布会上公布，N8 的前备厢容积为 205L，后备厢常规容积为 1046L。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527310632-15.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "BYD Launches All-New Denza N8 SUV Starting at 269,900 Yuan",
-    "content_en": "BYD's premium brand Denza officially launched the all-new N8 SUV on November 12, offering six trim options across pure electric (EV) and plug-in hybrid (PHEV) powertrains.\n\nThe four EV variants are priced between 269,900 yuan and 329,900 yuan, with deliveries scheduled to begin a week after launch. Deliveries for the two PHEV options will follow approximately two months later.\n\nThe five-seater SUV features BYD's second-generation Blade Battery and flash-charging technology. Inside, the vehicle comes equipped with a 30-inch panoramic screen and a head-up display (HUD) system. Storage capacity is notable, offering a 205-liter front trunk alongside a 1,046-liter rear trunk."
+    "title_zh": "腾讯混元发布 Hy Realtime，元宝语音通话可以点歌、联网搜索",
+    "content_zh": "腾讯混元 11 月 13 日发布实时语音模型 Hy Realtime，已接入元宝语音通话和腾讯客服。更新到最新版元宝后，可在语音通话中选择「初语」音色体验。腾讯云计划近期开放 API。\n\n新模型能在通话中根据上下文判断是否需要联网搜索，也能结合前面的对话理解用户说到一半的句子或临时改口。回答时，模型可以一边生成文字一边合成语音，减少开口前的等待。\n\n演唱能力由混元与腾讯音乐 TME 灵音 AI 团队联合开发。点歌时可以组合歌手、曲风、语种和发行年份，比如请它挑一首 2010 年至 2020 年间发行的英文民谣并演唱。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645726861-13.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Tencent Hunyuan Launches 'Hy Realtime' Voice Model with Web Search and Song Requests",
+    "content_en": "Tencent Hunyuan has officially launched \"Hy Realtime,\" a real-time voice model now integrated into the Yuanbao app's voice calls and Tencent Customer Service. Users updating to the latest version of Yuanbao can select the \"Chuyu\" voice profile to experience the feature. Tencent Cloud also plans to open public API access in the near future.\n\nThe new model features intelligent contextual awareness, allowing it to determine whether a web search is needed during a conversation and seamlessly comprehend interrupted sentences or mid-speech changes. By generating text and synthesizing audio simultaneously, Hy Realtime significantly reduces response latency.\n\nAdditionally, the model boasts singing capabilities co-developed with Tencent Music's TME Lingyin AI team. Users can request customized performances by specifying criteria such as artist, genre, language, and release year—for instance, asking it to perform an English folk song released between 2010 and 2020."
   },
   {
-    "title_zh": "火山引擎推出 Seedance 2.5 flash，720P 视频约 0.99 元/秒",
-    "content_zh": "火山引擎 11 月 12 日推出视频生成模型 Seedance 2.5 flash。按官方口径，新模型的生成速度较 Seedance 2.5 提升一倍。以 720P 的文生视频和图生视频为例，每秒生成价格约 0.99 元，较 Seedance 2.5 降低约 34%。\n\n新模型提供 480P 和 720P 两档分辨率，单段最长可生成 30 秒视频。一次生成最多可输入 10 张图片、5 段视频和 5 段音频作为参考。火山引擎用同一组提示词让两款模型分别生成望远镜广告，flash 版更完整地呈现了从举起望远镜到放下并微笑回应的一连串动作。\n\n火山引擎称，新模型自 11 月 12 日起陆续登陆即梦、LibTV、Updream、Creao AI 和 TapNow，API 将于 11 月 15 日上线火山方舟。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527314388-16.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Volcano Engine Launches Seedance 2.5 Flash with Faster Generation and 34% Lower Costs",
-    "content_en": "Volcano Engine officially released **Seedance 2.5 Flash** on November 12, an upgraded video generation model that doubles the generation speed of its predecessor while reducing costs by approximately 34%. For 720P text-to-video and image-to-video generation, the price is now around 0.99 RMB per second.\n\nThe new model supports 480P and 720P resolutions and can generate single video clips up to 30 seconds long. Users can input up to 10 images, 5 video clips, and 5 audio tracks in a single prompt for reference. Demonstration tests show that the Flash version produces smoother, more complete motion sequences compared to earlier versions.\n\nSeedance 2.5 Flash is rolling out across platforms including Jimeng, LibTV, Updream, Creao AI, and TapNow starting November 12. Its API will officially launch on Volcano Ark on November 15."
-  },
-  {
-    "title_zh": "豆包工作接入 Kimi、GLM 和 DeepSeek，选模型时可查看额度倍率",
-    "content_zh": "豆包工作 11 月 12 日宣布接入 Kimi K3.1 Pro、GLM 5.3 和 DeepSeek V4.1 Flash 等第三方模型。此前平台已向企业客户开放第三方模型，此次更新扩大了用户可以自行选择的模型范围。\n\n豆包工作在模型选择页标出了额度消耗倍率。用户可以在同一界面切换自研和第三方模型，并查看同一任务在不同模型下的相对额度消耗。豆包 2.1 Lite 和 DeepSeek V4.1 Flash 已有临时下调倍率的优惠。\n\n豆包还计划在工作日和节假日的指定时段，对参与活动的模型提供额度优惠。新用户登录豆包工作电脑版，可免费领取 30 天订阅权益。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527315438-17.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Doubao Work Integrates Kimi, GLM, and DeepSeek Models with Transparent Quota Pricing",
-    "content_en": "Doubao Work announced on November 12 the integration of major third-party AI models, including Kimi K3.1 Pro, GLM 5.3, and DeepSeek V4.1 Flash. Expanding on its previous enterprise-only third-party access, this update allows individual users to select their preferred models directly.\n\nThe platform now explicitly displays quota consumption multipliers on the model selection page. Users can seamlessly switch between proprietary and third-party models on a single interface to compare relative quota usage for specific tasks. Promotional discounts are currently active for Doubao 2.1 Lite and DeepSeek V4.1 Flash.\n\nDoubao also plans to introduce timed quota discounts during select business hours and holidays. Additionally, new users signing into the Doubao Work desktop application can claim a free 30-day subscription benefit."
-  },
-  {
-    "title_zh": "百度开放两款文心应用模型 API，现场演示 116 秒生成动画",
-    "content_zh": "11 月 12 日，百度在百度世界大会上发布文心闪电深度思考模型和文心一镜微表情大模型。两款模型均已上线百度智能云千帆平台，向企业客户和合作伙伴开放 API。\n\n其中，文心闪电此前主要服务百度搜索，可以理解复杂需求并调用工具。百度计划在后续版本加入视觉和语音输入。文心一镜面向数字人视频，可用长文本生成视频，也可根据长段语音驱动数字人。\n\n百度基础模型研发负责人孙天祥在会上首次公开亮相，并演示了文心 5.5 Flash 预览版的新用法。据智东西现场报道，模型用 Python 编写了一部 116 秒的二维短片，画面里一只白鹈鹕骑自行车穿过 20 种不同的艺术风格。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527316740-18.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Baidu Opens APIs for New ERNIE Models and Demos 116-Second AI-Generated Animation",
-    "content_en": "At the Baidu World Conference on November 12, Baidu launched two specialized AI models: ERNIE Lightning (a deep-thinking model) and ERNIE Yijing (a micro-expression model). Both models are now available via API on the Baidu AI Cloud Qianfan platform for enterprise clients and partners.\n\nERNIE Lightning, previously used in Baidu Search to parse complex queries and execute tool calls, will support visual and voice inputs in future updates. ERNIE Yijing targets digital human video creation, enabling long-text video generation and long-audio digital human driving.\n\nMaking his first public appearance, Sun Tianxiang, head of Baidu's base model R&D, demonstrated ERNIE 5.5 Flash Preview by having the model write Python code to render a 116-second 2D animated short featuring a white pelican riding a bicycle across 20 distinct artistic styles."
-  },
-  {
-    "title_zh": "红果短剧上线 AI 虚拟角色权属登记",
-    "content_zh": "据新浪科技报道，红果短剧创作者中心近日上线 AI 剧虚拟形象创编与确权功能。创作者可以在作品发布前，为虚拟角色提交真人肖像授权、上游 IP 授权或著作权登记证书等材料。\n\n红果会审核虚拟形象及其材料，通过后生成一份权属记录，供后续使用角色或处理纠纷时查阅。《南方都市报》从红果短剧创作者中心了解到，平台也发布了面向漫剧的虚拟形象创建与确权指引，适用于真人肖像、IP 改编和原创角色。",
+    "title_zh": "Thinking Machines 开放 Inkling 2 Small 模型权重，可自行部署",
+    "content_zh": "Thinking Machines Lab 将 Inkling 2 Small 的模型权重上传至 Hugging Face，采用 Apache 2.0 许可。该模型于 11 月 5 日公布，这次开放下载后，开发者可在自有环境部署，也可以通过 Together、Fireworks 等平台调用。\n\nInkling 2 Small 是一个支持图像输入的混合专家模型，总参数 5940 亿，每次推理激活 170 亿。模型支持调节推理投入，也已接入 vLLM、SGLang 等推理框架。",
     "image_url": "",
-    "date": "2026-11-13 08:00",
-    "title_en": "Hongguo Short Drama Launches AI Character Ownership Registration System",
-    "content_en": "Hongguo Short Drama has officially launched an AI virtual character creation and ownership verification feature within its Creator Center, according to reports from Sina Tech. The new system allows creators to register their AI-generated characters prior to publishing their works.\n\nTo establish ownership, creators can submit required documentation, such as real-person portrait authorizations, upstream IP licenses, or copyright registration certificates. Once reviewed and approved by Hongguo, an official ownership record is generated to facilitate future character usage and resolve potential copyright disputes.\n\nAdditionally, Southern Metropolis Daily reported that the platform has released guidelines for character creation and rights confirmation across comic dramas, covering real likenesses, IP adaptations, and original characters."
+    "date": "2026-11-14 08:00",
+    "title_en": "Thinking Machines Lab Releases Open Weights for Inkling 2 Small Model",
+    "content_en": "Thinking Machines Lab has released the model weights for Inkling 2 Small on Hugging Face under the Apache 2.0 license. First announced on November 5, the model can now be self-deployed by developers in their own environments or accessed via platforms such as Together and Fireworks.\n\nInkling 2 Small is a multimodal Mixture-of-Experts (MoE) model supporting image inputs. It features a total of 594 billion parameters, with 17 billion active per inference pass.\n\nThe model allows users to adjust compute expenditure during reasoning and comes integrated with popular inference frameworks like vLLM and SGLang."
   },
   {
-    "title_zh": "三星与 Google 合作的 Gemini 眼镜开启预订，12 月 10 日上市",
-    "content_zh": "三星宣布，与 Google 合作开发的智能眼镜已开放预订，12 月 10 日上市。Warby Parker 和 Gentle Monster 两个系列均在美国销售，Gentle Monster 系列也会在韩国上市。美国市场 Warby Parker 系列 395 美元起，Gentle Monster 系列售价为 449 美元至 489 美元。\n\n眼镜搭载 1200 万像素摄像头、开放式扬声器和四颗麦克风。用户可通过 Gemini 询问眼前物体、听取导航指令或回复消息。拍照或录像时，镜框外侧指示灯会亮起，指示灯被遮挡或故障时，相机拍摄功能会被禁用。\n\n三星列出的兼容设备包括运行 One UI 9 或更新系统的部分 Galaxy 手机、运行 Android 17 且已安装 2026 年 9 月或更新版本系统更新的 Pixel 7 系列及后续机型，以及运行 iOS 26.6 或更新系统、至少配备 6GB 内存的 iPhone 13 及后续机型。Bixby 仅在配对 Galaxy 手机时可用。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527318043-19.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Samsung and Google Open Pre-Orders for Gemini Smart Glasses Ahead of Dec 10 Launch",
-    "content_en": "Samsung has officially opened pre-orders for its new AI smart glasses co-developed with Google, ahead of a scheduled December 10 launch. The lineup features frames designed by Warby Parker and Gentle Monster, with U.S. pricing starting at $395 for Warby Parker models and $449 to $489 for Gentle Monster frames. The Gentle Monster series will also be available in South Korea.\n\nThe smart glasses are equipped with a 12-megapixel camera, open-ear speakers, and a four-microphone array. Powered by Google’s Gemini AI, users can get information about objects in their view, listen to navigation instructions, or reply to messages. To protect privacy, an exterior LED indicator turns on during photo or video capture, and camera functionality is automatically disabled if the indicator is covered or malfunctions.\n\nCompatibility requires select Galaxy phones running One UI 9 or later, Pixel 7 and newer devices running Android 17, or iPhone 13 and newer models running iOS 26.6 with at least 6GB of RAM. Samsung’s Bixby assistant is available exclusively when paired with Galaxy smartphones."
+    "title_zh": "肯德基员工称备货系统在打烊前派单，要后厨再烤 17 只鸡",
+    "content_zh": "据新浪财经报道，多位肯德基一线员工称，门店使用 EPQC 备货系统后，屏幕下发的制作任务有时与实际需求不符。一名员工说，所在门店晚上 11 点打烊，系统在晚上 9 点半还要求后厨再烤 17 只全鸡。\n\n过去，负责协调供餐的总配岗位会看现场库存和订单，直接告诉后厨做多少。员工说，系统现在会结合库存和售卖节奏派单，忙时来不及修正库存，屏幕上可能出现负库存，继而触发新的制作任务。部分门店为避免备货过量，已重新用口头沟通安排出餐。肯德基客服向新浪财经表示，相关情况需要后台核实。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645728543-14.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "KFC Staff Report Automated System Glitches Causing Unnecessary Late-Night Food Prep",
+    "content_en": "Frontline KFC staff in China have raised concerns over the automated EPQC prep system, reporting that screen-issued cooking tasks often misalign with actual store demand. In one instance, an employee reported that the system instructed the kitchen to roast 17 whole chickens at 9:30 PM, despite the store closing at 11:00 PM.\n\nPreviously, meal prep coordinators manually monitored live inventory and customer orders to assign kitchen tasks. The new system automates dispatches based on inventory and sales momentum; however, during busy hours when staff cannot update stock figures in time, the system can display negative inventory, triggering redundant prep tasks.\n\nTo prevent excessive food waste, several locations have temporarily returned to verbal communication for kitchen dispatches. KFC customer service informed Sina Finance that the reports are under internal verification."
   },
   {
-    "title_zh": "双 11 部分热门游戏本比 618 更贵，涨价传导到整机",
-    "content_zh": "界面新闻 11 月 12 日报道，今年双 11 部分热门游戏本叠加促销后，成交均价仍比 618 高。以报道援引的得物 App 交易记录为例，机械革命蛟龙 16 Pro 游戏本的站内均价从 618 期间的 6224.08 元升至双 11 前夕的 8348 元。\n\n同一平台上，联想拯救者 R7000P 和惠普暗影精灵 11 的双 11 成交均价较 618 都上涨近三成。界面新闻采访的数码经销商称，一些顾客询价后推迟了换机。\n\n成本压力已经反映在物料上。集邦咨询以一款主流价位笔记本为例，处理器、内存和固态硬盘合计占物料成本的比重，在 2026 年第三季度升至约 68%。集邦指出，品牌可以通过涨价、压缩利润或调整存储规格来应对这轮成本上升。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527318975-20.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Gaming Laptop Prices Surge During Singles' Day as Component Costs Rise",
-    "content_en": "Despite heavy promotional discounts during China's Singles' Day (Double 11) shopping festival, average transaction prices for popular gaming laptops were significantly higher than during the 618 shopping event, according to Jiemian News.\n\nData from trading platform Poizon indicates that models such as the MECHREVO Dragon 16 Pro saw average prices rise from 6,224 yuan during 618 to 8,348 yuan ahead of Singles' Day. Average prices for other top sellers, including the Lenovo Legion R7000P and HP Omen 11, rose by nearly 30%, leading some consumers to postpone their purchases.\n\nThe price increases stem from mounting component costs. Market intelligence firm TrendForce reported that the combined cost of processors, RAM, and solid-state drives reached approximately 68% of a mainstream laptop's bill of materials (BOM) in Q3 2026. TrendForce noted that manufacturers are responding to these cost pressures by raising retail prices, narrowing profit margins, or adjusting storage specifications."
+    "title_zh": "大疆将从 11 月 18 日起调整部分产品建议零售价",
+    "content_zh": "大疆在 11 月 13 日发布说明，将从 11 月 18 日零时起调整部分产品的建议零售价。大疆把这次调价归因于半导体、存储等多项关键零部件成本持续上涨。涉及哪些型号、调整后的价格是多少，将在 DJI 官方商城对应商品详情页展示。\n\n调价消息最早出现在部分授权门店。11 月 10 日，界面新闻就 Osmo Pocket 系列的涨价消息询问大疆京东自营旗舰店，客服当时表示尚未收到调价通知。大疆随后发出的这份说明，首次明确了部分产品调价的生效时间。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645729713-15.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "DJI to Raise Prices on Select Products Starting November 18 Due to Rising Component Costs",
+    "content_en": "DJI announced on November 13 that it will adjust the suggested retail prices of select products starting at midnight on November 18. The drone maker attributed the upcoming price adjustments to the continuously rising costs of key components, including semiconductors and memory chips.\n\nDetails regarding the affected models and updated pricing will be displayed on the product pages of DJI's official online store. The announcement officially confirms earlier retail rumors regarding potential price increases across popular product lines."
   },
   {
-    "title_zh": "洛图科技：三季度 iPad 在国内主流电商平台销量下滑 45.2%",
-    "content_zh": "界面新闻援引洛图科技的监测数据称，2026 年第三季度，iPad 在国内主流电商平台的销量同比下滑 45.2%，销量份额降至 19.1%。苹果仍是该季度这些平台上销售额最高的平板品牌。\n\n洛图科技把苹果 6 月底上调 iPad 价格列为销量下滑的原因之一。据界面新闻报道，一家苹果授权专营店也确认已经随官方调整售价。放眼国内全渠道，第三季度消费级智能平板共售出 636.1 万台，同比下降 20.1%。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527320266-21.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "iPad Sales Plunge 45.2% on Major Chinese E-Commerce Platforms in Q3",
-    "content_en": "iPad sales on major Chinese e-commerce platforms plummeted by 45.2% year-on-year in the third quarter, dropping Apple's volume market share on these channels to 19.1%, according to data from market research firm RUNTO. Despite the sharp drop in volume, Apple remained the top-grossing tablet brand by revenue on these platforms during the quarter.\n\nAnalysts attribute part of the decline to price hikes Apple implemented in late June, which were subsequently adopted by official and authorized retail stores.\n\nThe broader Chinese consumer tablet market also slowed in Q3, with total sales across all sales channels reaching 6.361 million units—a 20.1% year-on-year decrease."
+    "title_zh": "星图数据：双 11 电商销售额达 17764 亿元，即时零售增长 33%",
+    "content_zh": "星图数据 11 月 12 日发布的监测报告显示，今年双 11 全网电商销售额达 17764 亿元，同比增长 4.8%。这一口径涵盖综合电商、即时零售和社区团购。三类渠道里，即时零售增幅最高，销售额同比增长 33%；综合电商增长 3.7%，社区团购下滑 7.4%。\n\n大促期间，平台也在卖上门服务。据第一财经报道，京东双 11 期间产生了超 3 亿笔服务订单。京东披露，家政多次卡保洁服务成交额同比增长超过 550%，宠物居室除毛服务同比增长 46 倍。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645730479-16.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "China’s Singles’ Day E-Commerce Sales Reach 1.78 Trillion Yuan as Instant Retail Surges 33%",
+    "content_en": "China's total e-commerce sales reached 1.7764 trillion yuan (approx. $245 billion) during this year's Singles' Day shopping festival, reflecting a 4.8% year-over-year increase, according to data released by Syntun on November 12. The figures encompass traditional e-commerce platforms, instant retail services, and community group-buying channels.\n\nAmong these sectors, instant retail posted the strongest performance with a 33% year-over-year sales surge. Traditional e-commerce experienced a modest growth of 3.7%, while community group buying declined by 7.4%.\n\nOn-demand local services also saw significant demand during the event. JD.com reported generating over 300 million service orders, with transaction volume for home cleaning packages rising more than 550% year-over-year and pet hair removal services soaring 46-fold."
   },
   {
-    "title_zh": "电影《收获日出》定档 11 月 20 日，内地同步北美上映",
-    "content_zh": "《饥饿游戏》新片《饥饿游戏：收获日出》确认于 11 月 20 日在中国内地上映，与北美同日。新片改编自苏珊·柯林斯的同名小说，由此前多次执导该系列的弗朗西斯·劳伦斯执导。\n\n故事回到凯特尼斯参加饥饿游戏之前，讲述她后来的导师黑密斯如何在少年时期代表第 12 区进入竞技场。这一届是第二届世纪极限赛，参赛人数翻倍。约瑟夫·扎达饰演少年黑密斯，拉尔夫·费因斯饰演斯诺总统。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527320834-22.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "New 'Hunger Games' Prequel 'Sunrise on the Reaping' Sets Day-and-Date China Release for Nov 20",
-    "content_en": "*The Hunger Games: Sunrise on the Reaping*, the latest entry in the blockbuster franchise, has been confirmed for a day-and-date release in mainland China and North America on November 20. Based on Suzanne Collins' novel, the feature is directed by franchise veteran Francis Lawrence.\n\nSet decades before Katniss Everdeen's era, the prequel follows a young Haymitch Abernathy as he represents District 12 in the 50th Hunger Games—the Second Quarter Quell—which features twice the standard number of tributes.\n\nJoseph Zada stars as young Haymitch, with Ralph Fiennes joining the cast as President Snow."
+    "title_zh": "One Fun Thing｜用 AirPods 充电盒控制 Mac 光标",
+    "content_zh": "开源项目 AirPointer 演示了一种操作 Mac 的方法。把 AirPods 放回充电盒并合上盖子，转动盒子就能移动光标，轻拍盒子正面则相当于点击。第一次使用时，应用会让用户依次指向屏幕上的三个点来校准。\n\n应用通过蓝牙读取耳机的运动数据，把它换算成光标的位置。作者用一副 AirPods Pro 3 和一台运行 macOS 26 的 Apple 芯片 Mac 测试。\n\n连接会短暂打断耳机音频，一次会话在合盖后约半小时结束。项目页也提醒，结束会话会消耗充电盒中存储的诊断数据。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645732883-17.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "AirPointer Turns Your AirPods Charging Case into a Mac Cursor Controller",
+    "content_en": "An open-source project named AirPointer introduces a novel way to interact with a Mac using an AirPods charging case. By placing the AirPods inside and closing the lid, users can move the screen cursor by rotating the case and click by lightly tapping the front of it. Initial setup requires calibrating the device by pointing to three designated spots on the screen.\n\nThe application functions by reading motion data from the earbuds via Bluetooth and translating it into cursor movements. The project was tested using AirPods Pro paired with an Apple Silicon Mac.\n\nNote that using the app briefly interrupts audio playback, and active sessions automatically expire roughly 30 minutes after closing the case lid. The developer also highlights that ending a session consumes diagnostic data stored within the charging case."
   },
   {
-    "title_zh": "皮克斯发布《猫的威尼斯奇旅》正式预告，《海底总动员》新短片将贴片放映",
-    "content_zh": "迪士尼与皮克斯 11 月 12 日发布《猫的威尼斯奇旅》正式预告和新海报。电影由《夏日友晴天》导演埃里康·卡萨罗萨执导，讲述只剩最后一条命的黑猫尼罗，欠下当地猫帮头目的债，在威尼斯结识街头音乐家玛娅。\n\n马克·鲁法洛和劳伦斯·菲什伯恩分别为尼罗和猫帮头目配音。新公布的配音演员包括约翰·特托罗、伊莎贝拉·罗西里尼和杰森·施瓦茨曼。电影将于 2027 年 3 月 5 日在北美上映，届时还将贴片放映《海底总动员》世界观的新短片《Loving Dory》，艾伦·德杰尼勒斯回归为多莉配音。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527321595-23.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "Pixar Unveils Trailer for 'A Cat's Venice Journey', Announces New 'Finding Nemo' Short",
-    "content_en": "Disney and Pixar released the official trailer and poster for their upcoming feature *A Cat's Venice Journey* on November 12. Directed by *Luca* director Enrico Casarosa, the film follows Nero, a black cat on his final life, who falls into debt with a Venetian cat gang boss and meets a local street musician named Maya.\n\nMark Ruffalo voices Nero, while Laurence Fishburne plays the gang leader. The star-studded vocal ensemble also features John Turturro, Isabella Rossellini, and Jason Schwartzman.\n\nSet to premiere in North American theaters on March 5, 2027, the release will be accompanied by an animated short titled *Loving Dory*, set in the *Finding Nemo* universe, with Ellen DeGeneres returning to voice Dory."
+    "title_zh": "周末看什么｜《海上钢琴师》4K 修复版重回内地影院",
+    "content_zh": "孤儿 1900 在往返欧美的邮轮上长大，从未踏上陆地。他学会了弹钢琴，也靠演奏认识一批又一批上船的旅客。一位爵士乐手特意上船挑战他，两个钢琴家在同一架琴前展开较量。\n\n《海上钢琴师》由朱塞佩·托纳多雷执导，蒂姆·罗斯饰演 1900，恩尼奥·莫里科内为影片作曲。4K 修复版于 11 月 13 日起在中国内地院线重映。影片在豆瓣获 9.3 分。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645735854-18.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Cinematic Classic 'The Legend of 1900' Returns to Chinese Theaters in 4K",
+    "content_en": "Giuseppe Tornatore’s acclaimed masterpiece *The Legend of 1900* has returned to mainland Chinese theaters in a newly restored 4K edition starting November 13. Starring Tim Roth and featuring an unforgettable score by Ennio Morricone, the cinematic classic maintains an impressive 9.3 rating on Douban.\n\nThe story follows 1900, an orphan raised entirely aboard a luxury transatlantic ocean liner who never sets foot on dry land. After discovering his extraordinary gift for the piano, he captivates generations of travelers, leading to unforgettable moments including a legendary musical duel with a visiting jazz master."
   },
   {
-    "title_zh": "《降世神通》续作《Avatar：Seven Havens》第二季定档明年 5 月",
-    "content_zh": "据 Inverse 报道，Paramount+ 宣布动画《Avatar: Seven Havens》第二季将于 2027 年 5 月 21 日上线，第三季也将在同年稍晚上线。\n\n故事延续《降世神通：最后的气宗》和《科拉传奇》的世界观，主角是双胞胎帕薇和妮莎。联合创作者迈克尔·但丁·迪马蒂诺在采访中说，第一季写两姐妹如何一起成长，第二季将让她们各自踏上旅程，面对不同的责任。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/lark2pad-1794527322643-24.jpg!360",
-    "date": "2026-11-13 08:00",
-    "title_en": "'Avatar: Seven Havens' Season 2 Set to Premiere in May 2027",
-    "content_en": "Paramount+ has officially announced that Season 2 of the animated series *Avatar: Seven Havens* will premiere on May 21, 2027, according to a report by *Inverse*. Fans can also look forward to Season 3, which is scheduled to release later that same year.\n\nContinuing the universe established by *Avatar: The Last Airbender* and *The Legend of Korra*, the show centers on twin sisters Pavi and Nisha. Co-creator Michael Dante DiMartino revealed that while the debut season focused on the sisters growing up together, the upcoming second season will send them on separate paths as they face distinct responsibilities."
+    "title_zh": "买书不读指南｜《市场赢家》：一张门票是怎么分到你手里的",
+    "content_zh": "抢演唱会门票、排餐厅候补、给想上的学校填志愿，都会遇到同一个问题：当想要的人比名额多，谁来决定先给谁？经济学家贾德·凯斯勒在《市场赢家》里拆解了几种常见的分配办法，包括先到先得、排队、抽签，以及按个人偏好匹配。\n\n书里既谈参与者怎么做决定，也谈规则制定者要付出什么代价。比如餐厅发放订位时，先到先得让熟悉放号时间的人占优，候补和抽签则各有成本。凯斯勒把这些日常例子和市场设计研究放在一起，讨论公平、效率与激励如何相互牵制。\n\n简体中文版由崔传刚译，中信出版集团于 2026 年 10 月出版。纸书在京东中信出版社自营店有售。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645741128-19.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Book Highlight: Judd Kessler’s 'Market Winners' Explores the Hidden Rules of Resource Allocation",
+    "content_en": "In *Market Winners*, economist Judd Kessler takes a deep dive into how society distributes scarce resources, addressing common situations like grabbing concert tickets, waiting for restaurant reservations, or applying to top schools. The book breaks down popular allocation mechanisms—including first-come-first-served, queuing, lotteries, and preference matching—to reveal how rules shape consumer behavior.\n\nCombining market design research with engaging real-world scenarios, Kessler explores the continuous tug-of-war between fairness, efficiency, and incentives. He highlights the subtle costs imposed by rule-makers and explains why different systems favor different participants.\n\nThe simplified Chinese edition, translated by Cui Chuangang and published by CITIC Press Group, released in October 2026."
+  },
+  {
+    "title_zh": "游戏推荐｜《塞尔达传说 时之笛》重制版",
+    "content_zh": "重回水之神殿时，林克可以用方向键快速穿脱重铁靴，再用右摇杆转动镜头，查看不同水位下的通路。\n\nIGN 中国给 Switch 2 版《塞尔达传说 时之笛》打出 10 分，尤其肯定独立跳跃、冲刺和道具快捷切换对旧迷宫探索的改善。评测也指出，部分谜题的提示更显眼，水之神殿的小钥匙有所减少，解谜门槛随之降低。\n\n任天堂以 1998 年的原作为基础重新制作了这一版。玩家仍要在少年与成年两个时代之间往返，利用各自可用的道具推进冒险。重制版更新了场景和管弦乐配乐，扩写了角色对白，并为过场动画加入配音。\n\n游戏已于 2026 年 11 月 5 日登陆 Nintendo Switch 2。玩家还可以对着主机麦克风哼唱林克学过的旋律，游戏中的林克会用时之笛把它吹出来。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794645741903-20.jpg!360",
+    "date": "2026-11-14 08:00",
+    "title_en": "Game Spotlight: 'The Legend of Zelda: Ocarina of Time' Remake Launches on Switch 2",
+    "content_en": "Nintendo has launched the ground-up remake of the 1998 classic *The Legend of Zelda: Ocarina of Time* on the Nintendo Switch 2, available starting November 5, 2026. IGN China awarded the game a perfect 10/10, praising its modernized mechanics, upgraded visuals, re-recorded orchestral soundtrack, and full voice acting for cutscenes.\n\nThis updated edition introduces key quality-of-life enhancements, including dedicated jump and sprint buttons, refined camera controls, and quick item toggling. Tricky dungeons like the Water Temple have been streamlined with smoother boot-swapping and clearer puzzle hints, reducing unnecessary friction without sacrificing the game's iconic depth.\n\nRetaining the beloved adventure of journeying between Link’s youth and adulthood, the remake also adds a fun feature: players can hum learned melodies into the console’s built-in microphone to have Link play them on his Ocarina in real time."
   }
 ]
