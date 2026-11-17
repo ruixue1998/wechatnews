@@ -1,210 +1,146 @@
 [
   {
-    "title_zh": "曝苹果首款智能眼镜明年 6 月发布，主打 Siri 第三方应用生态",
-    "content_zh": "据彭博社报道，苹果正将 Siri AI 与第三方应用的深度集成，作为明年首款智能眼镜的核心卖点。\n\n这款内部代号为 N50 的智能眼镜计划于明年 6 月的全球开发者大会（WWDC）发布，并预计在年底前出货，但受软件及 AI 研发进度拖累，该日程仍存在延期的可能。\n\n报道称，苹果本月推送的首个 iOS 27.3 测试版已加入全新的 Siri 精细化应用控制功能，预计今年 12 月随正式版向自家应用开放，明年进一步向第三方开发者全面开放。\n\n苹果希望借此推动开发者提前适配，让用户无需掏出 iPhone，即可通过眼镜端 Siri 语音完成订餐、打车、网购或购票等操作，以此在与 Meta 及 Google 的竞争中建立生态优势。\n\n硬件层面，N50 智能眼镜并不具备增强现实（AR）显示功能，内部被员工称为「戴在脸上的 AirPods」。其外观较第二代 Ray-Ban Meta 眼镜更轻薄，摄像头与镜框齐平，并在镜腿末端配备了类似嘀嗒糖大小的 3 触点磁吸充电接口，支持边戴边充。\n\n该设备内部原型机搭载精简版 visionOS 28 系统及源自早期 Apple Watch 的定制芯片，内置 Wi-Fi 模块，但受限于算力与内存，第三方应用需依托配对的近期款 iPhone 运行，不支持 Android 设备。\n\n此外，彭博社还在报道中披露了折叠屏手机 iPhone Duo 2（代号 V78）的研发进展。苹果正推进为该机型引入 Face ID，并计划将操作按钮与相机控制键合并。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786602542-1.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Apple's First Smart Glasses Expected at WWDC Next Year with Deep Siri Integration",
-    "content_en": "Apple is preparing to introduce its first smart glasses at next June's Worldwide Developers Conference (WWDC), with consumer shipments expected by the end of the year, according to a report from Bloomberg.\n\nCodenamed \"N50,\" the smart glasses will position deep Siri integration with third-party applications as a core feature. The goal is to let users order food, request rides, shop, and purchase tickets via voice commands without taking out their iPhones, giving Apple a competitive edge over Meta and Google.\n\nHardware-wise, the N50 lacks an augmented reality (AR) display and has been described by internal staff as \"AirPods for your face.\" It boasts a thinner profile than the second-generation Ray-Ban Meta glasses, featuring flush cameras and a tic-tac-sized three-pin magnetic charging connector on the temple. Powered by a streamlined version of visionOS and a custom chip derived from early Apple Watch designs, the glasses require a paired recent iPhone to run third-party apps.\n\nAdditionally, the report disclosed updates on Apple's foldable phone project, codenamed \"V78\" (iPhone Duo 2), which is slated to feature Face ID alongside a combined Action and Camera Control button."
+    "title_zh": "iPhone Duo 新增人脸解锁",
+    "content_zh": "爱范儿实测，苹果在今天推送的 iOS 27 开发者预览版为 iPhone Duo 新增了两项功能：合盖时可以用外屏摄像头刷脸解锁，从展开状态合上手机则可以直接锁屏。\n\n刷脸解锁默认关闭，用户需要手动开启、录入人脸，并先用 Touch ID 或密码解锁一次。\n\n当前测试版中，设备 45 分钟未使用后，需要再次验证指纹或密码。Apple Pay、查看密码和需要生物识别的 App 仍需 Touch ID 或密码。\n\n外屏摄像头在识别时不会主动补光。在室内氛围灯或路灯下可以识别，完全黑暗时则很难解锁。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874555378-1.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "iOS 27 Preview Adds Cover Screen Face Unlock to iPhone Duo",
+    "content_en": "Apple’s latest iOS 27 developer preview introduces two notable features for the iPhone Duo: cover screen Face Unlock when folded and automatic screen locking upon closing the device.\n\nFace Unlock is disabled by default and requires initial setup via Touch ID or passcode. For security, the system reverts to requiring fingerprint or passcode verification after 45 minutes of inactivity. Sensitive functions like Apple Pay and app authentication still strictly rely on Touch ID or a passcode.\n\nEarly testing shows the cover camera relies entirely on ambient light for recognition. While it performs well under standard indoor or street lighting, it struggles in total darkness due to the lack of dedicated fill light."
   },
   {
-    "title_zh": "余承东：华为大折叠已成千万人主力机，Mate X8 真机亮相",
-    "content_zh": "11 月 15 日，华为终端 BG 董事长余承东在一段与老用户交流的视频里展示了 Mate X8。他说，华为 Mate X 系列已走过第八年，大折叠已成为千万用户的主力机。\n\n视频里的浅紫色新机采用圆形后摄模组。余承东称，Mate X8 在屏幕、拍照和性能上会有新的升级。华为终端当天也发布了系列回顾，梳理了从初代鹰翼铰链到后来的内屏抗冲击和原色影像等历代改动。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786605228-2-scaled.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Huawei Teases Mate X8 as Foldable Series Reaches Tens of Millions of Users",
-    "content_en": "Huawei Terminal BG Chairman Richard Yu unveiled the upcoming Mate X8 during a video interaction with long-time users, marking eight years since the debut of Huawei's foldable smartphone series. Yu highlighted that Huawei’s large-format foldables have now become the primary daily device for tens of millions of users.\n\nThe previewed Mate X8 features a light purple finish and a circular rear camera module. Yu promised comprehensive upgrades across the display, camera system, and overall performance.\n\nAlongside the preview, Huawei released a retrospective video detailing key technological milestones across the series, from the original Falcon Wing hinge to advancements in inner-screen impact resistance and color-accurate imaging."
+    "title_zh": "Sam Altman：没有黄仁勋，AI 行业仍能继续发展",
+    "content_zh": "据 TechCrunch 报道，11 月 16 日，OpenAI CEO Sam Altman 在 Semafor 举办的「Silicon Valley &amp; The World」活动上首次公开谈及黄仁勋辞去英伟达 CEO 一事。\n\n他认为，尽管黄仁勋对 AI 行业的发展至关重要，但即使没有他的领导，AI 行业仍能继续发展。\n\nAltman 表示，目前 AI 市场需求旺盛，相关收入和需求都在快速增长，因此他相信整个行业不会受到太大影响。\n\n不过，他也强调，黄仁勋凭借非凡的雄心推动了行业发展，很难想象没有黄仁勋及其创办的英伟达，AI 革命会是什么样子。\n\n谈及黄仁勋是否应该重返英伟达，Altman 则表示，自己对事件了解不够，无法作出判断。\n\n他还称黄仁勋一直是自己心目中的英雄，但「英雄也有缺点」，并提起自己在 2023 年遭 OpenAI 董事会罢免、随后重新出任 CEO 的经历，对黄仁勋目前的处境表示同情。\n\n与此同时，据 CNBC 和 CBS News 援引知情人士消息，英伟达董事会目前并未考虑让黄仁勋重返公司。\n\n董事会仍将重点放在针对黄仁勋的调查上，即使已有超过 18 万人联署支持其回归，董事会也无意让他重新担任 CEO 或其他职务。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874560899-2.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Sam Altman Weighs In on Jensen Huang's Nvidia Departure, Says AI Industry Will Keep Growing",
+    "content_en": "OpenAI CEO Sam Altman addressed Jensen Huang’s departure from Nvidia during Semafor’s \"Silicon Valley & The World\" event on November 16. While acknowledging Huang's pivotal role in driving the AI revolution, Altman expressed confidence that the broader AI industry will continue to thrive due to surging demand and revenue.\n\nReferring to Huang as a personal hero, Altman drew parallels to his own temporary removal from OpenAI in 2023, remarking that \"heroes have flaws.\" However, he declined to speculate on whether Huang should return, citing a lack of insider context.\n\nMeanwhile, reports from CNBC and CBS News indicate that Nvidia’s board is currently not considering bringing Huang back. Despite a petition signed by over 180,000 supporters, the board remains focused on an ongoing internal investigation and has no intention of reinstating him."
   },
   {
-    "title_zh": "黄仁勋复职请愿签名超过 16 万，贝森特建议英伟达从外部选接班人",
-    "content_zh": "呼吁英伟达恢复黄仁勋首席执行官职务的公开信，截至发稿时，在发起方网站显示获得超过 16 万个签名。公开信要求董事会在独立调查期间恢复黄仁勋的职务。\n\n《金融时报》援引知情人士称，黄仁勋或考虑重新出任 CEO，已与亲信讨论回归的可能。美国财政部长斯科特·贝森特同日在福克斯新闻节目中建议董事会从公司外部寻找继任者，并要求英伟达说明其对芯片出口限制的合规情况。\n\n英伟达 11 月 12 日宣布黄仁勋辞去总裁、首席执行官和董事职务，由首席财务官科莱特·克雷斯兼任临时首席执行官。董事会将寻找正式继任者。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786614695-3.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Over 160,000 Sign Petition for Jensen Huang's Return as Nvidia Board Eyes Successor",
-    "content_en": "An online petition urging Nvidia’s board of directors to reinstate Jensen Huang as CEO during an ongoing independent investigation has surpassed 160,000 signatures. According to sources cited by the *Financial Times*, Huang is considering a return and has discussed the possibility with close associates.\n\nMeanwhile, U.S. Treasury Secretary Scott Bessent suggested during a Fox News interview that Nvidia’s board look outside the company for a permanent successor. Bessent also called on Nvidia to clarify its compliance with U.S. chip export restrictions.\n\nFollowing Huang's departure on November 12 from his roles as president, CEO, and board member, Chief Financial Officer Colette Kress assumed the role of interim CEO while the board searches for a permanent replacement."
+    "title_zh": "华为 Mate X8 定档 11 月 24 日发布",
+    "content_zh": "华为公布 Mate X8 及全场景新品发布会时间，活动将于 11 月 24 日 14:30 举行。届时，华为将带来新一代大折叠屏手机 Mate X8。\n\n华为在这次预热中展示了 Mate X8 背面的圆形相机模组和编织纹理。发布会海报以紫色机身为主，先展示了手机展开前的背部设计。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874563457-3.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Huawei Sets November 24 Launch Event for Foldable Flagship Mate X8",
+    "content_en": "Huawei has officially announced its upcoming launch event scheduled for November 24 at 14:30 (GMT+8). The highlight of the showcase will be the company’s next-generation foldable smartphone, the Mate X8, alongside a new lineup of ecosystem products.\n\nOfficial teasers reveal key design details of the Mate X8, including a prominent circular camera module, a distinctive woven texture on the rear panel, and a hero purple colorway."
   },
   {
-    "title_zh": "苹果 HomeView 发售，首批实测遇到语音和账户切换问题",
-    "content_zh": "苹果的智能家居屏 HomeView 已于 11 月 13 日在美国等市场发售。New Things 的一周实测中，HomeView 认出了使用者，屏幕也能操作门锁和车库门，但 Siri AI 无法用语音完成同样的操作。苹果向该媒体表示，计划在 12 月的软件更新中，向通过设备识别的用户开放这项语音操作。\n\nTom’s Guide 在发售后的评测复盘中也提到，测试时 HomeView 上的 Siri 会和家里 iPhone 上的 Siri 同时响应。苹果在产品资料中说明，HomeView 用人脸和声音识别提供个人日程等内容，设置设备和多人使用需要兼容的 iPhone 或 iPad。\n\nThe Verge 在家庭实测中发现，设备有时会在认出另一名家庭成员后，继续显示上一位使用者的短信。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786620387-4.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Early Apple HomeView Reviews Highlight Voice Control and Account Switching Flaws",
-    "content_en": "Apple's new smart home display, the HomeView, hit US shelves on November 13, but early hands-on reviews reveal notable software glitches around voice commands and multi-user switching.\n\nIn a one-week test by *New Things*, the HomeView recognized the user and allowed manual screen control of door locks and garage doors, but Siri failed to execute the same tasks via voice. Apple told the outlet it plans to address this in a December software update, granting voice controls to recognized users.\n\nOther tech publications raised additional concerns. *Tom’s Guide* reported that Siri on the HomeView frequently triggered simultaneously with Siri on nearby iPhones. Meanwhile, *The Verge* observed that the device occasionally continued displaying the previous user's text messages even after recognizing a different family member."
+    "title_zh": "算力吃紧，DeepSeek 限制 App 和网页端对话",
+    "content_zh": "昨天，DeepSeek 对 App/网页版的长对话进行了限额使用。\n\n多名用户在 DeepSeek 的 App 或网页端收到提示，因算力不足，超过 7 天未使用的长对话无法继续。用户还反馈，单次输入的文字上限缩至约 4 万字。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874581539-7.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "DeepSeek Restricts Chat Features Amid Computing Power Shortage",
+    "content_en": "AI startup DeepSeek has imposed new usage limits on its app and web platforms, citing a shortage of computing resources.\n\nUnder the new restrictions, long conversations inactive for over seven days can no longer be resumed. Additionally, users report that the maximum input limit per prompt has been reduced to approximately 40,000 characters."
   },
   {
-    "title_zh": "SpaceX 首次用发射塔接住从轨道返回的星舰飞船",
-    "content_zh": "北京时间 11 月 15 日凌晨，SpaceX 的星舰飞船从近地轨道返回，在得克萨斯州星际基地由发射塔的机械臂接住。这是 SpaceX 第一次用发射塔接住从轨道返回的星舰上级飞船。\n\n据美联社报道，这次试飞历时约 22 小时。星舰第 15 次试飞中，飞船与超重型助推器分离后进入轨道，部署了 26 颗第三代星链卫星，绕地球飞行 14 圈后返回发射场。\n\n同一次试飞原定回收两个级段。SpaceX 称，超重型助推器返航时发动机提前停止工作，制导系统随后取消返场回收，助推器改道至墨西哥湾并爆炸。工程团队仍在调查发动机提前停机的原因。\n\n🔗 相关阅读：马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786622853-5.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "SpaceX Catches Returning Starship Spacecraft with Launch Tower Arms for the First Time",
-    "content_en": "SpaceX achieved another aerospace milestone early on November 15 (Beijing Time) by successfully catching its Starship upper stage using the launch tower's mechanical arms at Starbase, Texas, following its return from low-Earth orbit. This marks the first time SpaceX has caught the upper-stage spacecraft upon orbital re-entry.\n\nDuring the 22-hour mission—Starship’s 15th test flight—the spacecraft separated from the Super Heavy booster, entered orbit, deployed 26 third-generation Starlink satellites, and completed 14 Earth orbits before returning to the launch site.\n\nHowever, the dual-recovery goal was not fully achieved. SpaceX revealed that the Super Heavy booster experienced a premature engine shutdown during its return, prompting the guidance system to abort the tower catch. The booster was diverted to the Gulf of Mexico, where it exploded. Engineering teams are currently investigating the cause of the engine shutdown."
-  },
-  {
-    "title_zh": "微软服务故障持续超 30 小时，官方宣布恢复",
-    "content_zh": "北京时间 11 月 14 日中午，微软在服务健康记录中将 Microsoft 365 和 Exchange Online 的两项故障标记为已恢复。当天上午的更新中，微软仍在跟踪此前积压的邮件，以及依赖邮件服务的其他功能的运行状态。\n\n本次故障一度影响 Outlook 网页和桌面版访问邮箱，部分邮件投递延迟。与 Exchange Online 相连的功能也受影响，例如在 Teams 中安排会议、发出邀请，以及 Copilot 访问工作邮件、日历和文件。\n\n微软初步认定，故障源于此前一次网络容量升级留下的问题，在最近一次网络变更后暴露。微软称，将在两个工作日内提供初步事故报告，并在五个工作日内提供最终报告。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786624262-6.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Microsoft Resolves Major 30-Hour Outage Affecting Microsoft 365 and Outlook",
-    "content_en": "Microsoft confirmed around noon on November 14 (Beijing Time) that services for Microsoft 365 and Exchange Online have been fully restored, bringing an end to an outage that lasted over 30 hours.\n\nThe disruption severely impacted both web and desktop versions of Outlook, delaying email delivery and disrupting connected services. Users faced issues scheduling meetings or sending invites in Microsoft Teams, while Copilot was temporarily unable to access work emails, calendars, and documents.\n\nAccording to Microsoft's preliminary investigation, the incident stemmed from an issue lingering from a prior network capacity upgrade, which was exposed during a recent network change. The company plans to release a preliminary post-incident report within two business days and a final analysis within five."
-  },
-  {
-    "title_zh": "三季度国内「闺蜜机」销量降至 5.4 万台，线下占比上升",
-    "content_zh": "洛图科技发布的季度报告显示，2026 年第三季度，国内移动智慧屏（俗称「闺蜜机」）全渠道销量为 5.4 万台，同比下降 22.9%。线下渠道占当季销量的 26.3%，比去年同期增加 3.3 个百分点。\n\n线上渠道里，百度以 44.0% 的销量份额排在第一，海信、小米、KTC 和创维紧随其后。洛图科技发现，三季度 4K、长续航等规格较高的机型成交占比有所上升。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786627538-7.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "China's 'Companion Screen' Sales Drop 22.9% in Q3 as Offline Share Rises",
-    "content_en": "China's omni-channel sales of mobile smart screens—popularly known as \"companion screens\"—fell 22.9% year-on-year to 54,000 units in the third quarter, according to a market report from RUNTO Technology. Despite the total volume decline, the offline channel's share grew by 3.3 percentage points from a year earlier, accounting for 26.3% of total sales.\n\nIn the online market, Baidu maintained a dominant lead with a 44.0% share of sales volume, followed by Hisense, Xiaomi, KTC, and Skyworth. RUNTO also highlighted a growing consumer trend toward higher-end models featuring 4K resolution and extended battery life."
-  },
-  {
-    "title_zh": "三季度全球 PC 处理器出货量同比下降 6.5%，服务器走高",
-    "content_zh": "研究机构 Jon Peddie Research 公布，2026 年第三季度全球 PC 客户端处理器出货量为 6080 万颗，同比下降 6.5%，环比下降 3.4%。其中桌面处理器同比下降 13%，笔记本处理器下降 4%。\n\n同期服务器处理器出货量由去年同期的 659 万颗升至 813 万颗。Jon Peddie Research 称，PC 厂商控制库存和 DIY 渠道需求偏弱拖累了客户端市场，AI 相关需求则支撑了服务器出货。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786631719-8.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Global PC Processor Shipments Fall 6.5% in Q3 as AI Drives Server Chip Growth",
-    "content_en": "Global shipments of PC client processors fell 6.5% year-on-year and 3.4% quarter-on-quarter to 60.8 million units in the third quarter, according to data from Jon Peddie Research. The client segment was dragged down by a 13% decline in desktop processor shipments and a 4% drop in notebook processors.\n\nConversely, server processor shipments surged from 6.59 million units in the same period last year to 8.13 million units. Analysts noted that inventory adjustments by PC makers and weak DIY demand softened the client market, while robust AI-driven demand significantly boosted server chip shipments."
-  },
-  {
-    "title_zh": "SK 集团要求各子公司在 AI 业务中寻找新角色",
-    "content_zh": "SK 集团 11 月 15 日披露，集团会长崔泰源在韩国利川举行的首席执行官研讨会上，要求各子公司在现有业务之外寻找新的 AI 业务机会。会议在 11 月 12 日至 14 日举行，有约 50 名集团和子公司高管参加。\n\n崔泰源设想，由半导体业务带动 AI 数据中心建设，再由数据中心拉动能源和 AI 服务需求。他还提出，各公司应与外部伙伴合作，加快补足自身能力。与会高管在会上将 AI 半导体、基础设施和能源列为三个重点方向。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786632582-9.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "SK Group Urges Subsidiaries to Forge New Roles in AI and Infrastructure",
-    "content_en": "SK Group Chairman Chey Tae-won instructed group subsidiaries to explore new artificial intelligence opportunities beyond their existing core businesses during a three-day CEO seminar in Icheon, South Korea. The event brought together roughly 50 top executives from across the conglomerate.\n\nChey outlined a interconnected growth model where the group's semiconductor segment powers the construction of AI data centers, which in turn drives demand for SK's energy solutions and AI services. To speed up execution, he urged affiliates to actively collaborate with external partners, with executives agreeing to prioritize AI semiconductors, infrastructure, and energy as their three core pillars."
-  },
-  {
-    "title_zh": "汽车改装拟分两类管理，改制动和悬架需车企授权",
-    "content_zh": "工信部就《汽车改装管理办法》公开征求意见，拟对非营运小型、微型载客汽车的改装实行分类管理。首批清单拟列入 43 项改装项目，意见反馈截至 12 月 12 日。\n\n车身颜色、内外饰等不涉及车辆安全和环保性能的一类改装，车主可自行实施，也可委托改装企业。制动系统、悬架等涉及安全或环保性能的二类改装，拟由获得整车生产企业或符合条件的进口汽车供应企业授权的改装企业实施。\n\n首批清单中，一类项目 29 项，二类项目 14 项，其中 16 项需要办理变更登记或备案。对二类改装，征求意见稿还要求授权车企承担改装后车辆的质量安全主体责任，并按「一车一档」保存改装资料。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786634689-10.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "China Proposes Two-Tier Car Modification Rules Requiring Automaker Approval for Safety Upgrades",
-    "content_en": "China’s Ministry of Industry and Information Technology (MIIT) has released draft regulations proposing a two-tier management system for passenger vehicle modifications. The public consultation period for the proposed policy, which outlines an initial list of 43 modification items, runs through December 12.\n\nUnder the draft rules, Class 1 covers 29 cosmetic and non-critical items—such as paint color and interior styling—that do not impact vehicle safety or environmental performance. Owners may carry out these changes independently or through third-party shops.\n\nClass 2 covers 14 critical modifications affecting safety or environmental standards, including brake and suspension system upgrades. These must be performed by shops officially authorized by vehicle manufacturers or qualified importers. Automakers will be required to assume primary quality and safety liability for authorized modifications and maintain dedicated records for each vehicle. A total of 16 items across both classes will require formal registration updates."
-  },
-  {
-    "title_zh": "税务师考试出现 AI 作弊，韩国宣布排查今年全部国家资格考试",
-    "content_zh": "韩国雇佣劳动部 11 月 15 日宣布，将立即排查 2026 年举行的所有国家资格考试，查找是否有与第 63 届税务师考试相似的 AI 作弊情形。当天，税务师考试成绩排名第一的考生公开承认利用 AI 作弊。\n\n雇佣劳动部和韩国产业人力公团表示，将推进涉事考生的考试成绩作废、取消合格资格及五年内限制报考，并配合警方调查。产业人力公团还将开设线上和线下举报渠道。\n\n两家机构将组建联合工作组，在年内提出综合防作弊方案。已公布的措施包括加强监考人员识别智能设备的培训、增派专职监考人员，以及引入正在开发的无线电信号探测设备。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786637654-11.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "South Korea Orders Audit of National Licensing Exams After Top Tax Candidate Admits AI Cheating",
-    "content_en": "South Korea’s Ministry of Employment and Labor announced a nationwide audit of all national qualification exams scheduled for 2026, following a high-profile cheating scandal. The decision came after the top scorer in the 63rd national tax accountant examination publicly confessed to using artificial intelligence during the test.\n\nIn response, the ministry and the Human Resources Development Service of Korea (HRD Korea) are moving to invalidate the candidate’s score, revoke their qualification, impose a five-year exam ban, and cooperate with a police investigation. HRD Korea is also opening online and offline channels for reporting exam fraud.\n\nTo prevent future occurrences, authorities are forming a joint task force to introduce a comprehensive anti-cheating plan by the end of the year. Key measures include enhanced proctor training to identify smart devices, deploying additional invigilators, and implementing radio signal detection equipment currently in development."
-  },
-  {
-    "title_zh": "ULA 火神火箭升空约 10 分钟后出现异常，40 颗亚马逊卫星未能入轨",
-    "content_zh": "当地时间 11 月 15 日，美国联合发射联盟（ULA）的火神火箭从佛罗里达州卡纳维拉尔角升空。ULA 在发射后通报称，火箭在飞行约 10 分钟时出现异常，未能将搭载的 40 颗 Amazon Leo 宽带卫星送入预定轨道。\n\n这是火神火箭首次执行 Amazon Leo 发射任务。亚马逊此前的 Leo 任务使用了 ULA 的宇宙神 5 号火箭。本次火神火箭搭载了为近地轨道任务优化的半人马座上面级，原计划一次把这批卫星送入近地轨道。ULA 表示正分析飞行数据。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786643035-12.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "ULA Vulcan Rocket Suffers In-Flight Anomaly, Failing to Orbit 40 Amazon Satellites",
-    "content_en": "United Launch Alliance (ULA) suffered a launch failure on November 15 after its Vulcan rocket encountered an anomaly roughly 10 minutes after liftoff from Cape Canaveral, Florida. As a result, the rocket failed to deliver its payload of 40 Amazon Leo broadband satellites into their intended orbit.\n\nThe launch marked the first time ULA's Vulcan rocket was deployed for Amazon's Leo constellation, which had previously utilized Atlas V rockets. The mission featured a Centaur upper stage optimized for low Earth orbit operations, designed to deploy the full satellite batch in a single run.\n\nULA confirmed that engineers have begun analyzing flight data to investigate the root cause of the failure."
-  },
-  {
-    "title_zh": "💡 Dario Amodei：算力预测是 Anthropic 面临的最深层商业困境",
-    "content_zh": "据《商业内幕》报道，Anthropic CEO Dario Amodei 近日在与摩根大通 CEO Jamie Dimon 的直播对谈中表示，围绕算力的「巨大不确定性」是公司目前面临的「最深层商业困境」。\n\nAnthropic 正冲刺首次公开募股（IPO），目标估值 1.4 万亿美元，计划于下周三定价、下周四挂牌交易。招股书显示，公司已承诺投入约 9000 亿美元用于基础设施建设，其中约一半资金将于 2030 年前到期。Amodei 坦言，算力采购面临两难：买多会导致成本远超营收，买少则会造成客户算力断供及研发受阻。\n\n为应对这一风险，Anthropic 将结合 Claude Code 等产品的增长势头预判需求，并依托两大「缓冲机制」：一是较高的单位算力毛利率，二是截至 9 月 30 日超过 950 亿美元的现金及 360 亿美元的短期投资。\n\n在具体策略上，公司倾向于提前锁定「相对较少」的算力以保持灵活性，若实际需求超出预期，则动用充裕的现金在现货市场即时采购。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786647983-13.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Compute Forecasting Poses Anthropic’s Greatest Business Challenge, Says CEO Dario Amodei",
-    "content_en": "Anthropic CEO Dario Amodei identified the massive uncertainty surrounding compute capacity as the company's most profound business challenge during a recent livestreamed conversation with JPMorgan Chase CEO Jamie Dimon.\n\nAddressing the company's ambitious infrastructure commitments—totaling approximately $900 billion, with half due before 2030—Amodei outlined the operational dilemma. Purchasing excess compute risks sending costs soaring past revenue, while under-purchasing could trigger compute supply disruptions for clients and hamper research and development.\n\nTo mitigate these risks, Anthropic plans to lock in a relatively modest baseline of compute to maintain operational flexibility. If demand spikes beyond expectations, the company will leverage its strong balance sheet—supported by over $95 billion in cash and $36 billion in short-term investments as of late September—to purchase additional compute on the spot market as needed."
-  },
-  {
-    "title_zh": "中国商飞 19 座电动飞机 CE-25A 完成首次有人驾驶飞行",
-    "content_zh": "11 月 14 日，中国商飞研制的 CE-25A 电动商用飞机在山东滨州完成首次有人驾驶智能飞行。新华社从中国商飞获悉，本次试飞搭载两名飞行员和一名试飞工程师，各项指标符合预期。今年 2 月，该机已完成无人驾驶智能首飞。\n\nCE-25A 是中国商飞研制的首款电动商用飞机，面向城市间商业飞行。它的动力来自机翼上的分布式电涵道推进系统，可搭载 19 名乘客。按公布的参数，飞机最大起飞重量为 10 吨，巡航速度为每小时 300 公里，航程为 400 公里。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786650089-14.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "COMAC’s 19-Seat Electric Aircraft CE-25A Completes First Manned Test Flight",
-    "content_en": "Commercial Aircraft Corporation of China (COMAC) has successfully completed the first manned intelligent test flight of its CE-25A electric commercial aircraft in Binzhou, Shandong Province. According to Xinhua News Agency, the aircraft carried two pilots and a flight test engineer, with all performance metrics meeting expectations following its initial uncrewed flight in February.\n\nDesigned for regional intercity travel, the CE-25A is COMAC’s first commercial electric aircraft. It relies on a wing-mounted distributed electric ducted fan propulsion system and can seat up to 19 passengers.\n\nThe aircraft features a maximum takeoff weight of 10 tonnes, a cruising speed of 300 km/h, and an operational range of 400 kilometers."
-  },
-  {
-    "title_zh": "郑州日产 Z9 插混皮卡新增悦享版，14.99 万元起",
-    "content_zh": "郑州日产 11 月 14 日推出 Z9 新能源皮卡悦享版，售价 14.99 万元起。新版本采用插电式混合动力，NEDC 工况纯电续航为 110 公里，可在纯电、混动、性能和雪地四种模式之间切换。\n\n据汽车之家报道，悦享版的混动系统综合功率为 240kW。货厢容积为 1165 升，后排座椅可翻折，后车门最大可开启 90 度。车机支持远程控车、预约充电和插枪保温。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786651274-15.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Zhengzhou Nissan Launches Z9 PHEV Pickup Yuexiang Edition Starting at 149,900 Yuan",
-    "content_en": "Zhengzhou Nissan has officially launched a new variant of its Z9 new energy pickup—the Yuexiang Edition—starting at 149,900 yuan. Powered by a plug-in hybrid electric (PHEV) system delivering a combined output of 240 kW, the vehicle offers an NEDC pure electric range of 110 kilometers and supports four driving modes: Pure EV, Hybrid, Performance, and Snow.\n\nDesigned for practical utility, the pickup features a cargo bed capacity of 1,165 liters, fold-flat rear seats, and rear doors that open up to 90 degrees for easier cabin access.\n\nOn the tech front, the Z9's infotainment system supports remote vehicle control, scheduled charging, and plug-in battery thermal preconditioning."
-  },
-  {
-    "title_zh": "拳头公布《英雄联盟：曙光》，将换新客户端和召唤师峡谷",
-    "content_zh": "《英雄联盟》的客户端和召唤师峡谷都要更新。北京时间 11 月 15 日，拳头游戏在全球总决赛期间放出《英雄联盟：曙光》的首支预告，将这次面向现有游戏的大改版安排在 2027 年。\n\n《英雄联盟》工作室负责人 Meddler 和执行制作人 Pabro 介绍了改版方向。新客户端将采用更新的界面，召唤师峡谷将重做视觉表现，玩法也会调整。拳头已在《曙光》专题页开放邮件订阅，将于 2027 年 1 月公开更多改版细节。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786654270-16.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Riot Games Announces 'League of Legends: Dawn' Overhaul Featuring New Client and Map Visuals",
-    "content_en": "Riot Games has unveiled the first teaser for *League of Legends: Dawn*, a major overhaul of the flagship title scheduled for release in 2027. Announced on November 15 during the League of Legends World Championship, the initiative represents a comprehensive update to the existing game.\n\nAccording to League Studio Head Meddler and Executive Producer Pabro, the overhaul will introduce a modernized client with an updated interface. Additionally, Summoner’s Rift will undergo visual remakes alongside gameplay adjustments.\n\nRiot has opened email subscriptions on the official *Dawn* page, with further details expected in January 2027."
-  },
-  {
-    "title_zh": "Purism 公布 RISC-V 手机 Librem 5 v2，11 月 17 日公开众筹",
-    "content_zh": "Purism 公布了 Linux 手机 Librem 5 v2 的众筹方案。这款手机搭载进迭时空的八核 RISC-V 芯片 K1，运行 PureOS。单机众筹价为 1599 美元，活动将于 11 月 17 日面向公众开放，计划持续至 2027 年 2 月 15 日。\n\nLibrem 5 v2 采用 5.7 英寸屏幕，配备 8GB 内存和 128GB 存储。电池可拆卸，蜂窝和无线网络采用独立模块，用户可以用机身开关断开蜂窝网络、无线网络或摄像头和麦克风，也可以从存储卡启动系统。\n\n11 月 12 日至 16 日，订阅 Purism 邮件的用户可以先行参与。项目目标为 2500 部，官方时间表分列开发板、测试机和零售机，预计 2028 年交付。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786656363-17.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Purism Unveils RISC-V-Powered Librem 5 v2 Linux Phone Ahead of Crowdfunding Launch",
-    "content_en": "Purism has detailed its upcoming crowdfunding campaign for the Librem 5 v2, a Linux smartphone powered by SpacemiT’s octa-core RISC-V K1 chip and running PureOS. Priced at $1,599, the public campaign will run from November 17 through February 15, 2027, with early access available for email subscribers from November 12 to 16.\n\nThe Librem 5 v2 features a 5.7-inch display, 8GB of RAM, and 128GB of storage, alongside a removable battery and standalone wireless modules. For enhanced privacy, the device includes hardware kill switches for cellular networks, Wi-Fi, and camera/microphone components, as well as support for booting from a microSD card.\n\nPurism aims to reach a campaign target of 2,500 units, with retail deliveries slated for 2028 following preliminary development and test unit releases."
-  },
-  {
-    "title_zh": "谋先飞发布机器人仿真引擎 MotrixSim 1.0",
-    "content_zh": "中国团队谋先飞（Motphys）发布物理仿真引擎 MotrixSim 1.0，面向机器人训练和合成数据生成。引擎核心以 Rust 编写，支持在 CPU 上并行运行多个仿真环境，GPU 加速由商业版提供。\n\n这套引擎可以模拟物体接触和摩擦，同时输出渲染画面和传感器数据。开发者可通过 Python 接口载入机器人模型、发送控制指令并读取每一步仿真的状态。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786657562-18.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Motphys Launches MotrixSim 1.0 Physics Engine for Robotics and Synthetic Data",
-    "content_en": "Chinese technology team Motphys has launched MotrixSim 1.0, a physics simulation engine tailored for robotics training and synthetic data generation. Built on a Rust-based core, the engine supports running multiple parallel simulation environments on CPUs, while GPU acceleration is supported in its commercial edition.\n\nMotrixSim 1.0 can simulate complex object contacts and friction while outputting both rendered visuals and sensor data. Developers can integrate robot models, issue control commands, and query step-by-step simulation states using a Python API."
-  },
-  {
-    "title_zh": "《彩虹六号：围攻》新赛季 12 月 1 日上线，排位增设单排和双排队列",
-    "content_zh": "育碧在大阪公布了《彩虹六号：围攻》新赛季「庇护行动」，12 月 1 日上线。新赛季把排位分为单排／双排和弹性队列，两边各自记录段位。单排玩家只会进入单排／双排队列，双排则可能因地区和匹配时段被分到弹性队列。\n\n育碧还重做了干员 Doc。他可以用新的装置远程治疗和救起倒地队友。新赛季内容将于 11 月 16 日先在测试服开放。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786659714-19.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Rainbow Six Siege Unveils 'Operation Haven' with Solo/Duo Ranked Queues and Doc Rework",
-    "content_en": "Ubisoft has officially announced *Operation Haven*, the upcoming season for *Rainbow Six Siege*, set to launch on December 1 following a Test Server trial starting November 16.\n\nThe new season introduces a revamped Ranked system featuring separate Solo/Duo and Flex queues, each maintaining independent skill ranks. Solo players will strictly match within the Solo/Duo pool, while Duo players may occasionally merge into the Flex queue depending on region and matchmaking times.\n\nAdditionally, the operator Doc receives a major rework, equipping him with a new device to remotely heal and revive downed teammates."
-  },
-  {
-    "title_zh": "华为云上线盘古 2.1 Pro，提供 512K 上下文和工具调用",
-    "content_zh": "华为云 MaaS 平台的发布公告显示，openPangu-2.1-Pro 于 11 月 15 日上线，面向西南－贵阳一区域提供预置服务，开发者可通过 API 接入。新版本支持 512K 上下文、可开关的深度思考、函数调用、前缀续写和前缀缓存。\n\n华为云此前介绍，这一版本着重改进用于鸿蒙原生应用开发的 ArkTS 代码生成，并适配昇腾算子开发流程。按模型列表，2.1 Pro 和上一版 2.0 Pro 的上下文上限均为 512K，最大输出长度从 128K 提高到 384K。\n\n同一区域的 openPangu-2.0-Flash 和 openPangu-2.0-Pro 服务定于北京时间 11 月 30 日零时下线。华为云在公告中分别建议改用 DeepSeek-V4.1-Flash-1017 和 GLM-5.3。",
+    "title_zh": "腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业",
+    "content_zh": "11 月 16 日，腾讯文化公开了腾讯 28 周年 LinkTime 的现场笔记。腾讯管理层在会上说，核心业务眼下看起来稳固，AI 的进展已经足以改变原有业务的做法，各团队都需要重新考虑怎样用 AI 提高效率和创造力。\n\n管理层提出，现有业务要继续升级，同时抽调人手探索新的业务，组织也要更扁平，让更小的团队有机会承担完整项目。笔记还提出，要用 AI 重新设计已有的管理流程和做事方式，让能交付成果的同事得到更多机会。\n\n谈到算力投入时，管理层认为，AI 基建仍在早期，错过投入时机可能失去参与机会。腾讯将同时考量长期回报和投入产出比，希望投入既能催生 AI 原生业务，也能让现有业务获得新的增长。\n\n腾讯管理层还用「金字塔」描述公司的 AI 布局。模型迭代负责降低智能成本，应用端有不同分工，小微面向个人助理，元宝侧重资讯和决策，WorkBuddy 负责执行工作任务。管理层把眼下的应用阶段比作早期用电照明，认为企业接下来要探索的是如何把智能工具用进各行业的生产环节。",
     "image_url": "",
-    "date": "2026-11-16 07:55",
-    "title_en": "Huawei Cloud Debuts openPangu-2.1-Pro with 512K Context and Expanded Output Capacity",
-    "content_en": "Huawei Cloud launched openPangu-2.1-Pro on November 15, making pre-configured API services available in its Southwest-Guiyang1 region. The updated model features a 512K context window, toggleable deep-thinking mode, function calling, prefix continuation, and prefix caching.\n\nThis release specifically enhances ArkTS code generation for native HarmonyOS app development while optimizing the Ascend operator workflow. While retaining the 512K context capacity of the previous 2.0 Pro model, version 2.1 Pro significantly expands the maximum output length from 128K to 384K tokens.\n\nIn addition, Huawei Cloud announced that openPangu-2.0-Flash and openPangu-2.0-Pro will be retired on November 30 at midnight (UTC+8). The platform recommends migrating to DeepSeek-V4.1-Flash-1017 and GLM-5.3, respectively."
+    "date": "2026-11-17 08:18",
+    "title_en": "Tencent Calls on Core Teams to Reinvent Businesses Around AI",
+    "content_en": "During Tencent's 28th-anniversary event, management urged core business teams to leverage AI to drive efficiency and innovation, framing the initiative as a new entrepreneurial push. The company plans to flatten its organizational structure to allow smaller teams to lead end-to-end projects while using AI to redesign management workflows.\n\nAddressing infrastructure, management highlighted that AI compute investments remain in their early stages and warned that missing this window could result in lost market opportunities. Tencent aims to balance long-term returns with investment efficiency, fostering both AI-native applications and legacy business growth.\n\nTencent also outlined its strategic 'pyramid' AI framework, where model iterations reduce intelligence costs while specialized applications target specific use cases—such as Xiaowei for personal assistance, Yuanbao for information and decision-making, and WorkBuddy for task execution. Management compared the current AI landscape to the early adoption of electric lighting, noting that the key next step is integrating AI into industry-specific production workflows."
   },
   {
-    "title_zh": "喜茶与合味道联名，主题店开启杯面打卡活动",
-    "content_zh": "11 月 14 日起，喜茶与日清合味道的联名主题店开启打卡活动。按喜茶公布的规则，在主题店前台点一杯「生打椰拉面」，并在小红书带指定话题发帖，可领取一杯合味道杯面。\n\n联名饮品已于 11 月 13 日在全国门店上线。杯身借用了合味道的红白包装，杯内是椰子沙冰，芒果牛乳做成的拉面冻和水果玉米粒单独盛放，喝之前可以自己倒进杯里。两家还推出了小茶杯、冰箱贴和陶瓷拉面碗等周边。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786666854-20.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Heytea Teams Up with Nissin Cup Noodles for Playful Noodle-Inspired Slushie",
-    "content_en": "Popular Chinese tea chain Heytea has partnered with Nissin Cup Noodles for a quirky brand collaboration, launching themed pop-up activities on November 14. Customers at designated store locations can score a free cup of Nissin instant noodles by ordering the signature collab drink and posting on Xiaohongshu with designated hashtags.\n\nRolled out across nationwide stores on November 13, the limited-edition coconut slushie comes packaged in Nissin's iconic red-and-white cup design. It features DIY toppings served on the side—mango-milk jelly shaped like ramen noodles and sweet corn kernels—which customers pour into the drink before consuming.\n\nThe collaboration also introduces exclusive branded merchandise, including mini tea cups, fridge magnets, and ceramic ramen bowls."
+    "title_zh": "东南亚第三季度手机出货量下滑 36%，头部厂商中只有苹果增长",
+    "content_zh": "研究机构 Omdia 11 月 16 日发布报告称，今年第三季度东南亚智能手机出货量为 1650 万部，同比下降 36%。Omdia 将出货下滑与内存供应吃紧、元件成本上升联系起来。三星仍居第一，出货 370 万部，同比下降 20%。苹果在马来西亚和越南表现较强，出货同比增长 4%，是前五厂商中唯一增长的一家。\n\n越南是该季度东南亚唯一录得出货增长的市场。小米在越南的出货量同比增长 50%，首次成为当地出货量第一的品牌。同期，印度尼西亚、菲律宾、马来西亚和泰国的整体出货量分别同比下滑超过 30%。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874585887-8.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Southeast Asia Smartphone Shipments Drop 36% in Q3 as Apple Bucks Trend",
+    "content_en": "Smartphone shipments in Southeast Asia fell 36% year-over-year to 16.5 million units in the third quarter, according to research firm Omdia. The decline was largely attributed to tight memory supply and rising component costs.\n\nMarket leader Samsung retained its top position with 3.7 million units despite a 20% drop. Apple was the only top-five vendor to post growth, with shipments rising 4% year-over-year, bolstered by strong demand in Malaysia and Vietnam.\n\nVietnam was the region's only market to log overall shipment growth during the quarter. Xiaomi saw its shipments in Vietnam jump 50% year-over-year, claiming the top spot in the country for the first time. Conversely, shipments in Indonesia, the Philippines, Malaysia, and Thailand each plummeted by more than 30%."
   },
   {
-    "title_zh": "部分城市秋假连上周末，美团亲子门票预订量同比增 72%",
-    "content_zh": "部分城市把中小学秋假与周末连在一起，亲子套餐的预订量随之走高。美团 11 月 14 日披露，截至 13 日，游玩日期为 11 月 14 日至 15 日的「一大一小」「两大一小」等亲子门票预订量同比增长 72%，同期入住的亲子家庭房预订量同比增长 67%。\n\n乐园和动物园是热门去处，乐园占美团近期亲子相关玩法订单的 64%。若把出行日期拉长到 11 月 14 日至 20 日，亲子游景点预订排名前三的分别是北京环球度假区、上海迪士尼度假区和万岁山武侠城。同一时段的美团机票订单中，热门目的地前三是成都、北京和上海。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786671720-21.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Combined School Autumn Break Drives Surge in China's Family Travel Bookings",
-    "content_en": "As several Chinese cities align primary and middle school autumn breaks with weekends, family travel bookings have surged across the country. According to data released by Meituan on November 14, ticket bookings for family packages—such as \"one adult, one child\" or \"two adults, one child\"—for November 14–15 jumped 72% year-on-year, while family hotel room bookings grew by 67% over the same period.\n\nAmusement parks and zoos emerged as the top choices for family outings, with theme parks accounting for 64% of recent family-related travel orders on the platform. Looking at travel trends from November 14 to 20, the most popular attractions include Universal Beijing Resort, Shanghai Disney Resort, and Wansui Mountain Martial Arts City, while Chengdu, Beijing, and Shanghai led as the top flight destinations."
+    "title_zh": "百度第三季度营收降 1%，AI 云基础设施收入增长 94%",
+    "content_zh": "百度 11 月 16 日披露 2026 年第三季度业绩。集团营收为 308 亿元，同比下滑 1%，连续第六个季度同比下降。归母净利润为 13.95 亿元，上年同期为亏损。按非 GAAP 口径，摊薄后每股美国存托股份收益为 6.78 元。\n\n百度一般性业务收入同比恢复增长。分项看，在线营销服务收入同比下滑 22%，AI 云基础设施收入则同比增长 94%。按百度内部管理口径，核心 AI 业务收入本季占百度一般性业务收入的 53%。其中，公司将公有云算力需求上升列为 GPU 云收入增长的原因。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874589798-9.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Baidu Q3 Revenue Drops 1% as AI Cloud Infrastructure Surges 94%",
+    "content_en": "Baidu reported a 1% year-over-year revenue decline in the third quarter to 30.8 billion yuan, marking its sixth consecutive quarter of top-line contraction. Despite the revenue dip, the Chinese tech giant turned a profit, recording a net income attributable to shareholders of 1.395 billion yuan, compared to a loss in the prior-year period. Non-GAAP diluted earnings per ADS reached 6.78 yuan.\n\nThe company's performance highlights a significant shift in its business mix. Online marketing revenue fell 22% year-over-year, while AI cloud infrastructure revenue jumped 94%, fueled by growing public cloud compute demand and GPU cloud services. Core AI operations accounted for 53% of Baidu's general business revenue during the quarter."
   },
   {
-    "title_zh": "部分电动自行车 3C 证书暂停，广州、武汉有车主上牌受阻",
-    "content_zh": "据中国之声报道，广州、武汉有消费者买到电动自行车后，在上牌时才发现对应车型的 3C 认证证书已暂停。广州消费者温女士 10 月 21 日购车，提交的整车合格证一度通过审核。她取消原预约、重新申请时，系统提示车辆的 3C 证书已暂停。\n\n广州一处电动自行车登记服务点的工作人员表示，牌照登记会核验国家平台上的认证数据，服务点无法更改证书状态。中国之声还在武汉采访到遭遇类似问题的消费者。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786673138-22.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "E-Bike Buyers Face Registration Delays as 3C Certifications Are Suspended",
-    "content_en": "Electric bicycle buyers in Chinese cities including Guangzhou and Wuhan are encountering registration roadblocks after discovering that the 3C (China Compulsory Certification) certificates for their newly purchased vehicles have been suspended, according to a report by China National Radio.\n\nIn one instance, a Guangzhou buyer passed an initial certificate check after purchasing a bike on October 21, but was later flagged by the system when rescheduling her appointment because the vehicle's 3C status had changed to suspended. Local vehicle registration officials explained that license plate issuance automatically verifies data against the national certification platform, leaving local service centers unable to alter or override the certificate status. Similar cases have been reported in Wuhan."
+    "title_zh": "小鹏汽车第三季度营收增长 19.1%，预计四季度交付至少 16.9 万辆",
+    "content_zh": "小鹏汽车公布 2026 年第三季度业绩。期内交付 118390 辆，营收为 242.8 亿元，同比增长 19.1%。归属于普通股股东的净亏损为 8.7 亿元，较上年同期扩大，较第二季度收窄。\n\n第三季度，小鹏的汽车销售毛利率为 13.1%，环比上升 1 个百分点。公司将汽车销售收入增长归因于交付量增加，以及车型组合变化带来的平均售价提高。\n\n小鹏预计，第四季度交付量在 16.9 万至 17.4 万辆之间，营收为 304 亿元至 318 亿元。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874591998-10.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "XPeng Posts 19.1% Q3 Revenue Growth, Eyes Record Deliveries in Q4",
+    "content_en": "XPeng announced a 19.1% year-over-year revenue increase to 24.28 billion yuan for the third quarter, driven by 118,390 vehicle deliveries. Net loss attributable to ordinary shareholders stood at 870 million yuan, widening from the previous year but narrowing sequentially from the second quarter.\n\nThe electric vehicle maker's vehicle gross margin rose to 13.1%, up 1 percentage point quarter-over-quarter. XPeng attributed the margin improvement to higher delivery volumes and a favorable product mix that lifted average selling prices.\n\nLooking ahead, XPeng projects fourth-quarter deliveries to range between 169,000 and 174,000 units, with expected revenue of 30.4 billion to 31.8 billion yuan."
   },
   {
-    "title_zh": "BLG 连赢三局击败 Gen.G，首夺《英雄联盟》全球总决赛冠军",
-    "content_zh": "北京时间 11 月 15 日，来自 LPL 的 BLG 在纽约巴克莱中心以 3 比 1 击败韩国 LCK 赛区的 Gen.G，拿下队史首座《英雄联盟》全球总决赛冠军。\n\nGen.G 先拿下首局，BLG 随后连赢三局。赛事官方将决赛最有价值选手（FMVP）颁给 BLG 中单 Knight。BLG 上一次打进全球总决赛冠军战是在 2024 年，当时以 2 比 3 负于 T1。今年两队在半决赛重逢，BLG 以 3 比 1 晋级。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786676313-23.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "BLG Defeats Gen.G 3-1 to Claim First League of Legends World Championship",
-    "content_en": "China’s Bilibili Gaming (BLG) defeated South Korea’s Gen.G 3-1 at the Barclays Center in New York on November 15, securing their first-ever League of Legends World Championship title.\n\nAfter dropping the opening game, BLG rallied to win three consecutive matches to seal the victory. Mid-laner Knight was named the Finals Most Valuable Player (FMVP) for his outstanding performance. The victory comes after BLG's runner-up finish in 2024, where they lost 2-3 to T1 before defeating them 3-1 in this year's semifinals to reach the championship match."
+    "title_zh": "晶泰孵化的无界进化完成超 1 亿元 Pre-A 轮融资",
+    "content_zh": "据参与本轮投资的星连资本 11 月 16 日披露，无界进化已完成超 1 亿元 Pre-A 轮融资。星连资本、Prosperity7、华盖资本、华控基金和德同资本等联合投资，顺为资本、红杉中国和松禾资本追加投资。\n\n无界进化由晶泰科技孵化。这是该公司继今年 6 月完成天使轮融资后，半年内完成的第二轮融资。据 36 氪报道，公司将把新资金用于基础模型研发和扩大自动化实验设施，服务于药物研发。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874595146-11.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "XTalPi-Incubated Boundless Evolution Raises Over 100M Yuan in Pre-A Round",
+    "content_en": "Boundless Evolution, an AI drug discovery startup incubated by XTalPi, has secured over 100 million yuan in a Pre-A funding round, co-investor Starlink Capital revealed on November 16. The round attracted joint investments from Starlink Capital, Prosperity7, Huagai Capital, Huakong Fund, and Detong Capital, with additional backing from existing investors Shunwei Capital, Sequoia China, and Green Pine Capital.\n\nThis marks the company's second successful financing round in six months, following an angel round in June. Boundless Evolution plans to use the new funds to advance foundation model R&D and expand its automated laboratory infrastructure to accelerate drug discovery efforts."
   },
   {
-    "title_zh": "首届 AI 音乐奖揭晓，虚拟歌手 Xania Monet 获三项年度奖",
-    "content_zh": "当地时间 11 月 13 日，首届 AI 音乐奖在洛杉矶举行。路透社现场报道，虚拟歌手 Xania Monet 拿下年度 AI 艺人、年度 AI 歌曲和年度 AI 专辑三项大奖，获奖歌曲为 R&B 单曲《How Was I Supposed to Know?》。\n\nXania Monet 由词作者 Telisha「Nikki」Jones 创造。Jones 在现场介绍，歌词由她自己写，再用 AI 把词谱成歌。主办方 Sonic Intelligence Academy 还设置了最佳 AI 辅助歌曲和最佳人类与 AI 混合创作歌曲等奖项，由该机构认证的 AI 音乐创作者投票选出获奖者。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786679810-24.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Virtual Artist Xania Monet Dominates Inaugural AI Music Awards",
-    "content_en": "Virtual singer Xania Monet swept three top honors at the inaugural AI Music Awards in Los Angeles on November 13, securing AI Artist of the Year, AI Song of the Year, and AI Album of the Year for the R&B single *How Was I Supposed to Know?*.\n\nCreated by lyricist Telisha \"Nikki\" Jones, the project combines human-written lyrics with AI tools that compose the accompanying music and melody. Hosted by the Sonic Intelligence Academy, the awards recognize a spectrum of creative collaboration—from AI-assisted tracks to human-AI hybrids—with winners selected by academy-certified AI music creators."
+    "title_zh": "💡 博世中国区总裁：内存涨价，明年部分汽车成本最高增加 2.5 万元",
+    "content_zh": "第一财经 11 月 16 日报道，内存、电路板和电容等零部件涨价，正在推高车企成本，终端却仍要靠促销争取销量。一位头部车企副总经理算了一笔账：如果每辆车成本增加 5000 元，一家年销 30 万辆的车企，全年就要多支出 15 亿元。\n\n博世智能驾控中国区总裁吴永桥在 11 月 5 日的乌镇汽车夜话上表示，内存涨价给博世集团带来了不小的成本压力。谈到自己负责的中国区业务，他说「我晚上都睡不着觉」。\n\n按博世的测算，仅算内存、电路板和电容三项涨价，明年仅配基础 L2 辅助驾驶的燃油车，单车成本预计增加 2000 至 3000 元。辅助驾驶和座舱都采用高规格配置时，增量可达 2 万至 2.5 万元。\n\n吴永桥建议，短期按实际功能需求配置算力，少用冗余硬件。他举例，一段式端到端辅助驾驶模型用 200 TOPS 就可以取得不错的效果。长期则可把辅助驾驶、座舱、车载通信和蓝牙集成在一块电路板上，共用内存。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874597242-12.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Bosch Exec Warns Rising Component Costs Could Add Up to 25,000 RMB Per Vehicle Next Year",
+    "content_en": "Surging prices for core components—including memory chips, circuit boards, and capacitors—are placing heavy financial pressure on automakers already locked in aggressive market promotions.\n\nWu Yongqiao, President of Bosch Intelligent Driving and Control China, warned that these price hikes will significantly boost vehicle production costs next year. According to Bosch's estimates, basic L2-equipped gasoline vehicles will see per-unit costs rise by 2,000 to 3,000 RMB. For high-end models featuring advanced autonomous driving and smart cockpits, the cost increase could reach 20,000 to 25,000 RMB.\n\nTo mitigate these pressures, Wu suggested that carmakers configure computing power based on immediate functional needs rather than deploying redundant hardware in the short term. For long-term efficiency, he recommended integrating autonomous driving, cockpit systems, connectivity, and Bluetooth onto a single circuit board to share memory resources."
   },
   {
-    "title_zh": "欧洲电影奖公布提名，《祖国》以 11 项领跑",
-    "content_zh": "欧洲电影学院 11 月 14 日公布第 39 届欧洲电影奖提名。《祖国》获得 11 项提名，紧随其后的是获 10 项提名的《黑球》和获 5 项提名的《峡湾》。三部影片均入围最佳欧洲电影和最佳导演。\n\n《祖国》由帕维乌·帕夫利科夫斯基执导，讲述作家托马斯·曼与女儿埃里卡在 1949 年驾车穿越战后德国的经历。哈维尔·卡尔沃和哈维尔·安布罗西执导的《黑球》，用三个男人的人生串起西班牙三个不同时期的故事。两部影片今年在戛纳并列获得最佳导演奖，《峡湾》则拿下金棕榈。\n\n颁奖典礼将于 2027 年 1 月 16 日在雅典举行。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794786683993-25.jpg!360",
-    "date": "2026-11-16 07:55",
-    "title_en": "Pawlikowski’s 'Fatherland' Leads Nominations for 39th European Film Awards",
-    "content_en": "Paweł Pawlikowski’s historical drama *Fatherland* dominated the nominations for the 39th European Film Awards, securing 11 nods following the announcement by the European Film Academy on November 14. Javier Calvo and Javier Ambrossi’s *The Black Ball* followed closely with 10 nominations, while *The Fjord* earned five. All three features scored nods for Best European Film and Best Director.\n\n*Fatherland* chronicles writer Thomas Mann and his daughter Erika on a 1949 road trip through post-war Germany, whereas *The Black Ball* weaves together the stories of three men across different eras in Spain. Both films previously shared the Best Director prize at this year's Cannes Film Festival, where *The Fjord* took home the prestigious Palme d'Or.\n\nThe 39th European Film Awards ceremony will be held in Athens on January 16, 2027."
+    "title_zh": "《GTA 6》预购超预期，Take-Two CEO 称会继续更新《GTA Online》",
+    "content_zh": "《GTA 6》定于 11 月 19 日发售。Take-Two 首席执行官施特劳斯·泽尔尼克在 IGN 11 月 9 日刊出的专访中表示，他对发售很乐观，并确认现有的《GTA Online》会继续获得新内容和活动。Take-Two 在同期财报电话会上称，《GTA 6》预购量远超公司初始预期。\n\n泽尔尼克说，《GTA Online》的玩家群体多年来仍在增长。谈到 Rockstar 的下一步，他预计包括《GTA》在内的旗舰作品未来十年的内容形式和开发节奏都会变化。他点出的方向包括尝试用新的方式和渠道接触玩家，以及在发售后持续运营。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874599408-13.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "GTA 6 Pre-Orders Exceed Expectations as Take-Two Commits to Ongoing GTA Online Support",
+    "content_en": "Take-Two Interactive has reported that pre-orders for the highly anticipated *Grand Theft Auto VI* have far exceeded the company's initial expectations.\n\nIn a recent interview, CEO Strauss Zelnick expressed strong optimism about the upcoming launch while confirming that the existing *GTA Online* platform will continue to receive new content and live events, noting that its player base has sustained steady growth over the years.\n\nLooking ahead, Zelnick outlined a long-term strategy for Take-Two's flagship franchises. Over the next decade, the company plans to evolve its content formats and development cadence, focusing on live-service operations and exploring innovative channels to engage players post-launch."
+  },
+  {
+    "title_zh": "豆包工作上线「工作台」，把投研、设计等工具放进专用空间",
+    "content_zh": "豆包工作 11 月 16 日在电脑端上线「工作台」，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景。每个工作台预先放入对应任务常用的技能和工具。\n\n例如，金融投研工作台把公告解读、业绩分析、市场简报和公司研究做成单独的入口，可以按需连接万得、同花顺等数据服务。创意设计工作台则提供海报、社媒配图和品牌视觉等常用任务。\n\n用户也可以按自己的工作需求配置工作台，保存后分享给别人。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874604238-14.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Doubao Work Launches Dedicated Workbenches for Finance, Design, and Specialized Workflows",
+    "content_en": "Doubao Work has introduced a new desktop feature called \"Workbench,\" offering tailored digital workspaces across 21 professional fields, including finance, healthcare, education, and creative design.\n\nEach workbench integrates task-specific AI tools and skills. For instance, the financial research workspace features dedicated tools for analyzing earnings reports, interpreting corporate announcements, and connecting with major data services like Wind and Flush. Meanwhile, the creative design workspace offers tools for social graphics, posters, and brand visuals.\n\nUsers can also build custom workbenches tailored to their unique workflows and easily share their configured workspaces with team members."
+  },
+  {
+    "title_zh": "苹果在美国启动健康 AI 研究，计划招募最多 20 万人",
+    "content_zh": "苹果与医疗 AI 公司 OpenEvidence 在美国启动 Apple Health AI Usage Study。参与者通过单独的研究 App 提交睡眠、心脏健康等问题，查看答案和附带的临床资料链接。研究团队将分析参与者怎样理解这些回答、在什么情况下信任它们，以及它们是否能帮助参与者为就诊做准备。\n\n项目最多招募 20 万名参与者，限美国年满 21 岁、持有支持 Apple 智能的 iPhone 并运行 iOS 26 或更新版本的用户。苹果表示，研究收集的数据不会用于训练 AI 模型。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874606183-15.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Apple Launches Health AI Study in US, Targeting Up to 200,000 Participants",
+    "content_en": "Apple has partnered with medical AI firm OpenEvidence to launch the **Apple Health AI Usage Study** in the United States. Through a dedicated research app, participants can submit questions regarding topics such as sleep and heart health, receiving AI-generated answers alongside links to clinical sources. The study aims to evaluate how users interpret and trust these responses, as well as whether the information helps them better prepare for medical consultations.\n\nThe initiative plans to recruit up to 200,000 participants. Eligibility is limited to US residents aged 21 or older who own an Apple Intelligence-compatible iPhone running iOS 26 or later. Apple explicitly stated that data collected during the study will not be used to train AI models."
+  },
+  {
+    "title_zh": "国产独立游戏《艾希：续》众筹收官，筹得约 4281 万元",
+    "content_zh": "国产横版动作游戏《艾希：续》的 Steam 版众筹于 11 月 15 日深夜结束。摩点项目页显示，最初设定的筹款目标为 1 万元，最终共有 259743 人参与支持，筹得约 4281 万元。\n\n续作沿用初代的横版动作玩法和动态旁白。玩家可以沿着旁白的指示行动，也可以偏离路线，引出不同的叙事。Steam 商店页列出的计划发行窗口是 2027 年第二季度，摩点数字版回报档的预计发放时间为同年 5 月。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874610450-16.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Chinese Indie Action Game 'ICEY 2' Concludes Crowdfunding Campaign with ¥42.8 Million Raised",
+    "content_en": "The crowdfunding campaign for the Steam version of *ICEY 2*, a Chinese indie side-scrolling action game, officially concluded on November 15. According to the Modian platform, the campaign smashed its initial 10,000 yuan goal by drawing 259,743 backers and raising approximately 42.81 million yuan.\n\nThe sequel continues the side-scrolling combat and dynamic meta-narration of the original title, allowing players to either follow the narrator's instructions or branch off to unlock alternative storylines. According to its Steam store page, *ICEY 2* is scheduled for release in the second quarter of 2027, with digital backer rewards expected to be distributed in May 2027."
+  },
+  {
+    "title_zh": "宝马首款国产新世代 iX3 在沈阳投产，本月开启交付",
+    "content_zh": "宝马首款国产新世代车型 BMW iX3 长轴距版已在沈阳生产基地投产，计划本月陆续交付。宝马为新车调整了车身和动力电池的生产工艺，大圆柱电芯直接集成进电池包，电池包也成为车身结构的一部分。\n\n在沈阳铁西工厂里达厂区，新车从试制到量产经历了近千辆试制车验证。宝马披露，量产下线的车辆逐台进行道路测试，电池工厂、车身车间和总装车间也已打通质量数据。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874614660-17.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "BMW Starts Production of Domestically Made Next-Gen iX3 in Shenyang",
+    "content_en": "BMW has officially commenced production of the long-wheelbase BMW iX3—its first domestically produced \"Neue Klasse\" (Next Generation) vehicle—at its manufacturing hub in Shenyang, China. Deliveries are scheduled to begin later this month. The new model features updated manufacturing processes for both the chassis and power battery, integrating large cylindrical cells directly into the pack to serve as a structural component of the vehicle.\n\nProduced at the Lydia plant in Shenyang's Tiexi District, the model underwent validation with nearly 1,000 trial units before reaching mass production. BMW revealed that every production vehicle undergoes individual road testing, with digital quality tracking fully integrated across the battery plant, body shop, and final assembly lines."
+  },
+  {
+    "title_zh": "小马智行和丰田合作的无人驾驶出租车在广州接单",
+    "content_zh": "小马智行 11 月 16 日宣布，与丰田联合开发的铂智 4X Robotaxi 在广州开始示范运营，率先在南沙提供 L4 级自动驾驶出行服务。乘客可通过小马智行 App 或小程序呼叫。\n\n新车以丰田纯电平台为基础，使用小马智行第七代自动驾驶系统。双方从车型定义阶段共同设计安全冗余和座舱交互。今年 2 月，量产车型已从广汽丰田第五生产线下线，随后进入公开道路测试。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874616733-18.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Pony.ai and Toyota Launch Co-Developed Robotaxi Service in Guangzhou",
+    "content_en": "Autonomous driving startup Pony.ai announced on November 16 that the BoZhi 4X Robotaxi, jointly developed with Toyota, has officially launched demonstration operations in Guangzhou's Nansha District. Passengers can book Level 4 autonomous rides through the Pony.ai app or mini-program.\n\nBuilt on Toyota's dedicated electric vehicle platform, the Robotaxi integrates Pony.ai's seventh-generation autonomous driving system. Both companies collaborated from the vehicle design stage to incorporate safety redundancies and optimized cabin interactions. Mass production began in February at GAC Toyota's fifth production plant, followed by extensive public road testing."
+  },
+  {
+    "title_zh": "网易《哈利波特：魔法觉醒》将于明年 3 月关服",
+    "content_zh": "《哈利波特：魔法觉醒》工作室 11 月 16 日发布公告，因授权协议即将到期，网易运营的这款游戏将于 2027 年 3 月 3 日关闭服务器。\n\n2026 年 12 月 21 日，游戏将停止充值和新用户注册，并从各平台下架。该作于 2021 年在中国市场上线，以霍格沃茨为背景，将校园探索和魔咒卡牌对战放进同一款游戏。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874619863-19.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "NetEase to Sunset 'Harry Potter: Magic Awakened' Following License Expiration",
+    "content_en": "The development team behind *Harry Potter: Magic Awakened* announced on November 16 that the NetEase-operated game will permanently shut down its servers on March 3, 2027, following the expiration of its licensing agreement.\n\nIn-app purchases and new user registrations will cease on December 21, 2026, when the title will also be removed from all app stores. First launched in China in 2021, the game combined immersive Hogwarts exploration with card-battling mechanics."
+  },
+  {
+    "title_zh": "火山引擎全面开放 Seedance 2.5 的 4K 视频生成 API",
+    "content_zh": "火山引擎 11 月 16 日宣布，Seedance 2.5 的 4K 视频生成 API 已在火山方舟全面开放。个人和企业用户都可以调用，4K 输出采用 10bit 位深和 H.265 编码。\n\n创作者可以先生成 480p 样片验证镜头和分镜，再用同一份样片生成 4K 成片。火山方舟文档显示，个人和企业账号的 4K 生成任务均为单任务并发，每分钟最多可发起 15 次请求。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1794874622135-20.jpg!360",
+    "date": "2026-11-17 08:18",
+    "title_en": "Volcengine Launches 4K Video Generation API for Seedance 2.5",
+    "content_en": "Volcengine announced on November 16 the full availability of the 4K video generation API for its Seedance 2.5 model on the Volcengine Ark platform. Accessible to both individual and enterprise developers, the service outputs 4K video featuring 10-bit color depth and H.265 encoding.\n\nCreators can streamline their workflow by generating 480p preview drafts to refine camera angles and storyboards before rendering the final 4K version using the same draft. Platform documentation indicates that 4K generation tasks run on a single-concurrency limit, capped at 15 requests per minute."
   }
 ]
