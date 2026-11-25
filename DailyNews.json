@@ -1,170 +1,258 @@
 [
   {
-    "title_zh": "英伟达董事会一致通过，黄仁勋恢复 CEO 职务",
-    "content_zh": "当地时间 11 月 23 日，黄仁勋返回英伟达位于加州圣克拉拉的总部，受到员工的欢呼和掌声欢迎。他在现场开玩笑称：「这是我第一天上班，我还没有电脑，所以 IT 部门会给我配一台新的。」\n\n随后，黄仁勋向员工道歉，承认自己犯下了严重错误，并表示将努力弥补。他感谢员工给予自己第二次担任 CEO 的机会，承诺「这一次我会做得更好」。\n\n昨晚，英伟达宣布，董事会一致投票通过，恢复黄仁勋的公司总裁、CEO 和董事职务，决定即刻生效。从 11 月 12 日突然辞职，到重新执掌英伟达，这场持续 11 天的管理层风波暂告一段落。\n\n公司向美国证券交易委员会提交的文件显示，董事会于当地时间 11 月 22 日作出上述决定。此前在 11 月 17 日的财报电话会上，英伟达还曾表示无意让黄仁勋复任 CEO。董事会表示，在与黄仁勋多轮沟通，并听取美国政府高层意见后，认为其复职符合公司及股东利益。\n\n黄仁勋回归的消息也推动英伟达股价大幅反弹。当地时间 11 月 23 日，英伟达收涨 31.48%，报每股 165.05 美元，单日上涨 39.52 美元，市值回升至约 3.98 万亿美元。\n\n黄仁勋虽然已经回归，但围绕他的调查仍在继续。英伟达此前成立的独立董事委员会将继续调查其被指成为外国情报活动目标一事，公司还新设国家安全与出口管制委员会，加强对贸易合规及相关风险的监督，并着手物色首席合规官。\n\n此外，黄仁勋预计将于 12 月 3 日出席美国参议院银行委员会举行的公开听证会，接受有关美国出口管制监督问题的质询。\n\n🔗 相关阅读：刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478356984-1.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Jensen Huang Reinstated as Nvidia CEO Following Unanimous Board Vote",
-    "content_en": "Jensen Huang has officially resumed his roles as President, CEO, and Director of Nvidia after a unanimous vote by the company’s board of directors, bringing an end to an 11-day leadership crisis triggered by his sudden resignation on November 12.\n\nReturning to Nvidia's headquarters in Santa Clara, California, on November 23, Huang addressed cheering employees, acknowledged past mistakes, and thanked staff for giving him a second chance to lead the semiconductor giant.\n\nAccording to SEC filings, the board reversed its stance following extensive discussions with Huang and consultation with senior U.S. government officials, concluding that his reinstatement serves the best interests of Nvidia and its shareholders. The news triggered a sharp market rally, with Nvidia stock surging 31.48% on November 23 to close at $165.05 per share, pushing its market capitalization back up to approximately $3.98 trillion.\n\nDespite his return, Huang and Nvidia remain under regulatory scrutiny. An independent board committee continues to investigate allegations regarding foreign intelligence targeting, while the company has established a new National Security and Export Control Committee to strengthen trade compliance. Huang is also scheduled to testify before the U.S. Senate Banking Committee on December 3 regarding export control oversight."
+    "title_zh": "黄仁勋复职后首开全员大会致歉：这是人生第二艰难的会议",
+    "content_zh": "据《连线》杂志（WIRED）及彭博社报道，当地时间 11 月 24 日，英伟达 CEO 黄仁勋在复职后首次召开全员大会，向员工就此前违反公司行为准则的行为道歉，并承认自己犯下了严重的个人错误。\n\n黄仁勋在会上表示，自己辜负了员工的信任，并形容这场会议是他经历过「最艰难的一次公司会议」，也是人生中第二艰难的一次谈话。他透露，最艰难的一次谈话发生在自己与妻子之间，目前他每天接受约一个半小时的心理治疗，并表示治疗对自己很有帮助。\n\n黄仁勋还回应了外界对其复职决定的质疑。他强调，英伟达董事会经过事实评估后作出了让他回归的决定，否认自己因科技行业地位而获得特殊待遇，也否认美国政府高层直接决定其复职。他表示，公司行为准则仍适用于所有员工，但处理违规行为时，需要结合具体事实和情节作出判断。\n\n在管理方面，黄仁勋承认自己过去过于强势的管理方式曾对员工造成负面影响，承诺接受更严格的监督，包括定期开展 360 度绩效评估。不过，他依然反对传统的 CEO 接班人计划，认为英伟达现有的管理团队足以支撑公司运作。\n\n此前，黄仁勋于 11 月 12 日辞去英伟达 CEO 职务，随后在 11 月 23 日获董事会一致同意复职，整场管理层风波历时 11 天。据《连线》报道，尽管部分员工欢迎黄仁勋回归，但也有员工对其个人行为及董事会的复职决定表示担忧。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565009356-1.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Nvidia CEO Jensen Huang Apologizes at All-Hands Meeting Following Reinstatement",
+    "content_en": "In his first all-hands meeting since being reinstated on November 24, Nvidia CEO Jensen Huang issued a formal apology to employees for violating the company’s code of conduct, acknowledging serious personal mistakes. Huang described the address as the \"most difficult company meeting\" of his career and the second hardest conversation of his life, behind only a talk with his wife. He also shared that he is currently undergoing daily therapy to address these personal challenges.\n\nAddressing widespread skepticism regarding his swift return, Huang denied receiving special treatment due to his standing in the tech industry or any direct intervention by the U.S. government. He clarified that the board made its unanimous decision following a thorough factual assessment, emphasizing that company policies still apply to everyone but must be interpreted in light of specific circumstances.\n\nReflecting on his leadership style, Huang admitted that his past aggressiveness had negatively impacted staff. He promised to submit to stricter governance, including regular 360-degree performance reviews. However, he maintained his stance against traditional CEO succession planning, arguing that Nvidia’s existing executive team is fully capable of driving operations forward.\n\nThe meeting comes after a tumultuous 11-day period, starting with Huang’s resignation on November 12 and ending with his reinstatement on November 23. While many staff members welcomed his return, concerns remain among some employees regarding governance transparency and personal conduct."
   },
   {
-    "title_zh": "高校免费发 Token 给师生，上海财经大学每人每周最高 1 亿",
-    "content_zh": "上海财经大学近日宣布，为每位师生提供每周最高 1 亿 Token 的使用额度。师生通过校内统一身份认证，就能按需调用多种大模型和智能工具。\n\n学校希望把这种按模型处理量计量的资源纳入日常教学，学生可用于调试代码和清洗数据，教师也可用来搭建课程知识库。\n\n额度由学校统一调度。上财在校庆活动上接受了阿里巴巴捐赠的 Token 资源，并将其与校内平台、校企共建算力等一起纳入服务体系。「匡时一号」算力平台 2.0 自今年 7 月上线后，已覆盖 13 个学院，运行教学科研任务 7300 余次。\n\n据澎湃新闻报道，也有高校选择按天发放额度。国家超级计算长沙中心向湖南大学师生开放大模型 API，为每位用户预设每天 200 万 Token 的基础额度，限校园网访问。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478362172-3.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Chinese Universities Offer Free AI Tokens to Students and Faculty, Led by SUFE's 100M Weekly Grant",
-    "content_en": "Shanghai University of Finance and Economics (SUFE) has announced a new initiative providing faculty and students with up to 100 million AI tokens per week. Accessible via the university's unified authentication system, the program allows users to leverage multiple large language models and AI tools for code debugging, data processing, and building specialized course knowledge bases.\n\nThe compute resources are managed centrally by the university, supported in part by a major donation of AI tokens from Alibaba Group. These resources are integrated with SUFE's \"Kuangshi No. 1\" 2.0 computing platform, which has supported over 7,300 academic and research tasks across 13 colleges since its upgrade in July.\n\nSUFE is part of a broader trend among Chinese academic institutions integrating generative AI into campus life. Similarly, the National Supercomputing Center in Changsha has opened model API access to Hunan University staff and students, offering a baseline daily allocation of 2 million tokens over the campus network."
+    "title_zh": "豆包旗下 AI 个人助理「小豆」开启公测",
+    "content_zh": "豆包旗下 AI 个人助理「小豆」11 月 24 日开启邀请制公测。现阶段可通过独立 App 体验，苹果和安卓用户均可下载，输入邀请码后可领取免费额度，邀请好友参加也有机会增加额度。\n\n小豆在问答和信息检索之外，支持用户把需要持续处理的事项交给它。用户交代任务并授权后，它可以在后台跟进进度、到时间提醒，或代为处理，同时利用已保存的记忆理解后续请求。豆包表示，小豆上的能力会逐步上线豆包 App。\n\n🔗 相关阅读：实测小豆：主动办事的背后，AI 正在走向每一个人",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565012784-2.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Doubao Launches Public Beta for AI Personal Assistant \"Xiaodou\"",
+    "content_en": "Doubao officially launched an invitation-only public beta for its new AI personal assistant, \"Xiaodou,\" on November 24. The standalone app is now available for download on both iOS and Android platforms, offering users free usage credits upon entering an invitation code, with bonus credits awarded for referral sign-ups.\n\nMoving beyond conventional Q&A and search functionalities, Xiaodou is designed to handle ongoing tasks. Once granted authorization, the assistant can run tasks in the background, set timely reminders, execute requests on the user's behalf, and leverage long-term memory to contextualize future interactions.\n\nAccording to Doubao, the advanced capabilities showcased in Xiaodou will gradually be integrated into the main Doubao application over time."
   },
   {
-    "title_zh": "Meta 首席 AI 官 Alexandr Wang：实验、数据和领域知识将成为 AI 进展的瓶颈",
-    "content_zh": "北京时间 11 月 23 日，Meta 首席 AI 官 Alexandr Wang 在长文《Superintelligence is Arriving》中判断，高水平 AI 在更多领域取得进展，接下来要解决的难题会越来越集中在领域知识、实验和反馈机制上。他用两次数学进展解释这个判断。\n\n他回顾了 2024 年底 OpenAI o3 在美国数学邀请赛 AIME 上的表现。在他看来，竞赛难题的抽象推理门槛已经很高，模型要把这些能力用到工程和商业工作中，还得补上实际情境、行业知识和工作流程。眼下有关黎曼猜想的 AI 辅助证明研究，则让他把同样的判断推到更多科学领域。\n\nWang 也谈到实验和数据的作用。他指出，许多学科的问题在纯推理上未必比这道数学题更难，但现实研究还需要获取数据、设计实验和建立反馈。他由此判断，模型可能在不同领域迅速取得进展，人类理解和监督这些进展的速度也会面临压力。\n\n他呼吁行业同时推进安全、对齐和防护，并把扩大人的自主权作为技术目标。他认为，如果模型获得不受约束的递归自我改进能力，人类将很难维持控制。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478364376-4.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Meta Chief AI Officer Alexandr Wang Identifies Domain Knowledge and Data as Next AI Bottlenecks",
-    "content_en": "In a newly published essay titled *Superintelligence is Arriving*, Meta Chief AI Officer Alexandr Wang argued that the next phase of artificial intelligence development will be constrained primarily by domain knowledge, empirical experimentation, and feedback mechanisms rather than raw abstract reasoning.\n\nReflecting on recent breakthroughs, such as OpenAI's o3 model performing on advanced mathematical competitions, Wang noted that translating high-level reasoning into practical engineering, scientific, and business applications requires real-world context, specialized industry workflows, and continuous data acquisition. In scientific domains, progress relies heavily on experimental design and rapid feedback loops alongside model reasoning.\n\nWang also emphasized the urgent need to advance safety protocols, alignment, and technical safeguards alongside rapid capability gains. He urged the industry to make expanding human agency a primary goal, warning that unconstrained recursive self-improvement could make it difficult for humanity to maintain oversight."
+    "title_zh": "华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S",
+    "content_zh": "华为 11 月 24 日举行全场景发布会，推出大折叠手机 Mate X8、轻薄直板机 Mate 90 Air、小折叠电脑 MateBook Fold S 和智能手表 WATCH Air。\n\n11 月 24 日，华为在鸿蒙微信公众号发布公开信，称搭载 HarmonyOS 5、6 或 7 的手机、平板和电脑合计已突破 1 亿台。\n\n华为在今年 9 月的全联接大会上公布，搭载 HarmonyOS 6 或 HarmonyOS 7 的终端设备数已超过 8500 万台。10 月 1 日，华为终端 BG 董事长余承东在 Mate 90 系列发布会上将这一数字更新为超过 9000 万台。他同时表示，鸿蒙可获取的应用和元服务已超过 45 万项。\n\n央视和华为联合举办的 2026 鸿蒙星光盛典也在发布会上公布档期，将于 12 月 5 日 19:00 在深圳湾体育中心举行。\n\n🔗 相关阅读：华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565014081-3.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Huawei Unveils New Hardware Lineup as HarmonyOS Ecosystem Surpasses 100 Million Devices",
+    "content_en": "At its full-scenario product launch on November 24, Huawei unveiled several new flagship devices, including the Mate X8 foldable smartphone, the ultra-slim Mate 90 Air, the compact MateBook Fold S foldable laptop, and the WATCH Air smartwatch.\n\nAlongside the hardware announcements, Huawei celebrated a major ecosystem milestone. According to an open letter published on its official HarmonyOS WeChat account, the active user base of smartphones, tablets, and PCs running HarmonyOS 5, 6, or 7 has officially surpassed 100 million units. This follows rapid growth from 85 million devices in September and over 90 million in October, with more than 450,000 native apps and meta-services now available on the platform.\n\nAdditionally, Huawei announced that the 2026 HarmonyOS Gala, co-hosted with CCTV, will take place on December 5 at the Shenzhen Bay Sports Center."
   },
   {
-    "title_zh": "知乎参投基金间接入股 DeepSeek",
-    "content_zh": "知乎 11 月 23 日在港交所公告，其参投的天津砺思星深股权投资基金已通过投资主体入股 DeepSeek，取得低个位数百分比的股权。知乎是这只基金的有限合伙人，在基金中的权益比例低于 30%。\n\n知乎在 10 月完成基金份额认购。公司董事会表示，希望通过这只基金接触更多 AI 和科技企业的投资机会，并了解 AI 产品和商业模式的发展。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478375018-8.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Zhihu Indirectly Acquires Stake in AI Startup DeepSeek via Venture Fund",
-    "content_en": "Chinese Q&A platform Zhihu announced on the Hong Kong Stock Exchange on November 23 that Tianjin Lisi Xingshen Equity Investment Fund, a venture fund in which it holds an interest, has indirectly acquired a low single-digit percentage equity stake in AI startup DeepSeek. Zhihu serves as a limited partner (LP) in the fund with an equity share of less than 30%.\n\nZhihu completed its fund subscription in October. According to its board of directors, the investment aims to expand the company's exposure to emerging opportunities across the AI and technology sectors while deepening its understanding of AI product development and commercial models."
+    "title_zh": "神舟二十四号任务将开展一年期在轨驻留试验",
+    "content_zh": "中国载人航天工程办公室 11 月 24 日公布神舟二十四号乘组。任务瞄准北京时间 11 月 25 日 8:18 发射，汤洪波任指令长，与中国航天员武毅、巴基斯坦航天员穆罕默德·齐尚·阿里共同执行任务。汤洪波曾执行神舟十二号和神舟十七号任务，武毅和齐尚·阿里均为首次飞行。\n\n齐尚·阿里以载荷专家身份参加短期联合飞行，将成为首位进入中国空间站的外籍航天员，并随神舟二十三号飞船返回。神舟二十三号乘组的朱杨柱则会继续留在空间站，跨两个乘组执行一年期在轨驻留试验。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565015987-4.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "China Set to Launch Shenzhou-24 Mission Featuring First Foreign Astronaut aboard Tiangong",
+    "content_en": "China has announced the crew for its upcoming Shenzhou-24 mission, scheduled to launch on November 25 at 8:18 AM Beijing Time. Veteran astronaut Tang Hongbo will command the mission, joined by Chinese astronaut Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, both making their first spaceflights.\n\nAli, serving as a payload specialist, will make history as the first foreign astronaut to board China's Tiangong space station. Following his short-term joint flight, Ali will return to Earth aboard the Shenzhou-23 spacecraft.\n\nAdditionally, Shenzhou-23 crew member Zhu Yangzhu will remain aboard Tiangong to conduct a year-long in-orbit residence test spanning two crew rotations."
   },
   {
-    "title_zh": "GPT-6.2 Sol 开始推送到 ChatGPT 对话页",
-    "content_zh": "OpenAI 11 月 23 日开始在 ChatGPT 的「对话」页推送针对日常交流调校的 GPT-6.2 Sol。首批覆盖 Plus、Pro、Business 和 Enterprise，Enterprise 工作区由管理员控制模型访问权限。\n\n这次更新让模型处理截图、复杂指令和网页检索时更可靠，也调整了追问时机。比如用户问某件商品是否打折，ChatGPT 可以主动询问是否需要在降价时发出提醒。GPT-6.2 Astra 和 Sol 此前已在 ChatGPT Work 和 Codex 开放预览。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478379576-9.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "OpenAI Rolls Out GPT-6.2 Sol to ChatGPT Chat Interface",
-    "content_en": "OpenAI began rolling out GPT-6.2 Sol—a model fine-tuned for everyday conversation—to the main ChatGPT chat interface on November 23. The initial rollout covers Plus, Pro, Business, and Enterprise subscribers, with Enterprise access managed by workspace administrators.\n\nThe update improves reliability when processing screenshots, complex prompts, and web retrieval, while also refining follow-up behavior. For instance, if a user inquires whether a product is on sale, ChatGPT can proactively offer to send price-drop alerts. Both GPT-6.2 Sol and GPT-6.2 Astra were previously available in preview mode on ChatGPT Work and Codex."
+    "title_zh": "曝 SpaceX 和特斯拉已选定五名董事负责合并谈判",
+    "content_zh": "据《金融时报》援引知情人士的报道，SpaceX 和特斯拉已从各自董事会选出五人，负责指导两个特别委员会就潜在合并展开谈判。\n\n报道列出的 SpaceX 董事为 Roelof Botha 和 Randy Glein。特斯拉方面则是董事长 Robyn Denholm，以及 Kathleen Wilson-Thompson 和 Jack Hartung。SpaceX 在 10 月的季度报告中已确认，其董事会组建了专门委员会，评估与特斯拉合并的可能性。\n\n特斯拉也在三季度报告中披露，董事会已成立由无利害关系董事组成的特别委员会，评估与 SpaceX 加深合作的方式，业务合并是选项之一。若推进交易，仍需特别委员会建议，并取得必要的股东批准。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565018428-5.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "SpaceX and Tesla Tap Directors for Potential Merger Talks",
+    "content_en": "SpaceX and Tesla have designated five board members to lead special committees assessing a potential merger between the two companies, according to the *Financial Times*.\n\nThe negotiations involve SpaceX directors Roelof Botha and Randy Glein, alongside Tesla Chair Robyn Denholm and directors Kathleen Wilson-Thompson and Jack Hartung. Both companies previously confirmed in recent quarterly filings that special committees of independent directors were formed to evaluate closer collaboration, including a potential combination.\n\nAny decision to move forward will require formal recommendations from the special committees and mandatory shareholder approvals."
   },
   {
-    "title_zh": "Steam 大奖开放提名，往届年度游戏将角逐名人堂奖",
-    "content_zh": "Steam 大奖进入第十年，Valve 已开放本届提名，并新增名人堂奖。这个奖项把往届年度游戏得主放在一起，由玩家选出过去十年的代表作。2016 年首届 Steam 大奖没有「年度游戏」奖，Valve 为这一届指定了对应奖项的获奖作品参加。\n\n本轮提名到北京时间 12 月 1 日凌晨 2 点截止，最终投票于 12 月 17 日开启。符合 Steam 资格要求的非受限账户可以提名和投票。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478381283-10.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "10th Steam Awards Opens Nominations, Introducing Hall of Fame Category",
-    "content_en": "Marking the 10th anniversary of the Steam Awards, Valve has officially opened nominations for this year's event, featuring a newly created Hall of Fame category. The award pits past Game of the Year winners against one another, allowing players to select the defining title of the past decade. Since the inaugural 2016 awards did not include an official Game of the Year category, Valve designated a representative winner from that year to join the race.\n\nNominations close on December 1 at 2:00 AM (Beijing Time), with final voting set to launch on December 17. All eligible, non-limited Steam accounts can participate in nominating and voting."
+    "title_zh": "PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家",
+    "content_zh": "PlayStation 公布，11 月 19 日至 22 日，超过 3900 万名独立玩家在 PS5 上玩过《GTA 6》。游戏刷新了 PlayStation 平台单款游戏的同时在线人数纪录，统计涵盖单人、多人和免费游戏。\n\n这四天里，PS5 玩家累计游玩超过6.83 亿小时，人均约 17.4 小时。PlayStation 还表示，自游戏发售以来，七成新 PS5 主机上运行的第一款游戏是《GTA 6》。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565020013-6.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "GTA 6 Shatters PlayStation Records with 39 Million Players in Four Days",
+    "content_en": "*Grand Theft Auto VI* achieved a historic launch on PlayStation 5, attracting over 39 million unique players between November 19 and November 22. The title set a new all-time record for concurrent players for a single game on the PlayStation platform.\n\nOver the four-day launch window, PS5 gamers logged more than 683 million total hours of gameplay, averaging roughly 17.4 hours per player.\n\nPlayStation also revealed that 70% of newly activated PS5 consoles played *GTA 6* as their very first game following its release."
   },
   {
-    "title_zh": "蚂蚁领投人形机器人公司至简动力，创始人称本轮融资 1 亿美元",
-    "content_zh": "据彭博社 11 月 23 日报道，人形机器人公司至简动力完成由蚂蚁集团领投的 Pre-A 轮融资，规模为 1 亿美元。至简动力董事长、联合创始人王凯向彭博社表示，本轮融资对公司的估值为 16 亿美元，腾讯、红杉中国和蓝驰创投等现有投资方也参与了这一轮。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478384714-11.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Ant Group Leads $100 Million Funding Round for Humanoid Robotics Startup Zhijian Dongli",
-    "content_en": "Humanoid robotics startup Zhijian Dongli has raised $100 million in a Pre-A funding round led by Ant Group, Bloomberg reported on November 23.\n\nThe new round values the company at $1.6 billion, according to Kai Wang, chairman and co-founder of Zhijian Dongli. Existing investors, including Tencent, Sequoia China, and BlueRun Ventures, also participated in the round."
+    "title_zh": "小米三季度营收 1072 亿元，手机收入环比回升",
+    "content_zh": "小米集团 11 月 24 日公布 2026 年第三季度业绩，单季营收为 1072 亿元。智能手机收入为 456 亿元，环比增长 8.2%。小米称，手机在全球市场的平均售价同比增长近四成，创下历史新高。\n\n新能源汽车及 AI 等创新业务收入为 239 亿元，当季交付新车 100975 台。小米披露，进入四季度后，10 月新车交付量已超过 5 万台。集团的 IoT 与生活消费产品收入为 272 亿元，接入小米 AIoT 平台的设备超过 12 亿台。\n\n第三季度互联网服务收入为 95 亿元。到 9 月末，小米全球月活跃用户为 7.72 亿，国内月活跃用户为 1.99 亿。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565022746-7.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Xiaomi Reports Strong Q3 Revenue of 107.2B Yuan as Smartphone Sales and EV Deliveries Surge",
+    "content_en": "Xiaomi Group reported a robust third quarter with total revenue reaching 107.2 billion yuan. Smartphone revenue bounced back, rising 8.2% quarter-over-quarter to 45.6 billion yuan. The company highlighted a historic high in its global smartphone average selling price, which surged nearly 40% year-over-year.\n\nThe tech giant's EV and AI innovation segment generated 23.9 billion yuan in revenue, delivering 100,975 new vehicles during the quarter. Delivery momentum continued into the fourth quarter, with October deliveries alone topping 50,000 units. Meanwhile, Xiaomi's IoT and lifestyle products brought in 27.2 billion yuan, with over 1.2 billion devices now connected to its AIoT platform.\n\nIn the internet services segment, revenue hit 9.5 billion yuan. By the end of September, Xiaomi's global monthly active users (MAU) expanded to 772 million, with domestic MAU reaching 199 million."
   },
   {
-    "title_zh": "四部门鼓励养老机构和社区试用服务机器人、智能穿戴设备",
-    "content_zh": "国家发展改革委、民政部、国家卫生健康委和教育部 11 月 23 日公布「一老一小」服务体系建设实施方案。\n\n方案提出，鼓励开发适合养老场景的人工智能体、服务机器人、智能穿戴设备和外骨骼，支持在养老机构和社区应用这类产品或设置体验区。\n\n方案还提出推动养老机构配置智能健康监测设备和辅助器具。到 2030 年，方案设定的目标包括养老机构护理型床位占比达到 73%，社区养老服务机构和设施覆盖率达到 70%。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478385999-12.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "China Encourages Senior Care Facilities to Adopt Service Robots and Smart Wearables",
-    "content_en": "Four Chinese government agencies, including the National Development and Reform Commission and the Ministry of Civil Affairs, unveiled an implementation plan on November 23 to enhance care services for the elderly and children.\n\nThe plan encourages the development and deployment of AI agents, service robots, smart wearables, and exoskeletons tailored for senior care. It supports integrating these technologies into nursing homes and local communities, alongside equipping facilities with smart health-monitoring tools.\n\nBy 2030, the initiative aims to increase the proportion of nursing-care beds in senior care institutions to 73% and extend community elderly care service coverage to 70%."
+    "title_zh": "B 站三季度广告收入增长 20%，日均使用时长达 121 分钟",
+    "content_zh": "B 站 11 月 24 日公布第三季度业绩，总净营收为 83.2 亿元，同比增长 8%。其中，广告收入为 30.9 亿元，同比增长 20%。公司将广告收入的增长归因于广告产品改进和投放效率提升。移动游戏收入同比下降 7%，环比增长 1%，B 站称同比下滑主要受上年同期高基数影响。\n\n当季净利润为 5.041 亿元，同比增长 7%，毛利率从上年同期的 36.7% 升至 37.3%。B 站第三季度日均活跃用户为 1.235 亿，日均使用时长达到 121 分钟，带动平台用户总使用时长同比增长 14%。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565023906-8.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Bilibili Posts 20% Ad Revenue Growth in Q3 as User Engagement Hits New High",
+    "content_en": "Bilibili reported its third-quarter financial results, recording total net revenue of 8.32 billion yuan, an 8% increase year-over-year. Advertising revenue led the growth, jumping 20% to 3.09 billion yuan, driven by enhanced ad products and improved monetization efficiency. Mobile gaming revenue fell 7% year-over-year due to a high comparison base from the previous year, though it edged up 1% sequentially.\n\nThe platform's net profit reached 504.1 million yuan, up 7% year-over-year, while gross margin expanded to 37.3% from 36.7% a year earlier.\n\nUser engagement remained strong throughout the quarter. Daily active users reached 123.5 million, with average daily time spent per user rising to 121 minutes, driving a 14% year-over-year growth in total user time spent on the platform."
   },
   {
-    "title_zh": "💡 钟南山谈医学 AI：回答要有循证依据，诊治仍由医生决定",
-    "content_zh": "11 月 23 日，中国工程院院士钟南山在蚂蚁阿福医疗健康生态大会上说，医学容不得半点「差不多」。他认为，专业医学 AI 回答问题时应给出可追溯的循证依据。\n\n他希望这类工具让更多普通人看得上病、看得好病，也看得明白病。回答的依据和证据强度应能跟着建议一起被核查。\n\n他把基层医疗作为一个应用场景。钟南山认为，专业 AI 可以为基层和偏远地区的患者提供权威、规范的健康指导和就医参考，让不同地区获得的服务更接近。\n\n他还提到，人口老龄化带来的慢性病管理，以及公共卫生挑战，都是专业医学 AI 可以发挥作用的领域。\n\n谈到医生怎么用 AI，钟南山说，它可以分担复杂的事务性工作，让医生腾出时间。医患交流仍是建立信任的关键，最终如何诊治，应由医生作出决定。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478389433-13.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Medical AI Must Be Evidence-Based and Doctor-Led, Says Top Chinese Expert Zhong Nanshan",
-    "content_en": "Speaking at a healthcare conference on November 23, renowned Chinese epidemiologist Zhong Nanshan stressed that medical AI must strictly adhere to evidence-based standards. He emphasized that medical care leaves no room for guesswork, and AI tools should provide verifiable evidence alongside their recommendations to make quality care more transparent and accessible.\n\nZhong identified primary healthcare in remote areas as a key application, noting that AI can deliver standardized guidance to help narrow regional care gaps. He added that AI could also play a vital role in managing chronic diseases associated with an aging population and addressing broader public health challenges.\n\nRegarding the role of physicians, Zhong noted that while AI can offload routine administrative tasks to free up doctors' time, human interaction remains essential to building patient trust. Ultimately, final diagnostic and treatment decisions must always rest with doctors."
+    "title_zh": "比亚迪拟收购英力士法国工厂，双方已展开排他谈判",
+    "content_zh": "比亚迪 11 月 24 日表示，已与英力士汽车就收购法国汉巴赫工厂展开排他性谈判，拟在当地生产面向欧洲市场的汽车。拟议交易还需和相关员工代表委员会协商。\n\n汉巴赫工厂原属梅赛德斯-奔驰，曾生产 Smart 汽车，目前用于生产英力士 Grenadier 越野车和 Quartermaster 皮卡。据路透社报道，比亚迪还计划在 2027 年初让匈牙利新工厂进入量产。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565025276-9.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "BYD Enters Exclusive Talks to Acquire Ineos Plant in France for European Expansion",
+    "content_en": "BYD has entered exclusive negotiations with Ineos Automotive to acquire its manufacturing plant in Hambach, France. The Chinese automaker aims to utilize the facility to produce vehicles tailored for the European market, though the proposed transaction remains subject to consultation with relevant employee representative committees.\n\nThe Hambach plant, originally owned by Mercedes-Benz for producing Smart cars, currently manufactures the Ineos Grenadier off-roader and Quartermaster pickup truck.\n\nThis potential acquisition aligns with BYD's broader European expansion strategy. According to Reuters, the company is also planning to commence mass production at its new facility in Hungary by early 2027."
   },
   {
-    "title_zh": "智谱 GLM-5.4 上线编程订阅，新增读图能力",
-    "content_zh": "11 月 23 日，智谱全球站负责人李子玄宣布，GLM-5.4 已向所有 GLM Coding Plan 用户开放。新版可以读取图片。对设有每周额度的订阅用户，GLM-5.4 的周额度比 GLM-5.3 多 50%。\n\n智谱当天发布的技术说明确认，GLM-5.4 是公司首款采用 Loop Transformer 的旗舰模型。它将 GLM-5 基座中的 28 层循环执行两轮，复用同一组权重来增加推理深度。模型已同步上线 ZCode、Trae 等平台，API 将在完成安全评估后开放，模型权重计划开源。\n\n编程博主 AICodeKing 在他自设的 KingBench 4 测试中，用六个编程项目评估模型生成的应用，将 GLM-5.4 排在第七。他认为，模型在理解复杂工程的整体结构上表现较好，可以用于规划和代码审查。\n\n另据第一财经报道，智谱管理层预计在 12 月推出下一款旗舰模型 GLM-5.5，参数规模约为 3 万亿。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478391444-14.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Zhipu AI Launches GLM-5.4 with Vision Capabilities and Loop Transformer Architecture",
-    "content_en": "Zhipu AI has officially made GLM-5.4 available to all GLM Coding Plan subscribers. The updated model introduces image recognition capabilities, and weekly subscribers will receive a 50% quota increase compared to GLM-5.3.\n\nTechnically, GLM-5.4 is Zhipu’s first flagship model built on a Loop Transformer architecture. By executing the 28 layers of the GLM-5 base twice using shared weights, it significantly deepens reasoning performance. The model is currently live on platforms like ZCode and Trae, with its API set to open following safety evaluations and weights slated for open-source release.\n\nIn independent benchmarks by tech blogger AICodeKing, GLM-5.4 ranked seventh across six coding projects, demonstrating strong capabilities in high-level architectural comprehension, planning, and code review. Additionally, reports indicate Zhipu plans to launch its next-generation 3-trillion-parameter GLM-5.5 model in December."
+    "title_zh": "《GTA VI》视频泄露案宣判，英国法院判处涉案男子七年监禁",
+    "content_zh": "当地时间 11 月 23 日，英国伍尔维奇刑事法院判处 21 岁的 Arion Kurtaj 七年监禁。伦敦金融城警方通报，法院考虑他此前根据住院令接受治疗的时间，将原定九年刑期减去两年。Kurtaj 已于 11 月 16 日对六项指控认罪。\n\n英国皇家检察署称，Kurtaj 在 2022 年从 Rockstar Games 窃取了当时尚未发行的《GTA VI》的 90 段实机视频，并将视频发到网上。警方此次通报的案件还涉及其他游戏公司和电信行业企业。\n\n据《独立报》庭审报道，法院还将他此前的羁押时间计入刑期，Kurtaj 可以附条件离开羁押。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565028551-10.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Hacker Behind 'GTA VI' Video Leaks Sentenced to Seven Years in UK",
+    "content_en": "A UK court has sentenced 21-year-old Arion Kurtaj to seven years in prison for his role in leaking unreleased footage of the highly anticipated video game *Grand Theft Auto VI*. Kurtaj pleaded guilty to six charges related to cyberattacks targeting game developer Rockstar Games, as well as several other gaming and telecommunications firms.\n\nThe court originally handed down a nine-year sentence but reduced it by two years to account for the time Kurtaj previously spent in psychiatric care under a medical order. \n\nAccording to the Crown Prosecution Service, Kurtaj breached Rockstar Games in 2022, stealing and publishing 90 gameplay videos of *GTA VI* online, creating one of the biggest leaks in video game history."
   },
   {
-    "title_zh": "蚂蚁阿福同款医疗大模型开源，笔记本电脑也能部署专业医疗 AI",
-    "content_zh": "11 月 23 日，蚂蚁宣布开源百灵医疗健康大模型 LingSante 家族中的两款核心模型。\n\n其中，LingSante-3.1-air-VL 参数量为 124B，支持文字、图片和视频理解，可在笔记本电脑等本地设备部署。LingSante-3.1-flash 总参数量达 560B，支持最长 1M Token 上下文，面向复杂医学推理和专业医疗任务。\n\n两款模型均已应用于蚂蚁阿福。此次开源将向全球医疗机构、科研团队和开发者开放，降低专业医疗 AI的使用和研发门槛。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478393411-15.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Ant Group Open-Sources Core Healthcare AI Models Behind \"Afu\" Medical Assistant",
-    "content_en": "Ant Group has announced the open-sourcing of two core models from its LingSante healthcare family. These models power Ant's flagship consumer medical AI assistant, \"Afu,\" and aim to lower the development barrier for global medical institutions, researchers, and developers.\n\nThe release includes `LingSante-3.1-air-VL`, a 124-billion-parameter multimodal model capable of processing text, images, and video that can run locally on standard hardware like laptops. The second model, `LingSante-3.1-flash`, features 560 billion parameters and a 1-million-token context window, optimized for complex medical reasoning and advanced clinical applications."
+    "title_zh": "惠普全年 PC 业务营收增长 14%，第四财季出货量下降 29%",
+    "content_zh": "惠普 11 月 24 日公布截至 10 月 31 日的 2026 财年业绩。全年净营收 605.27 亿美元，同比增长 9.5%。按美国通用会计准则（GAAP），全年净利润为 24.25 亿美元，上年同期为 25.29 亿美元。\n\n个人系统业务全年净营收增长 14%，商业和消费业务分别增长 17% 和 6%。第四财季，个人系统营收仍同比增长 14%，其中商业业务增长 23%，消费业务下降 7%。这一财季个人系统出货量同比下降 29%，业务运营利润率从上年同期的 5.8% 降至 3%。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565030091-11.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "HP Reports Full-Year Revenue Growth Despite Q4 PC Shipment Drop",
+    "content_en": "HP Inc. has released its full-year financial results, reporting a 9.5% year-over-year increase in net revenue to $60.53 billion. Under GAAP, the company's full-year net income reached $2.43 billion, down slightly from $2.53 billion in the previous fiscal year.\n\nThe Personal Systems division posted strong annual growth, with revenue rising 14%. Commercial revenue increased by 17%, while consumer revenue grew by 6% over the full year.\n\nHowever, HP faced severe headwinds in the fourth quarter. Personal Systems shipments fell 29% year-over-year, causing the segment's operating margin to slip from 5.8% to 3.0%. Despite the drop in shipments, Q4 revenue for the division still rose 14%, bolstered by a 23% gain in commercial business offsetting a 7% decline in consumer sales."
   },
   {
-    "title_zh": "自变量发布具身模型 API，让机器人在预训练阶段学习动作",
-    "content_zh": "11 月 23 日，自变量发布新一代具身基础模型 WALL-OSS-1.0，并推出面向开发者的 WALL-API-1.0。模型在预训练时就同时学习语言、图像和机器人动作，设计目标是让机器人把学过的操作方法用到陌生物体和新任务上。\n\n自变量称，在评估人员自由选定的 312 项真机任务中，模型在无需任务示范和专项微调的情况下完成了 55.1%。测试包含工具使用、双臂协作和多步骤操作。公司另行提供任务规划框架 XR Harness 的开发者预览版。开发者可在官方文档查看接入要求并申请 API 密钥。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478397212-16.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Zibianliang Debuts Embodied AI Model API Featuring Direct Pre-Training Action Learning",
-    "content_en": "Robotics startup Zibianliang has launched its next-generation embodied foundation model, WALL-OSS-1.0, along with the developer-oriented WALL-API-1.0. Designed to natively integrate language, vision, and physical actions during the pre-training phase, the model enables robots to apply learned operational techniques to unfamiliar objects and new tasks.\n\nIn evaluation tests spanning 312 real-world tasks—including tool manipulation, dual-arm coordination, and multi-step operations—the model achieved a 55.1% success rate without requiring prior task demonstrations or fine-tuning. Zibianliang has also released a developer preview of its task-planning framework, XR Harness, with API key applications now open."
+    "title_zh": "阿丽亚娜 6 号火箭将 36 颗亚马逊 Leo 卫星送入轨道",
+    "content_zh": "当地时间 11 月 24 日 8:14，阿丽亚娜 6 号火箭从法属圭亚那库鲁的欧洲航天发射场起飞，将 36 颗亚马逊 Leo 低轨通信卫星送入轨道。任务原定于 23 日执行，因地面支持系统出现技术问题推迟一天。\n\n这是阿丽亚娜 6 号的第 10 次飞行，本次使用配备四枚助推器的阿丽亚娜 64 构型。阿丽亚娜航天公司今年已为亚马逊执行四次同类发射任务，累计将 136 颗 Leo 卫星送入轨道。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565033913-12.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Ariane 6 Rocket Successfully Deploys 36 Amazon Leo Satellites",
+    "content_en": "An Ariane 6 rocket lifted off from the Europe Spaceport in Kourou, French Guiana, successfully deploying 36 Amazon Leo low-Earth orbit communications satellites into space. The mission was executed following a one-day delay caused by technical issues with the ground support system.\n\nThe launch marked the 10th flight for the Ariane 6 rocket, utilizing the heavy-lift Ariane 64 configuration equipped with four solid rocket boosters.\n\nThis marks the fourth launch conducted by Arianespace for Amazon this year, bringing the total number of Amazon Leo satellites delivered to orbit to 136."
   },
   {
-    "title_zh": "腾讯格斗游戏《异人之下》将于 12 月 17 日全平台公测",
-    "content_zh": "腾讯魔方工作室 11 月 23 日宣布，3D 格斗游戏《异人之下》将于 12 月 17 日公测，覆盖 PC、iOS、安卓和鸿蒙，并公布彭于晏担任游戏代言人。\n\n游戏改编自米二创作的漫画《一人之下》，以角色之间的近身格斗为主。玩家可以操作张楚岚、冯宝宝等原作角色，用各自的武术招式和异能对战。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478400767-17.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Tencent's Fighting Game 'Under One Person' Sets December 17 Cross-Platform Launch",
-    "content_en": "Tencent's Morefun Studios announced that its 3D fighting game *Under One Person* (Yi Ren Zhi Xia) will officially enter open beta testing on December 17. The title will launch across multiple platforms, including PC, iOS, Android, and HarmonyOS. Taiwanese actor Eddie Peng has been named the game's official brand ambassador.\n\nAdapted from Mi Er's popular webcomic *Under One Person*, the game focuses on close-quarters martial arts combat. Players can control iconic characters such as Zhang Chulan and Feng Baobao, leveraging their unique fighting styles and supernatural abilities in battle."
+    "title_zh": "OceanBase 披露 2026 年经营数据，AI 业务成为新增长点",
+    "content_zh": "11 月 24 日，OceanBase 在北京披露 2026 年经营数据，称近五年营收复合增长率超过 60%。公司同时表示，AI 业务营收已超过 1 亿元，海外营收占比突破 15%，公有云营收增长 80%，其中多云业务收入占公有云营收的 35%。\n\nOceanBase 还称，专有云业务中的金融和政企客户数增长 50%，政企客户数占比首次达到 50%。这些数据由公司在 AI 数据大会披露，统计口径对应公司披露的 2026 年经营进展。\n\n公司把 AI 数据平台、全球化和公有云列为新的增长方向，并将传统金融、政企场景作为现有业务支撑。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565036611-13.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "OceanBase Outlines Growth Milestones as AI Revenue Crosses ¥100 Million",
+    "content_en": "OceanBase has disclosed its latest operational highlights, reporting a compound annual growth rate (CAGR) of over 60% across the past five years. The database vendor identified AI data platforms, global expansion, and public cloud services as its primary growth engines moving forward.\n\nNotably, annual revenue from OceanBase's AI business has officially crossed the 100 million RMB mark. Overseas operations now contribute over 15% of total revenue, while public cloud revenue surged 80% year-over-year, with multi-cloud deployments accounting for 35% of that segment.\n\nIn the private cloud domain, OceanBase achieved a 50% increase in financial, government, and enterprise clients, with public-sector accounts comprising half of this client base for the first time. Traditional finance and enterprise sectors remain the core anchor for the company's expanding portfolio."
   },
   {
-    "title_zh": "中国气象局与上海 AI 实验室推出地球科学科研平台",
-    "content_zh": "据央视新闻报道，中国气象局与上海人工智能实验室共同牵头研发的地球系统智能科研平台「ZHU·GE」，11 月 23 日在雄安气象人工智能国际研讨会上推出。\n\n研究人员可以用自然语言描述课题，由平台查找文献、调用数据和模型、编写实验程序，再根据结果调整研究路线。平台已接入约 10PB 公共科学数据和首批 1PB 中国气象局授权数据，汇集约 200 万条文献记录。\n\n平台下一步将向全国气象科教融合创新联盟成员单位开放。联盟中的高校和科研院所可通过科研词元服务使用。",
+    "title_zh": "💡 Rockstar 技术总监谈《GTA 6》：为了让车开起来可信，团队重写了载具模拟",
+    "content_zh": "Rockstar 物理技术总监 Ben Lyons 在 11 月 24 日刊出的开发者访谈中表示，团队为《GTA 6》重写了每一类载具的物理模拟。他希望玩家能感到车辆的操控更可信，同时保留驾驶的乐趣。\n\nLyons 说，《GTA 5》开发结束后，团队里有人开始自己造车、开车参赛，最后在纽博格林 24 小时耐力赛拿下组别冠军。这些经验随后用到了新作的载具开发上。\n\n他提到，实车比赛让团队学到怎样调校车辆，以及爆胎或撞车时车辆会如何反应。团队也试过越野摩托车，因为两轮和四轮、铺装道路和越野路面的操控差别，都需要实际跑过才容易理解。\n\n飞机是他举的例子。游戏会分别模拟机翼、螺旋桨、操纵面和不同的发动机，湍流、云层和天气都会影响飞行。这套设计也让各个部件可以呈现不同的损坏效果，玩家需要根据飞机实际受损的位置调整操控。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565041097-14.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "GTA 6 Overhauled Vehicle Physics to Deliver Authentic Driving Dynamics, Says Rockstar Director",
+    "content_en": "Rockstar Games completely overhauled the vehicle physics simulation for *Grand Theft Auto VI* to deliver a more authentic yet engaging driving experience, according to Physics Technology Director Ben Lyons in a recent interview.\n\nLyons revealed that following *GTA V*, several team members took up real-world motorsports, even winning their class at the 24 Hours of Nürburgring endurance race. The team translated their real-world racing experience—including vehicle tuning, tire blowouts, and crash dynamics—directly into *GTA VI*'s handling model, alongside extensive real-world testing of dirt bikes across different road surfaces.\n\nThe updated physics engine also extends to aviation. *GTA VI* individually simulates wings, propellers, control surfaces, and engines, all affected by real-time weather and turbulence. Furthermore, modular damage modeling requires players to dynamically adapt their flying techniques based on specific component damage."
+  },
+  {
+    "title_zh": "影石 Ace Pro 3 定档 12 月 1 日，预告可换镜头与可变光圈",
+    "content_zh": "影石 Insta360 将于 12 月 1 日 20:00 发布 Ace Pro 3 运动相机。11 月 24 日公开的预热短片把重点放在镜头和对焦，展示了虚化效果，并给出可变光圈、可换镜头和对焦功能的线索。\n\n这款相机在 9 月以 CINSABUA 型号取得美国联邦通信委员会的设备授权，文件登记的产品名称为 Insta360 Ace Pro 3。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565044631-15.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Insta360 Ace Pro 3 Set for December 1 Debut, Teasing Swappable Lenses and Variable Aperture",
+    "content_en": "Insta360 has officially announced that its next-generation action camera, the Ace Pro 3, will launch on December 1 at 8:00 PM (BJT). A official teaser video highlights key optical upgrades, hinting at features such as background blur, a variable aperture, swappable lenses, and upgraded autofocus capabilities.\n\nThe upcoming action camera was previously spotted in Federal Communications Commission (FCC) filings in September under model number CINSABUA, where it was registered under the product name \"Insta360 Ace Pro 3.\""
+  },
+  {
+    "title_zh": "18.79 万元起，比亚迪第三代唐 EV 上市",
+    "content_zh": "11 月 24 日，比亚迪第三代唐 EV 上市。新车采用五座布局，有三个后驱配置，全部搭载第二代刀片电池。预售时的两个 850km 版本之外，正式上市新增一款 CLTC 续航 730km 的入门版。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565046920-16.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "BYD Launches 3rd-Gen Tang EV Starting at 187,900 Yuan",
+    "content_en": "BYD officially launched its third-generation Tang EV on November 24, with prices starting at 187,900 yuan.\n\nThe new electric SUV features a five-seat layout across three rear-wheel-drive configurations, all equipped with BYD's second-generation Blade Battery. Alongside the two 850 km range variants introduced during pre-sales, the official launch adds a new entry-level option offering a CLTC range of 730 km."
+  },
+  {
+    "title_zh": "拓竹发布 P3C 3D 打印机，最多可在 7 个打印头之间切换",
+    "content_zh": "拓竹 11 月 24 日发布桌面 3D 打印机 P3C。机器标配 5 个 0.4mm 打印头，另留两个槽位，可加装不同口径的打印头，或搭配刀切、绘画和压印工具。\n\nP3C 在一个打印头工作时会提前给下一个加热。拓竹用 PLA Basic 耗材开启省料冲刷模式测试，从换头、换料到继续打印最快可在 6 秒内完成。同一个模型可以用小口径喷嘴处理细节，再切换到较大口径喷嘴打印大面积部分，所需的额外热端单独销售。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565048474-17.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Bambu Lab Unveils P3C 3D Printer Supporting Up to 7 Tool Heads",
+    "content_en": "Bambu Lab launched its new P3C desktop 3D printer on November 24. The machine comes standard with five 0.4mm print heads and includes two additional expansion slots, allowing users to install different nozzle sizes or attach tools for cutting, drawing, and embossing.\n\nThe P3C optimizes workflow by pre-heating the next tool head while the active one is operating. With material-saving flushing mode enabled, switching tool heads and filaments can take as little as six seconds. This design allows detail work with fine nozzles and rapid printing of larger sections with wider nozzles. Extra hotends are sold separately."
+  },
+  {
+    "title_zh": "全球 6G 发展理念宣言发布，提出探索统一标准和可盈利模式",
+    "content_zh": "11 月 24 日，IMT-2030（6G）推进组联合国际组织、产业联盟和企业，在上海松江举行的 6G 发展大会上发布《全球 6G 发展理念宣言》。参与方希望围绕 2030 年及以后的移动通信需求推动全球统一标准，并探索能实际部署、可以盈利的业务模式。\n\n宣言提出五项发展理念，包括在网络设计中纳入智能能力、降低环境负担、保障安全和可信、鼓励技术创新，以及加强开放合作。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565050536-18.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Global 6G Declaration Calls for Unified Standards and Commercial Viability",
+    "content_en": "At the 6G Development Conference in Shanghai on November 24, the IMT-2030 (6G) Promotion Group, together with global organizations, industry alliances, and enterprises, released the *Declaration on Global 6G Development Concepts*. The signatories aim to establish unified global standards for post-2030 mobile communications while exploring deployable and profitable business models.\n\nThe declaration outlines five core principles: embedding intelligence into network design, reducing environmental impact, ensuring security and trust, encouraging technological innovation, and strengthening open cooperation."
+  },
+  {
+    "title_zh": "蔚来全新 ET5T 定档 12 月 19 日在武汉发布",
+    "content_zh": "蔚来宣布，全新 ET5T 将于 12 月 19 日在 NIO Day 2026 正式发布，活动设在武汉光谷国际网球中心。武汉是蔚来用户社区投票选出的举办城市，蔚来称，活动日期也考虑了新车的发布节奏。\n\n本届活动主题为「Journey Ahead 在路上」。蔚来为武汉场设计了专属城市图标，取形于黄鹤楼的飞檐。这次公告给出了新车的正式亮相场合和日期。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565056048-19.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "All-New Nio ET5T Set for Official Debut at NIO Day 2026 on Dec 19",
+    "content_en": "Nio has announced that its all-new ET5T will officially debut on December 19 during NIO Day 2026, held at the Optics Valley International Tennis Center in Wuhan. Wuhan was selected as the host city following a community vote, with the event timing aligned with the vehicle's production schedule.\n\nThemed \"Journey Ahead,\" this year's event features a custom city emblem inspired by the distinctive eaves of Wuhan's historic Yellow Crane Tower. The announcement officially confirms both the venue and schedule for the new model's launch."
+  },
+  {
+    "title_zh": "特斯拉中国推出「特从容」购车方案",
+    "content_zh": "特斯拉中国 11 月 24 日推出「特从容」金融方案，覆盖 Model 3、Model Y 和 Model Y L。活动时间为 11 月 24 日至 12 月 31 日，消费者需要在活动期内完成下单和提车；方案主打低首付和五年低月供。\n\n据《21 世纪经济报道》报道，方案采用五年免息分期，分期结束后还须支付尾款。Model 3 和 Model Y 的入门首付均为 3.99 万元，Model Y L 的入门首付为 5.99 万元。三款车型的尾款均为 3.99 万元。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565059448-20.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Tesla China Launches Flexible 5-Year Zero-Interest Financing Promotion",
+    "content_en": "Tesla China has launched a new financing promotion running from November 24 through December 31. The program covers the Model 3, Model Y, and Model Y L, requiring buyers to place orders and take delivery within the campaign period to qualify for low down payments and reduced monthly installments.\n\nAccording to *21st Century Business Herald*, the plan features a five-year zero-interest installment structure paired with a final balloon payment. Down payments start at RMB 39,900 for the Model 3 and Model Y, and RMB 59,900 for the Model Y L. All three models require a final balloon payment of RMB 39,900 at the end of the five-year term."
+  },
+  {
+    "title_zh": "Ling-3.2-air 开源发布，支持文本、图像和视频输入",
+    "content_zh": "蚂蚁百灵团队公开 Ling-3.2-air 的模型权重，采用 MIT 许可证。模型延续 Ling-3.0-flash-VL 的原生多模态架构，可以在一次任务中处理文本、图像和视频。团队称，新版本针对代码仓库、多步骤任务、图表和专业文档推理进行了改进。\n\n公开模型卡列出了 SGLang 和 vLLM 的部署方案，其中 SGLang 给出了 256K 上下文的配置示例。对于需要自行部署的团队，模型卡还列出了不同显存配置下的建议，方便按服务上下文和可用算力选择部署方式。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565062278-21.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Ant Group Open-Sources Multimodal Model Ling-3.2-air Under MIT License",
+    "content_en": "Ant Group's Bailing team has open-sourced the model weights for Ling-3.2-air under the permissive MIT license. Built upon the native multimodal architecture of Ling-3.0-flash-VL, the upgraded model processes text, image, and video inputs simultaneously, offering improved performance in code analysis, multi-step task execution, and technical document reasoning.\n\nThe release includes comprehensive model cards with deployment guides for SGLang and vLLM frameworks, featuring a 256K context configuration for SGLang. Detailed VRAM recommendations are also provided to help developers optimize self-hosted deployments based on available hardware and context requirements."
+  },
+  {
+    "title_zh": "蚂蚁 OceanBase 发布 OceanLake，并开源面向智能体的 OceanSeek",
+    "content_zh": "OceanBase 11 月 24 日在北京发布 AI 数据平台 OceanLake，并开放面向智能体场景的 OceanSeek 数据库源代码。OceanLake 将数据库的实时事务处理、数据仓库的分析计算和数据湖的开放存储整合在一起，供企业统一管理、处理和检索表格、文档及其他非结构化数据。\n\nOceanBase 列举了几个已落地场景。蚂蚁灵波和灵心巧手用 OceanLake 建立多模态数据处理和模型训练流程，厦门航空则可用自然语言查询和分析财务数据。\n\n开源的 OceanSeek 支持混合检索、多模态数据管理和数据沙箱，用于智能体开发与评估。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565063212-22.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Ant's OceanBase Unveils OceanLake AI Data Platform and Open-Sources OceanSeek Engine",
+    "content_en": "Ant Group's OceanBase has launched OceanLake, a unified AI data platform that integrates real-time transaction processing, data warehouse analytics, and open data lake storage into a single architecture. The platform allows enterprises to seamlessly manage, process, and query structured tables, text documents, and unstructured data within a unified system.\n\nAlongside OceanLake, OceanBase open-sourced OceanSeek, a specialized database engine built to accelerate AI agent development and evaluation. OceanSeek offers hybrid retrieval, multimodal data management, and isolated data sandbox capabilities.\n\nEarly enterprise applications are already underway. Ant's internal teams are utilizing OceanLake for multimodal data workflows and model training, while Xiamen Airlines is deploying it to empower natural language queries for financial analytics."
+  },
+  {
+    "title_zh": "百度词元所开通海外站，首周收到逾 700 家供应商入驻申请",
+    "content_zh": "百度的模型交易平台「词元所」已上线海外站。据 DoNews 11 月 24 日引述百度的数据，平台上线首周有超过 700 家供应商申请入驻，日均新增申请超过 100 家。\n\n词元所会在模型准入时比对模型指纹，并测试模型能力、性能和可用性。模型上架后仍会定期抽检，监测结果会用于供应商信用评级。\n\n海外站按新加坡、美国加州和德国分别管理开发者密钥。开发者可以为同一模型选择多个供应资源，设置调用优先级和权重，账户以美元计价。",
     "image_url": "",
-    "date": "2026-11-24 08:02",
-    "title_en": "China Unveils 'ZHU·GE' AI Platform to Advance Earth Science Research",
-    "content_en": "The China Meteorological Administration (CMA) and the Shanghai Artificial Intelligence Laboratory have jointly launched \"ZHU·GE,\" an intelligent scientific research platform tailored for Earth system studies. Unveiled on November 23 at an international meteorology AI conference in Xiongan, the platform aims to automate and streamline complex research workflows.\n\nResearchers can prompt \"ZHU·GE\" using natural language. The platform automatically retrieves literature, accesses relevant datasets and models, writes experimental code, and refines research routes based on initial results. It currently connects to roughly 10 PB of public scientific data, 1 PB of authorized CMA data, and nearly 2 million literature records.\n\nMoving forward, the platform will be made available to members of the National Meteorological Science and Education Integration Innovation Alliance, giving academic and research institutions access to specialized AI token services."
+    "date": "2026-11-25 08:08",
+    "title_en": "Baidu Launches Global AI Model Marketplace, Attracting Over 700 Suppliers in First Week",
+    "content_en": "Baidu has launched the international platform for its AI model marketplace, \"Token Exchange\" (Ciyuansuo). The site recorded rapid adoption in its opening week, drawing over 700 supplier application requests at a rate of more than 100 new applicants per day.\n\nTo maintain service reliability, the marketplace enforces rigorous entry checks—verifying digital model fingerprints and benchmarking performance, capabilities, and availability. Listed models undergo continuous random audits, with results directly impacting vendor credit ratings.\n\nTailored for global developers, the platform manages API keys across regional hubs in Singapore, California, and Germany. Users operate with USD-denominated accounts and can configure multi-source routing for identical models by customizing call priorities and traffic weights."
   },
   {
-    "title_zh": "三星推出双模式电竞显示器，高刷模式最高 1100Hz",
-    "content_zh": "三星在美国推出 27 英寸 Odyssey G6 电竞显示器（G60H）。同一块屏幕提供两档分辨率与刷新率组合：HD 模式最高 1100Hz，切换到 2560 × 1440 则最高 600Hz。\n\n三星在这款显示器上首次引入 Odyssey Clear Motion，用于减少高速画面中的运动模糊。显示器支持 HDR10+ Gaming，配备一个 DisplayPort 2.1 和两个 HDMI 2.1 接口。三星此前已在 8 月的 Gamescom 展示这款产品。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478404123-18.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Samsung Launches Dual-Mode Odyssey G6 Gaming Monitor Featuring Up to 1,100Hz Refresh Rate",
-    "content_en": "Samsung has officially introduced the 27-inch Odyssey G6 gaming monitor (G60H) in the U.S. market. The monitor features a dual-mode display, allowing users to choose between an HD mode with a blistering 1,100Hz refresh rate or a QHD (2560 × 1440) resolution mode running at up to 600Hz.\n\nThe G60H marks the debut of Samsung's Odyssey Clear Motion technology, designed to significantly reduce motion blur in fast-action scenes. The monitor also supports HDR10+ Gaming and comes equipped with one DisplayPort 2.1 and two HDMI 2.1 ports. Samsung previously previewed the display at Gamescom in August."
+    "title_zh": "百度开源文心 5.5 Flash Preview，支持最长 100 万 Token 上下文",
+    "content_zh": "百度开源文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview），采用 Apache 2.0 协议，开发者可以从 Hugging Face 获取模型权重和配套资源，并使用 vLLM、SGLang 等推理框架进行本地部署与二次开发。\n\n该模型总参数量为 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 上下文。文心方面还称，模型在 CodeArena WebDev 榜单中以 1668 分位列开源模型第二、国产模型第四；这些性能数据来自发布方披露。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565064564-23.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Baidu Open-Sources 280B-Parameter ERNIE 5.5 Flash Preview with 1 Million Token Context",
+    "content_en": "Baidu has officially open-sourced ERNIE 5.5 Flash Preview under the Apache 2.0 license. Developers can access model weights and resources on Hugging Face to perform local deployment and fine-tuning using inference engines such as vLLM and SGLang.\n\nThe model features a total of 280 billion parameters—activating 14 billion parameters per token—and boasts an extended context window capable of processing up to 1 million tokens.\n\nAccording to performance metrics disclosed by Baidu, ERNIE 5.5 Flash Preview scored 1,668 on the CodeArena WebDev benchmark, ranking second among open-source models globally and fourth among Chinese AI models."
   },
   {
-    "title_zh": "小鹏 X-World 升级，可用采集路况搭建虚拟城市",
-    "content_zh": "小鹏 11 月 23 日公布辅助驾驶研发模型 X-World 1.6。研发团队可以用实车采集的数据重建道路、建筑和路口设施，再改变车流、天气和其他车辆的动作，在同一路口多次测试驾驶系统。\n\n此前在实车测试中只遇到一次的场景，例如行人突然过街，可以用重建画面反复测试。虚拟城市还可保留地点随时间变化的信息，方便团队回放原来的路况，比较不同版本在同一场景的表现。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478407697-19.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "XPeng Unveils X-World 1.6 to Build Virtual Cities for Autonomous Driving Tests",
-    "content_en": "XPeng has officially introduced X-World 1.6, an upgraded model designed for its driver-assistance R&D. The system allows development teams to reconstruct roads, buildings, and intersection infrastructure using real-world data collected by vehicle fleets.\n\nBy tweaking traffic flow, weather conditions, and surrounding vehicle behavior, engineers can repeatedly test autonomous driving systems in simulated environments. Rare edge cases—such as a pedestrian suddenly darting across the street—can now be recreated and tested indefinitely.\n\nAdditionally, the virtual city retains historical location data over time. This enables teams to replay original road conditions and effectively benchmark different software versions within identical scenarios."
+    "title_zh": "商汤开源 SenseNova U1.6，可检查并修正生成图像",
+    "content_zh": "商汤开源原生多模态模型 SenseNova U1.6。本次更新给图像生成和图像编辑增加了自修正流程。模型生成图像后可以再检查结果，发现文字或细节有误时尝试重新绘制，团队公布了修正前后的对比样例。\n\n商汤在 Hugging Face 放出了采用 Apache 2.0 许可证的权重。原版 BF16 权重、量化变体以及面向不同推理步数的 LoRA 可分别下载。图像自修正依赖匹配的 U1.6 运行环境，模型卡也提示，密集文字和复杂布局仍需单独验证。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565069404-24.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "SenseTime Open-Sources SenseNova U1.6 Featuring Image Self-Correction",
+    "content_en": "SenseTime has open-sourced its native multimodal model, SenseNova U1.6, introducing an integrated self-correction workflow for image generation and editing. The model automatically inspects generated outputs and attempts to redraw regions containing errors in text or fine details.\n\nAvailable on Hugging Face under the Apache 2.0 license, the release includes original BF16 weights, quantized variants, and step-specific LoRAs. SenseTime noted that while self-correction enhances image quality, dense text and intricate layouts still warrant separate verification."
   },
   {
-    "title_zh": "Nothing 将发布可录音的耳机，充电盒也能录会议",
-    "content_zh": "Nothing 计划于 12 月 8 日发布 Ear (note)。据彭博社报道，Nothing 联合创始人裴宇在演示中展示了两种录音方式：充电盒的麦克风负责收录面对面会议，耳机则可以录制通话。\n\n录音可以通过配套应用转写和生成摘要。这套设计延续了 Nothing 此前在 Ear (3a) 上推出的通话录音，把现场录音也做进了充电盒。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478409123-20.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Nothing to Launch Ear (note) Featuring In-Person Meeting Recording via Charging Case",
-    "content_en": "Nothing is set to unveil its new wireless earbuds, the Ear (note), on December 8. According to Bloomberg, co-founder Carl Pei demonstrated dual recording capabilities: microphones built into the charging case capture in-person meetings, while the earbuds themselves record phone calls.\n\nAudio recordings can be transcribed and summarized through a companion app. Building on the call-recording features previously introduced on the Ear (3a), this update expands Nothing's hardware-level recording capabilities directly into the charging case."
+    "title_zh": "腾讯开源混元翻译模型 Hy-MT3，支持语种增至 102 种",
+    "content_zh": "腾讯混元 11 月 24 日开放翻译模型 Hy-MT3 的三个尺寸，分别是 1.8B、7B 和 30B-A3B，其中最后一个版本采用混合专家架构。支持语种从上代的 38 种增加到 102 种，模型可从 Hugging Face 和 ModelScope 获取。\n\nHy-MT3 可以按用户提供的术语翻译，并在图片翻译中对 OCR 识别错误做一定的纠正。腾讯还同步开放了 TransRubric 自动评测工具，按错译、漏译和指令遵循等维度评价翻译结果。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565070634-25.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Tencent Open-Sources Hy-MT3 Translation Model Supporting 102 Languages",
+    "content_en": "Tencent Hunyuan has open-sourced its latest translation model, Hy-MT3, expanding language support from 38 to 102 languages. Available on Hugging Face and ModelScope, the model comes in three sizes: 1.8B, 7B, and a 30B-A3B Mixture-of-Experts (MoE) architecture.\n\nHy-MT3 features custom terminology integration and OCR error correction for image-based translations. Alongside the model, Tencent released TransRubric, an automated evaluation framework designed to assess translation quality across key dimensions such as mistranslations, omissions, and instruction compliance."
   },
   {
-    "title_zh": "Anthropic 推出 Claude Ship，测试自动修复代码合并请求",
-    "content_zh": "Anthropic 11 月 23 日推出 Claude Ship，将代码审查、修复和审批放进 GitHub 的拉取请求流程。产品面向 Claude Team 和 Enterprise 用户，其中 Code Review 已正式开放，PR Steward 和 Claude Approvals 进入测试。\n\nPR Steward 可以处理持续集成检查失败、合并冲突和审查反馈，提交修复后会说明改了什么以及如何撤销。Claude Approvals 则按团队设定的政策检查改动是否可以自动获批。团队可以按仓库开启功能、保留人工审批要求，并设置用量上限。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478412234-21.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Anthropic Launches Claude Ship to Automate GitHub Pull Request Workflows",
-    "content_en": "Anthropic has introduced Claude Ship, bringing automated code reviews, bug fixes, and approvals directly into the GitHub pull request (PR) workflow. Available for Claude Team and Enterprise subscribers, the suite officially rolls out its Code Review feature alongside beta versions of PR Steward and Claude Approvals.\n\nThe PR Steward handles failed continuous integration (CI) checks, merge conflicts, and review feedback. When submitting a fix, it clearly explains the modifications made and provides instructions on how to revert them. Meanwhile, Claude Approvals automatically evaluates code changes against team-defined policies.\n\nEngineering teams retain full granular control, with options to enable features on a per-repository basis, maintain mandatory manual approval requirements, and set custom usage caps."
+    "title_zh": "国产游戏《昭和米国物语》延期至 2027 年 10 月 28 日",
+    "content_zh": "铃空游戏宣布，原计划于 2026 年发售的《昭和米国物语》将于 2027 年 10 月 28 日登陆 PS5 和 PC。制作团队称，核心内容已经完成，接下来会集中打磨和优化游戏体验。\n\n这是一款动作角色扮演游戏，故事设定在架空的「昭和 66 年」。日本流行文化遍布美国，死而复生的少女千草蝶子横穿美国寻找妹妹。铃空游戏今年 8 月曾在科隆游戏展放出新预告，并首次提供现场试玩。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565073995-26.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Action RPG 'Showa American Story' Delayed to October 2027",
+    "content_en": "Developer NEKCOM Games has announced that *Showa American Story* has been delayed from its original 2026 target to October 28, 2027. The game is scheduled to launch on PlayStation 5 and PC. The studio confirmed that core content development is complete and the extra time will be dedicated to polishing and optimizing the gameplay experience.\n\nSet in an alternate \"Showa 66\" timeline where Japanese pop culture dominates the United States, the action RPG follows a resurrected girl, Choko Chigusa, on a cross-country journey through America to find her missing sister."
   },
   {
-    "title_zh": "《复仇者联盟 5》发布终极预告，神奇四侠找上史蒂夫·罗杰斯",
-    "content_zh": "漫威发布《复仇者联盟 5》（Avengers: Doomsday）终极预告。克里斯·埃文斯饰演的史蒂夫·罗杰斯本已与佩姬过上家庭生活，神奇四侠登门，邀请他回归应对末日博士。\n\n预告还展示了雷神、新复仇者和 X 战警同场战斗，詹姆斯·麦斯登回归饰演镭射眼，末日博士由小罗伯特·唐尼饰演。影片定于 12 月 18 日在北美上映。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478418471-24.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "Marvel Drops Final 'Avengers: Doomsday' Trailer as Fantastic Four Recruits Steve Rogers",
-    "content_en": "Marvel Studios has released the final trailer for *Avengers: Doomsday*, teasing the return of Chris Evans as Steve Rogers. Having settled into quiet family life with Peggy, Rogers is tracked down by the Fantastic Four to help defend Earth against Doctor Doom.\n\nThe action-packed preview also highlights an epic team-up featuring Thor, the New Avengers, and the X-Men. James Marsden reprises his role as Cyclops, while Robert Downey Jr. stars as Doctor Doom. The film is set to premiere in North America on December 18."
+    "title_zh": "豆包灰测独立购物入口，可直接逛抖音商城",
+    "content_zh": "据界面新闻 11 月 24 日报道，豆包 App 正向部分用户测试「豆包购物」。独立入口设在侧边导航栏，与主对话、插件和项目等功能并列，打开就会加载抖音商城商品流。\n\n界面新闻实测发现，用户可以先浏览商品，查看完整价格、库存或下单前则需要关联抖音账号。用户也可以从商品流进入「买前问豆包」，用对话方式描述购物需求。商品展示、订单及履约则依托抖音电商。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565076222-27.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "ByteDance’s AI Assistant Doubao Tests Dedicated Shopping Tab Linked to Douyin Mall",
+    "content_en": "ByteDance’s AI app, Doubao, is testing a dedicated e-commerce feature dubbed \"Doubao Shopping\" among select users. Located in the app's side navigation menu, the new tab directly loads product feeds from Douyin Mall alongside core features like main chat and plugins.\n\nWhile users can freely browse items, linking a Douyin account is required to view complete pricing, check stock, or place orders. The feature also includes an interactive tool called \"Ask Doubao Before Buying,\" allowing shoppers to describe their needs via conversational AI. All product listings, orders, and fulfillment are powered by Douyin E-commerce."
   },
   {
-    "title_zh": "DC 惊悚片《泥面人》开启内地预售，11 月 27 日上映",
-    "content_zh": "DC 影业的《泥面人》11 月 23 日开启中国内地预售，并发布新预告。影片由詹姆斯·瓦特金斯执导，将于 11 月 27 日在内地上映。\n\n汤姆·里斯·哈里斯饰演一位在袭击中毁容的演员。实验性疗法让他恢复容貌，也让他的身体开始发生无法控制的变化。电影取材自 DC 漫画中哥谭市的同名反派。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478419759-25.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "DC Thriller 'Clayface' Kicks Off Pre-Sales in China Ahead of Nov 27 Release",
-    "content_en": "Pre-sales for DC Studios' upcoming thriller *Clayface* officially opened in mainland China on November 23 alongside a brand-new trailer. Directed by James Watkins, the film is slated for release on November 27.\n\nStarring Tom Rhys Harries, the film follows an actor left disfigured after a violent attack. An experimental therapy restores his appearance, but it triggers terrifying, uncontrollable bodily mutations. The story is inspired by the legendary Gotham City villain from DC Comics."
+    "title_zh": "快手重启本地生活补贴，覆盖商户和拉新服务商",
+    "content_zh": "据界面新闻援引多位知情人士报道，快手生活服务从 11 月起向商户和服务商推出新一轮拉新补贴。商户补贴按其在平台上的交易额计算。服务商可按新引入商户的类目和星级获得返点，商超、服装和酒旅等类目的激励普遍高于餐饮。\n\n新开店还有单独的奖励，商户需达到一定销售额或有效订单量。快手还设置了按核销流水计算的阶梯返点。界面新闻称，这是快手时隔近一年再次向本地生活商户和服务商发放这类补贴。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565077797-28.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Kuaishou Relaunches Local Services Subsidies to Drive Growth",
+    "content_en": "Kuaishou has launched a new round of merchant acquisition subsidies under its Local Services division starting November, marking the platform's first major subsidy program for the sector in nearly a year.\n\nThe initiative provides direct subsidies to merchants based on their transaction volume, alongside tiered rewards for service providers onboarding new businesses. Incentives are notably higher for categories like retail, apparel, and travel compared to dining.\n\nAdditionally, newly onboarded stores can earn milestone bonuses by meeting specific sales or order thresholds. Kuaishou has also introduced tiered rebates linked to redeemed order volume to drive sustained merchant engagement."
   },
   {
-    "title_zh": "《收获日出》登顶中国内地周票房",
-    "content_zh": "据财新援引国家电影专资办数据，《饥饿游戏：收获日出》在 11 月 16 日至 22 日当周以 3928.47 万元登顶中国内地票房。影片于 11 月 20 日在内地上映，结束了《神探之痕迹》和《生化危机：爆发夜》轮流领跑周榜的局面。\n\n这部电影改编自苏珊·柯林斯的同名小说，故事从第 50 届饥饿游戏抽签的早晨开始，比系列首部电影的故事早 24 年。约瑟夫·扎达饰演年轻的黑密斯。",
-    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795478422466-26.jpg!360",
-    "date": "2026-11-24 08:02",
-    "title_en": "'The Hunger Games: Sunrise on the Reaping' Tops China Box Office",
-    "content_en": "*The Hunger Games: Sunrise on the Reaping* claimed the top spot at the mainland China box office, grossing 39.28 million yuan between November 16 and 22, according to data from the China Film Special Fund cited by Caixin. Released locally on November 20, the prequel ended a weeks-long reign by recent chart-toppers.\n\nBased on Suzanne Collins' prequel novel, the film begins on the morning of the reaping for the 50th Hunger Games—set 24 years before the events of the original trilogy. Joseph Zada stars as a young Haymitch Abernathy."
+    "title_zh": "《指环王：力量之戒》续订第四季，明年春季开拍",
+    "content_zh": "Prime Video 11 月 24 日确认续订《指环王：力量之戒》第四季。剧组已开始前期筹备，计划明年春季回到英国谢珀顿制片厂拍摄。\n\n第三季最后两集定于北京时间 11 月 25 日 10 时上线。第四季将接续第三季结尾，继续讲述托尔金笔下中土世界第二纪元的故事。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565081377-29.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Prime Video Renews 'The Lord of the Rings: The Rings of Power' for Season 4",
+    "content_en": "Prime Video has officially renewed its flagship fantasy series, *The Lord of the Rings: The Rings of Power*, for a fourth season. Pre-production is currently underway, with principal photography scheduled to begin in spring 2025 at Shepperton Studios in the UK.\n\nThe renewal comes as the final two episodes of Season 3 air on November 25. Season 4 will pick up immediately following the events of the Season 3 finale, continuing the epic saga of J.R.R. Tolkien’s Second Age of Middle-earth."
+  },
+  {
+    "title_zh": "BBC 儿童节目将登陆 Netflix，《天线宝宝》在列",
+    "content_zh": "Netflix 与 BBC 宣布，12 月 2 日将在英国、爱尔兰、美国、加拿大和澳大利亚试行 CBeebies 专区，上架精选儿童节目，包括《天线宝宝》《嗨！道奇》和《数字积木》。\n\n合作涉及 24 档精选节目，BBC iPlayer 仍保留完整的 CBeebies 节目。Netflix 还将出资支持 BBC 委制少量新的 CBeebies 节目。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565083856-30.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "BBC Kids' Favorites, Including 'Teletubbies', Head to Netflix in New Partnership",
+    "content_en": "Netflix and the BBC have announced a partnership to launch a dedicated CBeebies hub on Netflix starting December 2. The trial will roll out across the UK, Ireland, the United States, Canada, and Australia.\n\nThe deal includes 24 curated children's series, featuring iconic shows such as *Teletubbies*, *Hey Duggee*, and *Numberblocks*. While BBC iPlayer will retain the full CBeebies library, Netflix will also help fund the commissioning of select new CBeebies programming."
+  },
+  {
+    "title_zh": "宝可梦 30 周年动画 MV 定档，山田尚子执导",
+    "content_zh": "宝可梦 30 周年纪念动画 MV 将于北京时间 11 月 30 日 22:00 在宝可梦官方 YouTube 频道首播。短片由山田尚子执导，MADHOUSE 负责动画制作，配乐是 Official 髭男 dism 的新歌《エバーグリーン》。\n\n这支 MV 属于宝可梦 30 周年的收官企划「ポケモンとつづく」。乐队将于 12 月 1 日单独发行这首歌。",
+    "image_url": "https://s3.ifanr.com/wp-content/uploads/2026/11/ifanr-1795565085660-31.jpg!360",
+    "date": "2026-11-25 08:08",
+    "title_en": "Naoko Yamada to Direct Special Pokémon 30th Anniversary Animated Music Video",
+    "content_en": "A special animated music video celebrating Pokémon's 30th anniversary will premiere on the official Pokémon YouTube channel on November 30 at 22:00 (UTC+8).\n\nDirected by acclaimed director Naoko Yamada and animated by studio MADHOUSE, the project serves as part of the 30th-anniversary grand finale campaign, \"Pokemon to Tsuzuku.\" The video features the new song *Evergreen* by Official HIGE DANdism, which will be released as a standalone track on December 1."
   }
 ]
